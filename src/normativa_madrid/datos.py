@@ -65,6 +65,7 @@ _SHA256 = re.compile(r"[0-9a-f]{64}")
 _FECHA = re.compile(r"\d{4}-\d{2}-\d{2}")
 _CURSO_ACADEMICO = re.compile(r"(\d{4})-(\d{2})")
 _CURSO = re.compile(r"[1-9]")
+_CICLO = re.compile(r"C[1-3]")
 _TEXTO = re.compile(r"\S+(?: \S+)*")  # sin espacios sobrantes ni saltos de línea ni tabuladores
 
 _NORMA_OBLIGATORIAS = (
@@ -98,7 +99,7 @@ _FICHA_OBLIGATORIAS = (
     "normas",
     "elementos",
 )
-_FICHA_OPCIONALES = ("desde",)
+_FICHA_OPCIONALES = ("desde", "ciclo")
 _ELEMENTO_OBLIGATORIAS = ("codigo", "tipo", "texto", "codigo_oficial", "procedencia", "orden")
 _ELEMENTO_OPCIONALES = ("padre", "relaciones", "datos")
 _PROCEDENCIA_OBLIGATORIAS = ("norma", "ubicacion")
@@ -388,6 +389,16 @@ def _leer_ficha(lector: _Lector, bruto: Any) -> Ficha:
     curso = d["curso"]
     if curso is not None:
         curso = lector.patron(curso, "curso", _CURSO)
+    etapa = lector.una_de(d["etapa"], "etapa", ETAPAS)
+    ciclo = d.get("ciclo")
+    if ciclo is not None:
+        ciclo = lector.patron(ciclo, "ciclo", _CICLO)
+        if etapa != "primaria":
+            raise lector.fallo("ciclo", "solo las fichas de Primaria llevan ciclo")
+        if curso is not None:
+            raise lector.fallo("ciclo", "una ficha lleva ciclo o curso, no los dos")
+    if etapa == "primaria" and curso is not None and not "1" <= curso <= "6":
+        raise lector.fallo("curso", "en Primaria debe ser de 1 a 6")
     cursos = lector.lista(d["cursos_academicos"], "cursos_academicos")
     if not cursos:
         raise lector.fallo("cursos_academicos", "debe llevar al menos un curso")
@@ -412,12 +423,13 @@ def _leer_ficha(lector: _Lector, bruto: Any) -> Ficha:
     return Ficha(
         codigo=lector.patron(d["codigo"], "codigo", _CODIGO),
         nombre=lector.texto(d["nombre"], "nombre"),
-        etapa=lector.una_de(d["etapa"], "etapa", ETAPAS),
+        etapa=etapa,
         curso=curso,
         cursos_academicos=tuple(cursos),
         normas=lector.referencias(d["normas"], "normas"),
         elementos=tuple(sorted(elementos, key=lambda e: e.orden)),
         desde=None if desde is None else lector.fecha(desde, "desde"),
+        ciclo=ciclo,
     )
 
 

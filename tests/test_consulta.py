@@ -321,6 +321,10 @@ def test_catalogo_lista_las_fichas_del_curso(indice):
     assert [f.codigo for f in r.fichas] == [
         "EST.ESO.DESC",
         "MAD.DAM.0485",
+        "MAD.EP.MAT.C2",
+        "MAD.EP.MAT.C3",
+        "MAD.EP.TYR",
+        "MAD.EP.VCE",
         MATERIA,
         "MAD.ESO.PROG",
     ]

@@ -1,0 +1,30 @@
+{
+  "codigo": "MAD.EP.MAT.C2",
+  "nombre": "Matemáticas de juguete, ciclo segundo",
+  "etapa": "primaria",
+  "ciclo": "C2",
+  "curso": null,
+  "cursos_academicos": [
+    "2026-27"
+  ],
+  "normas": [
+    "bocm-20250101-1"
+  ],
+  "elementos": [
+    {
+      "codigo": "MAD.EP.MAT.C2.CE.1",
+      "tipo": "competencia_especifica",
+      "texto": "Competencia de juguete de Matemáticas de juguete, ciclo segundo.",
+      "codigo_oficial": "1",
+      "procedencia": {
+        "norma": "bocm-20250101-1",
+        "ubicacion": "anexo II",
+        "pagina": 20
+      },
+      "orden": 1,
+      "datos": {
+        "equivalencia_rd": "CMNSC.CE5"
+      }
+    }
+  ]
+}

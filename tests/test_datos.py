@@ -487,7 +487,7 @@ def test_rechaza_orden_invalido_o_repetido(raiz):
 @pytest.mark.parametrize(
     ("campo", "valor"),
     [
-        ("etapa", "primaria"),
+        ("etapa", "infantil"),
         ("curso", "uno"),
         ("cursos_academicos", ["2026"]),
         ("cursos_academicos", ["2026-29"]),

@@ -19,12 +19,13 @@ from zoneinfo import ZoneInfo
 
 from . import salida
 from .datos import ErrorNormativa, Indice, cargar, normalizar_cita
-from .modelo import NOMBRE_DEL_RANGO, Elemento, Ficha, Norma, Procedencia
+from .modelo import ETAPAS, NOMBRE_DEL_RANGO, Elemento, Ficha, Norma, Procedencia
 
 __all__ = [
     "MAX_RESULTADOS",
     "buscar",
     "catalogo",
+    "ciclo_de_curso",
     "curso_de",
     "elemento",
     "ficha",
@@ -41,6 +42,9 @@ _FICHA_DE_PROGRAMACION = {
     "fp": "MAD.FP.PROG",
 }
 _CURSO_ACADEMICO = re.compile(r"(\d{4})-(\d{2})")
+_CURSOS_DE_PRIMARIA = ("1", "2", "3", "4", "5", "6")
+_CICLOS_DE_PRIMARIA = ("C1", "C2", "C3")
+_SUFIJO_DE_CICLO = re.compile(r"\.C[1-3]$")
 _ECO = re.compile(r"[\w .,/#()«»-]{1,80}")  # lo pedido que se puede repetir en un detalle
 
 
@@ -48,6 +52,18 @@ class _Cabecera(TypedDict):
     version_datos: str
     curso_academico: str
     curso_en_vigor: bool
+
+
+def ciclo_de_curso(curso: int | str) -> str:
+    """El ciclo de Primaria de un curso: 1.º y 2.º son ``C1``, 3.º y 4.º ``C2``, 5.º y 6.º ``C3``."""
+    texto = str(curso).strip()
+    if texto not in _CURSOS_DE_PRIMARIA:
+        raise ErrorNormativa(
+            "CURSO_SIN_DATOS",
+            f"El curso de Primaria {_eco(texto)} no existe: debe ser de 1 a 6.",
+            _CURSOS_DE_PRIMARIA,
+        )
+    return _CICLOS_DE_PRIMARIA[(int(texto) - 1) // 2]
 
 
 def hoy_en_madrid() -> date:
@@ -67,14 +83,26 @@ def curso_de(fecha: date) -> str:
 def catalogo(
     curso_academico: str | None = None,
     *,
+    etapa: str | None = None,
     hoy: date | None = None,
     indice: Indice | None = None,
 ) -> salida.Catalogo:
-    """Las materias y los módulos de un curso académico, con sus normas."""
+    """Las materias y los módulos de un curso académico, con sus normas.
+
+    ``etapa`` (uno de ``ETAPAS``) limita el catálogo a las fichas de esa etapa.
+    """
     datos = indice or cargar()
+    if etapa is not None and etapa not in ETAPAS:
+        raise ErrorNormativa(
+            "ETAPA_DESCONOCIDA", f"La etapa {_eco(etapa)} no es una de las admitidas.", ETAPAS
+        )
     curso, vigente = _curso(curso_academico, hoy, _cursos_de_los_datos(datos))
     fichas = sorted(
-        (f for f in datos.fichas.values() if curso in f.cursos_academicos),
+        (
+            f
+            for f in datos.fichas.values()
+            if curso in f.cursos_academicos and etapa in (None, f.etapa)
+        ),
         key=lambda f: f.codigo,
     )
     return salida.Catalogo(
@@ -85,6 +113,7 @@ def catalogo(
                 nombre=f.nombre,
                 etapa=f.etapa,
                 curso=f.curso,
+                ciclo=f.ciclo,
                 desde=_iso(f.desde),
                 normas=tuple(_ref(datos, n) for n in f.normas),
             )
@@ -97,12 +126,19 @@ def ficha(
     codigo: str,
     curso_academico: str | None = None,
     *,
+    curso: int | str | None = None,
+    ciclo: str | None = None,
     hoy: date | None = None,
     indice: Indice | None = None,
 ) -> salida.FichaSalida:
-    """Todos los elementos de una materia o módulo, con su texto y su procedencia."""
+    """Todos los elementos de una materia o módulo, con su texto y su procedencia.
+
+    ``codigo`` es el de una ficha o el de un área de Primaria (``MAD.EP.MAT``); con un
+    área, ``curso`` (1 a 6 de Primaria) o ``ciclo`` (``C1`` a ``C3``) eligen la ficha.
+    Ambos son distintos de ``curso_academico`` (el año escolar, «2026-27»).
+    """
     datos = indice or cargar()
-    f = _ficha_de(datos, codigo)
+    f = _ficha_por_curso(datos, codigo, curso, ciclo)
     curso, vigente = _curso(curso_academico, hoy, f.cursos_academicos)
     return salida.FichaSalida(
         **_cabecera(datos, curso, vigente),
@@ -110,6 +146,7 @@ def ficha(
         nombre=f.nombre,
         etapa=f.etapa,
         curso=f.curso,
+        ciclo=f.ciclo,
         desde=_iso(f.desde),
         normas=tuple(_ref(datos, n) for n in f.normas),
         elementos=tuple(_fragmento(datos, e) for e in f.elementos),
@@ -308,6 +345,76 @@ def _ficha_de(datos: Indice, codigo: str) -> Ficha:
             tuple(sorted(datos.fichas)),
         )
     return datos.fichas[codigo]
+
+
+def _area_de(f: Ficha) -> str:
+    """El código del área: el de la ficha sin el sufijo de ciclo."""
+    return _SUFIJO_DE_CICLO.sub("", f.codigo) if f.ciclo else f.codigo
+
+
+def _rige_en(f: Ficha, curso: str | None, ciclo: str | None) -> bool:
+    """Si la ficha sirve al curso o ciclo pedido: por ciclo, por curso o de toda la etapa."""
+    if f.ciclo is not None:
+        return ciclo in (None, f.ciclo)
+    if f.curso is not None and f.etapa == "primaria":
+        return (curso is None and ciclo in (None, ciclo_de_curso(f.curso))) or curso == f.curso
+    return True
+
+
+def _ficha_por_curso(
+    datos: Indice, codigo: str, curso: int | str | None, ciclo: str | None
+) -> Ficha:
+    """La ficha de un código de ficha o, con un área, la que rige en el curso o ciclo pedido."""
+    if curso is not None:
+        curso = str(curso).strip()
+        ciclo_del_curso = ciclo_de_curso(curso)
+        if ciclo is not None and ciclo != ciclo_del_curso:
+            raise ErrorNormativa(
+                "CURSO_SIN_DATOS",
+                f"El curso {_eco(curso)} no es del ciclo {_eco(ciclo)}.",
+                (ciclo_del_curso,),
+            )
+        ciclo = ciclo_del_curso
+    elif ciclo is not None and ciclo not in _CICLOS_DE_PRIMARIA:
+        raise ErrorNormativa(
+            "CURSO_SIN_DATOS",
+            f"El ciclo {_eco(ciclo)} no existe: debe ser C1, C2 o C3.",
+            _CICLOS_DE_PRIMARIA,
+        )
+    pedido = curso or ciclo
+    if codigo in datos.fichas:
+        f = datos.fichas[codigo]
+        if pedido is not None and not _rige_en(f, curso, ciclo):
+            raise ErrorNormativa(
+                "CURSO_SIN_DATOS",
+                f"La ficha {_eco(codigo)} no rige en {_eco(pedido)}.",
+                tuple(x for x in (f.ciclo or f.curso,) if x),
+            )
+        return f
+    candidatas = sorted(
+        (f for f in datos.fichas.values() if _area_de(f) == codigo), key=lambda f: f.codigo
+    )
+    if not candidatas:
+        areas = {_area_de(f) for f in datos.fichas.values()}
+        raise ErrorNormativa(
+            "NORMATIVA_SIN_DATOS",
+            f"La fuente de normativa no trae la ficha {_eco(codigo)}.",
+            tuple(sorted(areas | set(datos.fichas))),
+        )
+    if pedido is None:
+        raise ErrorNormativa(
+            "CURSO_SIN_DATOS",
+            f"El área {_eco(codigo)} tiene una ficha por ciclo: indica el curso o el ciclo.",
+            tuple(f.codigo for f in candidatas),
+        )
+    rigen = [f for f in candidatas if _rige_en(f, curso, ciclo)]
+    if not rigen:
+        raise ErrorNormativa(
+            "CURSO_SIN_DATOS",
+            f"El área {_eco(codigo)} no trae datos de {_eco(pedido)}.",
+            tuple(sorted({f.ciclo or f.curso or "" for f in candidatas} - {""})),
+        )
+    return rigen[0]
 
 
 def _cursos_de_los_datos(datos: Indice) -> tuple[str, ...]:

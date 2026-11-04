@@ -32,11 +32,31 @@ def _parser() -> argparse.ArgumentParser:
     catalogo = consultas.add_parser(
         "catalogo", help="materias y módulos del curso académico, con sus normas"
     )
+    catalogo.add_argument(
+        "--etapa",
+        metavar="ETAPA",
+        help="solo las fichas de una etapa: primaria, eso, bachillerato o fp_gs",
+    )
     _anadir_curso(catalogo)
     ficha = consultas.add_parser(
         "ficha", help="todos los elementos de una materia o módulo, con su texto y su procedencia"
     )
-    ficha.add_argument("codigo", help="código de la materia o módulo, p. ej. MAD.ESO.CCOMP.1")
+    ficha.add_argument(
+        "codigo",
+        help="código de la materia o módulo, p. ej. MAD.ESO.CCOMP.1, o de un área de Primaria, "
+        "p. ej. MAD.EP.MAT",
+    )
+    ficha.add_argument(
+        "--curso",
+        metavar="N",
+        help="curso de Primaria (1 a 6) con el que elegir la ficha de un área; "
+        "no es el curso académico",
+    )
+    ficha.add_argument(
+        "--ciclo",
+        metavar="CN",
+        help="ciclo de Primaria (C1, C2 o C3) con el que elegir la ficha de un área",
+    )
     _anadir_curso(ficha)
     elemento = consultas.add_parser("elemento", help="un elemento por su código")
     elemento.add_argument("codigo", help="código del elemento")
@@ -62,9 +82,11 @@ def _parser() -> argparse.ArgumentParser:
 
 def _consulta_normativa(args, consulta):
     if args.consulta == "catalogo":
-        return consulta.catalogo(args.curso_academico)
+        return consulta.catalogo(args.curso_academico, etapa=args.etapa)
     if args.consulta == "ficha":
-        return consulta.ficha(args.codigo, args.curso_academico)
+        return consulta.ficha(
+            args.codigo, args.curso_academico, curso=args.curso, ciclo=args.ciclo
+        )
     if args.consulta == "elemento":
         return consulta.elemento(args.codigo, args.curso_academico)
     if args.consulta == "norma":

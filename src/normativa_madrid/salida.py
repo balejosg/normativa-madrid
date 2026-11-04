@@ -157,6 +157,7 @@ class FichaResumen:
     nombre: str
     etapa: str
     curso: str | None
+    ciclo: str | None
     desde: str | None
     normas: tuple[NormaRef, ...]
 
@@ -217,6 +218,7 @@ class FichaSalida(Respuesta):
     nombre: str
     etapa: str
     curso: str | None
+    ciclo: str | None
     desde: str | None
     normas: tuple[NormaRef, ...]
     elementos: tuple[Fragmento, ...]

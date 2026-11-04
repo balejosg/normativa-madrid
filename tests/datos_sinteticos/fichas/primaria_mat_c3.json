@@ -1,0 +1,28 @@
+{
+  "codigo": "MAD.EP.MAT.C3",
+  "nombre": "Matemáticas de juguete, ciclo tercero",
+  "etapa": "primaria",
+  "ciclo": "C3",
+  "curso": null,
+  "cursos_academicos": [
+    "2026-27"
+  ],
+  "normas": [
+    "bocm-20250101-1"
+  ],
+  "elementos": [
+    {
+      "codigo": "MAD.EP.MAT.C3.CE.1",
+      "tipo": "competencia_especifica",
+      "texto": "Competencia de juguete de Matemáticas de juguete, ciclo tercero.",
+      "codigo_oficial": "1",
+      "procedencia": {
+        "norma": "bocm-20250101-1",
+        "ubicacion": "anexo II",
+        "pagina": 20
+      },
+      "orden": 1,
+      "datos": {}
+    }
+  ]
+}

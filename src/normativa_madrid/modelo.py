@@ -35,14 +35,14 @@ NOMBRE_DEL_RANGO = {
 }
 BOLETINES = ("BOE", "BOCM", "CM")  # CM: el portal de la comunidad, no un boletín
 ESTADOS = ("vigente", "derogada")
-ETAPAS = ("eso", "bachillerato", "fp_gs")
+ETAPAS = ("eso", "bachillerato", "fp_gs", "primaria")
 
 # Los datos de cada tipo de elemento son un dict cerrado: aquí, la tabla única de
 # las claves permitidas y del tipo de su valor. Un tipo sin datos propios queda vacío.
 # Un campo ausente significa «sin dato» en el boletín, no cero (los optativos transversales
 # no traen horas): nunca se rellena con un valor inventado.
 DATOS_POR_TIPO: dict[str, dict[str, type]] = {
-    "competencia_especifica": {},
+    "competencia_especifica": {"equivalencia_rd": str},
     "descriptor": {},
     "criterio": {},
     "bloque_contenidos": {},
@@ -129,6 +129,8 @@ class Ficha:
     """Una materia o un módulo: sus elementos, en orden, y dónde y cuándo rige.
 
     ``desde``: si la ficha solo rige en sus cursos académicos a partir de esa fecha.
+    ``ciclo`` (``C1``-``C3``) solo lo llevan fichas de Primaria y excluye a ``curso``; una
+    ficha de Primaria sin ``ciclo`` ni ``curso`` rige en toda la etapa.
     """
 
     codigo: str
@@ -139,3 +141,4 @@ class Ficha:
     normas: tuple[str, ...]
     elementos: tuple[Elemento, ...]
     desde: date | None = None
+    ciclo: str | None = None

@@ -1,0 +1,27 @@
+{
+  "codigo": "MAD.EP.VCE",
+  "nombre": "Valores de juguete, quinto curso",
+  "etapa": "primaria",
+  "curso": "5",
+  "cursos_academicos": [
+    "2026-27"
+  ],
+  "normas": [
+    "bocm-20250101-1"
+  ],
+  "elementos": [
+    {
+      "codigo": "MAD.EP.VCE.CE.1",
+      "tipo": "competencia_especifica",
+      "texto": "Competencia de juguete de Valores de juguete, quinto curso.",
+      "codigo_oficial": "1",
+      "procedencia": {
+        "norma": "bocm-20250101-1",
+        "ubicacion": "anexo II",
+        "pagina": 20
+      },
+      "orden": 1,
+      "datos": {}
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "codigo": "MAD.EP.TYR",
+  "nombre": "Taller de juguete, toda la etapa",
+  "etapa": "primaria",
+  "curso": null,
+  "cursos_academicos": [
+    "2026-27"
+  ],
+  "normas": [
+    "bocm-20250101-1"
+  ],
+  "elementos": [
+    {
+      "codigo": "MAD.EP.TYR.CE.1",
+      "tipo": "competencia_especifica",
+      "texto": "Competencia de juguete de Taller de juguete, toda la etapa.",
+      "codigo_oficial": "1",
+      "procedencia": {
+        "norma": "bocm-20250101-1",
+        "ubicacion": "anexo II",
+        "pagina": 20
+      },
+      "orden": 1,
+      "datos": {}
+    }
+  ]
+}
