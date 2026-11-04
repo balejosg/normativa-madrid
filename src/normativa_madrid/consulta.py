@@ -23,7 +23,15 @@ from zoneinfo import ZoneInfo, ZoneInfoNotFoundError
 
 from . import salida
 from .datos import ErrorNormativa, Indice, cargar, normalizar_cita
-from .modelo import ETAPAS, NOMBRE_DEL_RANGO, Elemento, Ficha, Norma, Procedencia
+from .modelo import (
+    ETAPAS,
+    NOMBRE_DEL_RANGO,
+    Elemento,
+    Ficha,
+    Norma,
+    Procedencia,
+    nombre_oficial,
+)
 
 __all__ = [
     "MAX_RESULTADOS",
@@ -255,12 +263,6 @@ def comprobar(
     )
 
 
-def _nombre_oficial(rango: str) -> str:
-    """«Real Decreto», «Decreto»… en título; «Corrección de errores», solo con la inicial."""
-    nombre = NOMBRE_DEL_RANGO[rango]
-    return nombre[:1].upper() + nombre[1:] if rango == "correccion" else nombre.title()
-
-
 def norma(
     cita: str,
     *,
@@ -289,7 +291,7 @@ def norma(
     if clave not in canonicas:
         pedida = next(c for c in n.citas if normalizar_cita(c) == clave)
         # el estilo oficial: «Decreto 27/2025», «Orden 5/2025», «Real Decreto 1/2024»
-        correcta = f"{_nombre_oficial(n.rango)} {n.numero}"
+        correcta = f"{nombre_oficial(n.rango)} {n.numero}"
     vigente = curso_de(hoy or hoy_en_madrid())
     return salida.NormaSalida(
         **_cabecera(datos, vigente, True),

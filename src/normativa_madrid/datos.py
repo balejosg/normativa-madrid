@@ -2,7 +2,7 @@
 
 Los datos viven en ``normativa_madrid/datos`` como un fichero por norma
 (``normas/*.json``) y uno por materia o módulo (``fichas/*.json``). Se validan con
-conjuntos cerrados de claves,: una clave desconocida, un campo
+conjuntos cerrados de claves: una clave desconocida, un campo
 mal formado o una referencia a algo que no existe es ``DATOS_INVALIDOS`` (con el
 fichero y el campo en el detalle) y no se carga nada a medias.
 

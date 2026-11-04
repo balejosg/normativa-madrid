@@ -117,3 +117,11 @@ def test_cli_formato_invalido(capsys):
     with pytest.raises(SystemExit) as salida:
         cli.main(["ficha", "MAD.ESO.TECDIG.2", "--formato", "html"])
     assert salida.value.code == 2
+
+
+def test_md_real_decreto_con_mayusculas_del_nombre_oficial():
+    ficha = consulta.ficha("EST.BACH.DESC", indice=INDICE)
+    rangos = {n.rango for n in ficha.normas}
+    md = markdown.ficha_md(ficha)
+    assert "real_decreto" in rangos and "Real Decreto " in md
+    assert "Real decreto" not in md

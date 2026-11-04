@@ -10,7 +10,7 @@ from __future__ import annotations
 
 import re
 
-from .modelo import NOMBRE_DEL_RANGO
+from .modelo import nombre_oficial
 from .salida import AvisoSalida, ElementoSalida, FichaSalida, Fragmento, NormaRef, ProcedenciaSalida
 
 __all__ = ["elemento_md", "ficha_md"]
@@ -45,7 +45,7 @@ def _una_linea(texto: str) -> str:
 
 
 def _nombre_norma(norma: NormaRef) -> str:
-    return f"{NOMBRE_DEL_RANGO[norma.rango].capitalize()} {norma.numero}"
+    return f"{nombre_oficial(norma.rango)} {norma.numero}"
 
 
 def _enlace(norma: NormaRef) -> str:

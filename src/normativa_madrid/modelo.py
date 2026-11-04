@@ -21,6 +21,7 @@ __all__ = [
     "Norma",
     "Procedencia",
     "NOMBRE_DEL_RANGO",
+    "nombre_oficial",
     "RANGOS",
     "TIPOS_ELEMENTO",
 ]
@@ -33,6 +34,14 @@ NOMBRE_DEL_RANGO = {
     "resolucion": "resolución",
     "correccion": "corrección de errores",
 }
+
+
+def nombre_oficial(rango: str) -> str:
+    """«Real Decreto», «Decreto»… en título; «Corrección de errores», solo con la inicial."""
+    nombre = NOMBRE_DEL_RANGO[rango]
+    return nombre[:1].upper() + nombre[1:] if rango == "correccion" else nombre.title()
+
+
 BOLETINES = ("BOE", "BOCM", "CM")  # CM: el portal de la comunidad, no un boletín
 ESTADOS = ("vigente", "derogada")
 ETAPAS = ("eso", "bachillerato", "fp_gs", "primaria")
