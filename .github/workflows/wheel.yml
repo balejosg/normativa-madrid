@@ -1,0 +1,34 @@
+name: Wheel de la release
+
+# Al publicar una release, construye el wheel de su etiqueta y lo sube a la release: quien
+# dependa de este paquete lo instala sin git y sin construir nada.
+on:
+  release:
+    types: [published]
+
+permissions:
+  contents: read
+
+jobs:
+  wheel:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write  # solo para subir el wheel a la release
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          ref: ${{ github.event.release.tag_name }}
+      - uses: astral-sh/setup-uv@v10.2.0
+      - name: Pruebas
+        run: uv run pytest -q
+      - name: Construir el wheel
+        run: uv build --wheel
+      - name: Comprobar que el nombre coincide con la etiqueta
+        env:
+          ETIQUETA: ${{ github.event.release.tag_name }}
+        run: test -f "dist/normativa_madrid-${ETIQUETA#v}-py3-none-any.whl"
+      - name: Subir el wheel a la release
+        env:
+          GH_TOKEN: ${{ github.token }}
+          ETIQUETA: ${{ github.event.release.tag_name }}
+        run: gh release upload "$ETIQUETA" dist/*.whl --clobber
