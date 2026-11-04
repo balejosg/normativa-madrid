@@ -15,7 +15,7 @@
       "codigo": "MAD.CMO.311",
       "tipo": "modulo",
       "texto": "Informática aplicada a sistemas electrónicos (Robótica)",
-      "codigo_oficial": null,
+      "codigo_oficial": "CMO-311",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-311",

@@ -17,7 +17,7 @@
       "codigo": "MAD.DAM.0488",
       "tipo": "modulo",
       "texto": "Desarrollo de interfaces",
-      "codigo_oficial": null,
+      "codigo_oficial": "0488",
       "procedencia": {
         "norma": "bocm-20241115-2",
         "ubicacion": "anexo II",

@@ -954,12 +954,16 @@ def elemento_modulo(
     curso: str | None,
     *,
     ficha: str,
+    codigo_oficial: str,
     norma: str,
     ubicacion: str,
     pagina: int | None,
     orden: int = 1,
 ) -> dict[str, Any]:
-    """El elemento ``modulo``; ``horas`` o ``curso`` ``None`` (el boletín no los dice) no se escriben."""
+    """El elemento ``modulo``; ``codigo_oficial`` es el código del módulo que imprime el boletín.
+
+    ``horas`` o ``curso`` ``None`` (el boletín no los dice) no se escriben.
+    """
     datos: dict[str, int | str] = {}
     if horas is not None:
         datos["horas"] = horas
@@ -969,7 +973,7 @@ def elemento_modulo(
         "codigo": ficha,
         "tipo": "modulo",
         "texto": nombre,
-        "codigo_oficial": None,  # el módulo se identifica por su código, no por una numeración
+        "codigo_oficial": codigo_oficial,
         "procedencia": {"norma": norma, "ubicacion": ubicacion, "pagina": pagina},
         "orden": orden,
         "datos": datos,
@@ -1290,6 +1294,7 @@ def _extraer_modulo(args: argparse.Namespace) -> dict[str, Any]:
             fila.horas,
             curso,
             ficha=args.ficha,
+            codigo_oficial=args.modulo,
             norma=args.horas,
             ubicacion=args.ubicacion_horas,
             pagina=fila.pagina,
@@ -1342,6 +1347,7 @@ def _extraer_transversal(args: argparse.Namespace) -> dict[str, Any]:
             fila.horas,
             fila.curso,
             ficha=args.ficha,
+            codigo_oficial=args.modulo,
             norma=args.horas,
             ubicacion=args.ubicacion_horas,
             pagina=fila.pagina,
@@ -1393,6 +1399,7 @@ def _extraer_optativo(args: argparse.Namespace) -> dict[str, Any]:
         optativo.horas,
         catalogo.curso,
         ficha=args.ficha,
+        codigo_oficial=args.modulo,
         norma=args.madrid,
         ubicacion=ubicacion,
         pagina=optativo.pagina,
@@ -1407,6 +1414,7 @@ def _extraer_optativo(args: argparse.Namespace) -> dict[str, Any]:
             optativo.horas,
             catalogo.curso,
             ficha=args.ficha,
+            codigo_oficial=args.modulo,
             norma=args.catalogo,
             ubicacion=f"anexo I, módulo {curricular}",
             pagina=catalogo.pagina,

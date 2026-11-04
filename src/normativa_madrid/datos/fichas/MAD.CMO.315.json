@@ -15,7 +15,7 @@
       "codigo": "MAD.CMO.315",
       "tipo": "modulo",
       "texto": "Arquitecturas en la nube",
-      "codigo_oficial": null,
+      "codigo_oficial": "CMO-315",
       "procedencia": {
         "norma": "bocm-20260925-20",
         "ubicacion": "anexo I, módulo CMO-315",

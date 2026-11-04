@@ -15,7 +15,7 @@
       "codigo": "MAD.CMO.313",
       "tipo": "modulo",
       "texto": "Fundamentos de programación",
-      "codigo_oficial": null,
+      "codigo_oficial": "CMO-313",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-313",

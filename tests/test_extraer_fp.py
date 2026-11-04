@@ -804,3 +804,12 @@ def test_elementos_del_modulo_una_ficha_que_no_es_de_madrid_no_lleva_basicos():
         fp.elementos_del_modulo(
             modulo(MOD_0485, "0485"), ficha="DAM.0485", norma=RD405, ubicacion="anexo I"
         )
+
+
+def test_el_modulo_lleva_su_codigo_oficial():
+    """Ruling R15: el código que imprime el boletín («0485») es la numeración oficial del módulo."""
+    from normativa_madrid import consulta
+
+    r = consulta.elemento("MAD.DAM.0485")
+    assert r.elemento.codigo_oficial == "0485"
+    assert "NUMERACION_NO_OFICIAL" not in {a.codigo for a in r.avisos}

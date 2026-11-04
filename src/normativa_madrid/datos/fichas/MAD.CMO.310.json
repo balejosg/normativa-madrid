@@ -15,7 +15,7 @@
       "codigo": "MAD.CMO.310",
       "tipo": "modulo",
       "texto": "Fundamentos de bases de datos",
-      "codigo_oficial": null,
+      "codigo_oficial": "CMO-310",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-310",

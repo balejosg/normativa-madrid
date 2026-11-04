@@ -15,7 +15,7 @@
       "codigo": "MAD.CMO.314",
       "tipo": "modulo",
       "texto": "Ciberseguridad",
-      "codigo_oficial": null,
+      "codigo_oficial": "CMO-314",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-314",
