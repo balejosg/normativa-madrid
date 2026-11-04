@@ -1,5 +1,8 @@
 """CLI ``normativa-madrid``: cada consulta imprime un único JSON en stdout.
 
+``ficha`` y ``elemento`` admiten ``--formato md``, una vista en Markdown para personas; los
+errores salen siempre en JSON.
+
 Sale con 0 si la consulta se resuelve y con 2 si falla (el JSON es entonces el error);
 ``comprobar`` sale con 1 si encuentra códigos desconocidos.
 No usa red ni escribe ficheros.
@@ -59,9 +62,11 @@ def _parser() -> argparse.ArgumentParser:
         help="ciclo de Primaria (C1, C2 o C3) con el que elegir la ficha de un área",
     )
     _anadir_curso(ficha)
+    _anadir_formato(ficha)
     elemento = consultas.add_parser("elemento", help="un elemento por su código")
     elemento.add_argument("codigo", help="código del elemento")
     _anadir_curso(elemento)
+    _anadir_formato(elemento)
     norma = consultas.add_parser("norma", help="una norma por su cita, p. ej. «Decreto 27/2025»")
     norma.add_argument("cita", help="la cita de la norma")
     buscar = consultas.add_parser("buscar", help="busca un texto en los elementos del curso")
@@ -88,6 +93,16 @@ def _parser() -> argparse.ArgumentParser:
     )
     _anadir_curso(comprobar)
     return parser
+
+
+def _anadir_formato(parser: argparse.ArgumentParser) -> None:
+    parser.add_argument(
+        "--formato",
+        choices=("json", "md"),
+        default="json",
+        help="json (por defecto) o md, una vista en Markdown para personas; "
+        "los errores salen siempre en JSON con código de salida 2",
+    )
 
 
 def _consulta_normativa(args, consulta):
@@ -127,8 +142,11 @@ def _sin_control(texto: str) -> str:
 
 
 def _escribir_json(documento: dict) -> None:
-    """El documento en stdout como UTF-8, aunque la consola sea cp1252 (Windows)."""
-    texto = json.dumps(documento, ensure_ascii=False, indent=1) + "\n"
+    _escribir(json.dumps(documento, ensure_ascii=False, indent=1) + "\n")
+
+
+def _escribir(texto: str) -> None:
+    """El texto en stdout como UTF-8, aunque la consola sea cp1252 (Windows)."""
     flujo = sys.stdout
     buffer = getattr(flujo, "buffer", None)
     if buffer is None:
@@ -149,6 +167,12 @@ def _normativa(args) -> int:
             documento = respuesta.a_dict()
             salida.validar(documento)
             codigo = getattr(respuesta, "codigo_salida", 0)
+            if getattr(args, "formato", "json") == "md":
+                from . import markdown
+
+                vista = markdown.ficha_md if args.consulta == "ficha" else markdown.elemento_md
+                _escribir(vista(respuesta))
+                return codigo
         except ErrorNormativa as error:
             limpio = ErrorNormativa(
                 error.codigo,
