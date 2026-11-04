@@ -10,10 +10,14 @@ cursos que sí hay. Todas aceptan ``indice`` para consultar otros datos (los tes
 
 from __future__ import annotations
 
+import difflib
+import json
 import re
 import unicodedata
 from collections.abc import Iterable
 from datetime import date, datetime
+from functools import cache
+from importlib.resources import files
 from typing import TypedDict
 from zoneinfo import ZoneInfo
 
@@ -26,6 +30,7 @@ __all__ = [
     "buscar",
     "catalogo",
     "ciclo_de_curso",
+    "comprobar",
     "curso_de",
     "elemento",
     "ficha",
@@ -45,6 +50,15 @@ _CURSO_ACADEMICO = re.compile(r"(\d{4})-(\d{2})")
 _CURSOS_DE_PRIMARIA = ("1", "2", "3", "4", "5", "6")
 _CICLOS_DE_PRIMARIA = ("C1", "C2", "C3")
 _SUFIJO_DE_CICLO = re.compile(r"\.C[1-3]$")
+MAX_SUGERENCIAS = 3
+# Un código citado: «MAD.EP.MAT.C2.CR.1.1», «EST.ESO.DESC.CCL1». El punto final de una frase no
+# es del código; delante no puede haber letra, cifra, punto, barra ni guion (URL, siglas).
+_CITA = re.compile(r"(?<![\w./@:-])(?:MAD|EST)\.[A-Z0-9]+(?:\.[A-Za-z0-9ñ]+)+\b")
+# El formato antiguo de Primaria: «MAT.1.1.C2», «CMNSC.CE1».
+_CITA_ANTIGUA = re.compile(
+    r"(?<![\w./@:-])(?:CN|CS|EA|EF|LCL|ING|MAT|VCE|SLE|TYR|CMNSC)"
+    r"\.(?:CE\d+|\d+\.\d+\.(?:C[1-3]|E))\b"
+)
 _ECO = re.compile(r"[\w .,/#()«»-]{1,80}")  # lo pedido que se puede repetir en un detalle
 
 
@@ -175,6 +189,48 @@ def elemento(
         desde=_iso(f.desde),
         elemento=_fragmento(datos, e),
         avisos=_avisos([e]),
+    )
+
+
+def comprobar(
+    textos: dict[str, str],
+    curso_academico: str | None = None,
+    *,
+    hoy: date | None = None,
+    indice: Indice | None = None,
+) -> salida.Comprobacion:
+    """Si los códigos que cita cada texto existen en el curso académico.
+
+    ``textos`` va de nombre de documento a su texto (véase :mod:`.documentos`). Un código
+    existente es el de un elemento o el de una ficha de ese curso; uno desconocido lleva como
+    mucho :data:`MAX_SUGERENCIAS` sugerencias de la misma ficha. Un código del formato antiguo
+    de Primaria es desconocido y su sugerencia es el código nuevo.
+    """
+    datos = indice or cargar()
+    curso, vigente = _curso(curso_academico, hoy, _cursos_de_los_datos(datos))
+    existentes = _existentes(datos, curso)
+    equivalencias = _equivalencias()
+    ficheros = []
+    usados: list[Elemento] = []
+    for nombre, texto in textos.items():
+        conocidos: list[str] = []
+        desconocidos: list[salida.Desconocido] = []
+        for codigo in _codigos_citados(texto):
+            if codigo in existentes:
+                conocidos.append(codigo)
+                if codigo in datos.elementos:
+                    usados.append(datos.elementos[codigo][1])
+            elif _CITA_ANTIGUA.fullmatch(codigo):
+                nuevo = equivalencias.get(codigo)
+                sugeridos = (nuevo,) if nuevo in existentes else ()
+                desconocidos.append(salida.Desconocido(codigo, sugeridos))
+            else:
+                desconocidos.append(
+                    salida.Desconocido(codigo, _sugerencias(codigo, datos, existentes))
+                )
+        ficheros.append(salida.FicheroComprobado(nombre, tuple(conocidos), tuple(desconocidos)))
+    return salida.Comprobacion(
+        **_cabecera(datos, curso, vigente), ficheros=tuple(ficheros), avisos=_avisos(usados)
     )
 
 
@@ -503,3 +559,56 @@ def _fragmento(datos: Indice, e: Elemento) -> salida.Fragmento:
         datos=dict(e.datos),
         relaciones=relaciones,
     )
+
+
+# --- comprobar -------------------------------------------------------------------
+
+
+def _codigos_citados(texto: str) -> list[str]:
+    """Los códigos de un texto, sin repetir y en orden de aparición."""
+    primero: dict[str, int] = {}
+    for m in sorted(
+        [*_CITA.finditer(texto), *_CITA_ANTIGUA.finditer(texto)], key=lambda m: m.start()
+    ):
+        primero.setdefault(m.group(0), m.start())
+    return list(primero)
+
+
+def _existentes(datos: Indice, curso: str) -> frozenset[str]:
+    """Los códigos citables del curso: los de sus fichas, sus elementos y las áreas de Primaria."""
+    fichas = [f for f in datos.fichas.values() if curso in f.cursos_academicos]
+    codigos = {f.codigo for f in fichas} | {_area_de(f) for f in fichas}
+    return frozenset(codigos | {e.codigo for f in fichas for e in f.elementos})
+
+
+def _sugerencias(codigo: str, datos: Indice, existentes: frozenset[str]) -> tuple[str, ...]:
+    """Los códigos de la misma ficha que el desconocido: primero los que lo continúan
+    (si cita solo el principio de un código), luego los más parecidos. Sin ficha, ninguno."""
+    ficha = max(
+        (f.codigo for f in datos.fichas.values() if codigo.startswith(f.codigo + ".")),
+        key=len,
+        default=None,
+    )
+    if ficha is None:
+        return ()
+    candidatos = sorted(e.codigo for e in datos.fichas[ficha].elementos if e.codigo in existentes)
+    siguientes = [c for c in candidatos if c.startswith(codigo + ".")]
+    parecidos = difflib.get_close_matches(codigo, candidatos, MAX_SUGERENCIAS)
+    return tuple(dict.fromkeys(siguientes + parecidos))[:MAX_SUGERENCIAS]
+
+
+@cache
+def _equivalencias() -> dict[str, str]:
+    """Código antiguo de Primaria -> código nuevo (``datos/equivalencias-primaria-2026.json``)."""
+    nombre = "datos/equivalencias-primaria-2026.json"
+    try:
+        bruto = json.loads(files("normativa_madrid").joinpath(nombre).read_text(encoding="utf-8"))
+        tabla = bruto["equivalencias"]
+        valido = isinstance(tabla, dict) and all(
+            type(k) is str and type(v) is str for k, v in tabla.items()
+        )
+    except (OSError, ValueError, KeyError, TypeError) as exc:
+        raise ErrorNormativa("DATOS_INVALIDOS", f"{nombre}: no es un JSON legible") from exc
+    if not valido:
+        raise ErrorNormativa("DATOS_INVALIDOS", f"{nombre}: debe ser un objeto de textos")
+    return tabla

@@ -1,6 +1,7 @@
 """CLI ``normativa-madrid``: cada consulta imprime un único JSON en stdout.
 
-Sale con 0 si la consulta se resuelve y con 2 si falla (el JSON es entonces el error).
+Sale con 0 si la consulta se resuelve y con 2 si falla (el JSON es entonces el error);
+``comprobar`` sale con 1 si encuentra códigos desconocidos.
 No usa red ni escribe ficheros.
 """
 
@@ -77,6 +78,15 @@ def _parser() -> argparse.ArgumentParser:
     )
     programacion.add_argument("etapa", help="eso, bachillerato o fp")
     _anadir_curso(programacion)
+    comprobar = consultas.add_parser(
+        "comprobar",
+        help="comprueba que los códigos citados en uno o más documentos existen; "
+        "sale con 1 si hay desconocidos",
+    )
+    comprobar.add_argument(
+        "ficheros", nargs="+", metavar="FICHERO", help="documento .md, .txt, .docx o .odt"
+    )
+    _anadir_curso(comprobar)
     return parser
 
 
@@ -93,6 +103,11 @@ def _consulta_normativa(args, consulta):
         return consulta.norma(args.cita)
     if args.consulta == "buscar":
         return consulta.buscar(args.texto, args.en, args.curso_academico)
+    if args.consulta == "comprobar":
+        from .documentos import leer_texto
+
+        textos = {ruta: leer_texto(ruta) for ruta in args.ficheros}
+        return consulta.comprobar(textos, args.curso_academico)
     return consulta.programacion(args.etapa, args.curso_academico)
 
 
@@ -120,9 +135,10 @@ def _normativa(args) -> int:
 
     try:
         try:
-            documento = _consulta_normativa(args, consulta).a_dict()
+            respuesta = _consulta_normativa(args, consulta)
+            documento = respuesta.a_dict()
             salida.validar(documento)
-            codigo = 0
+            codigo = 0 if getattr(respuesta, "limpia", True) else 1
         except ErrorNormativa as error:
             limpio = ErrorNormativa(
                 error.codigo,

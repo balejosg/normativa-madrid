@@ -26,6 +26,10 @@ AYUDA: dict[str, str] = {
         "normativa-madrid no tiene esa norma. Prueba con otra forma de citarla (por ejemplo "
         "«Decreto 27/2025» o «RD 405/2023») o consulta el boletín."
     ),
+    "FICHERO_ILEGIBLE": (
+        "No se pudo leer el documento: no existe, está dañado o no es .md, .txt, .docx ni .odt. "
+        "Convierte el documento a uno de esos formatos y repite la comprobación."
+    ),
     "ETAPA_DESCONOCIDA": "La etapa debe ser eso, bachillerato o fp.",
     "TEXTO_VACIO": "Falta el texto que buscar: escribe al menos una palabra.",
     "SALIDA_INVALIDA": (

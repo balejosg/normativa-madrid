@@ -4,7 +4,8 @@ Lo que la CLI imprime para el agente se construye solo con los dataclasses de es
 módulo y ``a_dict()``, y pasa por :func:`validar`: cualquier clave que no esté en el
 esquema, a cualquier nivel, o un valor de otro tipo se rechaza. Los textos que salen
 son los de los datos de normativa o los fijos de este paquete (:data:`AVISO`,
-:data:`INDICE_PROGRAMACION`); nunca un texto que venga de fuera.
+:data:`INDICE_PROGRAMACION`); lo único que viene de fuera es, en ``comprobar``, el nombre del
+documento y los códigos que cita (que casan con un patrón estricto).
 
 Cada respuesta lleva la misma cabecera: ``consulta`` (cuál se hizo),
 ``version_datos`` (la revisión más reciente de los datos), ``curso_academico``,
@@ -29,9 +30,12 @@ __all__ = [
     "NUMERACION_NO_OFICIAL",
     "AvisoSalida",
     "Catalogo",
+    "Comprobacion",
     "CorreccionSalida",
+    "Desconocido",
     "ElementoSalida",
     "ErrorSalida",
+    "FicheroComprobado",
     "FichaResumen",
     "FichaSalida",
     "Fragmento",
@@ -69,6 +73,7 @@ CODIGOS_ERROR = frozenset(
         "CURSO_SIN_DATOS",
         "DATOS_INVALIDOS",
         "ETAPA_DESCONOCIDA",
+        "FICHERO_ILEGIBLE",
         "NORMA_DESCONOCIDA",
         "NORMATIVA_SIN_DATOS",
         "SALIDA_INVALIDA",
@@ -182,6 +187,23 @@ class Resultado:
     procedencia: ProcedenciaSalida
 
 
+@dataclass(frozen=True)
+class Desconocido:
+    """Un código citado que no existe, con los existentes que pueden ser el que se quiso citar."""
+
+    codigo: str
+    sugerencias: tuple[str, ...]
+
+
+@dataclass(frozen=True)
+class FicheroComprobado:
+    """Los códigos de un documento: los que existen y los que no (``fichero`` es el pedido)."""
+
+    fichero: str
+    conocidos: tuple[str, ...]
+    desconocidos: tuple[Desconocido, ...]
+
+
 # --- respuestas --------------------------------------------------------------
 
 
@@ -275,9 +297,29 @@ class Requisitos(Respuesta):
     indice: str = INDICE_PROGRAMACION
 
 
+@dataclass(frozen=True, kw_only=True)
+class Comprobacion(Respuesta):
+    CONSULTA = "comprobar"
+
+    ficheros: tuple[FicheroComprobado, ...]
+
+    @property
+    def limpia(self) -> bool:
+        """Si ningún documento cita un código desconocido."""
+        return not any(f.desconocidos for f in self.ficheros)
+
+
 _RESPUESTAS: dict[str, type[Respuesta]] = {
     clase.CONSULTA: clase
-    for clase in (Catalogo, FichaSalida, ElementoSalida, NormaSalida, Resultados, Requisitos)
+    for clase in (
+        Catalogo,
+        FichaSalida,
+        ElementoSalida,
+        NormaSalida,
+        Resultados,
+        Requisitos,
+        Comprobacion,
+    )
 }
 
 
