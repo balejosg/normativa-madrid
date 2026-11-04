@@ -18,7 +18,7 @@ ESTE = Path(__file__).resolve()
 
 
 def _ficheros():
-    for carpeta in ("src", "herramientas", "tests"):
+    for carpeta in ("src", "herramientas", "tests", "docs", "skill"):
         for ruta in (RAIZ / carpeta).rglob("*"):
             if "__pycache__" in ruta.parts or ruta.suffix not in SUFIJOS or not ruta.is_file():
                 continue
