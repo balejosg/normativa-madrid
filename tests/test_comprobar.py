@@ -219,3 +219,35 @@ def test_equivalencias_coinciden_con_el_generador(monkeypatch):
     )
     ruta = raiz / "src/normativa_madrid/datos/equivalencias-primaria-2026.json"
     assert json.loads(ruta.read_text(encoding="utf-8"))["equivalencias"] == equivalencias(referencia)
+
+
+def test_comprobar_un_ilegible_no_tapa_los_demas(tmp_path, capsys):
+    bueno, roto, otro = tmp_path / "a.md", tmp_path / "roto.docx", tmp_path / "c.md"
+    bueno.write_text(f"{CR} y MAD.EP.MAT.C2.CR.9.9", encoding="utf-8")
+    roto.write_bytes(b"\x00basura")
+    otro.write_text(CO, encoding="utf-8")
+    codigo, doc = ejecutar(capsys, str(bueno), str(roto), str(otro))
+    assert codigo == 2
+    salida.validar(doc)
+    assert [f["fichero"] for f in doc["ficheros"]] == [str(bueno), str(otro)]
+    assert doc["ficheros"][0]["conocidos"] == [CR]
+    assert doc["ficheros"][0]["desconocidos"][0]["codigo"] == "MAD.EP.MAT.C2.CR.9.9"
+    assert doc["ficheros"][1]["conocidos"] == [CO]
+    (mal,) = doc["ilegibles"]
+    assert mal["fichero"] == str(roto) and "roto.docx" in mal["detalle"]
+
+
+def test_comprobar_dos_ilegibles_salen_los_dos(tmp_path, capsys):
+    a, b = tmp_path / "a.docx", tmp_path / "b.md"
+    a.write_bytes(b"\x00")
+    codigo, doc = ejecutar(capsys, str(a), str(b))
+    assert (codigo, doc["error"]) == (2, "FICHERO_ILEGIBLE")
+    assert "a.docx" in doc["detalle"] and "b.md" in doc["detalle"]
+
+
+def test_comprobar_ilegible_sin_desconocidos_sigue_siendo_2(tmp_path, capsys):
+    bueno, roto = tmp_path / "a.md", tmp_path / "roto.odt"
+    bueno.write_text(CR, encoding="utf-8")
+    roto.write_bytes(b"x")
+    codigo, doc = ejecutar(capsys, str(bueno), str(roto))
+    assert codigo == 2 and len(doc["ilegibles"]) == 1

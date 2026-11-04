@@ -196,6 +196,7 @@ def comprobar(
     textos: dict[str, str],
     curso_academico: str | None = None,
     *,
+    ilegibles: dict[str, str] | None = None,
     hoy: date | None = None,
     indice: Indice | None = None,
 ) -> salida.Comprobacion:
@@ -204,7 +205,8 @@ def comprobar(
     ``textos`` va de nombre de documento a su texto (véase :mod:`.documentos`). Un código
     existente es el de un elemento o el de una ficha de ese curso; uno desconocido lleva como
     mucho :data:`MAX_SUGERENCIAS` sugerencias de la misma ficha. Un código del formato antiguo
-    de Primaria es desconocido y su sugerencia es el código nuevo.
+    de Primaria es desconocido y su sugerencia es el código nuevo. ``ilegibles`` (nombre ->
+    motivo) son los documentos que no se pudieron leer: salen aparte, junto a los demás.
     """
     datos = indice or cargar()
     curso, vigente = _curso(curso_academico, hoy, _cursos_de_los_datos(datos))
@@ -230,7 +232,9 @@ def comprobar(
                 )
         ficheros.append(salida.FicheroComprobado(nombre, tuple(conocidos), tuple(desconocidos)))
     return salida.Comprobacion(
-        **_cabecera(datos, curso, vigente), ficheros=tuple(ficheros), avisos=_avisos(usados)
+        **_cabecera(datos, curso, vigente), ficheros=tuple(ficheros),
+        ilegibles=tuple(salida.Ilegible(n, m) for n, m in (ilegibles or {}).items()),
+        avisos=_avisos(usados),
     )
 
 

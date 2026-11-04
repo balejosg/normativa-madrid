@@ -36,6 +36,7 @@ __all__ = [
     "ElementoSalida",
     "ErrorSalida",
     "FicheroComprobado",
+    "Ilegible",
     "FichaResumen",
     "FichaSalida",
     "Fragmento",
@@ -204,6 +205,14 @@ class FicheroComprobado:
     desconocidos: tuple[Desconocido, ...]
 
 
+@dataclass(frozen=True)
+class Ilegible:
+    """Un documento que no se pudo leer y por qué (``detalle`` es un texto fijo de este paquete)."""
+
+    fichero: str
+    detalle: str
+
+
 # --- respuestas --------------------------------------------------------------
 
 
@@ -302,11 +311,18 @@ class Comprobacion(Respuesta):
     CONSULTA = "comprobar"
 
     ficheros: tuple[FicheroComprobado, ...]
+    ilegibles: tuple[Ilegible, ...] = ()
 
     @property
-    def limpia(self) -> bool:
-        """Si ningún documento cita un código desconocido."""
-        return not any(f.desconocidos for f in self.ficheros)
+    def codigo_salida(self) -> int:
+        """2 si algún documento no se pudo leer, si no 1 si algún código es desconocido, si no 0.
+
+        ``ficheros`` trae los documentos leídos y ``ilegibles`` los que no. Si no se pudo leer
+        ninguno, la CLI imprime en su lugar el error ``FICHERO_ILEGIBLE`` con todos sus nombres.
+        """
+        if self.ilegibles:
+            return 2
+        return 1 if any(f.desconocidos for f in self.ficheros) else 0
 
 
 _RESPUESTAS: dict[str, type[Respuesta]] = {

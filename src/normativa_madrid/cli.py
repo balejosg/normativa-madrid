@@ -91,6 +91,8 @@ def _parser() -> argparse.ArgumentParser:
 
 
 def _consulta_normativa(args, consulta):
+    from . import ErrorNormativa
+
     if args.consulta == "catalogo":
         return consulta.catalogo(args.curso_academico, etapa=args.etapa)
     if args.consulta == "ficha":
@@ -106,8 +108,16 @@ def _consulta_normativa(args, consulta):
     if args.consulta == "comprobar":
         from .documentos import leer_texto
 
-        textos = {ruta: leer_texto(ruta) for ruta in args.ficheros}
-        return consulta.comprobar(textos, args.curso_academico)
+        textos: dict[str, str] = {}
+        ilegibles: dict[str, str] = {}
+        for ruta in args.ficheros:
+            try:
+                textos[ruta] = leer_texto(ruta)
+            except ErrorNormativa as error:
+                ilegibles[ruta] = _sin_control(error.detalle)
+        if ilegibles and not textos:  # ninguno legible: el error, con todos los nombres
+            raise ErrorNormativa("FICHERO_ILEGIBLE", " ".join(ilegibles.values()))
+        return consulta.comprobar(textos, args.curso_academico, ilegibles=ilegibles)
     return consulta.programacion(args.etapa, args.curso_academico)
 
 
@@ -138,7 +148,7 @@ def _normativa(args) -> int:
             respuesta = _consulta_normativa(args, consulta)
             documento = respuesta.a_dict()
             salida.validar(documento)
-            codigo = 0 if getattr(respuesta, "limpia", True) else 1
+            codigo = getattr(respuesta, "codigo_salida", 0)
         except ErrorNormativa as error:
             limpio = ErrorNormativa(
                 error.codigo,
