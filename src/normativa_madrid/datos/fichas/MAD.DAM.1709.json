@@ -16,6 +16,7 @@
       "codigo": "MAD.DAM.1709",
       "tipo": "modulo",
       "texto": "Itinerario personal para la empleabilidad I",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20241115-2",
         "ubicacion": "anexo II",
@@ -31,6 +32,7 @@
       "codigo": "MAD.DAM.1709.RA.1",
       "tipo": "resultado_aprendizaje",
       "texto": "Adquiere las competencias necesarias para el desempeño de las funciones de nivel básico en Prevención de Riesgos Laborales.",
+      "codigo_oficial": "1.",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VII, módulo 1709, resultado de aprendizaje 1",
@@ -43,6 +45,7 @@
       "codigo": "MAD.DAM.1709.RA.1.a",
       "tipo": "criterio_fp",
       "texto": "Se ha valorado la importancia de la cultura preventiva en todos los ámbitos y actividades de la empresa u organismo equiparado, relacionando las condiciones laborales con la salud de la persona trabajadora e identificando y clasificando los factores de riesgo en la actividad, así como los daños derivados de los mismos, especialmente las situaciones de riesgo más habituales en los entornos de trabajo del sector profesional relacionados con el título.",
+      "codigo_oficial": "a)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VII, módulo 1709, resultado de aprendizaje 1, criterio a",
@@ -55,6 +58,7 @@
       "codigo": "MAD.DAM.1709.RA.1.b",
       "tipo": "criterio_fp",
       "texto": "Se han clasificado y descrito los tipos de daños profesionales, con especial referencia a accidentes de trabajo y enfermedades profesionales, relacionados con el perfil profesional del título.",
+      "codigo_oficial": "b)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VII, módulo 1709, resultado de aprendizaje 1, criterio b",
@@ -67,6 +71,7 @@
       "codigo": "MAD.DAM.1709.RA.1.c",
       "tipo": "criterio_fp",
       "texto": "Se ha determinado la evaluación de riesgos en la empresa u organismo equiparado y definido las técnicas de prevención y de protección que deben aplicarse para evitar los daños en su origen y minimizar sus consecuencias.",
+      "codigo_oficial": "c)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VII, módulo 1709, resultado de aprendizaje 1, criterio c",
@@ -79,6 +84,7 @@
       "codigo": "MAD.DAM.1709.RA.1.d",
       "tipo": "criterio_fp",
       "texto": "Se han analizado los protocolos de actuación en caso de emergencia.",
+      "codigo_oficial": "d)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VII, módulo 1709, resultado de aprendizaje 1, criterio d",
@@ -91,6 +97,7 @@
       "codigo": "MAD.DAM.1709.RA.1.e",
       "tipo": "criterio_fp",
       "texto": "Se han determinado los principales derechos y deberes en materia de prevención de riesgos laborales.",
+      "codigo_oficial": "e)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VII, módulo 1709, resultado de aprendizaje 1, criterio e",
@@ -103,6 +110,7 @@
       "codigo": "MAD.DAM.1709.RA.1.f",
       "tipo": "criterio_fp",
       "texto": "Se han clasificado las distintas formas de gestión de la prevención en la empresa u organismo equiparado, en función de los distintos criterios establecidos en la normativa sobre prevención de riesgos laborales y determinado las formas de representación de las personas trabajadoras en la empresa u organismo equiparado en materia de prevención de riesgos.",
+      "codigo_oficial": "f)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VII, módulo 1709, resultado de aprendizaje 1, criterio f",
@@ -115,6 +123,7 @@
       "codigo": "MAD.DAM.1709.RA.1.g",
       "tipo": "criterio_fp",
       "texto": "Se ha valorado la importancia de la existencia de un plan preventivo en la empresa u organismo equiparado que incluya la secuenciación de actuaciones a realizar en caso de emergencia y reflexionado sobre el contenido del mismo.",
+      "codigo_oficial": "g)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VII, módulo 1709, resultado de aprendizaje 1, criterio g",
@@ -127,6 +136,7 @@
       "codigo": "MAD.DAM.1709.RA.1.h",
       "tipo": "criterio_fp",
       "texto": "Se han determinado los requisitos y condiciones para la vigilancia de la salud de la persona trabajadora y su importancia como medida de prevención.",
+      "codigo_oficial": "h)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VII, módulo 1709, resultado de aprendizaje 1, criterio h",
@@ -139,6 +149,7 @@
       "codigo": "MAD.DAM.1709.RA.1.i",
       "tipo": "criterio_fp",
       "texto": "Se han identificado las técnicas básicas de primeros auxilios que han de ser aplicadas en el lugar del accidente ante distintos tipos de daños y la composición y uso del botiquín.",
+      "codigo_oficial": "i)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VII, módulo 1709, resultado de aprendizaje 1, criterio i",
@@ -151,6 +162,7 @@
       "codigo": "MAD.DAM.1709.RA.2",
       "tipo": "resultado_aprendizaje",
       "texto": "Analiza sus condiciones laborales como persona trabajadora por cuenta ajena identificándolas en los principales tipos de cambios y vicisitudes relevantes que se pueden presentar en la relación laboral en la normativa laboral y especialmente en el convenio colectivo del sector.",
+      "codigo_oficial": "2.",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VII, módulo 1709, resultado de aprendizaje 2",
@@ -163,6 +175,7 @@
       "codigo": "MAD.DAM.1709.RA.2.a",
       "tipo": "criterio_fp",
       "texto": "Se han analizado los derechos y obligaciones derivados de la relación laboral, así como las condiciones de trabajo pactadas en un convenio colectivo aplicable al sector profesional relacionado con el título.",
+      "codigo_oficial": "a)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VII, módulo 1709, resultado de aprendizaje 2, criterio a",
@@ -175,6 +188,7 @@
       "codigo": "MAD.DAM.1709.RA.2.b",
       "tipo": "criterio_fp",
       "texto": "Se han comparado las principales modalidades de contratación, localizando los diferentes modelos en las fuentes oficiales.",
+      "codigo_oficial": "b)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VII, módulo 1709, resultado de aprendizaje 2, criterio b",
@@ -187,6 +201,7 @@
       "codigo": "MAD.DAM.1709.RA.2.c",
       "tipo": "criterio_fp",
       "texto": "Se han identificado las características definitorias de los nuevos entornos de organización del trabajo y los derechos que conlleva.",
+      "codigo_oficial": "c)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VII, módulo 1709, resultado de aprendizaje 2, criterio c",
@@ -199,6 +214,7 @@
       "codigo": "MAD.DAM.1709.RA.2.d",
       "tipo": "criterio_fp",
       "texto": "Se han descrito las causas y efectos de la modificación, suspensión y extinción de la relación laboral.",
+      "codigo_oficial": "d)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VII, módulo 1709, resultado de aprendizaje 2, criterio d",
@@ -211,6 +227,7 @@
       "codigo": "MAD.DAM.1709.RA.2.e",
       "tipo": "criterio_fp",
       "texto": "Se han identificado los recursos laborales existentes ante las diferentes vicisitudes que se pueden dar en la relación laboral.",
+      "codigo_oficial": "e)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VII, módulo 1709, resultado de aprendizaje 2, criterio e",
@@ -223,6 +240,7 @@
       "codigo": "MAD.DAM.1709.RA.2.f",
       "tipo": "criterio_fp",
       "texto": "Se han identificado los diferentes componentes del recibo de salario.",
+      "codigo_oficial": "f)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VII, módulo 1709, resultado de aprendizaje 2, criterio f",
@@ -235,6 +253,7 @@
       "codigo": "MAD.DAM.1709.RA.2.g",
       "tipo": "criterio_fp",
       "texto": "Se han detallado las bases de cotización y las cuotas correspondientes a trabajador y empresario en supuestos sencillos.",
+      "codigo_oficial": "g)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VII, módulo 1709, resultado de aprendizaje 2, criterio g",
@@ -247,6 +266,7 @@
       "codigo": "MAD.DAM.1709.RA.2.h",
       "tipo": "criterio_fp",
       "texto": "Se ha valorado el papel de la Seguridad Social como pilar esencial para la mejora de la calidad de vida de los ciudadanos y se han reconocido las diferentes contingencias que cubre el sistema.",
+      "codigo_oficial": "h)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VII, módulo 1709, resultado de aprendizaje 2, criterio h",
@@ -259,6 +279,7 @@
       "codigo": "MAD.DAM.1709.RA.2.i",
       "tipo": "criterio_fp",
       "texto": "Se han analizado las principales prestaciones derivadas de la suspensión y extinción de la relación laboral.",
+      "codigo_oficial": "i)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VII, módulo 1709, resultado de aprendizaje 2, criterio i",
@@ -271,6 +292,7 @@
       "codigo": "MAD.DAM.1709.RA.2.j",
       "tipo": "criterio_fp",
       "texto": "Se ha analizado el contenido del derecho fundamental a la libertad sindical y las distintas modalidades de representación de los trabajadores en la empresa.",
+      "codigo_oficial": "j)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VII, módulo 1709, resultado de aprendizaje 2, criterio j",
@@ -283,6 +305,7 @@
       "codigo": "MAD.DAM.1709.RA.2.k",
       "tipo": "criterio_fp",
       "texto": "Se han analizado las diferentes medidas de conflicto colectivo y los procedimientos de solución de conflictos.",
+      "codigo_oficial": "k)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VII, módulo 1709, resultado de aprendizaje 2, criterio k",
@@ -295,6 +318,7 @@
       "codigo": "MAD.DAM.1709.RA.3",
       "tipo": "resultado_aprendizaje",
       "texto": "Distingue las características del sector productivo y define los puestos de trabajo relacionándolos con las competencias profesionales expresadas en el título.",
+      "codigo_oficial": "3.",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VII, módulo 1709, resultado de aprendizaje 3",
@@ -307,6 +331,7 @@
       "codigo": "MAD.DAM.1709.RA.3.a",
       "tipo": "criterio_fp",
       "texto": "Se han analizado las principales oportunidades de empleo y de inserción laboral en el sector profesional, identificando las posibilidades de empleo y analizado sus requerimientos actuales para el perfil profesional.",
+      "codigo_oficial": "a)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VII, módulo 1709, resultado de aprendizaje 3, criterio a",
@@ -319,6 +344,7 @@
       "codigo": "MAD.DAM.1709.RA.3.b",
       "tipo": "criterio_fp",
       "texto": "Se ha comparado los diferentes requerimientos exigidos por el mercado laboral con las exigencias para el trabajo en la función pública relacionados con el sector privado.",
+      "codigo_oficial": "b)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VII, módulo 1709, resultado de aprendizaje 3, criterio b",
@@ -331,6 +357,7 @@
       "codigo": "MAD.DAM.1709.RA.3.c",
       "tipo": "criterio_fp",
       "texto": "Se ha reflexionado sobre las actitudes y aptitudes requeridas actualmente para la actividad profesional relacionadas con el título, así como las competencias personales y sociales más relevantes para el sector identificando nuestra zona de desarrollo próximo.",
+      "codigo_oficial": "c)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VII, módulo 1709, resultado de aprendizaje 3, criterio c",
@@ -343,6 +370,7 @@
       "codigo": "MAD.DAM.1709.RA.4",
       "tipo": "resultado_aprendizaje",
       "texto": "Analiza y evalúa su potencial profesional y sus intereses para guiarse en el proceso de autoorientación y elabora una hoja de ruta para la inserción profesional en base al análisis de las competencias, intereses y destrezas personales.",
+      "codigo_oficial": "4.",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VII, módulo 1709, resultado de aprendizaje 4",
@@ -355,6 +383,7 @@
       "codigo": "MAD.DAM.1709.RA.4.a",
       "tipo": "criterio_fp",
       "texto": "Se han evaluado los propios intereses, motivaciones, habilidades y destrezas en el marco de un proceso de autoconocimiento.",
+      "codigo_oficial": "a)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VII, módulo 1709, resultado de aprendizaje 4, criterio a",
@@ -367,6 +396,7 @@
       "codigo": "MAD.DAM.1709.RA.4.b",
       "tipo": "criterio_fp",
       "texto": "Se han analizado las cualidades y competencias personales afines a la actividad profesional relacionada con el perfil del título.",
+      "codigo_oficial": "b)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VII, módulo 1709, resultado de aprendizaje 4, criterio b",
@@ -379,6 +409,7 @@
       "codigo": "MAD.DAM.1709.RA.4.c",
       "tipo": "criterio_fp",
       "texto": "Se han determinado las competencias personales y sociales con valor para el empleo.",
+      "codigo_oficial": "c)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VII, módulo 1709, resultado de aprendizaje 4, criterio c",
@@ -391,6 +422,7 @@
       "codigo": "MAD.DAM.1709.RA.4.d",
       "tipo": "criterio_fp",
       "texto": "Se han señalado las preferencias profesionales, intereses y metas en el marco de un proyecto profesional.",
+      "codigo_oficial": "d)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VII, módulo 1709, resultado de aprendizaje 4, criterio d",
@@ -403,6 +435,7 @@
       "codigo": "MAD.DAM.1709.RA.4.e",
       "tipo": "criterio_fp",
       "texto": "Se ha valorado el concepto de autoestima en el proceso de búsqueda de empleo.",
+      "codigo_oficial": "e)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VII, módulo 1709, resultado de aprendizaje 4, criterio e",
@@ -415,6 +448,7 @@
       "codigo": "MAD.DAM.1709.RA.4.f",
       "tipo": "criterio_fp",
       "texto": "Se han identificado las fortalezas, debilidades, amenazas y oportunidades propias para la inserción profesional.",
+      "codigo_oficial": "f)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VII, módulo 1709, resultado de aprendizaje 4, criterio f",
@@ -427,6 +461,7 @@
       "codigo": "MAD.DAM.1709.RA.4.g",
       "tipo": "criterio_fp",
       "texto": "Se han identificado expectativas de futuro para inserción profesional analizando competencias, intereses y destrezas personales.",
+      "codigo_oficial": "g)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VII, módulo 1709, resultado de aprendizaje 4, criterio g",
@@ -439,6 +474,7 @@
       "codigo": "MAD.DAM.1709.RA.4.h",
       "tipo": "criterio_fp",
       "texto": "Se han valorado hitos importantes en la trayectoria vital con valor profesionalizador.",
+      "codigo_oficial": "h)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VII, módulo 1709, resultado de aprendizaje 4, criterio h",
@@ -451,6 +487,7 @@
       "codigo": "MAD.DAM.1709.RA.4.i",
       "tipo": "criterio_fp",
       "texto": "Se han identificado los itinerarios formativos profesionales relacionados con el perfil profesional.",
+      "codigo_oficial": "i)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VII, módulo 1709, resultado de aprendizaje 4, criterio i",
@@ -463,6 +500,7 @@
       "codigo": "MAD.DAM.1709.RA.4.j",
       "tipo": "criterio_fp",
       "texto": "Se han formulado objetivos profesionales y se ha determinado metas personales y profesionales para la mejora de la empleabilidad y las condiciones de inserción laboral.",
+      "codigo_oficial": "j)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VII, módulo 1709, resultado de aprendizaje 4, criterio j",
@@ -475,6 +513,7 @@
       "codigo": "MAD.DAM.1709.RA.4.k",
       "tipo": "criterio_fp",
       "texto": "Se ha trazado un plan de acción para desarrollar las áreas de mejora y potenciar las fortalezas personales con valor para el empleo.",
+      "codigo_oficial": "k)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VII, módulo 1709, resultado de aprendizaje 4, criterio k",
@@ -487,6 +526,7 @@
       "codigo": "MAD.DAM.1709.RA.5",
       "tipo": "resultado_aprendizaje",
       "texto": "Aplica las estrategias para el aprendizaje autónomo reconociendo su valor profesionalizador, diseñando y optimizando su propio entorno de aprendizaje haciendo uso de las tecnologías digitales como herramientas de aprendizaje autónomo, siendo coherente con su identidad digital y sus propios objetivos profesionales planteados en su plan de desarrollo individual.",
+      "codigo_oficial": "5.",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VII, módulo 1709, resultado de aprendizaje 5",
@@ -499,6 +539,7 @@
       "codigo": "MAD.DAM.1709.RA.5.a",
       "tipo": "criterio_fp",
       "texto": "Se ha tomado conciencia de la responsabilidad individual en el desarrollo profesional valorando la actitud de aprendizaje permanente para el desarrollo de propias y nuevas competencias.",
+      "codigo_oficial": "a)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VII, módulo 1709, resultado de aprendizaje 5, criterio a",
@@ -511,6 +552,7 @@
       "codigo": "MAD.DAM.1709.RA.5.b",
       "tipo": "criterio_fp",
       "texto": "Se ha identificado la empleabilidad como capacidad de adaptación al entorno laboral.",
+      "codigo_oficial": "b)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VII, módulo 1709, resultado de aprendizaje 5, criterio b",
@@ -523,6 +565,7 @@
       "codigo": "MAD.DAM.1709.RA.5.c",
       "tipo": "criterio_fp",
       "texto": "Se han conocido y utilizado herramientas, fuentes de información, conexiones y actividades para la configuración de un entorno personal de aprendizaje para la empleabilidad.",
+      "codigo_oficial": "c)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VII, módulo 1709, resultado de aprendizaje 5, criterio c",
@@ -535,6 +578,7 @@
       "codigo": "MAD.DAM.1709.RA.5.d",
       "tipo": "criterio_fp",
       "texto": "Se ha puesto en práctica la competencia digital para configurar un entorno personal de aprendizaje para la empleabilidad.",
+      "codigo_oficial": "d)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VII, módulo 1709, resultado de aprendizaje 5, criterio d",
@@ -547,6 +591,7 @@
       "codigo": "MAD.DAM.1709.RA.5.e",
       "tipo": "criterio_fp",
       "texto": "Se ha analizado el concepto de identidad digital y su impacto en la empleabilidad.",
+      "codigo_oficial": "e)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VII, módulo 1709, resultado de aprendizaje 5, criterio e",
@@ -559,6 +604,7 @@
       "codigo": "MAD.DAM.1709.RA.5.f",
       "tipo": "criterio_fp",
       "texto": "Se ha justificado el diseño de su entorno de aprendizaje basado en cómo este mejora la empleabilidad.",
+      "codigo_oficial": "f)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VII, módulo 1709, resultado de aprendizaje 5, criterio f",
@@ -571,6 +617,7 @@
       "codigo": "MAD.DAM.1709.RA.5.g",
       "tipo": "criterio_fp",
       "texto": "Se ha elaborado su plan de desarrollo individual como herramienta para la mejora de la empleabilidad.",
+      "codigo_oficial": "g)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VII, módulo 1709, resultado de aprendizaje 5, criterio g",
@@ -583,6 +630,7 @@
       "codigo": "MAD.DAM.1709.RA.5.h",
       "tipo": "criterio_fp",
       "texto": "Se han aplicado las herramientas de aprendizaje autónomo para su desarrollo personal y profesional.",
+      "codigo_oficial": "h)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VII, módulo 1709, resultado de aprendizaje 5, criterio h",
@@ -595,6 +643,7 @@
       "codigo": "MAD.DAM.1709.RA.5.i",
       "tipo": "criterio_fp",
       "texto": "Se ha diseñado el entorno de aprendizaje que permite alcanzar el plan de desarrollo individual.",
+      "codigo_oficial": "i)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VII, módulo 1709, resultado de aprendizaje 5, criterio i",
@@ -607,6 +656,7 @@
       "codigo": "MAD.DAM.1709.CO.1",
       "tipo": "contenido",
       "texto": "Funciones del nivel básico en Prevención de Riesgos Laborales.",
+      "codigo_oficial": "1.",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VII",
@@ -619,6 +669,7 @@
       "codigo": "MAD.DAM.1709.CO.1.1",
       "tipo": "contenido",
       "texto": "El trabajo y la salud. Análisis de las condiciones de trabajo y su impacto en la salud del trabajador.",
+      "codigo_oficial": "a)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VII",
@@ -631,6 +682,7 @@
       "codigo": "MAD.DAM.1709.CO.1.2",
       "tipo": "contenido",
       "texto": "Identificación y clasificación de los factores de riesgo en general y, en concreto, en el sector profesional del título del ciclo formativo.",
+      "codigo_oficial": "b)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VII",
@@ -643,6 +695,7 @@
       "codigo": "MAD.DAM.1709.CO.1.3",
       "tipo": "contenido",
       "texto": "Daños derivados del trabajo: Accidentes de trabajo. Enfermedades profesionales. Otras patologías derivadas de la actividad laboral.",
+      "codigo_oficial": "c)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VII",
@@ -655,6 +708,7 @@
       "codigo": "MAD.DAM.1709.CO.1.4",
       "tipo": "contenido",
       "texto": "Marco normativo básico. Derechos y deberes básicos de trabajadores y empresarios.",
+      "codigo_oficial": "d)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VII",
@@ -667,6 +721,7 @@
       "codigo": "MAD.DAM.1709.CO.1.5",
       "tipo": "contenido",
       "texto": "Riesgos laborales generales relacionados con las condiciones de seguridad, las condiciones medioambientales, las condiciones ergonómicas y las condiciones psicosociales.",
+      "codigo_oficial": "e)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VII",
@@ -679,6 +734,7 @@
       "codigo": "MAD.DAM.1709.CO.1.6",
       "tipo": "contenido",
       "texto": "Riesgos laborales específicos y sus posibles consecuencias para la seguridad y salud de los trabajadores, en el sector en el que se ubica el título.",
+      "codigo_oficial": "f)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VII",
@@ -691,6 +747,7 @@
       "codigo": "MAD.DAM.1709.CO.1.7",
       "tipo": "contenido",
       "texto": "Medidas de prevención y protección de riesgos laborales. Medidas de prevención. Principios y técnicas de prevención. Medidas de protección colectiva. La señalización de seguridad. Medidas de protección individual. Los equipos de protección individual. Especial protección a colectivos específicos.",
+      "codigo_oficial": "g)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VII",
@@ -703,6 +760,7 @@
       "codigo": "MAD.DAM.1709.CO.1.8",
       "tipo": "contenido",
       "texto": "Aplicación de las medidas de prevención y protección en el sector profesional en el que se ubica el título.",
+      "codigo_oficial": "h)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VII",
@@ -715,6 +773,7 @@
       "codigo": "MAD.DAM.1709.CO.1.9",
       "tipo": "contenido",
       "texto": "Organismos públicos relacionados con la seguridad y salud en el trabajo.",
+      "codigo_oficial": "i)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VII",
@@ -727,6 +786,7 @@
       "codigo": "MAD.DAM.1709.CO.1.10",
       "tipo": "contenido",
       "texto": "Plan de prevención de riesgos laborales. Evaluación de riesgos. Organización y planificación de la prevención. Plan de Autoprotección: planes de emergencia y de evacuación.",
+      "codigo_oficial": "j)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VII",
@@ -739,6 +799,7 @@
       "codigo": "MAD.DAM.1709.CO.1.11",
       "tipo": "contenido",
       "texto": "Primeros auxilios: concepto y principios generales y protocolo de actuación ante situaciones de emergencia. Técnicas básicas de primeros auxilios aplicadas en el lugar del accidente. Actuación en función de las lesiones. El botiquín de primeros auxilios: composición y uso.",
+      "codigo_oficial": "k)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VII",
@@ -751,6 +812,7 @@
       "codigo": "MAD.DAM.1709.CO.2",
       "tipo": "contenido",
       "texto": "La relación laboral. Acción protectora del sistema de Seguridad Social.",
+      "codigo_oficial": "2.",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VII",
@@ -763,6 +825,7 @@
       "codigo": "MAD.DAM.1709.CO.2.1",
       "tipo": "contenido",
       "texto": "El derecho del trabajo. Marco jurídico. Derechos y deberes derivados de las relaciones laborales.",
+      "codigo_oficial": "a)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VII",
@@ -775,6 +838,7 @@
       "codigo": "MAD.DAM.1709.CO.2.2",
       "tipo": "contenido",
       "texto": "El contrato de trabajo. Modalidades de contrato. El periodo de prueba. Flexibilidad en la organización del trabajo. Conciliación. Tiempos de trabajo: análisis en el convenio aplicable al sector profesional del título del ciclo formativo.",
+      "codigo_oficial": "b)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VII",
@@ -787,6 +851,7 @@
       "codigo": "MAD.DAM.1709.CO.2.3",
       "tipo": "contenido",
       "texto": "El recibo del salario. Condiciones económicas establecidas en el convenio colectivo aplicable al sector profesional del título del ciclo formativo.",
+      "codigo_oficial": "c)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VII",
@@ -799,6 +864,7 @@
       "codigo": "MAD.DAM.1709.CO.2.4",
       "tipo": "contenido",
       "texto": "Modificación, suspensión y extinción del contrato de trabajo. Procedimiento de reclamación judicial.",
+      "codigo_oficial": "d)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VII",
@@ -811,6 +877,7 @@
       "codigo": "MAD.DAM.1709.CO.2.5",
       "tipo": "contenido",
       "texto": "La Seguridad Social. Estructura del sistema. Principales obligaciones de empresarios y trabajadores en materia de Seguridad Social. Acción protectora: contingencias y principales prestaciones económicas. Incapacidad temporal. La protección por desempleo: situación legal de desempleo, prestación, subsidio y otras ayudas.",
+      "codigo_oficial": "e)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VII",
@@ -823,6 +890,7 @@
       "codigo": "MAD.DAM.1709.CO.2.6",
       "tipo": "contenido",
       "texto": "La representación de los trabajadores. Medidas de conflicto colectivo. Procedimientos de resolución de conflictos.",
+      "codigo_oficial": "f)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VII",
@@ -835,6 +903,7 @@
       "codigo": "MAD.DAM.1709.CO.3",
       "tipo": "contenido",
       "texto": "El sector productivo y su relación con el perfil profesional del título.",
+      "codigo_oficial": "3.",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VII",
@@ -847,6 +916,7 @@
       "codigo": "MAD.DAM.1709.CO.3.1",
       "tipo": "contenido",
       "texto": "Análisis del sector profesional del título del ciclo formativo. Coyuntura laboral.",
+      "codigo_oficial": "a)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VII",
@@ -859,6 +929,7 @@
       "codigo": "MAD.DAM.1709.CO.3.2",
       "tipo": "contenido",
       "texto": "Tendencias del mercado laboral y oportunidades emergentes.",
+      "codigo_oficial": "b)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VII",
@@ -871,6 +942,7 @@
       "codigo": "MAD.DAM.1709.CO.3.3",
       "tipo": "contenido",
       "texto": "Las competencias personales y sociales más demandadas en el mercado laboral actual. Identificación de las más relevantes en el sector profesional del título del ciclo formativo. Actitudes y aptitudes profesionales.",
+      "codigo_oficial": "c)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VII",
@@ -883,6 +955,7 @@
       "codigo": "MAD.DAM.1709.CO.3.4",
       "tipo": "contenido",
       "texto": "Identificación y descripción de los puestos de trabajo relacionados con los perfiles profesionales del título.",
+      "codigo_oficial": "d)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VII",
@@ -895,6 +968,7 @@
       "codigo": "MAD.DAM.1709.CO.3.5",
       "tipo": "contenido",
       "texto": "Análisis de las competencias profesionales y requisitos para el ingreso en la Administración pública.",
+      "codigo_oficial": "e)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VII",
@@ -907,6 +981,7 @@
       "codigo": "MAD.DAM.1709.CO.4",
       "tipo": "contenido",
       "texto": "El potencial profesional: autoorientación para la inserción profesional.",
+      "codigo_oficial": "4.",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VII",
@@ -919,6 +994,7 @@
       "codigo": "MAD.DAM.1709.CO.4.1",
       "tipo": "contenido",
       "texto": "Análisis del potencial profesional. Competencias personales y profesionales. Los intereses y la motivación. La aceptación y la autoestima como claves para la mejora de la empleabilidad. Acciones para mejorar y enriquecer nuestras competencias.",
+      "codigo_oficial": "a)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VII",
@@ -931,6 +1007,7 @@
       "codigo": "MAD.DAM.1709.CO.4.2",
       "tipo": "contenido",
       "texto": "Autoanálisis de las fortalezas, debilidades, amenazas y oportunidades para el empleo.",
+      "codigo_oficial": "b)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VII",
@@ -943,6 +1020,7 @@
       "codigo": "MAD.DAM.1709.CO.4.3",
       "tipo": "contenido",
       "texto": "Identificación de itinerarios formativos profesionales relacionados con el título del ciclo formativo. Oportunidades de formación y educación en Europa.",
+      "codigo_oficial": "c)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VII",
@@ -955,6 +1033,7 @@
       "codigo": "MAD.DAM.1709.CO.4.4",
       "tipo": "contenido",
       "texto": "El curriculum vitae. Aspectos esenciales. Tipos. Modelos. Herramientas digitales para su elaboración. La carta de motivación. El Curriculum Europass. Oportunidades de empleo en Europa.",
+      "codigo_oficial": "d)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VII",
@@ -967,6 +1046,7 @@
       "codigo": "MAD.DAM.1709.CO.5",
       "tipo": "contenido",
       "texto": "El aprendizaje autónomo.",
+      "codigo_oficial": "5.",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VII",
@@ -979,6 +1059,7 @@
       "codigo": "MAD.DAM.1709.CO.5.1",
       "tipo": "contenido",
       "texto": "Creación de un entorno personal de aprendizaje. Identificación de necesidades de aprendizaje. Fuentes de información. Herramientas digitales para crear y organizar información y contenidos de aprendizaje. Red personal de aprendizaje: redes sociales, profesionales y de comunicación.",
+      "codigo_oficial": "a)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VII",
@@ -991,6 +1072,7 @@
       "codigo": "MAD.DAM.1709.CO.5.2",
       "tipo": "contenido",
       "texto": "El plan de desarrollo personal (PDP) como herramienta para maximizar el potencial y el desarrollo personal y profesional. Evaluación periódica del progreso.",
+      "codigo_oficial": "b)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VII",
@@ -1003,6 +1085,7 @@
       "codigo": "MAD.DAM.1709.CO.5.3",
       "tipo": "contenido",
       "texto": "La identidad digital. Concepto y características. Riesgos derivados de una gestión inadecuada. Protección de datos personales e identidad digital. Relevancia para el empleo.",
+      "codigo_oficial": "c)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VII",

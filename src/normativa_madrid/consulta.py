@@ -12,6 +12,7 @@ from __future__ import annotations
 
 import re
 import unicodedata
+from collections.abc import Iterable
 from datetime import date, datetime
 from typing import TypedDict
 from zoneinfo import ZoneInfo
@@ -112,6 +113,7 @@ def ficha(
         desde=_iso(f.desde),
         normas=tuple(_ref(datos, n) for n in f.normas),
         elementos=tuple(_fragmento(datos, e) for e in f.elementos),
+        avisos=_avisos(f.elementos),
     )
 
 
@@ -135,6 +137,7 @@ def elemento(
         ficha=f.codigo,
         desde=_iso(f.desde),
         elemento=_fragmento(datos, e),
+        avisos=_avisos([e]),
     )
 
 
@@ -229,12 +232,14 @@ def buscar(
     return salida.Resultados(
         **_cabecera(datos, curso, vigente),
         total=len(hallados),
+        avisos=_avisos([e for _, e in hallados[:MAX_RESULTADOS]]),
         resultados=tuple(
             salida.Resultado(
                 codigo=e.codigo,
                 ficha=f.codigo,
                 tipo=e.tipo,
                 texto=e.texto,
+                codigo_oficial=e.codigo_oficial,
                 procedencia=_procedencia(datos, e.procedencia),
             )
             for f, e in hallados[:MAX_RESULTADOS]
@@ -273,6 +278,7 @@ def programacion(
         etapa=clave,
         ficha=f.codigo,
         requisitos=requisitos,
+        avisos=_avisos([e for e in f.elementos if e.tipo == "requisito_programacion"]),
     )
 
 
@@ -359,6 +365,14 @@ def _procedencia(datos: Indice, p: Procedencia) -> salida.ProcedenciaSalida:
     )
 
 
+def _avisos(elementos: Iterable[Elemento]) -> tuple[salida.AvisoSalida, ...]:
+    """El aviso de numeración no oficial si algún elemento no lleva ``codigo_oficial``."""
+    if all(e.codigo_oficial is not None for e in elementos):
+        return ()
+    codigo = salida.NUMERACION_NO_OFICIAL
+    return (salida.AvisoSalida(codigo=codigo, detalle=salida.AVISOS[codigo]),)
+
+
 def _fragmento(datos: Indice, e: Elemento) -> salida.Fragmento:
     relaciones: dict[str, tuple[salida.RelacionSalida, ...]] = {}
     for nombre, codigos in e.relaciones.items():
@@ -375,6 +389,7 @@ def _fragmento(datos: Indice, e: Elemento) -> salida.Fragmento:
         codigo=e.codigo,
         tipo=e.tipo,
         texto=e.texto,
+        codigo_oficial=e.codigo_oficial,
         procedencia=_procedencia(datos, e.procedencia),
         padre=e.padre,
         orden=e.orden,

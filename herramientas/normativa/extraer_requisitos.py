@@ -157,6 +157,7 @@ def construir_ficha(ficha: dict[str, Any], leer_fuente: Callable[[str], Fuente])
             "codigo": e.codigo,
             "tipo": TIPO,
             "texto": extraer_texto(e, leer_fuente(e.norma)),
+            "codigo_oficial": None,  # el boletín no numera los requisitos; su código es del paquete
             "procedencia": {"norma": e.norma, "ubicacion": e.ubicacion, "pagina": e.pagina},
             "orden": orden,
         }

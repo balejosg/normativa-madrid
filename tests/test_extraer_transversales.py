@@ -110,7 +110,9 @@ def test_contenidos_de_la_orden_apartados_y_letras():
         "nivel": 1,
         "texto": "La sostenibilidad en el entorno actual.",
         "pagina": 286,
+        "marca": "1.",
     }
+    assert items[1]["marca"] == "a)"
     assert items[1]["texto"].startswith("La sostenibilidad: definición e importancia")
     # una línea justificada con huecos largos queda con espacios simples
     assert items[2]["texto"] == (

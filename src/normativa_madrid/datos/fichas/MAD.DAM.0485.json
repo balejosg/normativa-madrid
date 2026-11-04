@@ -17,6 +17,7 @@
       "codigo": "MAD.DAM.0485",
       "tipo": "modulo",
       "texto": "Programación",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20241115-2",
         "ubicacion": "anexo II",
@@ -32,6 +33,7 @@
       "codigo": "MAD.DAM.0485.RA.1",
       "tipo": "resultado_aprendizaje",
       "texto": "Reconoce la estructura de un programa informático, identificando y relacionando los elementos propios del lenguaje de programación utilizado.",
+      "codigo_oficial": "1.",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, resultado de aprendizaje 1",
@@ -51,6 +53,7 @@
       "codigo": "MAD.DAM.0485.RA.1.a",
       "tipo": "criterio_fp",
       "texto": "Se han identificado los bloques que componen la estructura de un programa informático.",
+      "codigo_oficial": "a)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, resultado de aprendizaje 1, criterio a",
@@ -70,6 +73,7 @@
       "codigo": "MAD.DAM.0485.RA.1.b",
       "tipo": "criterio_fp",
       "texto": "Se han creado proyectos de desarrollo de aplicaciones.",
+      "codigo_oficial": "b)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, resultado de aprendizaje 1, criterio b",
@@ -89,6 +93,7 @@
       "codigo": "MAD.DAM.0485.RA.1.c",
       "tipo": "criterio_fp",
       "texto": "Se han utilizado entornos integrados de desarrollo.",
+      "codigo_oficial": "c)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, resultado de aprendizaje 1, criterio c",
@@ -108,6 +113,7 @@
       "codigo": "MAD.DAM.0485.RA.1.d",
       "tipo": "criterio_fp",
       "texto": "Se han identificado los distintos tipos de variables y la utilidad específica de cada uno.",
+      "codigo_oficial": "d)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, resultado de aprendizaje 1, criterio d",
@@ -127,6 +133,7 @@
       "codigo": "MAD.DAM.0485.RA.1.e",
       "tipo": "criterio_fp",
       "texto": "Se ha modificado el código de un programa para crear y utilizar variables.",
+      "codigo_oficial": "e)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, resultado de aprendizaje 1, criterio e",
@@ -146,6 +153,7 @@
       "codigo": "MAD.DAM.0485.RA.1.f",
       "tipo": "criterio_fp",
       "texto": "Se han creado y utilizado constantes y literales.",
+      "codigo_oficial": "f)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, resultado de aprendizaje 1, criterio f",
@@ -165,6 +173,7 @@
       "codigo": "MAD.DAM.0485.RA.1.g",
       "tipo": "criterio_fp",
       "texto": "Se han clasificado, reconocido y utilizado en expresiones los operadores del lenguaje.",
+      "codigo_oficial": "g)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, resultado de aprendizaje 1, criterio g",
@@ -184,6 +193,7 @@
       "codigo": "MAD.DAM.0485.RA.1.h",
       "tipo": "criterio_fp",
       "texto": "Se ha comprobado el funcionamiento de las conversiones de tipo explícitas e implícitas.",
+      "codigo_oficial": "h)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, resultado de aprendizaje 1, criterio h",
@@ -203,6 +213,7 @@
       "codigo": "MAD.DAM.0485.RA.1.i",
       "tipo": "criterio_fp",
       "texto": "Se han introducido comentarios en el código.",
+      "codigo_oficial": "i)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, resultado de aprendizaje 1, criterio i",
@@ -222,6 +233,7 @@
       "codigo": "MAD.DAM.0485.RA.2",
       "tipo": "resultado_aprendizaje",
       "texto": "Escribe y prueba programas sencillos, reconociendo y aplicando los fundamentos de la programación orientada a objetos.",
+      "codigo_oficial": "2.",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, resultado de aprendizaje 2",
@@ -241,6 +253,7 @@
       "codigo": "MAD.DAM.0485.RA.2.a",
       "tipo": "criterio_fp",
       "texto": "Se han identificado los fundamentos de la programación orientada a objetos.",
+      "codigo_oficial": "a)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, resultado de aprendizaje 2, criterio a",
@@ -260,6 +273,7 @@
       "codigo": "MAD.DAM.0485.RA.2.b",
       "tipo": "criterio_fp",
       "texto": "Se han escrito programas simples.",
+      "codigo_oficial": "b)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, resultado de aprendizaje 2, criterio b",
@@ -279,6 +293,7 @@
       "codigo": "MAD.DAM.0485.RA.2.c",
       "tipo": "criterio_fp",
       "texto": "Se han instanciado objetos a partir de clases predefinidas.",
+      "codigo_oficial": "c)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, resultado de aprendizaje 2, criterio c",
@@ -298,6 +313,7 @@
       "codigo": "MAD.DAM.0485.RA.2.d",
       "tipo": "criterio_fp",
       "texto": "Se han utilizado métodos y propiedades de los objetos.",
+      "codigo_oficial": "d)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, resultado de aprendizaje 2, criterio d",
@@ -317,6 +333,7 @@
       "codigo": "MAD.DAM.0485.RA.2.e",
       "tipo": "criterio_fp",
       "texto": "Se han escrito llamadas a métodos estáticos.",
+      "codigo_oficial": "e)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, resultado de aprendizaje 2, criterio e",
@@ -336,6 +353,7 @@
       "codigo": "MAD.DAM.0485.RA.2.f",
       "tipo": "criterio_fp",
       "texto": "Se han utilizado parámetros en la llamada a métodos.",
+      "codigo_oficial": "f)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, resultado de aprendizaje 2, criterio f",
@@ -355,6 +373,7 @@
       "codigo": "MAD.DAM.0485.RA.2.g",
       "tipo": "criterio_fp",
       "texto": "Se han incorporado y utilizado librerías de objetos.",
+      "codigo_oficial": "g)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, resultado de aprendizaje 2, criterio g",
@@ -374,6 +393,7 @@
       "codigo": "MAD.DAM.0485.RA.2.h",
       "tipo": "criterio_fp",
       "texto": "Se han utilizado constructores.",
+      "codigo_oficial": "h)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, resultado de aprendizaje 2, criterio h",
@@ -393,6 +413,7 @@
       "codigo": "MAD.DAM.0485.RA.2.i",
       "tipo": "criterio_fp",
       "texto": "Se ha utilizado el entorno integrado de desarrollo en la creación y compilación de programas simples.",
+      "codigo_oficial": "i)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, resultado de aprendizaje 2, criterio i",
@@ -412,6 +433,7 @@
       "codigo": "MAD.DAM.0485.RA.3",
       "tipo": "resultado_aprendizaje",
       "texto": "Escribe y depura código, analizando y utilizando las estructuras de control del lenguaje.",
+      "codigo_oficial": "3.",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, resultado de aprendizaje 3",
@@ -431,6 +453,7 @@
       "codigo": "MAD.DAM.0485.RA.3.a",
       "tipo": "criterio_fp",
       "texto": "Se ha escrito y probado código que haga uso de estructuras de selección.",
+      "codigo_oficial": "a)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, resultado de aprendizaje 3, criterio a",
@@ -450,6 +473,7 @@
       "codigo": "MAD.DAM.0485.RA.3.b",
       "tipo": "criterio_fp",
       "texto": "Se han utilizado estructuras de repetición.",
+      "codigo_oficial": "b)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, resultado de aprendizaje 3, criterio b",
@@ -469,6 +493,7 @@
       "codigo": "MAD.DAM.0485.RA.3.c",
       "tipo": "criterio_fp",
       "texto": "Se han reconocido las posibilidades de las sentencias de salto.",
+      "codigo_oficial": "c)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, resultado de aprendizaje 3, criterio c",
@@ -488,6 +513,7 @@
       "codigo": "MAD.DAM.0485.RA.3.d",
       "tipo": "criterio_fp",
       "texto": "Se ha escrito código utilizando control de excepciones.",
+      "codigo_oficial": "d)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, resultado de aprendizaje 3, criterio d",
@@ -507,6 +533,7 @@
       "codigo": "MAD.DAM.0485.RA.3.e",
       "tipo": "criterio_fp",
       "texto": "Se han creado programas ejecutables utilizando diferentes estructuras de control.",
+      "codigo_oficial": "e)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, resultado de aprendizaje 3, criterio e",
@@ -526,6 +553,7 @@
       "codigo": "MAD.DAM.0485.RA.3.f",
       "tipo": "criterio_fp",
       "texto": "Se han probado y depurado los programas.",
+      "codigo_oficial": "f)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, resultado de aprendizaje 3, criterio f",
@@ -545,6 +573,7 @@
       "codigo": "MAD.DAM.0485.RA.3.g",
       "tipo": "criterio_fp",
       "texto": "Se ha comentado y documentado el código.",
+      "codigo_oficial": "g)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, resultado de aprendizaje 3, criterio g",
@@ -564,6 +593,7 @@
       "codigo": "MAD.DAM.0485.RA.3.h",
       "tipo": "criterio_fp",
       "texto": "Se han creado excepciones.",
+      "codigo_oficial": "h)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, resultado de aprendizaje 3, criterio h",
@@ -583,6 +613,7 @@
       "codigo": "MAD.DAM.0485.RA.3.i",
       "tipo": "criterio_fp",
       "texto": "Se han utilizado aserciones para la detección y corrección de errores durante la fase de desarrollo.",
+      "codigo_oficial": "i)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, resultado de aprendizaje 3, criterio i",
@@ -602,6 +633,7 @@
       "codigo": "MAD.DAM.0485.RA.4",
       "tipo": "resultado_aprendizaje",
       "texto": "Desarrolla programas organizados en clases analizando y aplicando los principios de la programación orientada a objetos.",
+      "codigo_oficial": "4.",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, resultado de aprendizaje 4",
@@ -621,6 +653,7 @@
       "codigo": "MAD.DAM.0485.RA.4.a",
       "tipo": "criterio_fp",
       "texto": "Se ha reconocido la sintaxis, estructura y componentes típicos de una clase.",
+      "codigo_oficial": "a)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, resultado de aprendizaje 4, criterio a",
@@ -640,6 +673,7 @@
       "codigo": "MAD.DAM.0485.RA.4.b",
       "tipo": "criterio_fp",
       "texto": "Se han definido clases.",
+      "codigo_oficial": "b)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, resultado de aprendizaje 4, criterio b",
@@ -659,6 +693,7 @@
       "codigo": "MAD.DAM.0485.RA.4.c",
       "tipo": "criterio_fp",
       "texto": "Se han definido propiedades y métodos.",
+      "codigo_oficial": "c)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, resultado de aprendizaje 4, criterio c",
@@ -678,6 +713,7 @@
       "codigo": "MAD.DAM.0485.RA.4.d",
       "tipo": "criterio_fp",
       "texto": "Se han creado constructores.",
+      "codigo_oficial": "d)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, resultado de aprendizaje 4, criterio d",
@@ -697,6 +733,7 @@
       "codigo": "MAD.DAM.0485.RA.4.e",
       "tipo": "criterio_fp",
       "texto": "Se han desarrollado programas que instancien y utilicen objetos de las clases creadas anteriormente.",
+      "codigo_oficial": "e)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, resultado de aprendizaje 4, criterio e",
@@ -716,6 +753,7 @@
       "codigo": "MAD.DAM.0485.RA.4.f",
       "tipo": "criterio_fp",
       "texto": "Se han utilizado mecanismos para controlar la visibilidad de las clases y de sus miembros.",
+      "codigo_oficial": "f)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, resultado de aprendizaje 4, criterio f",
@@ -735,6 +773,7 @@
       "codigo": "MAD.DAM.0485.RA.4.g",
       "tipo": "criterio_fp",
       "texto": "Se han definido y utilizado clases heredadas.",
+      "codigo_oficial": "g)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, resultado de aprendizaje 4, criterio g",
@@ -754,6 +793,7 @@
       "codigo": "MAD.DAM.0485.RA.4.h",
       "tipo": "criterio_fp",
       "texto": "Se han creado y utilizado métodos estáticos.",
+      "codigo_oficial": "h)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, resultado de aprendizaje 4, criterio h",
@@ -773,6 +813,7 @@
       "codigo": "MAD.DAM.0485.RA.4.i",
       "tipo": "criterio_fp",
       "texto": "Se han creado y utilizado conjuntos y librerías de clases.",
+      "codigo_oficial": "i)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, resultado de aprendizaje 4, criterio i",
@@ -792,6 +833,7 @@
       "codigo": "MAD.DAM.0485.RA.5",
       "tipo": "resultado_aprendizaje",
       "texto": "Realiza operaciones de entrada y salida de información, utilizando procedimientos específicos del lenguaje y librerías de clases.",
+      "codigo_oficial": "5.",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, resultado de aprendizaje 5",
@@ -811,6 +853,7 @@
       "codigo": "MAD.DAM.0485.RA.5.a",
       "tipo": "criterio_fp",
       "texto": "Se ha utilizado la consola para realizar operaciones de entrada y salida de información.",
+      "codigo_oficial": "a)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, resultado de aprendizaje 5, criterio a",
@@ -830,6 +873,7 @@
       "codigo": "MAD.DAM.0485.RA.5.b",
       "tipo": "criterio_fp",
       "texto": "Se han aplicado formatos en la visualización de la información.",
+      "codigo_oficial": "b)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, resultado de aprendizaje 5, criterio b",
@@ -849,6 +893,7 @@
       "codigo": "MAD.DAM.0485.RA.5.c",
       "tipo": "criterio_fp",
       "texto": "Se han reconocido las posibilidades de entrada / salida del lenguaje y las librerías asociadas.",
+      "codigo_oficial": "c)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, resultado de aprendizaje 5, criterio c",
@@ -868,6 +913,7 @@
       "codigo": "MAD.DAM.0485.RA.5.d",
       "tipo": "criterio_fp",
       "texto": "Se han utilizado ficheros para almacenar y recuperar información.",
+      "codigo_oficial": "d)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, resultado de aprendizaje 5, criterio d",
@@ -887,6 +933,7 @@
       "codigo": "MAD.DAM.0485.RA.5.e",
       "tipo": "criterio_fp",
       "texto": "Se han creado programas que utilicen diversos métodos de acceso al contenido de los ficheros.",
+      "codigo_oficial": "e)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, resultado de aprendizaje 5, criterio e",
@@ -906,6 +953,7 @@
       "codigo": "MAD.DAM.0485.RA.5.f",
       "tipo": "criterio_fp",
       "texto": "Se han utilizado las herramientas del entorno de desarrollo para crear interfaces gráficos de usuario simples.",
+      "codigo_oficial": "f)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, resultado de aprendizaje 5, criterio f",
@@ -925,6 +973,7 @@
       "codigo": "MAD.DAM.0485.RA.5.g",
       "tipo": "criterio_fp",
       "texto": "Se han programado controladores de eventos.",
+      "codigo_oficial": "g)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, resultado de aprendizaje 5, criterio g",
@@ -944,6 +993,7 @@
       "codigo": "MAD.DAM.0485.RA.5.h",
       "tipo": "criterio_fp",
       "texto": "Se han escrito programas que utilicen interfaces gráficos para la entrada y salida de información.",
+      "codigo_oficial": "h)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, resultado de aprendizaje 5, criterio h",
@@ -963,6 +1013,7 @@
       "codigo": "MAD.DAM.0485.RA.6",
       "tipo": "resultado_aprendizaje",
       "texto": "Escribe programas que manipulen información seleccionando y utilizando tipos avanzados de datos.",
+      "codigo_oficial": "6.",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, resultado de aprendizaje 6",
@@ -982,6 +1033,7 @@
       "codigo": "MAD.DAM.0485.RA.6.a",
       "tipo": "criterio_fp",
       "texto": "Se han escrito programas que utilicen matrices (arrays).",
+      "codigo_oficial": "a)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, resultado de aprendizaje 6, criterio a",
@@ -1001,6 +1053,7 @@
       "codigo": "MAD.DAM.0485.RA.6.b",
       "tipo": "criterio_fp",
       "texto": "Se han reconocido las librerías de clases relacionadas con tipos de datos avanzados.",
+      "codigo_oficial": "b)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, resultado de aprendizaje 6, criterio b",
@@ -1020,6 +1073,7 @@
       "codigo": "MAD.DAM.0485.RA.6.c",
       "tipo": "criterio_fp",
       "texto": "Se han utilizado listas para almacenar y procesar información.",
+      "codigo_oficial": "c)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, resultado de aprendizaje 6, criterio c",
@@ -1039,6 +1093,7 @@
       "codigo": "MAD.DAM.0485.RA.6.d",
       "tipo": "criterio_fp",
       "texto": "Se han utilizado iteradores para recorrer los elementos de las listas.",
+      "codigo_oficial": "d)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, resultado de aprendizaje 6, criterio d",
@@ -1058,6 +1113,7 @@
       "codigo": "MAD.DAM.0485.RA.6.e",
       "tipo": "criterio_fp",
       "texto": "Se han reconocido las características y ventajas de cada una de las colecciones de datos disponibles.",
+      "codigo_oficial": "e)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, resultado de aprendizaje 6, criterio e",
@@ -1077,6 +1133,7 @@
       "codigo": "MAD.DAM.0485.RA.6.f",
       "tipo": "criterio_fp",
       "texto": "Se han creado clases y métodos genéricos.",
+      "codigo_oficial": "f)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, resultado de aprendizaje 6, criterio f",
@@ -1096,6 +1153,7 @@
       "codigo": "MAD.DAM.0485.RA.6.g",
       "tipo": "criterio_fp",
       "texto": "Se han utilizado expresiones regulares en la búsqueda de patrones en cadenas de texto.",
+      "codigo_oficial": "g)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, resultado de aprendizaje 6, criterio g",
@@ -1115,6 +1173,7 @@
       "codigo": "MAD.DAM.0485.RA.6.h",
       "tipo": "criterio_fp",
       "texto": "Se han identificado las clases relacionadas con el tratamiento de documentos escritos en diferentes lenguajes de intercambio de datos.",
+      "codigo_oficial": "h)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, resultado de aprendizaje 6, criterio h",
@@ -1134,6 +1193,7 @@
       "codigo": "MAD.DAM.0485.RA.6.i",
       "tipo": "criterio_fp",
       "texto": "Se han realizado programas que realicen manipulaciones sobre documentos escritos en diferentes lenguajes de intercambio de datos.",
+      "codigo_oficial": "i)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, resultado de aprendizaje 6, criterio i",
@@ -1153,6 +1213,7 @@
       "codigo": "MAD.DAM.0485.RA.6.j",
       "tipo": "criterio_fp",
       "texto": "Se han utilizado operaciones agregadas para el manejo de información almacenada en colecciones.",
+      "codigo_oficial": "j)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, resultado de aprendizaje 6, criterio j",
@@ -1172,6 +1233,7 @@
       "codigo": "MAD.DAM.0485.RA.7",
       "tipo": "resultado_aprendizaje",
       "texto": "Desarrolla programas aplicando características avanzadas de los lenguajes orientados a objetos y del entorno de programación.",
+      "codigo_oficial": "7.",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, resultado de aprendizaje 7",
@@ -1191,6 +1253,7 @@
       "codigo": "MAD.DAM.0485.RA.7.a",
       "tipo": "criterio_fp",
       "texto": "Se han identificado los conceptos de herencia, superclase y subclase.",
+      "codigo_oficial": "a)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, resultado de aprendizaje 7, criterio a",
@@ -1210,6 +1273,7 @@
       "codigo": "MAD.DAM.0485.RA.7.b",
       "tipo": "criterio_fp",
       "texto": "Se han utilizado modificadores para bloquear y forzar la herencia de clases y métodos.",
+      "codigo_oficial": "b)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, resultado de aprendizaje 7, criterio b",
@@ -1229,6 +1293,7 @@
       "codigo": "MAD.DAM.0485.RA.7.c",
       "tipo": "criterio_fp",
       "texto": "Se ha reconocido la incidencia de los constructores en la herencia.",
+      "codigo_oficial": "c)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, resultado de aprendizaje 7, criterio c",
@@ -1248,6 +1313,7 @@
       "codigo": "MAD.DAM.0485.RA.7.d",
       "tipo": "criterio_fp",
       "texto": "Se han creado clases heredadas que sobrescriben la implementación de métodos de la superclase.",
+      "codigo_oficial": "d)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, resultado de aprendizaje 7, criterio d",
@@ -1267,6 +1333,7 @@
       "codigo": "MAD.DAM.0485.RA.7.e",
       "tipo": "criterio_fp",
       "texto": "Se han diseñado y aplicado jerarquías de clases.",
+      "codigo_oficial": "e)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, resultado de aprendizaje 7, criterio e",
@@ -1286,6 +1353,7 @@
       "codigo": "MAD.DAM.0485.RA.7.f",
       "tipo": "criterio_fp",
       "texto": "Se han probado y depurado las jerarquías de clases.",
+      "codigo_oficial": "f)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, resultado de aprendizaje 7, criterio f",
@@ -1305,6 +1373,7 @@
       "codigo": "MAD.DAM.0485.RA.7.g",
       "tipo": "criterio_fp",
       "texto": "Se han realizado programas que implementen y utilicen jerarquías de clases.",
+      "codigo_oficial": "g)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, resultado de aprendizaje 7, criterio g",
@@ -1324,6 +1393,7 @@
       "codigo": "MAD.DAM.0485.RA.7.h",
       "tipo": "criterio_fp",
       "texto": "Se ha comentado y documentado el código.",
+      "codigo_oficial": "h)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, resultado de aprendizaje 7, criterio h",
@@ -1343,6 +1413,7 @@
       "codigo": "MAD.DAM.0485.RA.7.i",
       "tipo": "criterio_fp",
       "texto": "Se han identificado y evaluado los escenarios de uso de interfaces.",
+      "codigo_oficial": "i)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, resultado de aprendizaje 7, criterio i",
@@ -1362,6 +1433,7 @@
       "codigo": "MAD.DAM.0485.RA.7.j",
       "tipo": "criterio_fp",
       "texto": "Se han identificado y evaluado los escenarios de utilización de la herencia y la composición.",
+      "codigo_oficial": "j)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, resultado de aprendizaje 7, criterio j",
@@ -1381,6 +1453,7 @@
       "codigo": "MAD.DAM.0485.RA.8",
       "tipo": "resultado_aprendizaje",
       "texto": "Utiliza bases de datos orientadas a objetos, analizando sus características y aplicando técnicas para mantener la persistencia de la información.",
+      "codigo_oficial": "8.",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, resultado de aprendizaje 8",
@@ -1400,6 +1473,7 @@
       "codigo": "MAD.DAM.0485.RA.8.a",
       "tipo": "criterio_fp",
       "texto": "Se han identificado las características de las bases de datos orientadas a objetos.",
+      "codigo_oficial": "a)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, resultado de aprendizaje 8, criterio a",
@@ -1419,6 +1493,7 @@
       "codigo": "MAD.DAM.0485.RA.8.b",
       "tipo": "criterio_fp",
       "texto": "Se ha analizado su aplicación en el desarrollo de aplicaciones mediante lenguajes orientados a objetos.",
+      "codigo_oficial": "b)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, resultado de aprendizaje 8, criterio b",
@@ -1438,6 +1513,7 @@
       "codigo": "MAD.DAM.0485.RA.8.c",
       "tipo": "criterio_fp",
       "texto": "Se han instalado sistemas gestores de bases de datos orientados a objetos.",
+      "codigo_oficial": "c)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, resultado de aprendizaje 8, criterio c",
@@ -1457,6 +1533,7 @@
       "codigo": "MAD.DAM.0485.RA.8.d",
       "tipo": "criterio_fp",
       "texto": "Se han clasificado y analizado los distintos métodos soportados por los sistemas gestores para la gestión de la información almacenada.",
+      "codigo_oficial": "d)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, resultado de aprendizaje 8, criterio d",
@@ -1476,6 +1553,7 @@
       "codigo": "MAD.DAM.0485.RA.8.e",
       "tipo": "criterio_fp",
       "texto": "Se han creado bases de datos y las estructuras necesarias para el almacenamiento de objetos.",
+      "codigo_oficial": "e)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, resultado de aprendizaje 8, criterio e",
@@ -1495,6 +1573,7 @@
       "codigo": "MAD.DAM.0485.RA.8.f",
       "tipo": "criterio_fp",
       "texto": "Se han programado aplicaciones que almacenen objetos en las bases de datos creadas.",
+      "codigo_oficial": "f)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, resultado de aprendizaje 8, criterio f",
@@ -1514,6 +1593,7 @@
       "codigo": "MAD.DAM.0485.RA.8.g",
       "tipo": "criterio_fp",
       "texto": "Se han realizado programas para recuperar, actualizar y eliminar objetos de las bases de datos.",
+      "codigo_oficial": "g)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, resultado de aprendizaje 8, criterio g",
@@ -1533,6 +1613,7 @@
       "codigo": "MAD.DAM.0485.RA.8.h",
       "tipo": "criterio_fp",
       "texto": "Se han realizado programas para almacenar y gestionar tipos de datos estructurados, compuestos y relacionados.",
+      "codigo_oficial": "h)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, resultado de aprendizaje 8, criterio h",
@@ -1552,6 +1633,7 @@
       "codigo": "MAD.DAM.0485.RA.9",
       "tipo": "resultado_aprendizaje",
       "texto": "Gestiona información almacenada en bases de datos manteniendo la integridad y consistencia de los datos.",
+      "codigo_oficial": "9.",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, resultado de aprendizaje 9",
@@ -1571,6 +1653,7 @@
       "codigo": "MAD.DAM.0485.RA.9.a",
       "tipo": "criterio_fp",
       "texto": "Se han identificado las características y métodos de acceso a sistemas gestores de bases de datos.",
+      "codigo_oficial": "a)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, resultado de aprendizaje 9, criterio a",
@@ -1590,6 +1673,7 @@
       "codigo": "MAD.DAM.0485.RA.9.b",
       "tipo": "criterio_fp",
       "texto": "Se han programado conexiones con bases de datos.",
+      "codigo_oficial": "b)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, resultado de aprendizaje 9, criterio b",
@@ -1609,6 +1693,7 @@
       "codigo": "MAD.DAM.0485.RA.9.c",
       "tipo": "criterio_fp",
       "texto": "Se ha escrito un código para almacenar información en bases de datos.",
+      "codigo_oficial": "c)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, resultado de aprendizaje 9, criterio c",
@@ -1628,6 +1713,7 @@
       "codigo": "MAD.DAM.0485.RA.9.d",
       "tipo": "criterio_fp",
       "texto": "Se han creado programas para recuperar y mostrar información almacenada en bases de datos.",
+      "codigo_oficial": "d)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, resultado de aprendizaje 9, criterio d",
@@ -1647,6 +1733,7 @@
       "codigo": "MAD.DAM.0485.RA.9.e",
       "tipo": "criterio_fp",
       "texto": "Se han efectuado borrados y modificaciones sobre la información almacenada.",
+      "codigo_oficial": "e)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, resultado de aprendizaje 9, criterio e",
@@ -1666,6 +1753,7 @@
       "codigo": "MAD.DAM.0485.RA.9.f",
       "tipo": "criterio_fp",
       "texto": "Se han creado aplicaciones que muestren la información almacenada en bases de datos.",
+      "codigo_oficial": "f)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, resultado de aprendizaje 9, criterio f",
@@ -1685,6 +1773,7 @@
       "codigo": "MAD.DAM.0485.RA.9.g",
       "tipo": "criterio_fp",
       "texto": "Se han creado aplicaciones para gestionar la información presente en bases de datos.",
+      "codigo_oficial": "g)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, resultado de aprendizaje 9, criterio g",
@@ -1704,6 +1793,7 @@
       "codigo": "EST.DAM.0485.CB.1",
       "tipo": "contenido_basico",
       "texto": "Identificación de los elementos de un programa informático:",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, contenidos básicos",
@@ -1723,6 +1813,7 @@
       "codigo": "EST.DAM.0485.CB.1.1",
       "tipo": "contenido_basico",
       "texto": "Estructura y bloques fundamentales.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, contenidos básicos",
@@ -1742,6 +1833,7 @@
       "codigo": "EST.DAM.0485.CB.1.2",
       "tipo": "contenido_basico",
       "texto": "Variables.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, contenidos básicos",
@@ -1761,6 +1853,7 @@
       "codigo": "EST.DAM.0485.CB.1.3",
       "tipo": "contenido_basico",
       "texto": "Tipos de datos.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, contenidos básicos",
@@ -1780,6 +1873,7 @@
       "codigo": "EST.DAM.0485.CB.1.4",
       "tipo": "contenido_basico",
       "texto": "Literales.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, contenidos básicos",
@@ -1799,6 +1893,7 @@
       "codigo": "EST.DAM.0485.CB.1.5",
       "tipo": "contenido_basico",
       "texto": "Constantes.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, contenidos básicos",
@@ -1818,6 +1913,7 @@
       "codigo": "EST.DAM.0485.CB.1.6",
       "tipo": "contenido_basico",
       "texto": "Operadores y expresiones.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, contenidos básicos",
@@ -1837,6 +1933,7 @@
       "codigo": "EST.DAM.0485.CB.1.7",
       "tipo": "contenido_basico",
       "texto": "Conversiones de tipo.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, contenidos básicos",
@@ -1856,6 +1953,7 @@
       "codigo": "EST.DAM.0485.CB.1.8",
       "tipo": "contenido_basico",
       "texto": "Comentarios.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, contenidos básicos",
@@ -1875,6 +1973,7 @@
       "codigo": "EST.DAM.0485.CB.2",
       "tipo": "contenido_basico",
       "texto": "Utilización de objetos:",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, contenidos básicos",
@@ -1894,6 +1993,7 @@
       "codigo": "EST.DAM.0485.CB.2.1",
       "tipo": "contenido_basico",
       "texto": "Características de los objetos.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, contenidos básicos",
@@ -1913,6 +2013,7 @@
       "codigo": "EST.DAM.0485.CB.2.2",
       "tipo": "contenido_basico",
       "texto": "Instanciación de objetos.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, contenidos básicos",
@@ -1932,6 +2033,7 @@
       "codigo": "EST.DAM.0485.CB.2.3",
       "tipo": "contenido_basico",
       "texto": "Utilización de métodos. Parámetros.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, contenidos básicos",
@@ -1951,6 +2053,7 @@
       "codigo": "EST.DAM.0485.CB.2.4",
       "tipo": "contenido_basico",
       "texto": "Utilización de propiedades.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, contenidos básicos",
@@ -1970,6 +2073,7 @@
       "codigo": "EST.DAM.0485.CB.2.5",
       "tipo": "contenido_basico",
       "texto": "Utilización de métodos estáticos.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, contenidos básicos",
@@ -1989,6 +2093,7 @@
       "codigo": "EST.DAM.0485.CB.2.6",
       "tipo": "contenido_basico",
       "texto": "Constructores.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, contenidos básicos",
@@ -2008,6 +2113,7 @@
       "codigo": "EST.DAM.0485.CB.2.7",
       "tipo": "contenido_basico",
       "texto": "Destrucción de objetos y liberación de memoria.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, contenidos básicos",
@@ -2027,6 +2133,7 @@
       "codigo": "EST.DAM.0485.CB.3",
       "tipo": "contenido_basico",
       "texto": "Uso de estructuras de control:",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, contenidos básicos",
@@ -2046,6 +2153,7 @@
       "codigo": "EST.DAM.0485.CB.3.1",
       "tipo": "contenido_basico",
       "texto": "Estructuras de selección.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, contenidos básicos",
@@ -2065,6 +2173,7 @@
       "codigo": "EST.DAM.0485.CB.3.2",
       "tipo": "contenido_basico",
       "texto": "Estructuras de repetición.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, contenidos básicos",
@@ -2084,6 +2193,7 @@
       "codigo": "EST.DAM.0485.CB.3.3",
       "tipo": "contenido_basico",
       "texto": "Estructuras de salto.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, contenidos básicos",
@@ -2103,6 +2213,7 @@
       "codigo": "EST.DAM.0485.CB.3.4",
       "tipo": "contenido_basico",
       "texto": "Control de excepciones.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, contenidos básicos",
@@ -2122,6 +2233,7 @@
       "codigo": "EST.DAM.0485.CB.3.5",
       "tipo": "contenido_basico",
       "texto": "Aserciones.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, contenidos básicos",
@@ -2141,6 +2253,7 @@
       "codigo": "EST.DAM.0485.CB.3.6",
       "tipo": "contenido_basico",
       "texto": "Prueba, depuración y documentación de la aplicación.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, contenidos básicos",
@@ -2160,6 +2273,7 @@
       "codigo": "EST.DAM.0485.CB.4",
       "tipo": "contenido_basico",
       "texto": "Desarrollo de clases:",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, contenidos básicos",
@@ -2179,6 +2293,7 @@
       "codigo": "EST.DAM.0485.CB.4.1",
       "tipo": "contenido_basico",
       "texto": "Concepto de clase.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, contenidos básicos",
@@ -2198,6 +2313,7 @@
       "codigo": "EST.DAM.0485.CB.4.2",
       "tipo": "contenido_basico",
       "texto": "Estructura y miembros de una clase. Visibilidad.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, contenidos básicos",
@@ -2217,6 +2333,7 @@
       "codigo": "EST.DAM.0485.CB.4.3",
       "tipo": "contenido_basico",
       "texto": "Creación de propiedades.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, contenidos básicos",
@@ -2236,6 +2353,7 @@
       "codigo": "EST.DAM.0485.CB.4.4",
       "tipo": "contenido_basico",
       "texto": "Creación de métodos.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, contenidos básicos",
@@ -2255,6 +2373,7 @@
       "codigo": "EST.DAM.0485.CB.4.5",
       "tipo": "contenido_basico",
       "texto": "Creación de constructores.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, contenidos básicos",
@@ -2274,6 +2393,7 @@
       "codigo": "EST.DAM.0485.CB.4.6",
       "tipo": "contenido_basico",
       "texto": "Utilización de clases y objetos.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, contenidos básicos",
@@ -2293,6 +2413,7 @@
       "codigo": "EST.DAM.0485.CB.4.7",
       "tipo": "contenido_basico",
       "texto": "Utilización de clases heredadas.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, contenidos básicos",
@@ -2312,6 +2433,7 @@
       "codigo": "EST.DAM.0485.CB.5",
       "tipo": "contenido_basico",
       "texto": "Lectura y escritura de información:",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, contenidos básicos",
@@ -2331,6 +2453,7 @@
       "codigo": "EST.DAM.0485.CB.5.1",
       "tipo": "contenido_basico",
       "texto": "Flujos. Tipos: bytes y caracteres. Clases relacionadas.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, contenidos básicos",
@@ -2350,6 +2473,7 @@
       "codigo": "EST.DAM.0485.CB.5.2",
       "tipo": "contenido_basico",
       "texto": "Ficheros de datos. Registros.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, contenidos básicos",
@@ -2369,6 +2493,7 @@
       "codigo": "EST.DAM.0485.CB.5.3",
       "tipo": "contenido_basico",
       "texto": "Apertura y cierre de ficheros. Modos de acceso. Escritura y lectura de información en ficheros.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, contenidos básicos",
@@ -2388,6 +2513,7 @@
       "codigo": "EST.DAM.0485.CB.5.4",
       "tipo": "contenido_basico",
       "texto": "Utilización de los sistemas de ficheros.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, contenidos básicos",
@@ -2407,6 +2533,7 @@
       "codigo": "EST.DAM.0485.CB.5.5",
       "tipo": "contenido_basico",
       "texto": "Creación y eliminación de ficheros y directorios.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, contenidos básicos",
@@ -2426,6 +2553,7 @@
       "codigo": "EST.DAM.0485.CB.5.6",
       "tipo": "contenido_basico",
       "texto": "Entrada desde teclado. Salida a pantalla. Formatos de visualización.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, contenidos básicos",
@@ -2445,6 +2573,7 @@
       "codigo": "EST.DAM.0485.CB.5.7",
       "tipo": "contenido_basico",
       "texto": "Interfaces gráficas.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, contenidos básicos",
@@ -2464,6 +2593,7 @@
       "codigo": "EST.DAM.0485.CB.5.8",
       "tipo": "contenido_basico",
       "texto": "Concepto de evento.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, contenidos básicos",
@@ -2483,6 +2613,7 @@
       "codigo": "EST.DAM.0485.CB.5.9",
       "tipo": "contenido_basico",
       "texto": "Creación de controladores de eventos.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, contenidos básicos",
@@ -2502,6 +2633,7 @@
       "codigo": "EST.DAM.0485.CB.6",
       "tipo": "contenido_basico",
       "texto": "Aplicación de las estructuras de almacenamiento:",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, contenidos básicos",
@@ -2521,6 +2653,7 @@
       "codigo": "EST.DAM.0485.CB.6.1",
       "tipo": "contenido_basico",
       "texto": "Estructuras estáticas y dinámicas.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, contenidos básicos",
@@ -2540,6 +2673,7 @@
       "codigo": "EST.DAM.0485.CB.6.2",
       "tipo": "contenido_basico",
       "texto": "Creación de matrices (arrays).",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, contenidos básicos",
@@ -2559,6 +2693,7 @@
       "codigo": "EST.DAM.0485.CB.6.3",
       "tipo": "contenido_basico",
       "texto": "Matrices (arrays) multidimensionales.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, contenidos básicos",
@@ -2578,6 +2713,7 @@
       "codigo": "EST.DAM.0485.CB.6.4",
       "tipo": "contenido_basico",
       "texto": "Genericidad.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, contenidos básicos",
@@ -2597,6 +2733,7 @@
       "codigo": "EST.DAM.0485.CB.6.5",
       "tipo": "contenido_basico",
       "texto": "Cadenas de caracteres. Expresiones regulares.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, contenidos básicos",
@@ -2616,6 +2753,7 @@
       "codigo": "EST.DAM.0485.CB.6.6",
       "tipo": "contenido_basico",
       "texto": "Colecciones: Listas, Conjuntos y Diccionarios.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, contenidos básicos",
@@ -2635,6 +2773,7 @@
       "codigo": "EST.DAM.0485.CB.6.7",
       "tipo": "contenido_basico",
       "texto": "Operaciones agregadas: filtrado, reducción y recolección.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, contenidos básicos",
@@ -2654,6 +2793,7 @@
       "codigo": "EST.DAM.0485.CB.7",
       "tipo": "contenido_basico",
       "texto": "Utilización avanzada de clases:",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, contenidos básicos",
@@ -2673,6 +2813,7 @@
       "codigo": "EST.DAM.0485.CB.7.1",
       "tipo": "contenido_basico",
       "texto": "Composición de clases.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, contenidos básicos",
@@ -2692,6 +2833,7 @@
       "codigo": "EST.DAM.0485.CB.7.2",
       "tipo": "contenido_basico",
       "texto": "Herencia y polimorfismo.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, contenidos básicos",
@@ -2711,6 +2853,7 @@
       "codigo": "EST.DAM.0485.CB.7.3",
       "tipo": "contenido_basico",
       "texto": "Jerarquía de clases: Superclases y subclases.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, contenidos básicos",
@@ -2730,6 +2873,7 @@
       "codigo": "EST.DAM.0485.CB.7.4",
       "tipo": "contenido_basico",
       "texto": "Clases y métodos abstractos y finales.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, contenidos básicos",
@@ -2749,6 +2893,7 @@
       "codigo": "EST.DAM.0485.CB.7.5",
       "tipo": "contenido_basico",
       "texto": "Interfaces.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, contenidos básicos",
@@ -2768,6 +2913,7 @@
       "codigo": "EST.DAM.0485.CB.7.6",
       "tipo": "contenido_basico",
       "texto": "Sobreescritura de métodos.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, contenidos básicos",
@@ -2787,6 +2933,7 @@
       "codigo": "EST.DAM.0485.CB.7.7",
       "tipo": "contenido_basico",
       "texto": "Constructores y herencia.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, contenidos básicos",
@@ -2806,6 +2953,7 @@
       "codigo": "EST.DAM.0485.CB.8",
       "tipo": "contenido_basico",
       "texto": "Mantenimiento de la persistencia de los objetos:",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, contenidos básicos",
@@ -2825,6 +2973,7 @@
       "codigo": "EST.DAM.0485.CB.8.1",
       "tipo": "contenido_basico",
       "texto": "Bases de datos orientadas a objetos.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, contenidos básicos",
@@ -2844,6 +2993,7 @@
       "codigo": "EST.DAM.0485.CB.8.2",
       "tipo": "contenido_basico",
       "texto": "Características de las bases de datos orientadas a objetos.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, contenidos básicos",
@@ -2863,6 +3013,7 @@
       "codigo": "EST.DAM.0485.CB.8.3",
       "tipo": "contenido_basico",
       "texto": "Instalación del gestor de bases de datos.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, contenidos básicos",
@@ -2882,6 +3033,7 @@
       "codigo": "EST.DAM.0485.CB.8.4",
       "tipo": "contenido_basico",
       "texto": "Creación de bases de datos.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, contenidos básicos",
@@ -2901,6 +3053,7 @@
       "codigo": "EST.DAM.0485.CB.8.5",
       "tipo": "contenido_basico",
       "texto": "Mecanismos de consulta.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, contenidos básicos",
@@ -2920,6 +3073,7 @@
       "codigo": "EST.DAM.0485.CB.8.6",
       "tipo": "contenido_basico",
       "texto": "El lenguaje de consultas: sintaxis, expresiones, operadores.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, contenidos básicos",
@@ -2939,6 +3093,7 @@
       "codigo": "EST.DAM.0485.CB.8.7",
       "tipo": "contenido_basico",
       "texto": "Recuperación, modificación y borrado de información.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, contenidos básicos",
@@ -2958,6 +3113,7 @@
       "codigo": "EST.DAM.0485.CB.8.8",
       "tipo": "contenido_basico",
       "texto": "Tipos de datos objeto; atributos y métodos.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, contenidos básicos",
@@ -2977,6 +3133,7 @@
       "codigo": "EST.DAM.0485.CB.8.9",
       "tipo": "contenido_basico",
       "texto": "Tipos de datos colección.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, contenidos básicos",
@@ -2996,6 +3153,7 @@
       "codigo": "EST.DAM.0485.CB.9",
       "tipo": "contenido_basico",
       "texto": "Gestión de bases de datos:",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, contenidos básicos",
@@ -3015,6 +3173,7 @@
       "codigo": "EST.DAM.0485.CB.9.1",
       "tipo": "contenido_basico",
       "texto": "Acceso a bases de datos. Estándares. Características.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, contenidos básicos",
@@ -3034,6 +3193,7 @@
       "codigo": "EST.DAM.0485.CB.9.2",
       "tipo": "contenido_basico",
       "texto": "Establecimiento de conexiones.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, contenidos básicos",
@@ -3053,6 +3213,7 @@
       "codigo": "EST.DAM.0485.CB.9.3",
       "tipo": "contenido_basico",
       "texto": "Almacenamiento, recuperación, actualización y eliminación de información en bases de datos.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, contenidos básicos",
@@ -3072,6 +3233,7 @@
       "codigo": "MAD.DAM.0485.ORI",
       "tipo": "orientaciones",
       "texto": "Este módulo profesional contiene parte de la formación necesaria para desempeñar la función de programación de aplicaciones de propósito general en lenguajes orientados a objetos. La función de programación de aplicaciones de propósito general en lenguajes orientados a objetos incluye aspectos como: El desarrollo de programas organizados en clases aplicando los principios de la programación orientada a objetos. La utilización de interfaces para la interacción de la aplicación con el usuario. La identificación, análisis e integración de librerías para incorporar funcionalidades específicas a los programas desarrollados. El almacenamiento y recuperación de información en sistemas gestores de bases de datos. Las actividades profesionales asociadas a esta función se aplican en el desarrollo y la adaptación de programas informáticos de propósito general en lenguajes orientados a objetos. La formación del módulo contribuye a alcanzar los objetivos generales e), j), q) y w) del ciclo formativo y las competencias e), j), t) y w) del título. Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten alcanzar los objetivos del módulo versarán sobre: La interpretación y aplicación de los principios de la programación orientada a objetos. La evaluación, selección y utilización de herramientas y lenguajes de programación orientados a objetos. La utilización de las características específicas de lenguajes y entornos de programación en el desarrollo de aplicaciones informáticas. La identificación de las funcionalidades aportadas por los sistemas gestores de bases de datos y su incorporación a las aplicaciones desarrolladas. La prueba, depuración y documentación de las aplicaciones desarrolladas.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0485, orientaciones pedagógicas",
@@ -3091,6 +3253,7 @@
       "codigo": "MAD.DAM.0485.CO.1",
       "tipo": "contenido",
       "texto": "Introducción a la programación:",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -3103,6 +3266,7 @@
       "codigo": "MAD.DAM.0485.CO.1.1",
       "tipo": "contenido",
       "texto": "Datos, algoritmos y programas.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -3115,6 +3279,7 @@
       "codigo": "MAD.DAM.0485.CO.1.2",
       "tipo": "contenido",
       "texto": "Paradigmas de programación.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -3127,6 +3292,7 @@
       "codigo": "MAD.DAM.0485.CO.1.3",
       "tipo": "contenido",
       "texto": "Lenguajes de programación.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -3139,6 +3305,7 @@
       "codigo": "MAD.DAM.0485.CO.1.4",
       "tipo": "contenido",
       "texto": "Herramientas y entornos para el desarrollo de programas.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -3151,6 +3318,7 @@
       "codigo": "MAD.DAM.0485.CO.1.5",
       "tipo": "contenido",
       "texto": "Errores y calidad de los programas.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -3163,6 +3331,7 @@
       "codigo": "MAD.DAM.0485.CO.2",
       "tipo": "contenido",
       "texto": "Introducción a la orientación a objetos:",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -3175,6 +3344,7 @@
       "codigo": "MAD.DAM.0485.CO.2.1",
       "tipo": "contenido",
       "texto": "Clases. Atributos, métodos y visibilidad",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -3187,6 +3357,7 @@
       "codigo": "MAD.DAM.0485.CO.2.2",
       "tipo": "contenido",
       "texto": "Objetos. Estado, comportamiento e identidad. Mensajes.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -3199,6 +3370,7 @@
       "codigo": "MAD.DAM.0485.CO.2.3",
       "tipo": "contenido",
       "texto": "Encapsulado. Visibilidad.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -3211,6 +3383,7 @@
       "codigo": "MAD.DAM.0485.CO.2.4",
       "tipo": "contenido",
       "texto": "Relaciones entre clases.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -3223,6 +3396,7 @@
       "codigo": "MAD.DAM.0485.CO.2.5",
       "tipo": "contenido",
       "texto": "Principios básicos de la orientación a objetos.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -3235,6 +3409,7 @@
       "codigo": "MAD.DAM.0485.CO.3",
       "tipo": "contenido",
       "texto": "Identificación de los elementos de un programa informático:",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -3247,6 +3422,7 @@
       "codigo": "MAD.DAM.0485.CO.3.1",
       "tipo": "contenido",
       "texto": "Estructura y bloques fundamentales.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -3259,6 +3435,7 @@
       "codigo": "MAD.DAM.0485.CO.3.2",
       "tipo": "contenido",
       "texto": "Identificadores.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -3271,6 +3448,7 @@
       "codigo": "MAD.DAM.0485.CO.3.3",
       "tipo": "contenido",
       "texto": "Palabras reservadas.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -3283,6 +3461,7 @@
       "codigo": "MAD.DAM.0485.CO.3.4",
       "tipo": "contenido",
       "texto": "Variables. Declaración, inicialización y utilización. Almacenamiento en memoria.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -3295,6 +3474,7 @@
       "codigo": "MAD.DAM.0485.CO.3.5",
       "tipo": "contenido",
       "texto": "Tipos de datos.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -3307,6 +3487,7 @@
       "codigo": "MAD.DAM.0485.CO.3.6",
       "tipo": "contenido",
       "texto": "Literales.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -3319,6 +3500,7 @@
       "codigo": "MAD.DAM.0485.CO.3.7",
       "tipo": "contenido",
       "texto": "Constantes.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -3331,6 +3513,7 @@
       "codigo": "MAD.DAM.0485.CO.3.8",
       "tipo": "contenido",
       "texto": "Operadores y expresiones. Precedencia de operadores",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -3343,6 +3526,7 @@
       "codigo": "MAD.DAM.0485.CO.3.9",
       "tipo": "contenido",
       "texto": "Conversiones de tipo. Implícitas y explicitas (casting).",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -3355,6 +3539,7 @@
       "codigo": "MAD.DAM.0485.CO.3.10",
       "tipo": "contenido",
       "texto": "Comentarios.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -3367,6 +3552,7 @@
       "codigo": "MAD.DAM.0485.CO.4",
       "tipo": "contenido",
       "texto": "Utilización de objetos:",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -3379,6 +3565,7 @@
       "codigo": "MAD.DAM.0485.CO.4.1",
       "tipo": "contenido",
       "texto": "Características de los objetos.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -3391,6 +3578,7 @@
       "codigo": "MAD.DAM.0485.CO.4.2",
       "tipo": "contenido",
       "texto": "Constructores.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -3403,6 +3591,7 @@
       "codigo": "MAD.DAM.0485.CO.4.3",
       "tipo": "contenido",
       "texto": "Instanciación de objetos. Declaración y creación.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -3415,6 +3604,7 @@
       "codigo": "MAD.DAM.0485.CO.4.4",
       "tipo": "contenido",
       "texto": "Utilización de métodos. Parámetros y valores de retorno.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -3427,6 +3617,7 @@
       "codigo": "MAD.DAM.0485.CO.4.5",
       "tipo": "contenido",
       "texto": "Utilización de propiedades.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -3439,6 +3630,7 @@
       "codigo": "MAD.DAM.0485.CO.4.6",
       "tipo": "contenido",
       "texto": "Utilización de métodos estáticos.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -3451,6 +3643,7 @@
       "codigo": "MAD.DAM.0485.CO.4.7",
       "tipo": "contenido",
       "texto": "Almacenamiento en memoria. Tipos básicos vs objetos.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -3463,6 +3656,7 @@
       "codigo": "MAD.DAM.0485.CO.4.8",
       "tipo": "contenido",
       "texto": "Destrucción de objetos y liberación de memoria.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -3475,6 +3669,7 @@
       "codigo": "MAD.DAM.0485.CO.5",
       "tipo": "contenido",
       "texto": "Uso de estructuras de control:",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -3487,6 +3682,7 @@
       "codigo": "MAD.DAM.0485.CO.5.1",
       "tipo": "contenido",
       "texto": "Estructuras de selección.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -3499,6 +3695,7 @@
       "codigo": "MAD.DAM.0485.CO.5.2",
       "tipo": "contenido",
       "texto": "Estructuras de repetición.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -3511,6 +3708,7 @@
       "codigo": "MAD.DAM.0485.CO.5.3",
       "tipo": "contenido",
       "texto": "Estructuras de salto.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -3523,6 +3721,7 @@
       "codigo": "MAD.DAM.0485.CO.6",
       "tipo": "contenido",
       "texto": "Desarrollo de clases:",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -3535,6 +3734,7 @@
       "codigo": "MAD.DAM.0485.CO.6.1",
       "tipo": "contenido",
       "texto": "Concepto de clase.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -3547,6 +3747,7 @@
       "codigo": "MAD.DAM.0485.CO.6.2",
       "tipo": "contenido",
       "texto": "Estructura y miembros de una clase.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -3559,6 +3760,7 @@
       "codigo": "MAD.DAM.0485.CO.6.3",
       "tipo": "contenido",
       "texto": "Creación de atributos. Declaración e inicialización.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -3571,6 +3773,7 @@
       "codigo": "MAD.DAM.0485.CO.6.4",
       "tipo": "contenido",
       "texto": "Creación de métodos. Declaración, argumentos y valores de retorno.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -3583,6 +3786,7 @@
       "codigo": "MAD.DAM.0485.CO.6.5",
       "tipo": "contenido",
       "texto": "Creación de constructores.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -3595,6 +3799,7 @@
       "codigo": "MAD.DAM.0485.CO.6.6",
       "tipo": "contenido",
       "texto": "Ámbito de atributos y variables.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -3607,6 +3812,7 @@
       "codigo": "MAD.DAM.0485.CO.6.7",
       "tipo": "contenido",
       "texto": "Sobrecarga de métodos.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -3619,6 +3825,7 @@
       "codigo": "MAD.DAM.0485.CO.6.8",
       "tipo": "contenido",
       "texto": "Visibilidad. Modificadores de clase, de atributos y de métodos.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -3631,6 +3838,7 @@
       "codigo": "MAD.DAM.0485.CO.6.9",
       "tipo": "contenido",
       "texto": "Paso de parámetros. Paso por valor y paso por referencia.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -3643,6 +3851,7 @@
       "codigo": "MAD.DAM.0485.CO.6.10",
       "tipo": "contenido",
       "texto": "Utilización de clases y objetos.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -3655,6 +3864,7 @@
       "codigo": "MAD.DAM.0485.CO.6.11",
       "tipo": "contenido",
       "texto": "Utilización de clases heredadas.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -3667,6 +3877,7 @@
       "codigo": "MAD.DAM.0485.CO.6.12",
       "tipo": "contenido",
       "texto": "Librerías y paquetes de clases. Utilización y creación.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -3679,6 +3890,7 @@
       "codigo": "MAD.DAM.0485.CO.6.13",
       "tipo": "contenido",
       "texto": "Documentación sobre librerías y paquetes de clases.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -3691,6 +3903,7 @@
       "codigo": "MAD.DAM.0485.CO.7",
       "tipo": "contenido",
       "texto": "Aplicación de las estructuras de almacenamiento:",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -3703,6 +3916,7 @@
       "codigo": "MAD.DAM.0485.CO.7.1",
       "tipo": "contenido",
       "texto": "Estructuras.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -3715,6 +3929,7 @@
       "codigo": "MAD.DAM.0485.CO.7.2",
       "tipo": "contenido",
       "texto": "Arrays unidimensionales y multidimensionales:",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -3727,6 +3942,7 @@
       "codigo": "MAD.DAM.0485.CO.7.2.1",
       "tipo": "contenido",
       "texto": "Declaración.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -3739,6 +3955,7 @@
       "codigo": "MAD.DAM.0485.CO.7.2.2",
       "tipo": "contenido",
       "texto": "Creación de arrays unidimensionales y multidimensionales.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -3751,6 +3968,7 @@
       "codigo": "MAD.DAM.0485.CO.7.2.3",
       "tipo": "contenido",
       "texto": "Inicialización",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -3763,6 +3981,7 @@
       "codigo": "MAD.DAM.0485.CO.7.2.4",
       "tipo": "contenido",
       "texto": "Acceso a elementos.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -3775,6 +3994,7 @@
       "codigo": "MAD.DAM.0485.CO.7.2.5",
       "tipo": "contenido",
       "texto": "Recorridos, búsquedas y ordenaciones.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -3787,6 +4007,7 @@
       "codigo": "MAD.DAM.0485.CO.7.3",
       "tipo": "contenido",
       "texto": "Cadenas de caracteres:",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -3799,6 +4020,7 @@
       "codigo": "MAD.DAM.0485.CO.7.3.1",
       "tipo": "contenido",
       "texto": "Declaración.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -3811,6 +4033,7 @@
       "codigo": "MAD.DAM.0485.CO.7.3.2",
       "tipo": "contenido",
       "texto": "Creación de cadenas de caracteres.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -3823,6 +4046,7 @@
       "codigo": "MAD.DAM.0485.CO.7.3.3",
       "tipo": "contenido",
       "texto": "Inicialización",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -3835,6 +4059,7 @@
       "codigo": "MAD.DAM.0485.CO.7.3.4",
       "tipo": "contenido",
       "texto": "Operaciones. Acceso a elementos, conversiones, concatenación.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -3847,6 +4072,7 @@
       "codigo": "MAD.DAM.0485.CO.8",
       "tipo": "contenido",
       "texto": "Utilización avanzada de clases:",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -3859,6 +4085,7 @@
       "codigo": "MAD.DAM.0485.CO.8.1",
       "tipo": "contenido",
       "texto": "Relaciones entre clases. Composición de clases.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -3871,6 +4098,7 @@
       "codigo": "MAD.DAM.0485.CO.8.2",
       "tipo": "contenido",
       "texto": "Herencia. Concepto y tipos (simple y múltiple).",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -3883,6 +4111,7 @@
       "codigo": "MAD.DAM.0485.CO.8.3",
       "tipo": "contenido",
       "texto": "Superclases y subclases.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -3895,6 +4124,7 @@
       "codigo": "MAD.DAM.0485.CO.8.4",
       "tipo": "contenido",
       "texto": "Constructores y herencia.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -3907,6 +4137,7 @@
       "codigo": "MAD.DAM.0485.CO.8.5",
       "tipo": "contenido",
       "texto": "Modificadores en clases, atributos y métodos.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -3919,6 +4150,7 @@
       "codigo": "MAD.DAM.0485.CO.8.6",
       "tipo": "contenido",
       "texto": "Sobreescritura de métodos.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -3931,6 +4163,7 @@
       "codigo": "MAD.DAM.0485.CO.8.7",
       "tipo": "contenido",
       "texto": "Clases y métodos abstractos y finales.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -3943,6 +4176,7 @@
       "codigo": "MAD.DAM.0485.CO.8.8",
       "tipo": "contenido",
       "texto": "Interfaces. Clases abstractas vs. Interfaces.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -3955,6 +4189,7 @@
       "codigo": "MAD.DAM.0485.CO.8.9",
       "tipo": "contenido",
       "texto": "Polimorfismo:",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -3967,6 +4202,7 @@
       "codigo": "MAD.DAM.0485.CO.8.9.1",
       "tipo": "contenido",
       "texto": "Concepto.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -3979,6 +4215,7 @@
       "codigo": "MAD.DAM.0485.CO.8.9.2",
       "tipo": "contenido",
       "texto": "Polimorfismo en tiempo de compilación (sobrecarga) y polimorfismo en tiempo de ejecución (ligadura dinámica).",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -3991,6 +4228,7 @@
       "codigo": "MAD.DAM.0485.CO.8.9.3",
       "tipo": "contenido",
       "texto": "Comprobación estática y dinámica de tipos.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -4003,6 +4241,7 @@
       "codigo": "MAD.DAM.0485.CO.8.10",
       "tipo": "contenido",
       "texto": "Conversiones de tipos entre objetos (casting).",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -4015,6 +4254,7 @@
       "codigo": "MAD.DAM.0485.CO.8.11",
       "tipo": "contenido",
       "texto": "Clases y tipos genéricos o parametrizados.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -4027,6 +4267,7 @@
       "codigo": "MAD.DAM.0485.CO.9",
       "tipo": "contenido",
       "texto": "Control y manejo de excepciones:",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -4039,6 +4280,7 @@
       "codigo": "MAD.DAM.0485.CO.9.1",
       "tipo": "contenido",
       "texto": "Excepciones. Concepto.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -4051,6 +4293,7 @@
       "codigo": "MAD.DAM.0485.CO.9.2",
       "tipo": "contenido",
       "texto": "Jerarquías de excepciones.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -4063,6 +4306,7 @@
       "codigo": "MAD.DAM.0485.CO.9.3",
       "tipo": "contenido",
       "texto": "Manejo de excepciones:",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -4075,6 +4319,7 @@
       "codigo": "MAD.DAM.0485.CO.9.3.1",
       "tipo": "contenido",
       "texto": "Captura de excepciones.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -4087,6 +4332,7 @@
       "codigo": "MAD.DAM.0485.CO.9.3.2",
       "tipo": "contenido",
       "texto": "Propagar excepciones.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -4099,6 +4345,7 @@
       "codigo": "MAD.DAM.0485.CO.9.3.3",
       "tipo": "contenido",
       "texto": "Lanzar excepciones.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -4111,6 +4358,7 @@
       "codigo": "MAD.DAM.0485.CO.9.3.4",
       "tipo": "contenido",
       "texto": "Crear clases de excepciones.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -4123,6 +4371,7 @@
       "codigo": "MAD.DAM.0485.CO.10",
       "tipo": "contenido",
       "texto": "Colecciones de datos:",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -4135,6 +4384,7 @@
       "codigo": "MAD.DAM.0485.CO.10.1",
       "tipo": "contenido",
       "texto": "Tipos de colecciones (listas, pilas, colas, tablas).",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -4147,6 +4397,7 @@
       "codigo": "MAD.DAM.0485.CO.10.2",
       "tipo": "contenido",
       "texto": "Jerarquías de colecciones.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -4159,6 +4410,7 @@
       "codigo": "MAD.DAM.0485.CO.10.3",
       "tipo": "contenido",
       "texto": "Operaciones con colecciones. Acceso a elementos y recorridos.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -4171,6 +4423,7 @@
       "codigo": "MAD.DAM.0485.CO.10.4",
       "tipo": "contenido",
       "texto": "Uso de clases y métodos genéricos.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -4183,6 +4436,7 @@
       "codigo": "MAD.DAM.0485.CO.11",
       "tipo": "contenido",
       "texto": "Lectura y escritura de información:",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -4195,6 +4449,7 @@
       "codigo": "MAD.DAM.0485.CO.11.1",
       "tipo": "contenido",
       "texto": "Flujos (streams):",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -4207,6 +4462,7 @@
       "codigo": "MAD.DAM.0485.CO.11.1.1",
       "tipo": "contenido",
       "texto": "Tipos de flujos. Flujos de bytes y de caracteres.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -4219,6 +4475,7 @@
       "codigo": "MAD.DAM.0485.CO.11.1.2",
       "tipo": "contenido",
       "texto": "Clases relativas a flujos. Jerarquías de clases.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -4231,6 +4488,7 @@
       "codigo": "MAD.DAM.0485.CO.11.1.3",
       "tipo": "contenido",
       "texto": "Utilización de flujos.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -4243,6 +4501,7 @@
       "codigo": "MAD.DAM.0485.CO.11.2",
       "tipo": "contenido",
       "texto": "Entrada/salida estándar:",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -4255,6 +4514,7 @@
       "codigo": "MAD.DAM.0485.CO.11.2.1",
       "tipo": "contenido",
       "texto": "Entrada desde teclado.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -4267,6 +4527,7 @@
       "codigo": "MAD.DAM.0485.CO.11.2.2",
       "tipo": "contenido",
       "texto": "Salida a pantalla.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -4279,6 +4540,7 @@
       "codigo": "MAD.DAM.0485.CO.11.3",
       "tipo": "contenido",
       "texto": "Almacenamiento de información en ficheros:",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -4291,6 +4553,7 @@
       "codigo": "MAD.DAM.0485.CO.11.3.1",
       "tipo": "contenido",
       "texto": "Ficheros de datos. Registros.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -4303,6 +4566,7 @@
       "codigo": "MAD.DAM.0485.CO.11.3.2",
       "tipo": "contenido",
       "texto": "Apertura y cierre de ficheros. Modos de acceso.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -4315,6 +4579,7 @@
       "codigo": "MAD.DAM.0485.CO.11.3.3",
       "tipo": "contenido",
       "texto": "Escritura y lectura de información en ficheros.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -4327,6 +4592,7 @@
       "codigo": "MAD.DAM.0485.CO.11.3.4",
       "tipo": "contenido",
       "texto": "Almacenamiento de objetos en ficheros. Persistencia. Serialización.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -4339,6 +4605,7 @@
       "codigo": "MAD.DAM.0485.CO.11.3.5",
       "tipo": "contenido",
       "texto": "Utilización de los sistemas de ficheros.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -4351,6 +4618,7 @@
       "codigo": "MAD.DAM.0485.CO.11.3.6",
       "tipo": "contenido",
       "texto": "Creación y eliminación de ficheros y directorios.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -4363,6 +4631,7 @@
       "codigo": "MAD.DAM.0485.CO.11.4",
       "tipo": "contenido",
       "texto": "Interfaces gráficos de usuario simples. Concepto de evento. Creación de controladores de eventos.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -4375,6 +4644,7 @@
       "codigo": "MAD.DAM.0485.CO.12",
       "tipo": "contenido",
       "texto": "Gestión de bases de datos relacionales:",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -4387,6 +4657,7 @@
       "codigo": "MAD.DAM.0485.CO.12.1",
       "tipo": "contenido",
       "texto": "Interfaces de programación de acceso a bases de datos.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -4399,6 +4670,7 @@
       "codigo": "MAD.DAM.0485.CO.12.2",
       "tipo": "contenido",
       "texto": "Establecimiento de conexiones.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -4411,6 +4683,7 @@
       "codigo": "MAD.DAM.0485.CO.12.3",
       "tipo": "contenido",
       "texto": "Recuperación de información.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -4423,6 +4696,7 @@
       "codigo": "MAD.DAM.0485.CO.12.4",
       "tipo": "contenido",
       "texto": "Manipulación de la información.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -4435,6 +4709,7 @@
       "codigo": "MAD.DAM.0485.CO.12.5",
       "tipo": "contenido",
       "texto": "Ejecución de consultas sobre la base de datos.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -4447,6 +4722,7 @@
       "codigo": "MAD.DAM.0485.CO.13",
       "tipo": "contenido",
       "texto": "Mantenimiento de la persistencia de los objetos:",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -4459,6 +4735,7 @@
       "codigo": "MAD.DAM.0485.CO.13.1",
       "tipo": "contenido",
       "texto": "Bases de datos orientadas a objetos.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -4471,6 +4748,7 @@
       "codigo": "MAD.DAM.0485.CO.13.2",
       "tipo": "contenido",
       "texto": "Características de las bases de datos orientadas a objetos.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -4483,6 +4761,7 @@
       "codigo": "MAD.DAM.0485.CO.13.3",
       "tipo": "contenido",
       "texto": "Instalación del gestor de bases de datos.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -4495,6 +4774,7 @@
       "codigo": "MAD.DAM.0485.CO.13.4",
       "tipo": "contenido",
       "texto": "Creación de bases de datos.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -4507,6 +4787,7 @@
       "codigo": "MAD.DAM.0485.CO.13.5",
       "tipo": "contenido",
       "texto": "Mecanismos de consulta.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -4519,6 +4800,7 @@
       "codigo": "MAD.DAM.0485.CO.13.6",
       "tipo": "contenido",
       "texto": "El lenguaje de consultas: sintaxis, expresiones, operadores.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -4531,6 +4813,7 @@
       "codigo": "MAD.DAM.0485.CO.13.7",
       "tipo": "contenido",
       "texto": "Recuperación, modificación y borrado de información.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -4543,6 +4826,7 @@
       "codigo": "MAD.DAM.0485.CO.13.8",
       "tipo": "contenido",
       "texto": "Tipos de datos objeto; atributos y métodos.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -4555,6 +4839,7 @@
       "codigo": "MAD.DAM.0485.CO.13.9",
       "tipo": "contenido",
       "texto": "Tipos de datos colección.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",

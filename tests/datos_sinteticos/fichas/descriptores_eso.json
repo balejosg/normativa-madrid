@@ -10,6 +10,7 @@
       "codigo": "EST.ESO.DESC.CD1",
       "tipo": "descriptor",
       "texto": "Usa herramientas digitales de forma segura.",
+      "codigo_oficial": "CD1",
       "procedencia": {"norma": "boe-a-2024-100", "ubicacion": "anexo I", "pagina": 3},
       "orden": 1
     }

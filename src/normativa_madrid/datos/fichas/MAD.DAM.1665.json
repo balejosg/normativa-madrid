@@ -16,6 +16,7 @@
       "codigo": "MAD.DAM.1665",
       "tipo": "modulo",
       "texto": "Digitalización aplicada a los sectores productivos (GS)",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20241115-2",
         "ubicacion": "anexo II",
@@ -31,6 +32,7 @@
       "codigo": "MAD.DAM.1665.RA.1",
       "tipo": "resultado_aprendizaje",
       "texto": "Analiza el concepto de digitalización y su repercusión en los sectores productivos teniendo en cuenta la actividad de la empresa e identificando entornos IT (Information Technology: tecnología de la información) y OT (Operation Technology: tecnología de operación) característicos.",
+      "codigo_oficial": "1.",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo V, módulo 1665, resultado de aprendizaje 1",
@@ -43,6 +45,7 @@
       "codigo": "MAD.DAM.1665.RA.1.a",
       "tipo": "criterio_fp",
       "texto": "Se ha descrito en qué consiste el concepto de digitalización.",
+      "codigo_oficial": "a)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo V, módulo 1665, resultado de aprendizaje 1, criterio a",
@@ -55,6 +58,7 @@
       "codigo": "MAD.DAM.1665.RA.1.b",
       "tipo": "criterio_fp",
       "texto": "Se ha relacionado la implantación de la tecnología digital con la organización de las empresas.",
+      "codigo_oficial": "b)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo V, módulo 1665, resultado de aprendizaje 1, criterio b",
@@ -67,6 +71,7 @@
       "codigo": "MAD.DAM.1665.RA.1.c",
       "tipo": "criterio_fp",
       "texto": "Se han establecido las diferencias y similitudes entre los entornos IT y OT.",
+      "codigo_oficial": "c)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo V, módulo 1665, resultado de aprendizaje 1, criterio c",
@@ -79,6 +84,7 @@
       "codigo": "MAD.DAM.1665.RA.1.d",
       "tipo": "criterio_fp",
       "texto": "Se han identificado los departamentos típicos de las empresas que pueden constituir entornos IT.",
+      "codigo_oficial": "d)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo V, módulo 1665, resultado de aprendizaje 1, criterio d",
@@ -91,6 +97,7 @@
       "codigo": "MAD.DAM.1665.RA.1.e",
       "tipo": "criterio_fp",
       "texto": "Se han seleccionado las tecnologías típicas de la digitalización en planta y en negocio.",
+      "codigo_oficial": "e)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo V, módulo 1665, resultado de aprendizaje 1, criterio e",
@@ -103,6 +110,7 @@
       "codigo": "MAD.DAM.1665.RA.1.f",
       "tipo": "criterio_fp",
       "texto": "Se ha analizado la importancia de la conexión entre entornos IT y OT.",
+      "codigo_oficial": "f)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo V, módulo 1665, resultado de aprendizaje 1, criterio f",
@@ -115,6 +123,7 @@
       "codigo": "MAD.DAM.1665.RA.1.g",
       "tipo": "criterio_fp",
       "texto": "Se han analizado las ventajas de digitalizar una empresa industrial de extremo a extremo.",
+      "codigo_oficial": "g)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo V, módulo 1665, resultado de aprendizaje 1, criterio g",
@@ -127,6 +136,7 @@
       "codigo": "MAD.DAM.1665.RA.2",
       "tipo": "resultado_aprendizaje",
       "texto": "Caracteriza las tecnologías habilitadoras digitales necesarias para la adecuación o transformación de las empresas a entornos digitales describiendo sus características y aplicaciones.",
+      "codigo_oficial": "2.",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo V, módulo 1665, resultado de aprendizaje 2",
@@ -139,6 +149,7 @@
       "codigo": "MAD.DAM.1665.RA.2.a",
       "tipo": "criterio_fp",
       "texto": "Se han identificado las principales tecnologías habilitadoras digitales.",
+      "codigo_oficial": "a)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo V, módulo 1665, resultado de aprendizaje 2, criterio a",
@@ -151,6 +162,7 @@
       "codigo": "MAD.DAM.1665.RA.2.b",
       "tipo": "criterio_fp",
       "texto": "Se han relacionado las THD con el desarrollo de productos y servicios.",
+      "codigo_oficial": "b)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo V, módulo 1665, resultado de aprendizaje 2, criterio b",
@@ -163,6 +175,7 @@
       "codigo": "MAD.DAM.1665.RA.2.c",
       "tipo": "criterio_fp",
       "texto": "Se ha relacionado la importancia de las THD con la economía sostenible y eficiente.",
+      "codigo_oficial": "c)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo V, módulo 1665, resultado de aprendizaje 2, criterio c",
@@ -175,6 +188,7 @@
       "codigo": "MAD.DAM.1665.RA.2.d",
       "tipo": "criterio_fp",
       "texto": "Se han identificado nuevos mercados generados por las THD.",
+      "codigo_oficial": "d)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo V, módulo 1665, resultado de aprendizaje 2, criterio d",
@@ -187,6 +201,7 @@
       "codigo": "MAD.DAM.1665.RA.2.e",
       "tipo": "criterio_fp",
       "texto": "Se ha analizado la implicación de THD tanto en la parte de negocio como en la parte de planta.",
+      "codigo_oficial": "e)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo V, módulo 1665, resultado de aprendizaje 2, criterio e",
@@ -199,6 +214,7 @@
       "codigo": "MAD.DAM.1665.RA.2.f",
       "tipo": "criterio_fp",
       "texto": "Se han identificado las mejoras producidas debido a la implantación de las tecnologías habilitadoras en relación con los entornos IT y OT.",
+      "codigo_oficial": "f)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo V, módulo 1665, resultado de aprendizaje 2, criterio f",
@@ -211,6 +227,7 @@
       "codigo": "MAD.DAM.1665.RA.2.g",
       "tipo": "criterio_fp",
       "texto": "Se ha elaborado un informe que relacione, las tecnologías con sus características y áreas de aplicación.",
+      "codigo_oficial": "g)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo V, módulo 1665, resultado de aprendizaje 2, criterio g",
@@ -223,6 +240,7 @@
       "codigo": "MAD.DAM.1665.RA.3",
       "tipo": "resultado_aprendizaje",
       "texto": "Identifica sistemas basados en cloud o nube y su influencia en el desarrollo de los sistemas digitales.",
+      "codigo_oficial": "3.",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo V, módulo 1665, resultado de aprendizaje 3",
@@ -235,6 +253,7 @@
       "codigo": "MAD.DAM.1665.RA.3.a",
       "tipo": "criterio_fp",
       "texto": "Se han identificado los diferentes niveles de la cloud o nube.",
+      "codigo_oficial": "a)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo V, módulo 1665, resultado de aprendizaje 3, criterio a",
@@ -247,6 +266,7 @@
       "codigo": "MAD.DAM.1665.RA.3.b",
       "tipo": "criterio_fp",
       "texto": "Se han identificado las principales funciones de la cloud o nube (procesamiento de datos, intercambio de información, ejecución de aplicaciones, entre otros).",
+      "codigo_oficial": "b)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo V, módulo 1665, resultado de aprendizaje 3, criterio b",
@@ -259,6 +279,7 @@
       "codigo": "MAD.DAM.1665.RA.3.c",
       "tipo": "criterio_fp",
       "texto": "Se ha descrito el concepto de edge computing y su relación con la cloud o nube.",
+      "codigo_oficial": "c)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo V, módulo 1665, resultado de aprendizaje 3, criterio c",
@@ -271,6 +292,7 @@
       "codigo": "MAD.DAM.1665.RA.3.d",
       "tipo": "criterio_fp",
       "texto": "Se han definido los conceptos de fog y mist y sus zonas de aplicación en el conjunto.",
+      "codigo_oficial": "d)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo V, módulo 1665, resultado de aprendizaje 3, criterio d",
@@ -283,6 +305,7 @@
       "codigo": "MAD.DAM.1665.RA.3.e",
       "tipo": "criterio_fp",
       "texto": "Se han identificado las ventajas que proporciona la utilización de la cloud o nube en los sistemas conectados.",
+      "codigo_oficial": "e)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo V, módulo 1665, resultado de aprendizaje 3, criterio e",
@@ -295,6 +318,7 @@
       "codigo": "MAD.DAM.1665.RA.4",
       "tipo": "resultado_aprendizaje",
       "texto": "Identifica aplicaciones de la IA (inteligencia artificial) en entornos del sector donde está enmarcado el título describiendo las mejoras implícitas en su implementación.",
+      "codigo_oficial": "4.",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo V, módulo 1665, resultado de aprendizaje 4",
@@ -307,6 +331,7 @@
       "codigo": "MAD.DAM.1665.RA.4.a",
       "tipo": "criterio_fp",
       "texto": "Se ha identificado la importancia de la IA en la automatización de procesos y su optimización.",
+      "codigo_oficial": "a)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo V, módulo 1665, resultado de aprendizaje 4, criterio a",
@@ -319,6 +344,7 @@
       "codigo": "MAD.DAM.1665.RA.4.b",
       "tipo": "criterio_fp",
       "texto": "Se ha relacionado la IA con la recogida masiva de datos (Big Data) y su tratamiento (análisis) con la rentabilidad de las empresas.",
+      "codigo_oficial": "b)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo V, módulo 1665, resultado de aprendizaje 4, criterio b",
@@ -331,6 +357,7 @@
       "codigo": "MAD.DAM.1665.RA.4.c",
       "tipo": "criterio_fp",
       "texto": "Se ha valorado la importancia presente y futura de la IA.",
+      "codigo_oficial": "c)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo V, módulo 1665, resultado de aprendizaje 4, criterio c",
@@ -343,6 +370,7 @@
       "codigo": "MAD.DAM.1665.RA.4.d",
       "tipo": "criterio_fp",
       "texto": "Se han identificado los sectores con implantación más relevante de IA.",
+      "codigo_oficial": "d)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo V, módulo 1665, resultado de aprendizaje 4, criterio d",
@@ -355,6 +383,7 @@
       "codigo": "MAD.DAM.1665.RA.4.e",
       "tipo": "criterio_fp",
       "texto": "Se han identificado los lenguajes de programación en IA.",
+      "codigo_oficial": "e)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo V, módulo 1665, resultado de aprendizaje 4, criterio e",
@@ -367,6 +396,7 @@
       "codigo": "MAD.DAM.1665.RA.4.f",
       "tipo": "criterio_fp",
       "texto": "Se ha descrito como influye la IA en el sector del título.",
+      "codigo_oficial": "f)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo V, módulo 1665, resultado de aprendizaje 4, criterio f",
@@ -379,6 +409,7 @@
       "codigo": "MAD.DAM.1665.RA.5",
       "tipo": "resultado_aprendizaje",
       "texto": "Evalúa la importancia de los datos, así como su protección en una economía digital globalizada, definiendo sistemas de seguridad y ciberseguridad tanto a nivel de equipo o sistema, como globales.",
+      "codigo_oficial": "5.",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo V, módulo 1665, resultado de aprendizaje 5",
@@ -391,6 +422,7 @@
       "codigo": "MAD.DAM.1665.RA.5.a",
       "tipo": "criterio_fp",
       "texto": "Se ha establecido la diferencia entre dato e información.",
+      "codigo_oficial": "a)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo V, módulo 1665, resultado de aprendizaje 5, criterio a",
@@ -403,6 +435,7 @@
       "codigo": "MAD.DAM.1665.RA.5.b",
       "tipo": "criterio_fp",
       "texto": "Se ha descrito el ciclo de vida del dato.",
+      "codigo_oficial": "b)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo V, módulo 1665, resultado de aprendizaje 5, criterio b",
@@ -415,6 +448,7 @@
       "codigo": "MAD.DAM.1665.RA.5.c",
       "tipo": "criterio_fp",
       "texto": "Se ha identificado la relación entre Big Data, análisis de datos, machine o deep learning e inteligencia artificial.",
+      "codigo_oficial": "c)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo V, módulo 1665, resultado de aprendizaje 5, criterio c",
@@ -427,6 +461,7 @@
       "codigo": "MAD.DAM.1665.RA.5.d",
       "tipo": "criterio_fp",
       "texto": "Se han descrito las características que definen Big Data.",
+      "codigo_oficial": "d)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo V, módulo 1665, resultado de aprendizaje 5, criterio d",
@@ -439,6 +474,7 @@
       "codigo": "MAD.DAM.1665.RA.5.e",
       "tipo": "criterio_fp",
       "texto": "Se han descrito las etapas típicas de la ciencia de datos y su relación en el proceso.",
+      "codigo_oficial": "e)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo V, módulo 1665, resultado de aprendizaje 5, criterio e",
@@ -451,6 +487,7 @@
       "codigo": "MAD.DAM.1665.RA.5.f",
       "tipo": "criterio_fp",
       "texto": "Se han descrito los procedimientos de almacenaje de datos en la cloud o nube.",
+      "codigo_oficial": "f)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo V, módulo 1665, resultado de aprendizaje 5, criterio f",
@@ -463,6 +500,7 @@
       "codigo": "MAD.DAM.1665.RA.5.g",
       "tipo": "criterio_fp",
       "texto": "Se ha descrito la importancia del cloud computing.",
+      "codigo_oficial": "g)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo V, módulo 1665, resultado de aprendizaje 5, criterio g",
@@ -475,6 +513,7 @@
       "codigo": "MAD.DAM.1665.RA.5.h",
       "tipo": "criterio_fp",
       "texto": "Se han identificado los principales objetivos de la ciencia de datos en las diferentes empresas.",
+      "codigo_oficial": "h)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo V, módulo 1665, resultado de aprendizaje 5, criterio h",
@@ -487,6 +526,7 @@
       "codigo": "MAD.DAM.1665.RA.5.i",
       "tipo": "criterio_fp",
       "texto": "Se ha valorado la importancia de la seguridad y su regulación en relación con los datos.",
+      "codigo_oficial": "i)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo V, módulo 1665, resultado de aprendizaje 5, criterio i",
@@ -499,6 +539,7 @@
       "codigo": "MAD.DAM.1665.RA.6",
       "tipo": "resultado_aprendizaje",
       "texto": "Desarrolla un proyecto de transformación digital de una empresa de un sector relacionado con el título, teniendo en cuenta los cambios que se deben producir en función de los objetivos de la empresa.",
+      "codigo_oficial": "6.",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo V, módulo 1665, resultado de aprendizaje 6",
@@ -511,6 +552,7 @@
       "codigo": "MAD.DAM.1665.RA.6.a",
       "tipo": "criterio_fp",
       "texto": "Se han identificado los objetivos estratégicos de la empresa.",
+      "codigo_oficial": "a)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo V, módulo 1665, resultado de aprendizaje 6, criterio a",
@@ -523,6 +565,7 @@
       "codigo": "MAD.DAM.1665.RA.6.b",
       "tipo": "criterio_fp",
       "texto": "Se han identificado y alineado las áreas de producción o negocio y de comunicaciones.",
+      "codigo_oficial": "b)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo V, módulo 1665, resultado de aprendizaje 6, criterio b",
@@ -535,6 +578,7 @@
       "codigo": "MAD.DAM.1665.RA.6.c",
       "tipo": "criterio_fp",
       "texto": "Se han identificado las áreas susceptibles de ser digitalizadas.",
+      "codigo_oficial": "c)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo V, módulo 1665, resultado de aprendizaje 6, criterio c",
@@ -547,6 +591,7 @@
       "codigo": "MAD.DAM.1665.RA.6.d",
       "tipo": "criterio_fp",
       "texto": "Se ha analizado el encaje de AD (áreas digitalizadas) entre sí y con las que no lo están.",
+      "codigo_oficial": "d)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo V, módulo 1665, resultado de aprendizaje 6, criterio d",
@@ -559,6 +604,7 @@
       "codigo": "MAD.DAM.1665.RA.6.e",
       "tipo": "criterio_fp",
       "texto": "Se han tenido en cuenta las necesidades presentes y futuras de la empresa.",
+      "codigo_oficial": "e)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo V, módulo 1665, resultado de aprendizaje 6, criterio e",
@@ -571,6 +617,7 @@
       "codigo": "MAD.DAM.1665.RA.6.f",
       "tipo": "criterio_fp",
       "texto": "Se han relacionado cada una de las áreas con la implantación de las tecnologías.",
+      "codigo_oficial": "f)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo V, módulo 1665, resultado de aprendizaje 6, criterio f",
@@ -583,6 +630,7 @@
       "codigo": "MAD.DAM.1665.RA.6.g",
       "tipo": "criterio_fp",
       "texto": "Se han analizado las posibles brechas de seguridad en cada una de las áreas.",
+      "codigo_oficial": "g)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo V, módulo 1665, resultado de aprendizaje 6, criterio g",
@@ -595,6 +643,7 @@
       "codigo": "MAD.DAM.1665.RA.6.h",
       "tipo": "criterio_fp",
       "texto": "Se ha definido el tratamiento de los datos y su análisis.",
+      "codigo_oficial": "h)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo V, módulo 1665, resultado de aprendizaje 6, criterio h",
@@ -607,6 +656,7 @@
       "codigo": "MAD.DAM.1665.RA.6.i",
       "tipo": "criterio_fp",
       "texto": "Se ha tenido en cuenta la integración entre datos, aplicaciones, plataformas que los soportan, entre otros.",
+      "codigo_oficial": "i)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo V, módulo 1665, resultado de aprendizaje 6, criterio i",
@@ -619,6 +669,7 @@
       "codigo": "MAD.DAM.1665.RA.6.j",
       "tipo": "criterio_fp",
       "texto": "Se han documentado los cambios realizados en función de la estrategia.",
+      "codigo_oficial": "j)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo V, módulo 1665, resultado de aprendizaje 6, criterio j",
@@ -631,6 +682,7 @@
       "codigo": "MAD.DAM.1665.RA.6.k",
       "tipo": "criterio_fp",
       "texto": "Se han tenido en cuenta la idoneidad de los recursos humanos.",
+      "codigo_oficial": "k)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo V, módulo 1665, resultado de aprendizaje 6, criterio k",
@@ -643,6 +695,7 @@
       "codigo": "MAD.DAM.1665.CO.1",
       "tipo": "contenido",
       "texto": "Digitalización en los sectores productivos.",
+      "codigo_oficial": "1.",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo V",
@@ -655,6 +708,7 @@
       "codigo": "MAD.DAM.1665.CO.1.1",
       "tipo": "contenido",
       "texto": "Cronología de las revoluciones industriales. Cuarta revolución.",
+      "codigo_oficial": "a)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo V",
@@ -667,6 +721,7 @@
       "codigo": "MAD.DAM.1665.CO.1.2",
       "tipo": "contenido",
       "texto": "Digitalización. Elementos que la definen.",
+      "codigo_oficial": "b)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo V",
@@ -679,6 +734,7 @@
       "codigo": "MAD.DAM.1665.CO.1.3",
       "tipo": "contenido",
       "texto": "Entorno de tecnología de la información (IT) y tecnología de operación (OT).",
+      "codigo_oficial": "c)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo V",
@@ -691,6 +747,7 @@
       "codigo": "MAD.DAM.1665.CO.1.4",
       "tipo": "contenido",
       "texto": "Estructura digital de la empresa.",
+      "codigo_oficial": "d)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo V",
@@ -703,6 +760,7 @@
       "codigo": "MAD.DAM.1665.CO.2",
       "tipo": "contenido",
       "texto": "Tecnologías habilitadoras digitales (THD).",
+      "codigo_oficial": "2.",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo V",
@@ -715,6 +773,7 @@
       "codigo": "MAD.DAM.1665.CO.2.1",
       "tipo": "contenido",
       "texto": "Tecnologías habilitadoras (THD). Características y aplicaciones de Internet de las cosas (IoT), Inteligencian artificial (IA), Big Data y tratamiento de datos, entre otras.",
+      "codigo_oficial": "a)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo V",
@@ -727,6 +786,7 @@
       "codigo": "MAD.DAM.1665.CO.2.2",
       "tipo": "contenido",
       "texto": "Ciberseguridad. La huella digital.",
+      "codigo_oficial": "b)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo V",
@@ -739,6 +799,7 @@
       "codigo": "MAD.DAM.1665.CO.2.3",
       "tipo": "contenido",
       "texto": "Derechos y deberes de las empresas y la ciudadanía en relación al uso de la de las THD.",
+      "codigo_oficial": "c)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo V",
@@ -751,6 +812,7 @@
       "codigo": "MAD.DAM.1665.CO.2.4",
       "tipo": "contenido",
       "texto": "Mejoras con la implantación de THD.",
+      "codigo_oficial": "d)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo V",
@@ -763,6 +825,7 @@
       "codigo": "MAD.DAM.1665.CO.2.5",
       "tipo": "contenido",
       "texto": "Sistemas digitalizados y datos.",
+      "codigo_oficial": "e)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo V",
@@ -775,6 +838,7 @@
       "codigo": "MAD.DAM.1665.CO.3",
       "tipo": "contenido",
       "texto": "Sistemas basados en la nube (Cloud) y sistemas conectados.",
+      "codigo_oficial": "3.",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo V",
@@ -787,6 +851,7 @@
       "codigo": "MAD.DAM.1665.CO.3.1",
       "tipo": "contenido",
       "texto": "Cloud. Definición y niveles de trabajo. Sistemas conectados.",
+      "codigo_oficial": "a)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo V",
@@ -799,6 +864,7 @@
       "codigo": "MAD.DAM.1665.CO.3.2",
       "tipo": "contenido",
       "texto": "Edge computing y su relación con la nube.",
+      "codigo_oficial": "b)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo V",
@@ -811,6 +877,7 @@
       "codigo": "MAD.DAM.1665.CO.3.3",
       "tipo": "contenido",
       "texto": "Fog y Mist. Relación con la nube.",
+      "codigo_oficial": "c)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo V",
@@ -823,6 +890,7 @@
       "codigo": "MAD.DAM.1665.CO.3.4",
       "tipo": "contenido",
       "texto": "Recursos de la nube y rentabilidad empresarial.",
+      "codigo_oficial": "d)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo V",
@@ -835,6 +903,7 @@
       "codigo": "MAD.DAM.1665.CO.4",
       "tipo": "contenido",
       "texto": "Aplicación de la Inteligencia Artificial (IA).",
+      "codigo_oficial": "4.",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo V",
@@ -847,6 +916,7 @@
       "codigo": "MAD.DAM.1665.CO.4.1",
       "tipo": "contenido",
       "texto": "Inteligencia Artificial. Tipos y ejemplos de aplicación.",
+      "codigo_oficial": "a)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo V",
@@ -859,6 +929,7 @@
       "codigo": "MAD.DAM.1665.CO.4.2",
       "tipo": "contenido",
       "texto": "La IA y los datos. Tratamiento de datos y su protección.",
+      "codigo_oficial": "b)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo V",
@@ -871,6 +942,7 @@
       "codigo": "MAD.DAM.1665.CO.4.3",
       "tipo": "contenido",
       "texto": "Relación de la IA con los sectores productivos o áreas de aplicación del ciclo formativo.",
+      "codigo_oficial": "c)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo V",
@@ -883,6 +955,7 @@
       "codigo": "MAD.DAM.1665.CO.4.4",
       "tipo": "contenido",
       "texto": "Principios éticos de la IA en la actividad profesional, cultural y social.",
+      "codigo_oficial": "d)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo V",
@@ -895,6 +968,7 @@
       "codigo": "MAD.DAM.1665.CO.5",
       "tipo": "contenido",
       "texto": "Evaluación de datos.",
+      "codigo_oficial": "5.",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo V",
@@ -907,6 +981,7 @@
       "codigo": "MAD.DAM.1665.CO.5.1",
       "tipo": "contenido",
       "texto": "Dato versus Información. Ciclo de vida del dato. Almacenamiento.",
+      "codigo_oficial": "a)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo V",
@@ -919,6 +994,7 @@
       "codigo": "MAD.DAM.1665.CO.5.2",
       "tipo": "contenido",
       "texto": "Análisis de datos. Big data.",
+      "codigo_oficial": "b)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo V",
@@ -931,6 +1007,7 @@
       "codigo": "MAD.DAM.1665.CO.5.3",
       "tipo": "contenido",
       "texto": "Aplicación a las empresas de tratamiento de datos. Seguridad.",
+      "codigo_oficial": "c)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo V",
@@ -943,6 +1020,7 @@
       "codigo": "MAD.DAM.1665.CO.6",
       "tipo": "contenido",
       "texto": "Desarrollo de un proyecto de trasformación digital.",
+      "codigo_oficial": "6.",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo V",
@@ -955,6 +1033,7 @@
       "codigo": "MAD.DAM.1665.CO.6.1",
       "tipo": "contenido",
       "texto": "Objetivos de la empresa. Áreas de la empresa y estrategia de digitalización.",
+      "codigo_oficial": "a)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo V",
@@ -967,6 +1046,7 @@
       "codigo": "MAD.DAM.1665.CO.6.2",
       "tipo": "contenido",
       "texto": "Implantación de tecnologías. Integración en el conjunto.",
+      "codigo_oficial": "b)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo V",
@@ -979,6 +1059,7 @@
       "codigo": "MAD.DAM.1665.CO.6.3",
       "tipo": "contenido",
       "texto": "Documentos de seguimiento. Medidas.",
+      "codigo_oficial": "c)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo V",
@@ -991,6 +1072,7 @@
       "codigo": "MAD.DAM.1665.CO.6.4",
       "tipo": "contenido",
       "texto": "Recursos humanos.",
+      "codigo_oficial": "d)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo V",

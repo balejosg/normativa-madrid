@@ -15,6 +15,7 @@
       "codigo": "MAD.CMO.315",
       "tipo": "modulo",
       "texto": "Arquitecturas en la nube",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20260925-20",
         "ubicacion": "anexo I, módulo CMO-315",
@@ -36,6 +37,7 @@
       "codigo": "MAD.CMO.315.RA.1",
       "tipo": "resultado_aprendizaje",
       "texto": "Toma decisiones en materia de arquitectura a partir de los principios y buenas prácticas recomendadas.",
+      "codigo_oficial": "1.",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, resultado de aprendizaje 1",
@@ -48,6 +50,7 @@
       "codigo": "MAD.CMO.315.RA.1.a",
       "tipo": "criterio_fp",
       "texto": "Se ha definido la arquitectura en la nube.",
+      "codigo_oficial": "a)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, resultado de aprendizaje 1, criterio a",
@@ -60,6 +63,7 @@
       "codigo": "MAD.CMO.315.RA.1.b",
       "tipo": "criterio_fp",
       "texto": "Se ha descrito cómo diseñar y evaluar arquitecturas utilizando marcos de la buena arquitectura.",
+      "codigo_oficial": "b)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, resultado de aprendizaje 1, criterio b",
@@ -72,6 +76,7 @@
       "codigo": "MAD.CMO.315.RA.1.c",
       "tipo": "criterio_fp",
       "texto": "Se han explicado las mejores prácticas para diseño de soluciones arquitectónicas en la nube.",
+      "codigo_oficial": "c)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, resultado de aprendizaje 1, criterio c",
@@ -84,6 +89,7 @@
       "codigo": "MAD.CMO.315.RA.1.d",
       "tipo": "criterio_fp",
       "texto": "Se han descrito cómo tomar decisiones sobre dónde desplegar recursos en la nube.",
+      "codigo_oficial": "d)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, resultado de aprendizaje 1, criterio d",
@@ -96,6 +102,7 @@
       "codigo": "MAD.CMO.315.RA.2",
       "tipo": "resultado_aprendizaje",
       "texto": "Utiliza los servicios de computación en la nube para lograr una infraestructura escalable, fiable y altamente disponible.",
+      "codigo_oficial": "2.",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, resultado de aprendizaje 2",
@@ -108,6 +115,7 @@
       "codigo": "MAD.CMO.315.RA.2.a",
       "tipo": "criterio_fp",
       "texto": "Se ha identificado los diferentes servicios computacionales en la nube.",
+      "codigo_oficial": "a)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, resultado de aprendizaje 2, criterio a",
@@ -120,6 +128,7 @@
       "codigo": "MAD.CMO.315.RA.2.b",
       "tipo": "criterio_fp",
       "texto": "Se han implementado y configurado máquinas virtuales.",
+      "codigo_oficial": "b)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, resultado de aprendizaje 2, criterio b",
@@ -132,6 +141,7 @@
       "codigo": "MAD.CMO.315.RA.2.c",
       "tipo": "criterio_fp",
       "texto": "Se han creado soluciones de almacenamiento en la nube para máquinas virtuales.",
+      "codigo_oficial": "c)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, resultado de aprendizaje 2, criterio c",
@@ -144,6 +154,7 @@
       "codigo": "MAD.CMO.315.RA.2.d",
       "tipo": "criterio_fp",
       "texto": "Se han lanzado máquinas virtuales en clústeres.",
+      "codigo_oficial": "d)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, resultado de aprendizaje 2, criterio d",
@@ -156,6 +167,7 @@
       "codigo": "MAD.CMO.315.RA.2.e",
       "tipo": "criterio_fp",
       "texto": "Se han descrito los diferentes modelos de precios para las máquinas virtuales en la nube.",
+      "codigo_oficial": "e)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, resultado de aprendizaje 2, criterio e",
@@ -168,6 +180,7 @@
       "codigo": "MAD.CMO.315.RA.2.f",
       "tipo": "criterio_fp",
       "texto": "Se han reconocido los problemas que los servicios de almacenamiento en la nube pueden resolver.",
+      "codigo_oficial": "f)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, resultado de aprendizaje 2, criterio f",
@@ -180,6 +193,7 @@
       "codigo": "MAD.CMO.315.RA.2.g",
       "tipo": "criterio_fp",
       "texto": "Se ha descrito cómo utilizar eficientemente los servicios de almacenamiento en la nube y cómo migrar datos a la nube.",
+      "codigo_oficial": "g)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, resultado de aprendizaje 2, criterio g",
@@ -192,6 +206,7 @@
       "codigo": "MAD.CMO.315.RA.2.h",
       "tipo": "criterio_fp",
       "texto": "Se ha creado un sitio web estático altamente disponible en la nube.",
+      "codigo_oficial": "h)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, resultado de aprendizaje 2, criterio h",
@@ -204,6 +219,7 @@
       "codigo": "MAD.CMO.315.RA.2.i",
       "tipo": "criterio_fp",
       "texto": "Se han implementado y conectado discos EBS a instancias.",
+      "codigo_oficial": "i)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, resultado de aprendizaje 2, criterio i",
@@ -216,6 +232,7 @@
       "codigo": "MAD.CMO.315.RA.2.j",
       "tipo": "criterio_fp",
       "texto": "Se han implementado y conectado de forma persistente unidades EFS a instancias.",
+      "codigo_oficial": "j)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, resultado de aprendizaje 2, criterio j",
@@ -228,6 +245,7 @@
       "codigo": "MAD.CMO.315.RA.3",
       "tipo": "resultado_aprendizaje",
       "texto": "Utiliza los servicios administrados para lograr una mayor flexibilidad y resiliencia de una infraestructura.",
+      "codigo_oficial": "3.",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, resultado de aprendizaje 3",
@@ -240,6 +258,7 @@
       "codigo": "MAD.CMO.315.RA.3.a",
       "tipo": "criterio_fp",
       "texto": "Se han utilizado servicios administrados para el despliegue automatizado de la infraestructura.",
+      "codigo_oficial": "a)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, resultado de aprendizaje 3, criterio a",
@@ -252,6 +271,7 @@
       "codigo": "MAD.CMO.315.RA.3.b",
       "tipo": "criterio_fp",
       "texto": "Se han utilizado servicios administrados para el despliegue de aplicaciones sencillas.",
+      "codigo_oficial": "b)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, resultado de aprendizaje 3, criterio b",
@@ -264,6 +284,7 @@
       "codigo": "MAD.CMO.315.RA.3.c",
       "tipo": "criterio_fp",
       "texto": "Se han comparado los diferentes tipos de bases de datos administradas.",
+      "codigo_oficial": "c)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, resultado de aprendizaje 3, criterio c",
@@ -276,6 +297,7 @@
       "codigo": "MAD.CMO.315.RA.3.d",
       "tipo": "criterio_fp",
       "texto": "Se han desplegado servicios administrados de bases de datos relacionales en la nube.",
+      "codigo_oficial": "d)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, resultado de aprendizaje 3, criterio d",
@@ -288,6 +310,7 @@
       "codigo": "MAD.CMO.315.RA.3.e",
       "tipo": "criterio_fp",
       "texto": "Se ha explicado cómo utilizar bases de datos NoSQL administradas en la nube.",
+      "codigo_oficial": "e)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, resultado de aprendizaje 3, criterio e",
@@ -300,6 +323,7 @@
       "codigo": "MAD.CMO.315.RA.3.f",
       "tipo": "criterio_fp",
       "texto": "Se han descrito los controles de seguridad de las bases de datos administradas.",
+      "codigo_oficial": "f)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, resultado de aprendizaje 3, criterio f",
@@ -312,6 +336,7 @@
       "codigo": "MAD.CMO.315.RA.3.g",
       "tipo": "criterio_fp",
       "texto": "Se han realizado migraciones de bases de datos en las instalaciones a la nube.",
+      "codigo_oficial": "g)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, resultado de aprendizaje 3, criterio g",
@@ -324,6 +349,7 @@
       "codigo": "MAD.CMO.315.RA.3.h",
       "tipo": "criterio_fp",
       "texto": "Se han comparado los diferentes tipos de bases de datos administradas.",
+      "codigo_oficial": "h)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, resultado de aprendizaje 3, criterio h",
@@ -336,6 +362,7 @@
       "codigo": "MAD.CMO.315.RA.3.i",
       "tipo": "criterio_fp",
       "texto": "Se han desplegado servicios administrados de bases de datos relacionales en la nube.",
+      "codigo_oficial": "i)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, resultado de aprendizaje 3, criterio i",
@@ -348,6 +375,7 @@
       "codigo": "MAD.CMO.315.RA.3.j",
       "tipo": "criterio_fp",
       "texto": "Se ha explicado cómo utilizar bases de datos NoSQL administradas en la nube.",
+      "codigo_oficial": "j)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, resultado de aprendizaje 3, criterio j",
@@ -360,6 +388,7 @@
       "codigo": "MAD.CMO.315.RA.3.k",
       "tipo": "criterio_fp",
       "texto": "Se han descrito los controles de seguridad de las bases de datos administradas.",
+      "codigo_oficial": "k)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, resultado de aprendizaje 3, criterio k",
@@ -372,6 +401,7 @@
       "codigo": "MAD.CMO.315.RA.3.l",
       "tipo": "criterio_fp",
       "texto": "Se han realizado migraciones de bases de datos en las instalaciones a la nube.",
+      "codigo_oficial": "l)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, resultado de aprendizaje 3, criterio l",
@@ -384,6 +414,7 @@
       "codigo": "MAD.CMO.315.RA.3.m",
       "tipo": "criterio_fp",
       "texto": "Se ha explicado cómo gestionar la autenticación y autorización del acceso a los recursos de la nube.",
+      "codigo_oficial": "m)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, resultado de aprendizaje 3, criterio m",
@@ -396,6 +427,7 @@
       "codigo": "MAD.CMO.315.RA.3.n",
       "tipo": "criterio_fp",
       "texto": "Se ha descrito cómo puede utilizarse la identidad federada para incrementar la seguridad de la infraestructura.",
+      "codigo_oficial": "n)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, resultado de aprendizaje 3, criterio n",
@@ -408,6 +440,7 @@
       "codigo": "MAD.CMO.315.RA.3.ñ",
       "tipo": "criterio_fp",
       "texto": "Se han utilizado servicios administrados de bases de datos en memoria (Memchached, Redis, etc.)",
+      "codigo_oficial": "ñ)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, resultado de aprendizaje 3, criterio ñ",
@@ -420,6 +453,7 @@
       "codigo": "MAD.CMO.315.RA.3.o",
       "tipo": "criterio_fp",
       "texto": "Se han utilizado servicios administrados de colas de mensajes para el diseño de arquitecturas débilmente acopladas.",
+      "codigo_oficial": "o)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, resultado de aprendizaje 3, criterio o",
@@ -432,6 +466,7 @@
       "codigo": "MAD.CMO.315.RA.3.p",
       "tipo": "criterio_fp",
       "texto": "Se han utilizado servicios administrados de notificaciones para el diseño de arquitecturas débilmente acopladas.",
+      "codigo_oficial": "p)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, resultado de aprendizaje 3, criterio p",
@@ -444,6 +479,7 @@
       "codigo": "MAD.CMO.315.RA.3.q",
       "tipo": "criterio_fp",
       "texto": "Se ha identificado como las técnicas de caché pueden mejorar el rendimiento y reducir la latencia de una infraestructura.",
+      "codigo_oficial": "q)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, resultado de aprendizaje 3, criterio q",
@@ -456,6 +492,7 @@
       "codigo": "MAD.CMO.315.RA.3.r",
       "tipo": "criterio_fp",
       "texto": "Se ha identificado cómo la computación en el borde (Edge Computing) puede utilizarse para la distribución de contenidos y como protección de ataques DDoS.",
+      "codigo_oficial": "r)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, resultado de aprendizaje 3, criterio r",
@@ -468,6 +505,7 @@
       "codigo": "MAD.CMO.315.RA.3.s",
       "tipo": "criterio_fp",
       "texto": "Se ha reconocido cómo la administración de datos de sesión está relacionada con las técnicas de caché.",
+      "codigo_oficial": "s)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, resultado de aprendizaje 3, criterio s",
@@ -480,6 +518,7 @@
       "codigo": "MAD.CMO.315.RA.4",
       "tipo": "resultado_aprendizaje",
       "texto": "Potencia el rendimiento y reduce los costes de una infraestructura creada en la nube.",
+      "codigo_oficial": "4.",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, resultado de aprendizaje 4",
@@ -492,6 +531,7 @@
       "codigo": "MAD.CMO.315.RA.4.a",
       "tipo": "criterio_fp",
       "texto": "Se han desplegado balanceadores de carga para crear entornos altamente disponibles.",
+      "codigo_oficial": "a)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, resultado de aprendizaje 4, criterio a",
@@ -504,6 +544,7 @@
       "codigo": "MAD.CMO.315.RA.4.b",
       "tipo": "criterio_fp",
       "texto": "Se ha utilizado los servicios de autoescalado para brindar elasticidad a un clúster de máquinas virtuales.",
+      "codigo_oficial": "b)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, resultado de aprendizaje 4, criterio b",
@@ -516,6 +557,7 @@
       "codigo": "MAD.CMO.315.RA.4.c",
       "tipo": "criterio_fp",
       "texto": "Se han utilizado servidores DNS administrados para conmutar por error automáticamente en caso de fallo en una infraestructura.",
+      "codigo_oficial": "c)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, resultado de aprendizaje 4, criterio c",
@@ -528,6 +570,7 @@
       "codigo": "MAD.CMO.315.RA.4.d",
       "tipo": "criterio_fp",
       "texto": "Se han diseñado arquitecturas con servicios de monitorización para dar respuestas reactivas a un evento o fallo en la infraestructura.",
+      "codigo_oficial": "d)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, resultado de aprendizaje 4, criterio d",
@@ -540,6 +583,7 @@
       "codigo": "MAD.CMO.315.RA.4.e",
       "tipo": "criterio_fp",
       "texto": "Se ha explicado el rol de las redes virtuales en la nube.",
+      "codigo_oficial": "e)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, resultado de aprendizaje 4, criterio e",
@@ -552,6 +596,7 @@
       "codigo": "MAD.CMO.315.RA.4.f",
       "tipo": "criterio_fp",
       "texto": "Se han identificado los servicios que permiten establecer una conexión de red híbrida entre las instalaciones y la nube.",
+      "codigo_oficial": "f)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, resultado de aprendizaje 4, criterio f",
@@ -564,6 +609,7 @@
       "codigo": "MAD.CMO.315.RA.4.g",
       "tipo": "criterio_fp",
       "texto": "Se han implementado VPC y subredes.",
+      "codigo_oficial": "g)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, resultado de aprendizaje 4, criterio g",
@@ -576,6 +622,7 @@
       "codigo": "MAD.CMO.315.RA.4.h",
       "tipo": "criterio_fp",
       "texto": "Se han configurado grupos de seguridad y ALC de red.",
+      "codigo_oficial": "h)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, resultado de aprendizaje 4, criterio h",
@@ -588,6 +635,7 @@
       "codigo": "MAD.CMO.315.RA.4.i",
       "tipo": "criterio_fp",
       "texto": "Se ha descrito cómo conectar diferentes redes virtuales en la nube.",
+      "codigo_oficial": "i)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, resultado de aprendizaje 4, criterio i",
@@ -600,6 +648,7 @@
       "codigo": "MAD.CMO.315.RA.4.j",
       "tipo": "criterio_fp",
       "texto": "Se ha descrito cómo escalar una infraestructura de red en la nube.",
+      "codigo_oficial": "j)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, resultado de aprendizaje 4, criterio j",
@@ -612,6 +661,7 @@
       "codigo": "MAD.CMO.315.RA.4.k",
       "tipo": "criterio_fp",
       "texto": "Se han creado redes virtuales en la nube, gateways de Internet, tablas de encaminamiento y cortafuegos.",
+      "codigo_oficial": "k)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, resultado de aprendizaje 4, criterio k",
@@ -624,6 +674,7 @@
       "codigo": "MAD.CMO.315.RA.4.l",
       "tipo": "criterio_fp",
       "texto": "Se ha definido el despliegue de Infraestructura como Código (IaC).",
+      "codigo_oficial": "l)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, resultado de aprendizaje 4, criterio l",
@@ -636,6 +687,7 @@
       "codigo": "MAD.CMO.315.RA.4.m",
       "tipo": "criterio_fp",
       "texto": "Se ha modelado una infraestructura como código mediante una plantilla.",
+      "codigo_oficial": "m)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, resultado de aprendizaje 4, criterio m",
@@ -648,6 +700,7 @@
       "codigo": "MAD.CMO.315.RA.4.n",
       "tipo": "criterio_fp",
       "texto": "Se ha explicado qué es el acoplamiento de infraestructuras en la nube y el por qué deben diseñarse arquitecturas débilmente acopladas.",
+      "codigo_oficial": "n)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, resultado de aprendizaje 4, criterio n",
@@ -660,6 +713,7 @@
       "codigo": "MAD.CMO.315.RA.4.ñ",
       "tipo": "criterio_fp",
       "texto": "Se han identificado las diferentes estrategias de planificación ante desastres.",
+      "codigo_oficial": "ñ)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, resultado de aprendizaje 4, criterio ñ",
@@ -672,6 +726,7 @@
       "codigo": "MAD.CMO.315.RA.4.o",
       "tipo": "criterio_fp",
       "texto": "Se han definido los conceptos de RPO (Recovery Point Objective) y RTO (Recovery Time Objective).",
+      "codigo_oficial": "o)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, resultado de aprendizaje 4, criterio o",
@@ -684,6 +739,7 @@
       "codigo": "MAD.CMO.315.RA.4.p",
       "tipo": "criterio_fp",
       "texto": "Se han descrito patrones comunes para el respaldo y recuperación de desastres y cómo implementarlos.",
+      "codigo_oficial": "p)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, resultado de aprendizaje 4, criterio p",
@@ -696,6 +752,7 @@
       "codigo": "MAD.CMO.315.RA.4.q",
       "tipo": "criterio_fp",
       "texto": "Se han aplicado las buenas prácticas para lograr una infraestructura en la nube escalable, segura y altamente disponible.",
+      "codigo_oficial": "q)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, resultado de aprendizaje 4, criterio q",
@@ -708,6 +765,7 @@
       "codigo": "MAD.CMO.315.RA.4.r",
       "tipo": "criterio_fp",
       "texto": "Se han utilizado servicios administrados de almacenamiento híbrido como soluciones de respaldo de datos.",
+      "codigo_oficial": "r)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, resultado de aprendizaje 4, criterio r",
@@ -720,6 +778,7 @@
       "codigo": "MAD.CMO.315.RA.4.s",
       "tipo": "criterio_fp",
       "texto": "Se han aplicado las buenas prácticas para lograr mayor flexibilidad y resiliencia de una infraestructura en la nube.",
+      "codigo_oficial": "s)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, resultado de aprendizaje 4, criterio s",
@@ -732,6 +791,7 @@
       "codigo": "MAD.CMO.315.RA.4.t",
       "tipo": "criterio_fp",
       "texto": "Se han indicado las características de las arquitecturas basadas en microservicios y cómo éstas pueden reducir los costes de la infraestructura y potenciar el rendimiento.",
+      "codigo_oficial": "t)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, resultado de aprendizaje 4, criterio t",
@@ -744,6 +804,7 @@
       "codigo": "MAD.CMO.315.RA.4.u",
       "tipo": "criterio_fp",
       "texto": "Se ha explicado qué es una arquitectura sin servidor (serverless).",
+      "codigo_oficial": "u)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, resultado de aprendizaje 4, criterio u",
@@ -756,6 +817,7 @@
       "codigo": "MAD.CMO.315.RA.4.v",
       "tipo": "criterio_fp",
       "texto": "Se ha desplegado una infraestructura sin servidor utilizando funciones serverless, API Gateway.",
+      "codigo_oficial": "v)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, resultado de aprendizaje 4, criterio v",
@@ -768,6 +830,7 @@
       "codigo": "MAD.CMO.315.RA.4.w",
       "tipo": "criterio_fp",
       "texto": "Se ha explicado qué es la orquestación de flujos sin servidor y cómo puede reducir los costes.",
+      "codigo_oficial": "w)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, resultado de aprendizaje 4, criterio w",
@@ -780,6 +843,7 @@
       "codigo": "MAD.CMO.315.RA.4.x",
       "tipo": "criterio_fp",
       "texto": "Se han aplicado las buenas prácticas para para potenciar el rendimiento y reducir los costes de la infraestructura en la nube.",
+      "codigo_oficial": "x)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, resultado de aprendizaje 4, criterio x",
@@ -792,6 +856,7 @@
       "codigo": "MAD.CMO.315.CO.1",
       "tipo": "contenido",
       "texto": "Introducción a la Arquitectura en la Nube.",
+      "codigo_oficial": "1.",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, contenidos",
@@ -804,6 +869,7 @@
       "codigo": "MAD.CMO.315.CO.1.1",
       "tipo": "contenido",
       "texto": "Definición de Arquitectura en la Nube.",
+      "codigo_oficial": "a)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, contenidos",
@@ -816,6 +882,7 @@
       "codigo": "MAD.CMO.315.CO.1.2",
       "tipo": "contenido",
       "texto": "El marco de la buena arquitectura.",
+      "codigo_oficial": "b)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, contenidos",
@@ -828,6 +895,7 @@
       "codigo": "MAD.CMO.315.CO.1.3",
       "tipo": "contenido",
       "texto": "Prácticas recomendadas para crear soluciones en la nube.",
+      "codigo_oficial": "c)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, contenidos",
@@ -840,6 +908,7 @@
       "codigo": "MAD.CMO.315.CO.1.4",
       "tipo": "contenido",
       "texto": "Infraestructura global de la nube.",
+      "codigo_oficial": "d)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, contenidos",
@@ -852,6 +921,7 @@
       "codigo": "MAD.CMO.315.CO.2",
       "tipo": "contenido",
       "texto": "Incorporación de una capa de almacenamiento.",
+      "codigo_oficial": "2.",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, contenidos",
@@ -864,6 +934,7 @@
       "codigo": "MAD.CMO.315.CO.2.1",
       "tipo": "contenido",
       "texto": "Uso de servicios de almacenamiento de objetos.",
+      "codigo_oficial": "a)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, contenidos",
@@ -876,6 +947,7 @@
       "codigo": "MAD.CMO.315.CO.2.2",
       "tipo": "contenido",
       "texto": "Alojamiento de un sitio web estático.",
+      "codigo_oficial": "b)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, contenidos",
@@ -888,6 +960,7 @@
       "codigo": "MAD.CMO.315.CO.2.3",
       "tipo": "contenido",
       "texto": "Almacenamiento de datos.",
+      "codigo_oficial": "c)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, contenidos",
@@ -900,6 +973,7 @@
       "codigo": "MAD.CMO.315.CO.2.4",
       "tipo": "contenido",
       "texto": "Traslado de datos desde y hacia un servicio de almacenamiento de objetos.",
+      "codigo_oficial": "d)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, contenidos",
@@ -912,6 +986,7 @@
       "codigo": "MAD.CMO.315.CO.2.5",
       "tipo": "contenido",
       "texto": "Aceleración de transferencias mediante CDNs.",
+      "codigo_oficial": "e)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, contenidos",
@@ -924,6 +999,7 @@
       "codigo": "MAD.CMO.315.CO.2.6",
       "tipo": "contenido",
       "texto": "Criterios arquitectónicos para la elección de regiones.",
+      "codigo_oficial": "f)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, contenidos",
@@ -936,6 +1012,7 @@
       "codigo": "MAD.CMO.315.CO.3",
       "tipo": "contenido",
       "texto": "Incorporación de una capa de cómputo.",
+      "codigo_oficial": "3.",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, contenidos",
@@ -948,6 +1025,7 @@
       "codigo": "MAD.CMO.315.CO.3.1",
       "tipo": "contenido",
       "texto": "Necesidad arquitectónica.",
+      "codigo_oficial": "a)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, contenidos",
@@ -960,6 +1038,7 @@
       "codigo": "MAD.CMO.315.CO.3.2",
       "tipo": "contenido",
       "texto": "Incorporación de recursos de cómputo mediante máquinas virtuales en la nube",
+      "codigo_oficial": "b)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, contenidos",
@@ -972,6 +1051,7 @@
       "codigo": "MAD.CMO.315.CO.3.3",
       "tipo": "contenido",
       "texto": "Elección de una plantilla para lanzar una máquina virtual.",
+      "codigo_oficial": "c)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, contenidos",
@@ -984,6 +1064,7 @@
       "codigo": "MAD.CMO.315.CO.3.4",
       "tipo": "contenido",
       "texto": "Selección de un tipo de máquina virtual.",
+      "codigo_oficial": "d)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, contenidos",
@@ -996,6 +1077,7 @@
       "codigo": "MAD.CMO.315.CO.3.5",
       "tipo": "contenido",
       "texto": "Bootstrapping de máquinas virtuales en la nube.",
+      "codigo_oficial": "e)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, contenidos",
@@ -1008,6 +1090,7 @@
       "codigo": "MAD.CMO.315.CO.3.6",
       "tipo": "contenido",
       "texto": "Incorporación de un sistema de ficheros de compartido entre varias máquinas virtuales en la nube.",
+      "codigo_oficial": "f)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, contenidos",
@@ -1020,6 +1103,7 @@
       "codigo": "MAD.CMO.315.CO.3.7",
       "tipo": "contenido",
       "texto": "Opciones de precios de máquinas virtuales.",
+      "codigo_oficial": "g)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, contenidos",
@@ -1032,6 +1116,7 @@
       "codigo": "MAD.CMO.315.CO.3.8",
       "tipo": "contenido",
       "texto": "Otras consideraciones sobre máquinas virtuales en la nube.",
+      "codigo_oficial": "h)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, contenidos",
@@ -1044,6 +1129,7 @@
       "codigo": "MAD.CMO.315.CO.4",
       "tipo": "contenido",
       "texto": "Incorporación de una capa de bases de datos.",
+      "codigo_oficial": "4.",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, contenidos",
@@ -1056,6 +1142,7 @@
       "codigo": "MAD.CMO.315.CO.4.1",
       "tipo": "contenido",
       "texto": "Necesidad arquitectónica.",
+      "codigo_oficial": "a)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, contenidos",
@@ -1068,6 +1155,7 @@
       "codigo": "MAD.CMO.315.CO.4.2",
       "tipo": "contenido",
       "texto": "Consideraciones de la capa de bases de datos.",
+      "codigo_oficial": "b)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, contenidos",
@@ -1080,6 +1168,7 @@
       "codigo": "MAD.CMO.315.CO.4.3",
       "tipo": "contenido",
       "texto": "Servicios administrados de Bases de datos relacionales en la nube.",
+      "codigo_oficial": "c)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, contenidos",
@@ -1092,6 +1181,7 @@
       "codigo": "MAD.CMO.315.CO.4.4",
       "tipo": "contenido",
       "texto": "Réplicas de lectura y copias de seguridad automatizadas de bases de datos relacionales.",
+      "codigo_oficial": "d)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, contenidos",
@@ -1104,6 +1194,7 @@
       "codigo": "MAD.CMO.315.CO.4.5",
       "tipo": "contenido",
       "texto": "Bases de datos NoSQL.",
+      "codigo_oficial": "e)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, contenidos",
@@ -1116,6 +1207,7 @@
       "codigo": "MAD.CMO.315.CO.4.6",
       "tipo": "contenido",
       "texto": "Controles de seguridad en las bases de datos.",
+      "codigo_oficial": "f)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, contenidos",
@@ -1128,6 +1220,7 @@
       "codigo": "MAD.CMO.315.CO.4.7",
       "tipo": "contenido",
       "texto": "Migración de datos a las bases de datos en la nube.",
+      "codigo_oficial": "g)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, contenidos",
@@ -1140,6 +1233,7 @@
       "codigo": "MAD.CMO.315.CO.5",
       "tipo": "contenido",
       "texto": "Creación de entornos de red.",
+      "codigo_oficial": "5.",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, contenidos",
@@ -1152,6 +1246,7 @@
       "codigo": "MAD.CMO.315.CO.5.1",
       "tipo": "contenido",
       "texto": "Necesidad arquitectónica.",
+      "codigo_oficial": "a)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, contenidos",
@@ -1164,6 +1259,7 @@
       "codigo": "MAD.CMO.315.CO.5.2",
       "tipo": "contenido",
       "texto": "Creación de un entorno de red.",
+      "codigo_oficial": "b)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, contenidos",
@@ -1176,6 +1272,7 @@
       "codigo": "MAD.CMO.315.CO.5.3",
       "tipo": "contenido",
       "texto": "Conexión del entorno de red a Internet.",
+      "codigo_oficial": "c)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, contenidos",
@@ -1188,6 +1285,7 @@
       "codigo": "MAD.CMO.315.CO.5.4",
       "tipo": "contenido",
       "texto": "Creación de una nube privada virtual.",
+      "codigo_oficial": "d)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, contenidos",
@@ -1200,6 +1298,7 @@
       "codigo": "MAD.CMO.315.CO.5.5",
       "tipo": "contenido",
       "texto": "Protección del entorno de red.",
+      "codigo_oficial": "e)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, contenidos",
@@ -1212,6 +1311,7 @@
       "codigo": "MAD.CMO.315.CO.6",
       "tipo": "contenido",
       "texto": "Conexión de redes.",
+      "codigo_oficial": "6.",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, contenidos",
@@ -1224,6 +1324,7 @@
       "codigo": "MAD.CMO.315.CO.6.1",
       "tipo": "contenido",
       "texto": "Necesidad arquitectónica.",
+      "codigo_oficial": "a)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, contenidos",
@@ -1236,6 +1337,7 @@
       "codigo": "MAD.CMO.315.CO.6.2",
       "tipo": "contenido",
       "texto": "Conexión desde una red on-premises mediante VPN.",
+      "codigo_oficial": "b)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, contenidos",
@@ -1248,6 +1350,7 @@
       "codigo": "MAD.CMO.315.CO.6.3",
       "tipo": "contenido",
       "texto": "Conexión desde una red on-premises mediante conexiones dedicadas.",
+      "codigo_oficial": "c)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, contenidos",
@@ -1260,6 +1363,7 @@
       "codigo": "MAD.CMO.315.CO.6.4",
       "tipo": "contenido",
       "texto": "Interconexión de nubes privadas virtuales.",
+      "codigo_oficial": "d)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, contenidos",
@@ -1272,6 +1376,7 @@
       "codigo": "MAD.CMO.315.CO.6.5",
       "tipo": "contenido",
       "texto": "Escalado de nubes privadas virtuales.",
+      "codigo_oficial": "e)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, contenidos",
@@ -1284,6 +1389,7 @@
       "codigo": "MAD.CMO.315.CO.6.6",
       "tipo": "contenido",
       "texto": "Conexión de la nube privada virtual a otros servicios de la nube.",
+      "codigo_oficial": "f)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, contenidos",
@@ -1296,6 +1402,7 @@
       "codigo": "MAD.CMO.315.CO.7",
       "tipo": "contenido",
       "texto": "Protección del acceso de los usuarios y las aplicaciones.",
+      "codigo_oficial": "7.",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, contenidos",
@@ -1308,6 +1415,7 @@
       "codigo": "MAD.CMO.315.CO.7.1",
       "tipo": "contenido",
       "texto": "Necesidad arquitectónica.",
+      "codigo_oficial": "a)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, contenidos",
@@ -1320,6 +1428,7 @@
       "codigo": "MAD.CMO.315.CO.7.2",
       "tipo": "contenido",
       "texto": "Usuarios de cuentas. Autenticación y autorización.",
+      "codigo_oficial": "b)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, contenidos",
@@ -1332,6 +1441,7 @@
       "codigo": "MAD.CMO.315.CO.7.3",
       "tipo": "contenido",
       "texto": "Análisis de políticas de permisos.",
+      "codigo_oficial": "c)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, contenidos",
@@ -1344,6 +1454,7 @@
       "codigo": "MAD.CMO.315.CO.7.4",
       "tipo": "contenido",
       "texto": "Organización de usuarios.",
+      "codigo_oficial": "d)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, contenidos",
@@ -1356,6 +1467,7 @@
       "codigo": "MAD.CMO.315.CO.7.5",
       "tipo": "contenido",
       "texto": "Federación de usuarios.",
+      "codigo_oficial": "e)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, contenidos",
@@ -1368,6 +1480,7 @@
       "codigo": "MAD.CMO.315.CO.7.6",
       "tipo": "contenido",
       "texto": "Permisos en máquinas virtuales.",
+      "codigo_oficial": "f)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, contenidos",
@@ -1380,6 +1493,7 @@
       "codigo": "MAD.CMO.315.CO.7.7",
       "tipo": "contenido",
       "texto": "Cuentas múltiples.",
+      "codigo_oficial": "g)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, contenidos",
@@ -1392,6 +1506,7 @@
       "codigo": "MAD.CMO.315.CO.7.8",
       "tipo": "contenido",
       "texto": "Control del acceso a cuentas múltiples.",
+      "codigo_oficial": "h)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, contenidos",
@@ -1404,6 +1519,7 @@
       "codigo": "MAD.CMO.315.CO.8",
       "tipo": "contenido",
       "texto": "Implementación de la elasticidad, monitorización y alta disponibilidad.",
+      "codigo_oficial": "8.",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, contenidos",
@@ -1416,6 +1532,7 @@
       "codigo": "MAD.CMO.315.CO.8.1",
       "tipo": "contenido",
       "texto": "Necesidad arquitectónica.",
+      "codigo_oficial": "a)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, contenidos",
@@ -1428,6 +1545,7 @@
       "codigo": "MAD.CMO.315.CO.8.2",
       "tipo": "contenido",
       "texto": "Escalado de recursos de cómputo.",
+      "codigo_oficial": "b)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, contenidos",
@@ -1440,6 +1558,7 @@
       "codigo": "MAD.CMO.315.CO.8.3",
       "tipo": "contenido",
       "texto": "Creación de políticas de escalado automático de máquinas virtuales.",
+      "codigo_oficial": "c)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, contenidos",
@@ -1452,6 +1571,7 @@
       "codigo": "MAD.CMO.315.CO.8.4",
       "tipo": "contenido",
       "texto": "Escalado de bases de datos.",
+      "codigo_oficial": "d)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, contenidos",
@@ -1464,6 +1584,7 @@
       "codigo": "MAD.CMO.315.CO.8.5",
       "tipo": "contenido",
       "texto": "Diseño de entornos de alta disponibilidad.",
+      "codigo_oficial": "e)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, contenidos",
@@ -1476,6 +1597,7 @@
       "codigo": "MAD.CMO.315.CO.8.6",
       "tipo": "contenido",
       "texto": "Creación de una aplicación web altamente disponible.",
+      "codigo_oficial": "f)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, contenidos",
@@ -1488,6 +1610,7 @@
       "codigo": "MAD.CMO.315.CO.8.7",
       "tipo": "contenido",
       "texto": "Servicios DNS administrados.",
+      "codigo_oficial": "g)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, contenidos",
@@ -1500,6 +1623,7 @@
       "codigo": "MAD.CMO.315.CO.8.8",
       "tipo": "contenido",
       "texto": "Creación de un entorno altamente disponible.",
+      "codigo_oficial": "h)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, contenidos",
@@ -1512,6 +1636,7 @@
       "codigo": "MAD.CMO.315.CO.8.9",
       "tipo": "contenido",
       "texto": "Monitorización.",
+      "codigo_oficial": "i)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, contenidos",
@@ -1524,6 +1649,7 @@
       "codigo": "MAD.CMO.315.CO.9",
       "tipo": "contenido",
       "texto": "Automatización de un diseño arquitectónico.",
+      "codigo_oficial": "9.",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, contenidos",
@@ -1536,6 +1662,7 @@
       "codigo": "MAD.CMO.315.CO.9.1",
       "tipo": "contenido",
       "texto": "Necesidad arquitectónica.",
+      "codigo_oficial": "a)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, contenidos",
@@ -1548,6 +1675,7 @@
       "codigo": "MAD.CMO.315.CO.9.2",
       "tipo": "contenido",
       "texto": "Motivos para automatizar.",
+      "codigo_oficial": "b)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, contenidos",
@@ -1560,6 +1688,7 @@
       "codigo": "MAD.CMO.315.CO.9.3",
       "tipo": "contenido",
       "texto": "Automatización del despliegue de la infraestructura.",
+      "codigo_oficial": "c)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, contenidos",
@@ -1572,6 +1701,7 @@
       "codigo": "MAD.CMO.315.CO.9.4",
       "tipo": "contenido",
       "texto": "Análisis de plantillas de Infraestructura como código (IaC).",
+      "codigo_oficial": "d)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, contenidos",
@@ -1584,6 +1714,7 @@
       "codigo": "MAD.CMO.315.CO.9.5",
       "tipo": "contenido",
       "texto": "Automatización del despliegue de la infraestructura mediante IaC.",
+      "codigo_oficial": "e)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, contenidos",
@@ -1596,6 +1727,7 @@
       "codigo": "MAD.CMO.315.CO.9.6",
       "tipo": "contenido",
       "texto": "Automatización del despliegue de aplicaciones.",
+      "codigo_oficial": "f)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, contenidos",
@@ -1608,6 +1740,7 @@
       "codigo": "MAD.CMO.315.CO.9.7",
       "tipo": "contenido",
       "texto": "Servicios administrados de despliegue de aplicaciones.",
+      "codigo_oficial": "g)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, contenidos",
@@ -1620,6 +1753,7 @@
       "codigo": "MAD.CMO.315.CO.10",
       "tipo": "contenido",
       "texto": "Almacenamiento de contenido en caché.",
+      "codigo_oficial": "10.",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, contenidos",
@@ -1632,6 +1766,7 @@
       "codigo": "MAD.CMO.315.CO.10.1",
       "tipo": "contenido",
       "texto": "Necesidad arquitectónica.",
+      "codigo_oficial": "a)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, contenidos",
@@ -1644,6 +1779,7 @@
       "codigo": "MAD.CMO.315.CO.10.2",
       "tipo": "contenido",
       "texto": "Información general sobre el almacenamiento en caché.",
+      "codigo_oficial": "b)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, contenidos",
@@ -1656,6 +1792,7 @@
       "codigo": "MAD.CMO.315.CO.10.3",
       "tipo": "contenido",
       "texto": "Almacenamiento en caché perimetral.",
+      "codigo_oficial": "c)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, contenidos",
@@ -1668,6 +1805,7 @@
       "codigo": "MAD.CMO.315.CO.10.4",
       "tipo": "contenido",
       "texto": "Streaming de contenido dinámico con CDNs.",
+      "codigo_oficial": "d)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, contenidos",
@@ -1680,6 +1818,7 @@
       "codigo": "MAD.CMO.315.CO.10.5",
       "tipo": "contenido",
       "texto": "Almacenamiento de sesiones de aplicaciones web en caché.",
+      "codigo_oficial": "e)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, contenidos",
@@ -1692,6 +1831,7 @@
       "codigo": "MAD.CMO.315.CO.10.6",
       "tipo": "contenido",
       "texto": "Almacenamiento de bases de datos en caché.",
+      "codigo_oficial": "f)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, contenidos",
@@ -1704,6 +1844,7 @@
       "codigo": "MAD.CMO.315.CO.11",
       "tipo": "contenido",
       "texto": "Creación de arquitecturas desacopladas.",
+      "codigo_oficial": "11.",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, contenidos",
@@ -1716,6 +1857,7 @@
       "codigo": "MAD.CMO.315.CO.11.1",
       "tipo": "contenido",
       "texto": "Necesidad arquitectónica.",
+      "codigo_oficial": "a)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, contenidos",
@@ -1728,6 +1870,7 @@
       "codigo": "MAD.CMO.315.CO.11.2",
       "tipo": "contenido",
       "texto": "Desacoplamiento de la arquitectura.",
+      "codigo_oficial": "b)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, contenidos",
@@ -1740,6 +1883,7 @@
       "codigo": "MAD.CMO.315.CO.11.3",
       "tipo": "contenido",
       "texto": "Desacoplamiento mediante colas de mensajes.",
+      "codigo_oficial": "c)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, contenidos",
@@ -1752,6 +1896,7 @@
       "codigo": "MAD.CMO.315.CO.11.4",
       "tipo": "contenido",
       "texto": "Desacoplamiento mediante servicios de notificaciones.",
+      "codigo_oficial": "d)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, contenidos",
@@ -1764,6 +1909,7 @@
       "codigo": "MAD.CMO.315.CO.11.5",
       "tipo": "contenido",
       "texto": "Envío de mensajes entre aplicaciones en la nube y on-premises con servicios Apache MQ.",
+      "codigo_oficial": "e)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, contenidos",
@@ -1776,6 +1922,7 @@
       "codigo": "MAD.CMO.315.CO.12",
       "tipo": "contenido",
       "texto": "Creación de arquitecturas basadas en microservicios y serverless.",
+      "codigo_oficial": "12.",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, contenidos",
@@ -1788,6 +1935,7 @@
       "codigo": "MAD.CMO.315.CO.12.1",
       "tipo": "contenido",
       "texto": "Necesidad arquitectónica.",
+      "codigo_oficial": "a)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, contenidos",
@@ -1800,6 +1948,7 @@
       "codigo": "MAD.CMO.315.CO.12.2",
       "tipo": "contenido",
       "texto": "Introducción a los microservicios.",
+      "codigo_oficial": "b)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, contenidos",
@@ -1812,6 +1961,7 @@
       "codigo": "MAD.CMO.315.CO.12.3",
       "tipo": "contenido",
       "texto": "Creación de aplicaciones de microservicios con los servicios de contenedorización en la nube.",
+      "codigo_oficial": "c)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, contenidos",
@@ -1824,6 +1974,7 @@
       "codigo": "MAD.CMO.315.CO.12.4",
       "tipo": "contenido",
       "texto": "División de una aplicación monolítica en microservicios.",
+      "codigo_oficial": "d)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, contenidos",
@@ -1836,6 +1987,7 @@
       "codigo": "MAD.CMO.315.CO.12.5",
       "tipo": "contenido",
       "texto": "Introducción a las arquitecturas serverless.",
+      "codigo_oficial": "e)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, contenidos",
@@ -1848,6 +2000,7 @@
       "codigo": "MAD.CMO.315.CO.12.6",
       "tipo": "contenido",
       "texto": "Creación de arquitecturas con funciones serverless.",
+      "codigo_oficial": "f)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, contenidos",
@@ -1860,6 +2013,7 @@
       "codigo": "MAD.CMO.315.CO.12.7",
       "tipo": "contenido",
       "texto": "Uso de funciones serverless con almacenamiento de objetos.",
+      "codigo_oficial": "g)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, contenidos",
@@ -1872,6 +2026,7 @@
       "codigo": "MAD.CMO.315.CO.12.8",
       "tipo": "contenido",
       "texto": "Despliegue de una arquitectura serverless.",
+      "codigo_oficial": "h)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, contenidos",
@@ -1884,6 +2039,7 @@
       "codigo": "MAD.CMO.315.CO.12.9",
       "tipo": "contenido",
       "texto": "Ampliación de las arquitecturas serverless con API Gateway.",
+      "codigo_oficial": "i)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, contenidos",
@@ -1896,6 +2052,7 @@
       "codigo": "MAD.CMO.315.CO.12.10",
       "tipo": "contenido",
       "texto": "Orquestación de microservicios.",
+      "codigo_oficial": "j)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, contenidos",
@@ -1908,6 +2065,7 @@
       "codigo": "MAD.CMO.315.CO.13",
       "tipo": "contenido",
       "texto": "Planificación ante desastres.",
+      "codigo_oficial": "13.",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, contenidos",
@@ -1920,6 +2078,7 @@
       "codigo": "MAD.CMO.315.CO.13.1",
       "tipo": "contenido",
       "texto": "Necesidad arquitectónica.",
+      "codigo_oficial": "a)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, contenidos",
@@ -1932,6 +2091,7 @@
       "codigo": "MAD.CMO.315.CO.13.2",
       "tipo": "contenido",
       "texto": "Estrategias de planificación ante desastres.",
+      "codigo_oficial": "b)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, contenidos",
@@ -1944,6 +2104,7 @@
       "codigo": "MAD.CMO.315.CO.13.3",
       "tipo": "contenido",
       "texto": "Patrones de recuperación de desastres.",
+      "codigo_oficial": "c)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, contenidos",
@@ -1956,6 +2117,7 @@
       "codigo": "MAD.CMO.315.CO.13.4",
       "tipo": "contenido",
       "texto": "Almacenamiento híbrido y migración de datos.",
+      "codigo_oficial": "d)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-315, contenidos",

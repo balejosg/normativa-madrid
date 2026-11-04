@@ -17,6 +17,7 @@
       "codigo": "MAD.DAM.0373",
       "tipo": "modulo",
       "texto": "Lenguajes de marcas y sistemas de gestión de información",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20241115-2",
         "ubicacion": "anexo II",
@@ -32,6 +33,7 @@
       "codigo": "MAD.DAM.0373.RA.1",
       "tipo": "resultado_aprendizaje",
       "texto": "Reconoce las características de lenguajes de marcas analizando e interpretando fragmentos de código.",
+      "codigo_oficial": "1.",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0373, resultado de aprendizaje 1",
@@ -51,6 +53,7 @@
       "codigo": "MAD.DAM.0373.RA.1.a",
       "tipo": "criterio_fp",
       "texto": "Se han identificado las características generales de los lenguajes de marcas.",
+      "codigo_oficial": "a)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0373, resultado de aprendizaje 1, criterio a",
@@ -70,6 +73,7 @@
       "codigo": "MAD.DAM.0373.RA.1.b",
       "tipo": "criterio_fp",
       "texto": "Se han reconocido las ventajas que proporcionan en el tratamiento de la información.",
+      "codigo_oficial": "b)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0373, resultado de aprendizaje 1, criterio b",
@@ -89,6 +93,7 @@
       "codigo": "MAD.DAM.0373.RA.1.c",
       "tipo": "criterio_fp",
       "texto": "Se han clasificado los lenguajes de marcas e identificado los más relevantes.",
+      "codigo_oficial": "c)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0373, resultado de aprendizaje 1, criterio c",
@@ -108,6 +113,7 @@
       "codigo": "MAD.DAM.0373.RA.1.d",
       "tipo": "criterio_fp",
       "texto": "Se han diferenciado sus ámbitos de aplicación.",
+      "codigo_oficial": "d)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0373, resultado de aprendizaje 1, criterio d",
@@ -127,6 +133,7 @@
       "codigo": "MAD.DAM.0373.RA.1.e",
       "tipo": "criterio_fp",
       "texto": "Se han reconocido la necesidad y los ámbitos específicos de aplicación de un lenguaje de marcas de propósito general.",
+      "codigo_oficial": "e)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0373, resultado de aprendizaje 1, criterio e",
@@ -146,6 +153,7 @@
       "codigo": "MAD.DAM.0373.RA.1.f",
       "tipo": "criterio_fp",
       "texto": "Se han analizado las características propias de diferentes lenguajes de marcas.",
+      "codigo_oficial": "f)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0373, resultado de aprendizaje 1, criterio f",
@@ -165,6 +173,7 @@
       "codigo": "MAD.DAM.0373.RA.1.g",
       "tipo": "criterio_fp",
       "texto": "Se ha identificado la estructura de un documento y sus reglas sintácticas.",
+      "codigo_oficial": "g)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0373, resultado de aprendizaje 1, criterio g",
@@ -184,6 +193,7 @@
       "codigo": "MAD.DAM.0373.RA.1.h",
       "tipo": "criterio_fp",
       "texto": "Se ha contrastado la necesidad de crear documentos bien formados y la influencia en su procesamiento.",
+      "codigo_oficial": "h)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0373, resultado de aprendizaje 1, criterio h",
@@ -203,6 +213,7 @@
       "codigo": "MAD.DAM.0373.RA.1.i",
       "tipo": "criterio_fp",
       "texto": "Se han identificado las ventajas que aportan los espacios de nombres.",
+      "codigo_oficial": "i)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0373, resultado de aprendizaje 1, criterio i",
@@ -222,6 +233,7 @@
       "codigo": "MAD.DAM.0373.RA.2",
       "tipo": "resultado_aprendizaje",
       "texto": "Utiliza lenguajes de marcas para la transmisión y presentación de información a través de la web analizando la estructura de los documentos e identificando sus elementos.",
+      "codigo_oficial": "2.",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0373, resultado de aprendizaje 2",
@@ -241,6 +253,7 @@
       "codigo": "MAD.DAM.0373.RA.2.a",
       "tipo": "criterio_fp",
       "texto": "Se han identificado y clasificado los lenguajes de marcas relacionados con la web y sus diferentes versiones y estándares.",
+      "codigo_oficial": "a)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0373, resultado de aprendizaje 2, criterio a",
@@ -260,6 +273,7 @@
       "codigo": "MAD.DAM.0373.RA.2.b",
       "tipo": "criterio_fp",
       "texto": "Se ha analizado la estructura de un documento HTML e identificado las secciones que lo componen.",
+      "codigo_oficial": "b)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0373, resultado de aprendizaje 2, criterio b",
@@ -279,6 +293,7 @@
       "codigo": "MAD.DAM.0373.RA.2.c",
       "tipo": "criterio_fp",
       "texto": "Se ha reconocido la funcionalidad de las principales etiquetas y los atributos del lenguaje HTML.",
+      "codigo_oficial": "c)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0373, resultado de aprendizaje 2, criterio c",
@@ -298,6 +313,7 @@
       "codigo": "MAD.DAM.0373.RA.2.d",
       "tipo": "criterio_fp",
       "texto": "Se han establecido las semejanzas y diferencias entre las diferentes versiones de HTML.",
+      "codigo_oficial": "d)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0373, resultado de aprendizaje 2, criterio d",
@@ -317,6 +333,7 @@
       "codigo": "MAD.DAM.0373.RA.2.e",
       "tipo": "criterio_fp",
       "texto": "Se han utilizado herramientas en la creación de documentos web.",
+      "codigo_oficial": "e)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0373, resultado de aprendizaje 2, criterio e",
@@ -336,6 +353,7 @@
       "codigo": "MAD.DAM.0373.RA.2.f",
       "tipo": "criterio_fp",
       "texto": "Se han identificado las ventajas que aporta la utilización de hojas de estilo.",
+      "codigo_oficial": "f)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0373, resultado de aprendizaje 2, criterio f",
@@ -355,6 +373,7 @@
       "codigo": "MAD.DAM.0373.RA.2.g",
       "tipo": "criterio_fp",
       "texto": "Se han aplicado hojas de estilo.",
+      "codigo_oficial": "g)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0373, resultado de aprendizaje 2, criterio g",
@@ -374,6 +393,7 @@
       "codigo": "MAD.DAM.0373.RA.2.h",
       "tipo": "criterio_fp",
       "texto": "Se han validado documentos HTML y CSS.",
+      "codigo_oficial": "h)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0373, resultado de aprendizaje 2, criterio h",
@@ -393,6 +413,7 @@
       "codigo": "MAD.DAM.0373.RA.2.i",
       "tipo": "criterio_fp",
       "texto": "Se han identificado las tecnologías en que se basa la sindicación de contenidos.",
+      "codigo_oficial": "i)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0373, resultado de aprendizaje 2, criterio i",
@@ -412,6 +433,7 @@
       "codigo": "MAD.DAM.0373.RA.2.j",
       "tipo": "criterio_fp",
       "texto": "Se han reconocido los ámbitos de aplicación de la sindicación de contenidos.",
+      "codigo_oficial": "j)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0373, resultado de aprendizaje 2, criterio j",
@@ -431,6 +453,7 @@
       "codigo": "MAD.DAM.0373.RA.3",
       "tipo": "resultado_aprendizaje",
       "texto": "Accede y manipula documentos web utilizando lenguajes de script de cliente.",
+      "codigo_oficial": "3.",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0373, resultado de aprendizaje 3",
@@ -450,6 +473,7 @@
       "codigo": "MAD.DAM.0373.RA.3.a",
       "tipo": "criterio_fp",
       "texto": "Se han identificado y clasificado los lenguajes de script de cliente relacionados con la web y sus diferentes versiones y estándares.",
+      "codigo_oficial": "a)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0373, resultado de aprendizaje 3, criterio a",
@@ -469,6 +493,7 @@
       "codigo": "MAD.DAM.0373.RA.3.b",
       "tipo": "criterio_fp",
       "texto": "Se ha identificado la sintaxis básica de los lenguajes de script de cliente.",
+      "codigo_oficial": "b)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0373, resultado de aprendizaje 3, criterio b",
@@ -488,6 +513,7 @@
       "codigo": "MAD.DAM.0373.RA.3.c",
       "tipo": "criterio_fp",
       "texto": "Se han utilizado métodos para la selección y acceso de los diferentes elementos de un documento web.",
+      "codigo_oficial": "c)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0373, resultado de aprendizaje 3, criterio c",
@@ -507,6 +533,7 @@
       "codigo": "MAD.DAM.0373.RA.3.d",
       "tipo": "criterio_fp",
       "texto": "Se han creado y modificado elementos de documentos web.",
+      "codigo_oficial": "d)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0373, resultado de aprendizaje 3, criterio d",
@@ -526,6 +553,7 @@
       "codigo": "MAD.DAM.0373.RA.3.e",
       "tipo": "criterio_fp",
       "texto": "Se han eliminado elementos de documentos web.",
+      "codigo_oficial": "e)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0373, resultado de aprendizaje 3, criterio e",
@@ -545,6 +573,7 @@
       "codigo": "MAD.DAM.0373.RA.3.f",
       "tipo": "criterio_fp",
       "texto": "Se han realizado modificaciones sobre los estilos de un documento web.",
+      "codigo_oficial": "f)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0373, resultado de aprendizaje 3, criterio f",
@@ -564,6 +593,7 @@
       "codigo": "MAD.DAM.0373.RA.4",
       "tipo": "resultado_aprendizaje",
       "texto": "Establece mecanismos de validación de documentos para el intercambio de información utilizando métodos para definir su sintaxis y estructura.",
+      "codigo_oficial": "4.",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0373, resultado de aprendizaje 4",
@@ -583,6 +613,7 @@
       "codigo": "MAD.DAM.0373.RA.4.a",
       "tipo": "criterio_fp",
       "texto": "Se ha establecido la necesidad de describir la información transmitida en los documentos y sus reglas.",
+      "codigo_oficial": "a)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0373, resultado de aprendizaje 4, criterio a",
@@ -602,6 +633,7 @@
       "codigo": "MAD.DAM.0373.RA.4.b",
       "tipo": "criterio_fp",
       "texto": "Se han identificado las tecnologías relacionadas con la definición de documentos.",
+      "codigo_oficial": "b)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0373, resultado de aprendizaje 4, criterio b",
@@ -621,6 +653,7 @@
       "codigo": "MAD.DAM.0373.RA.4.c",
       "tipo": "criterio_fp",
       "texto": "Se ha analizado la estructura y sintaxis específica utilizada en la descripción.",
+      "codigo_oficial": "c)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0373, resultado de aprendizaje 4, criterio c",
@@ -640,6 +673,7 @@
       "codigo": "MAD.DAM.0373.RA.4.d",
       "tipo": "criterio_fp",
       "texto": "Se han creado descripciones de documentos.",
+      "codigo_oficial": "d)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0373, resultado de aprendizaje 4, criterio d",
@@ -659,6 +693,7 @@
       "codigo": "MAD.DAM.0373.RA.4.e",
       "tipo": "criterio_fp",
       "texto": "Se han utilizado descripciones en la elaboración y validación de documentos.",
+      "codigo_oficial": "e)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0373, resultado de aprendizaje 4, criterio e",
@@ -678,6 +713,7 @@
       "codigo": "MAD.DAM.0373.RA.4.f",
       "tipo": "criterio_fp",
       "texto": "Se han asociado las descripciones con los documentos.",
+      "codigo_oficial": "f)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0373, resultado de aprendizaje 4, criterio f",
@@ -697,6 +733,7 @@
       "codigo": "MAD.DAM.0373.RA.4.g",
       "tipo": "criterio_fp",
       "texto": "Se han utilizado herramientas específicas.",
+      "codigo_oficial": "g)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0373, resultado de aprendizaje 4, criterio g",
@@ -716,6 +753,7 @@
       "codigo": "MAD.DAM.0373.RA.5",
       "tipo": "resultado_aprendizaje",
       "texto": "Realiza conversiones sobre documentos para el intercambio de información utilizando técnicas, lenguajes y herramientas de procesamiento.",
+      "codigo_oficial": "5.",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0373, resultado de aprendizaje 5",
@@ -735,6 +773,7 @@
       "codigo": "MAD.DAM.0373.RA.5.a",
       "tipo": "criterio_fp",
       "texto": "Se ha identificado la necesidad de la conversión de documentos para el intercambio de la información.",
+      "codigo_oficial": "a)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0373, resultado de aprendizaje 5, criterio a",
@@ -754,6 +793,7 @@
       "codigo": "MAD.DAM.0373.RA.5.b",
       "tipo": "criterio_fp",
       "texto": "Se han establecido ámbitos de aplicación.",
+      "codigo_oficial": "b)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0373, resultado de aprendizaje 5, criterio b",
@@ -773,6 +813,7 @@
       "codigo": "MAD.DAM.0373.RA.5.c",
       "tipo": "criterio_fp",
       "texto": "Se han analizado las tecnologías implicadas y su modo de funcionamiento.",
+      "codigo_oficial": "c)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0373, resultado de aprendizaje 5, criterio c",
@@ -792,6 +833,7 @@
       "codigo": "MAD.DAM.0373.RA.5.d",
       "tipo": "criterio_fp",
       "texto": "Se ha descrito la sintaxis específica utilizada en la conversión y adaptación de documentos para el intercambio de información.",
+      "codigo_oficial": "d)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0373, resultado de aprendizaje 5, criterio d",
@@ -811,6 +853,7 @@
       "codigo": "MAD.DAM.0373.RA.5.e",
       "tipo": "criterio_fp",
       "texto": "Se han creado especificaciones de conversión.",
+      "codigo_oficial": "e)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0373, resultado de aprendizaje 5, criterio e",
@@ -830,6 +873,7 @@
       "codigo": "MAD.DAM.0373.RA.5.f",
       "tipo": "criterio_fp",
       "texto": "Se han identificado y caracterizado herramientas específicas relacionadas con la conversión de documentos para el intercambio de información.",
+      "codigo_oficial": "f)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0373, resultado de aprendizaje 5, criterio f",
@@ -849,6 +893,7 @@
       "codigo": "MAD.DAM.0373.RA.5.g",
       "tipo": "criterio_fp",
       "texto": "Se han realizado conversiones sobre documentos para el intercambio de información.",
+      "codigo_oficial": "g)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0373, resultado de aprendizaje 5, criterio g",
@@ -868,6 +913,7 @@
       "codigo": "MAD.DAM.0373.RA.6",
       "tipo": "resultado_aprendizaje",
       "texto": "Gestiona la información en formatos de intercambio de datos analizando y utilizando tecnologías de almacenamiento y lenguajes de consulta.",
+      "codigo_oficial": "6.",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0373, resultado de aprendizaje 6",
@@ -887,6 +933,7 @@
       "codigo": "MAD.DAM.0373.RA.6.a",
       "tipo": "criterio_fp",
       "texto": "Se han identificado los principales métodos de almacenamiento de la información utilizados en documentos de intercambio de datos.",
+      "codigo_oficial": "a)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0373, resultado de aprendizaje 6, criterio a",
@@ -906,6 +953,7 @@
       "codigo": "MAD.DAM.0373.RA.6.b",
       "tipo": "criterio_fp",
       "texto": "Se han identificado las ventajas e inconvenientes de almacenar información en formatos de intercambio de datos.",
+      "codigo_oficial": "b)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0373, resultado de aprendizaje 6, criterio b",
@@ -925,6 +973,7 @@
       "codigo": "MAD.DAM.0373.RA.6.c",
       "tipo": "criterio_fp",
       "texto": "Se han establecido tecnologías eficientes de almacenamiento de información en función de sus características.",
+      "codigo_oficial": "c)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0373, resultado de aprendizaje 6, criterio c",
@@ -944,6 +993,7 @@
       "codigo": "MAD.DAM.0373.RA.6.d",
       "tipo": "criterio_fp",
       "texto": "Se han identificado lenguajes y herramientas para el tratamiento y almacenamiento de información y su inclusión en documentos de intercambio de datos.",
+      "codigo_oficial": "d)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0373, resultado de aprendizaje 6, criterio d",
@@ -963,6 +1013,7 @@
       "codigo": "MAD.DAM.0373.RA.6.e",
       "tipo": "criterio_fp",
       "texto": "Se han utilizado lenguajes de consulta y manipulación en documentos de intercambio de datos.",
+      "codigo_oficial": "e)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0373, resultado de aprendizaje 6, criterio e",
@@ -982,6 +1033,7 @@
       "codigo": "MAD.DAM.0373.RA.6.f",
       "tipo": "criterio_fp",
       "texto": "Se han utilizado sistemas gestores de bases de datos relacionales en el almacenamiento de información en formatos de intercambio de datos.",
+      "codigo_oficial": "f)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0373, resultado de aprendizaje 6, criterio f",
@@ -1001,6 +1053,7 @@
       "codigo": "MAD.DAM.0373.RA.6.g",
       "tipo": "criterio_fp",
       "texto": "Se han utilizado técnicas específicas para crear documentos de intercambio de datos a partir de información almacenada en bases de datos relacionales.",
+      "codigo_oficial": "g)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0373, resultado de aprendizaje 6, criterio g",
@@ -1020,6 +1073,7 @@
       "codigo": "MAD.DAM.0373.RA.6.h",
       "tipo": "criterio_fp",
       "texto": "Se han identificado las características de los sistemas.",
+      "codigo_oficial": "h)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0373, resultado de aprendizaje 6, criterio h",
@@ -1039,6 +1093,7 @@
       "codigo": "MAD.DAM.0373.RA.6.i",
       "tipo": "criterio_fp",
       "texto": "Se han utilizado herramientas para gestionar la información almacenada en bases de datos nativas.",
+      "codigo_oficial": "i)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0373, resultado de aprendizaje 6, criterio i",
@@ -1058,6 +1113,7 @@
       "codigo": "MAD.DAM.0373.RA.7",
       "tipo": "resultado_aprendizaje",
       "texto": "Opera sistemas empresariales de gestión de información realizando tareas de importación, integración, aseguramiento y extracción de la información.",
+      "codigo_oficial": "7.",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0373, resultado de aprendizaje 7",
@@ -1077,6 +1133,7 @@
       "codigo": "MAD.DAM.0373.RA.7.a",
       "tipo": "criterio_fp",
       "texto": "Se han identificado los principales sistemas de gestión empresarial.",
+      "codigo_oficial": "a)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0373, resultado de aprendizaje 7, criterio a",
@@ -1096,6 +1153,7 @@
       "codigo": "MAD.DAM.0373.RA.7.b",
       "tipo": "criterio_fp",
       "texto": "Se han reconocido las ventajas de los sistemas de gestión de información empresariales.",
+      "codigo_oficial": "b)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0373, resultado de aprendizaje 7, criterio b",
@@ -1115,6 +1173,7 @@
       "codigo": "MAD.DAM.0373.RA.7.c",
       "tipo": "criterio_fp",
       "texto": "Se han evaluado las características de las principales aplicaciones de gestión empresarial.",
+      "codigo_oficial": "c)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0373, resultado de aprendizaje 7, criterio c",
@@ -1134,6 +1193,7 @@
       "codigo": "MAD.DAM.0373.RA.7.d",
       "tipo": "criterio_fp",
       "texto": "Se han instalado aplicaciones de gestión de la información empresarial.",
+      "codigo_oficial": "d)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0373, resultado de aprendizaje 7, criterio d",
@@ -1153,6 +1213,7 @@
       "codigo": "MAD.DAM.0373.RA.7.e",
       "tipo": "criterio_fp",
       "texto": "Se han configurado y administrado las aplicaciones.",
+      "codigo_oficial": "e)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0373, resultado de aprendizaje 7, criterio e",
@@ -1172,6 +1233,7 @@
       "codigo": "MAD.DAM.0373.RA.7.f",
       "tipo": "criterio_fp",
       "texto": "Se han establecido y verificado mecanismos de acceso seguro a la información.",
+      "codigo_oficial": "f)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0373, resultado de aprendizaje 7, criterio f",
@@ -1191,6 +1253,7 @@
       "codigo": "MAD.DAM.0373.RA.7.g",
       "tipo": "criterio_fp",
       "texto": "Se han generado informes.",
+      "codigo_oficial": "g)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0373, resultado de aprendizaje 7, criterio g",
@@ -1210,6 +1273,7 @@
       "codigo": "MAD.DAM.0373.RA.7.h",
       "tipo": "criterio_fp",
       "texto": "Se han realizado procedimientos de extracción de información para su tratamiento e incorporación a diversos sistemas.",
+      "codigo_oficial": "h)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0373, resultado de aprendizaje 7, criterio h",
@@ -1229,6 +1293,7 @@
       "codigo": "MAD.DAM.0373.RA.7.i",
       "tipo": "criterio_fp",
       "texto": "Se han elaborado documentos relativos a la explotación de la aplicación.",
+      "codigo_oficial": "i)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0373, resultado de aprendizaje 7, criterio i",
@@ -1248,6 +1313,7 @@
       "codigo": "EST.DAM.0373.CB.1",
       "tipo": "contenido_basico",
       "texto": "Reconocimiento de las características de lenguajes de marcas:",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0373, contenidos básicos",
@@ -1267,6 +1333,7 @@
       "codigo": "EST.DAM.0373.CB.1.1",
       "tipo": "contenido_basico",
       "texto": "Clasificación.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0373, contenidos básicos",
@@ -1286,6 +1353,7 @@
       "codigo": "EST.DAM.0373.CB.1.2",
       "tipo": "contenido_basico",
       "texto": "Características y ámbitos de aplicación.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0373, contenidos básicos",
@@ -1305,6 +1373,7 @@
       "codigo": "EST.DAM.0373.CB.1.3",
       "tipo": "contenido_basico",
       "texto": "Estructura y sintaxis.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0373, contenidos básicos",
@@ -1324,6 +1393,7 @@
       "codigo": "EST.DAM.0373.CB.1.4",
       "tipo": "contenido_basico",
       "texto": "Herramientas de edición.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0373, contenidos básicos",
@@ -1343,6 +1413,7 @@
       "codigo": "EST.DAM.0373.CB.1.5",
       "tipo": "contenido_basico",
       "texto": "Elaboración de documentos bien formados.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0373, contenidos básicos",
@@ -1362,6 +1433,7 @@
       "codigo": "EST.DAM.0373.CB.1.6",
       "tipo": "contenido_basico",
       "texto": "Utilización de espacios de nombres.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0373, contenidos básicos",
@@ -1381,6 +1453,7 @@
       "codigo": "EST.DAM.0373.CB.2",
       "tipo": "contenido_basico",
       "texto": "Utilización de lenguajes de marcas en entornos web:",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0373, contenidos básicos",
@@ -1400,6 +1473,7 @@
       "codigo": "EST.DAM.0373.CB.2.1",
       "tipo": "contenido_basico",
       "texto": "Estándares web. Versiones. Clasificación.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0373, contenidos básicos",
@@ -1419,6 +1493,7 @@
       "codigo": "EST.DAM.0373.CB.2.2",
       "tipo": "contenido_basico",
       "texto": "Estructura de un documento HTML.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0373, contenidos básicos",
@@ -1438,6 +1513,7 @@
       "codigo": "EST.DAM.0373.CB.2.3",
       "tipo": "contenido_basico",
       "texto": "Identificación de etiquetas y atributos de HTML.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0373, contenidos básicos",
@@ -1457,6 +1533,7 @@
       "codigo": "EST.DAM.0373.CB.2.4",
       "tipo": "contenido_basico",
       "texto": "Herramientas de diseño web.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0373, contenidos básicos",
@@ -1476,6 +1553,7 @@
       "codigo": "EST.DAM.0373.CB.2.5",
       "tipo": "contenido_basico",
       "texto": "Hojas de estilo (CSS).",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0373, contenidos básicos",
@@ -1495,6 +1573,7 @@
       "codigo": "EST.DAM.0373.CB.2.6",
       "tipo": "contenido_basico",
       "texto": "Validación de documentos HTML y CSS.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0373, contenidos básicos",
@@ -1514,6 +1593,7 @@
       "codigo": "EST.DAM.0373.CB.2.7",
       "tipo": "contenido_basico",
       "texto": "Lenguajes de marcas para la sindicación de contenidos.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0373, contenidos básicos",
@@ -1533,6 +1613,7 @@
       "codigo": "EST.DAM.0373.CB.3",
       "tipo": "contenido_basico",
       "texto": "Manipulación de documentos Web:",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0373, contenidos básicos",
@@ -1552,6 +1633,7 @@
       "codigo": "EST.DAM.0373.CB.3.1",
       "tipo": "contenido_basico",
       "texto": "Lenguajes de script de cliente. Características y sintaxis básica. Estándares.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0373, contenidos básicos",
@@ -1571,6 +1653,7 @@
       "codigo": "EST.DAM.0373.CB.3.2",
       "tipo": "contenido_basico",
       "texto": "Selección y acceso a elementos.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0373, contenidos básicos",
@@ -1590,6 +1673,7 @@
       "codigo": "EST.DAM.0373.CB.3.3",
       "tipo": "contenido_basico",
       "texto": "Creación y modificación de elementos.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0373, contenidos básicos",
@@ -1609,6 +1693,7 @@
       "codigo": "EST.DAM.0373.CB.3.4",
       "tipo": "contenido_basico",
       "texto": "Eliminación de elementos.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0373, contenidos básicos",
@@ -1628,6 +1713,7 @@
       "codigo": "EST.DAM.0373.CB.3.5",
       "tipo": "contenido_basico",
       "texto": "Manipulación de estilos.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0373, contenidos básicos",
@@ -1647,6 +1733,7 @@
       "codigo": "EST.DAM.0373.CB.4",
       "tipo": "contenido_basico",
       "texto": "Definición de esquemas y vocabularios en lenguajes de marcas:",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0373, contenidos básicos",
@@ -1666,6 +1753,7 @@
       "codigo": "EST.DAM.0373.CB.4.1",
       "tipo": "contenido_basico",
       "texto": "Tecnologías para la definición de documentos. Estructura y sintaxis.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0373, contenidos básicos",
@@ -1685,6 +1773,7 @@
       "codigo": "EST.DAM.0373.CB.4.2",
       "tipo": "contenido_basico",
       "texto": "Creación de descripciones de documentos.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0373, contenidos básicos",
@@ -1704,6 +1793,7 @@
       "codigo": "EST.DAM.0373.CB.4.3",
       "tipo": "contenido_basico",
       "texto": "Asociación de descripciones con documentos. Validación.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0373, contenidos básicos",
@@ -1723,6 +1813,7 @@
       "codigo": "EST.DAM.0373.CB.4.4",
       "tipo": "contenido_basico",
       "texto": "Herramientas de creación y validación.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0373, contenidos básicos",
@@ -1742,6 +1833,7 @@
       "codigo": "EST.DAM.0373.CB.5",
       "tipo": "contenido_basico",
       "texto": "Conversión y adaptación de documentos para el intercambio de información:",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0373, contenidos básicos",
@@ -1761,6 +1853,7 @@
       "codigo": "EST.DAM.0373.CB.5.1",
       "tipo": "contenido_basico",
       "texto": "Tecnologías de transformación de documentos. Estándares. Ámbitos de aplicación.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0373, contenidos básicos",
@@ -1780,6 +1873,7 @@
       "codigo": "EST.DAM.0373.CB.5.2",
       "tipo": "contenido_basico",
       "texto": "Descripción de la estructura y de la sintaxis.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0373, contenidos básicos",
@@ -1799,6 +1893,7 @@
       "codigo": "EST.DAM.0373.CB.5.3",
       "tipo": "contenido_basico",
       "texto": "Creación y utilización de plantillas. Herramientas y depuración.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0373, contenidos básicos",
@@ -1818,6 +1913,7 @@
       "codigo": "EST.DAM.0373.CB.5.4",
       "tipo": "contenido_basico",
       "texto": "Conversión entre diferentes formatos de documentos.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0373, contenidos básicos",
@@ -1837,6 +1933,7 @@
       "codigo": "EST.DAM.0373.CB.6",
       "tipo": "contenido_basico",
       "texto": "Almacenamiento de información:",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0373, contenidos básicos",
@@ -1856,6 +1953,7 @@
       "codigo": "EST.DAM.0373.CB.6.1",
       "tipo": "contenido_basico",
       "texto": "Sistemas de almacenamiento de información. Características. Tecnologías.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0373, contenidos básicos",
@@ -1875,6 +1973,7 @@
       "codigo": "EST.DAM.0373.CB.6.2",
       "tipo": "contenido_basico",
       "texto": "Lenguajes de consulta y manipulación en documentos.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0373, contenidos básicos",
@@ -1894,6 +1993,7 @@
       "codigo": "EST.DAM.0373.CB.6.3",
       "tipo": "contenido_basico",
       "texto": "Consulta y manipulación de información.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0373, contenidos básicos",
@@ -1913,6 +2013,7 @@
       "codigo": "EST.DAM.0373.CB.6.4",
       "tipo": "contenido_basico",
       "texto": "Importación y exportación de bases de datos relacionales en diferentes formatos.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0373, contenidos básicos",
@@ -1932,6 +2033,7 @@
       "codigo": "EST.DAM.0373.CB.6.5",
       "tipo": "contenido_basico",
       "texto": "Herramientas de tratamiento y almacenamiento de información en sistemas nativos.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0373, contenidos básicos",
@@ -1951,6 +2053,7 @@
       "codigo": "EST.DAM.0373.CB.6.6",
       "tipo": "contenido_basico",
       "texto": "Almacenamiento y manipulación de información en sistemas nativos.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0373, contenidos básicos",
@@ -1970,6 +2073,7 @@
       "codigo": "EST.DAM.0373.CB.7",
       "tipo": "contenido_basico",
       "texto": "Sistemas de gestión empresarial:",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0373, contenidos básicos",
@@ -1989,6 +2093,7 @@
       "codigo": "EST.DAM.0373.CB.7.1",
       "tipo": "contenido_basico",
       "texto": "Aplicaciones de gestión empresarial. Tipos. Características.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0373, contenidos básicos",
@@ -2008,6 +2113,7 @@
       "codigo": "EST.DAM.0373.CB.7.2",
       "tipo": "contenido_basico",
       "texto": "Instalación.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0373, contenidos básicos",
@@ -2027,6 +2133,7 @@
       "codigo": "EST.DAM.0373.CB.7.3",
       "tipo": "contenido_basico",
       "texto": "Administración y configuración.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0373, contenidos básicos",
@@ -2046,6 +2153,7 @@
       "codigo": "EST.DAM.0373.CB.7.4",
       "tipo": "contenido_basico",
       "texto": "Integración de módulos.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0373, contenidos básicos",
@@ -2065,6 +2173,7 @@
       "codigo": "EST.DAM.0373.CB.7.5",
       "tipo": "contenido_basico",
       "texto": "Mecanismos de acceso seguro a la información. Roles y privilegios.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0373, contenidos básicos",
@@ -2084,6 +2193,7 @@
       "codigo": "EST.DAM.0373.CB.7.6",
       "tipo": "contenido_basico",
       "texto": "Elaboración de informes.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0373, contenidos básicos",
@@ -2103,6 +2213,7 @@
       "codigo": "EST.DAM.0373.CB.7.7",
       "tipo": "contenido_basico",
       "texto": "Exportación de información.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0373, contenidos básicos",
@@ -2122,6 +2233,7 @@
       "codigo": "EST.DAM.0373.CB.7.8",
       "tipo": "contenido_basico",
       "texto": "Elaboración de documentación.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0373, contenidos básicos",
@@ -2141,6 +2253,7 @@
       "codigo": "MAD.DAM.0373.ORI",
       "tipo": "orientaciones",
       "texto": "Este módulo profesional contiene la formación necesaria para desempeñar la función de gestión y explotación de sistemas de información. La gestión y explotación de sistemas de información incluye aspectos como: La utilización de lenguajes de marcado en el tratamiento y transmisión de la información. La caracterización de la información transmitida y almacenada. La adaptación de la información a las tecnologías utilizadas en su presentación, transmisión y almacenamiento. El almacenamiento y recuperación de la información. La implantación y adaptación de sistemas de gestión empresarial. Las actividades profesionales asociadas a esta función se aplican en: El almacenamiento y transmisión de la información. La utilización de tecnologías web para la publicación y difusión de información. La explotación de sistemas empresariales de gestión de información. La formación del módulo contribuye a alcanzar los objetivos generales h), o), p), t) y w) del ciclo formativo y las competencias profesionales, personales y sociales h), o), p), t) y w) del título. Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten alcanzar los objetivos del módulo versarán sobre: La caracterización y transmisión de la información utilizando lenguajes de marcado. La publicación y difusión de información en la web. La utilización de técnicas de transformación y adaptación de la información. El almacenamiento de la información. La gestión de información en sistemas específicos orientados a entornos empresariales.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0373, orientaciones pedagógicas",
@@ -2160,6 +2273,7 @@
       "codigo": "MAD.DAM.0373.CO.1",
       "tipo": "contenido",
       "texto": "Reconocimiento de las características de lenguajes de marcas:",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2172,6 +2286,7 @@
       "codigo": "MAD.DAM.0373.CO.1.1",
       "tipo": "contenido",
       "texto": "Conceptos.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2184,6 +2299,7 @@
       "codigo": "MAD.DAM.0373.CO.1.2",
       "tipo": "contenido",
       "texto": "Etiquetas, elementos, atributos.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2196,6 +2312,7 @@
       "codigo": "MAD.DAM.0373.CO.1.3",
       "tipo": "contenido",
       "texto": "Orígenes. SGML (Standard Generalized Markup Language).",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2208,6 +2325,7 @@
       "codigo": "MAD.DAM.0373.CO.1.4",
       "tipo": "contenido",
       "texto": "Organizaciones desarrolladoras: ISO (International Standard Organization), W3C (World Wide Web Consortium).",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2220,6 +2338,7 @@
       "codigo": "MAD.DAM.0373.CO.1.5",
       "tipo": "contenido",
       "texto": "Clasificación.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2232,6 +2351,7 @@
       "codigo": "MAD.DAM.0373.CO.1.6",
       "tipo": "contenido",
       "texto": "Utilización de lenguajes de marcas en entornos web.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2244,6 +2364,7 @@
       "codigo": "MAD.DAM.0373.CO.1.7",
       "tipo": "contenido",
       "texto": "Gramáticas.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2256,6 +2377,7 @@
       "codigo": "MAD.DAM.0373.CO.2",
       "tipo": "contenido",
       "texto": "Lenguajes para la visualización de información:",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2268,6 +2390,7 @@
       "codigo": "MAD.DAM.0373.CO.2.1",
       "tipo": "contenido",
       "texto": "Modelo de objetos del documento DOM (Document Object Model).",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2280,6 +2403,7 @@
       "codigo": "MAD.DAM.0373.CO.2.2",
       "tipo": "contenido",
       "texto": "Identificación de etiquetas y atributos de HTML (Hyper Text Markup Language).",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2292,6 +2416,7 @@
       "codigo": "MAD.DAM.0373.CO.2.3",
       "tipo": "contenido",
       "texto": "Estructura de documentos HTML. Partes del documento.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2304,6 +2429,7 @@
       "codigo": "MAD.DAM.0373.CO.2.4",
       "tipo": "contenido",
       "texto": "Etiquetas de contenido: títulos, párrafos, listas.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2316,6 +2442,7 @@
       "codigo": "MAD.DAM.0373.CO.2.5",
       "tipo": "contenido",
       "texto": "Elementos de formulario: campos de texto, botones, desplegables.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2328,6 +2455,7 @@
       "codigo": "MAD.DAM.0373.CO.2.6",
       "tipo": "contenido",
       "texto": "Otros elementos de formato y agrupamiento: tablas, marcos, capas",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2340,6 +2468,7 @@
       "codigo": "MAD.DAM.0373.CO.2.7",
       "tipo": "contenido",
       "texto": "XHTML (eXtended HTML): diferencias sintácticas y estructurales con HTML.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2352,6 +2481,7 @@
       "codigo": "MAD.DAM.0373.CO.2.8",
       "tipo": "contenido",
       "texto": "Versiones de HTML y XHTML.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2364,6 +2494,7 @@
       "codigo": "MAD.DAM.0373.CO.2.9",
       "tipo": "contenido",
       "texto": "Herramientas de diseño web.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2376,6 +2507,7 @@
       "codigo": "MAD.DAM.0373.CO.2.10",
       "tipo": "contenido",
       "texto": "Hojas de estilo en cascada. CSS (Cascading Style Sheets):",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2388,6 +2520,7 @@
       "codigo": "MAD.DAM.0373.CO.2.10.1",
       "tipo": "contenido",
       "texto": "Selectores.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2400,6 +2533,7 @@
       "codigo": "MAD.DAM.0373.CO.2.10.2",
       "tipo": "contenido",
       "texto": "Diferentes tipos de elementos. Atributos.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2412,6 +2546,7 @@
       "codigo": "MAD.DAM.0373.CO.3",
       "tipo": "contenido",
       "texto": "Lenguajes para el almacenamiento y transmisión de información:",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2424,6 +2559,7 @@
       "codigo": "MAD.DAM.0373.CO.3.1",
       "tipo": "contenido",
       "texto": "Tipos de lenguajes:",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2436,6 +2572,7 @@
       "codigo": "MAD.DAM.0373.CO.3.1.1",
       "tipo": "contenido",
       "texto": "De marcas: XML (eXtended Markup Language).",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2448,6 +2585,7 @@
       "codigo": "MAD.DAM.0373.CO.3.1.2",
       "tipo": "contenido",
       "texto": "De listas: JSON (JavaScript Object Notation).",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2460,6 +2598,7 @@
       "codigo": "MAD.DAM.0373.CO.3.2",
       "tipo": "contenido",
       "texto": "XML: Estructura y sintaxis.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2472,6 +2611,7 @@
       "codigo": "MAD.DAM.0373.CO.3.3",
       "tipo": "contenido",
       "texto": "Etiquetas.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2484,6 +2624,7 @@
       "codigo": "MAD.DAM.0373.CO.3.4",
       "tipo": "contenido",
       "texto": "Herramientas de edición.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2496,6 +2637,7 @@
       "codigo": "MAD.DAM.0373.CO.3.5",
       "tipo": "contenido",
       "texto": "Elaboración de documentos XML bien formados:",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2508,6 +2650,7 @@
       "codigo": "MAD.DAM.0373.CO.3.5.1",
       "tipo": "contenido",
       "texto": "Definición de tipo de documento (DTD, Document Type Definition).",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2520,6 +2663,7 @@
       "codigo": "MAD.DAM.0373.CO.3.5.2",
       "tipo": "contenido",
       "texto": "Esquema XML (XSD, XML Schema Definition).",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2532,6 +2676,7 @@
       "codigo": "MAD.DAM.0373.CO.3.6",
       "tipo": "contenido",
       "texto": "Utilización de espacios de nombres en XML.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2544,6 +2689,7 @@
       "codigo": "MAD.DAM.0373.CO.4",
       "tipo": "contenido",
       "texto": "Definición de esquemas y vocabularios en XML:",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2556,6 +2702,7 @@
       "codigo": "MAD.DAM.0373.CO.4.1",
       "tipo": "contenido",
       "texto": "Utilización de métodos de definición de documentos XML.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2568,6 +2715,7 @@
       "codigo": "MAD.DAM.0373.CO.4.2",
       "tipo": "contenido",
       "texto": "Creación de descripciones.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2580,6 +2728,7 @@
       "codigo": "MAD.DAM.0373.CO.4.3",
       "tipo": "contenido",
       "texto": "Asociación con documentos XML.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2592,6 +2741,7 @@
       "codigo": "MAD.DAM.0373.CO.4.4",
       "tipo": "contenido",
       "texto": "Validación.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2604,6 +2754,7 @@
       "codigo": "MAD.DAM.0373.CO.4.5",
       "tipo": "contenido",
       "texto": "Herramientas de creación y validación.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2616,6 +2767,7 @@
       "codigo": "MAD.DAM.0373.CO.4.6",
       "tipo": "contenido",
       "texto": "Documentación de especificaciones.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2628,6 +2780,7 @@
       "codigo": "MAD.DAM.0373.CO.5",
       "tipo": "contenido",
       "texto": "Conversión y adaptación de documentos XML:",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2640,6 +2793,7 @@
       "codigo": "MAD.DAM.0373.CO.5.1",
       "tipo": "contenido",
       "texto": "Técnicas de transformación de documentos XML.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2652,6 +2806,7 @@
       "codigo": "MAD.DAM.0373.CO.5.2",
       "tipo": "contenido",
       "texto": "Lenguajes de transformaciones.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2664,6 +2819,7 @@
       "codigo": "MAD.DAM.0373.CO.5.3",
       "tipo": "contenido",
       "texto": "Formatos de salida: HTML, XML, PDF (Portable Document Format), texto.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2676,6 +2832,7 @@
       "codigo": "MAD.DAM.0373.CO.5.4",
       "tipo": "contenido",
       "texto": "Descripción de la estructura y de la sintaxis.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2688,6 +2845,7 @@
       "codigo": "MAD.DAM.0373.CO.5.5",
       "tipo": "contenido",
       "texto": "Utilización de plantillas.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2700,6 +2858,7 @@
       "codigo": "MAD.DAM.0373.CO.5.6",
       "tipo": "contenido",
       "texto": "Utilización de herramientas de procesamiento:",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2712,6 +2871,7 @@
       "codigo": "MAD.DAM.0373.CO.5.6.1",
       "tipo": "contenido",
       "texto": "DOM.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2724,6 +2884,7 @@
       "codigo": "MAD.DAM.0373.CO.5.6.2",
       "tipo": "contenido",
       "texto": "SAX (Simple Application programming interface for XML).",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2736,6 +2897,7 @@
       "codigo": "MAD.DAM.0373.CO.5.7",
       "tipo": "contenido",
       "texto": "Elaboración de documentación.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2748,6 +2910,7 @@
       "codigo": "MAD.DAM.0373.CO.6",
       "tipo": "contenido",
       "texto": "Almacenamiento de información:",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2760,6 +2923,7 @@
       "codigo": "MAD.DAM.0373.CO.6.1",
       "tipo": "contenido",
       "texto": "Sistemas de almacenamiento de información.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2772,6 +2936,7 @@
       "codigo": "MAD.DAM.0373.CO.6.2",
       "tipo": "contenido",
       "texto": "Manipulación de información en documentos XML: inserción y extracción.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2784,6 +2949,7 @@
       "codigo": "MAD.DAM.0373.CO.6.3",
       "tipo": "contenido",
       "texto": "Técnicas de búsqueda de información en documentos XML.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2796,6 +2962,7 @@
       "codigo": "MAD.DAM.0373.CO.6.4",
       "tipo": "contenido",
       "texto": "Lenguajes de consulta y manipulación.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2808,6 +2975,7 @@
       "codigo": "MAD.DAM.0373.CO.6.5",
       "tipo": "contenido",
       "texto": "Almacenamiento XML nativo.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2820,6 +2988,7 @@
       "codigo": "MAD.DAM.0373.CO.6.6",
       "tipo": "contenido",
       "texto": "Herramientas de tratamiento y almacenamiento de información en formato XML.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2832,6 +3001,7 @@
       "codigo": "MAD.DAM.0373.CO.7",
       "tipo": "contenido",
       "texto": "Aplicación de los lenguajes de marcas a la sindicación de contenidos:",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2844,6 +3014,7 @@
       "codigo": "MAD.DAM.0373.CO.7.1",
       "tipo": "contenido",
       "texto": "Descripción y características de la sindicación de contenidos.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2856,6 +3027,7 @@
       "codigo": "MAD.DAM.0373.CO.7.2",
       "tipo": "contenido",
       "texto": "Estándares y formatos de redifusión. RSS (Really Simple Syndication), Atom.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2868,6 +3040,7 @@
       "codigo": "MAD.DAM.0373.CO.7.3",
       "tipo": "contenido",
       "texto": "Ámbitos de aplicación.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2880,6 +3053,7 @@
       "codigo": "MAD.DAM.0373.CO.7.4",
       "tipo": "contenido",
       "texto": "Estructura de los canales de contenidos.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2892,6 +3066,7 @@
       "codigo": "MAD.DAM.0373.CO.7.5",
       "tipo": "contenido",
       "texto": "Tecnologías de creación de canales de contenidos.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2904,6 +3079,7 @@
       "codigo": "MAD.DAM.0373.CO.7.6",
       "tipo": "contenido",
       "texto": "Validación.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2916,6 +3092,7 @@
       "codigo": "MAD.DAM.0373.CO.7.7",
       "tipo": "contenido",
       "texto": "Directorios de canales de contenidos.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2928,6 +3105,7 @@
       "codigo": "MAD.DAM.0373.CO.7.8",
       "tipo": "contenido",
       "texto": "Agregación.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2940,6 +3118,7 @@
       "codigo": "MAD.DAM.0373.CO.7.9",
       "tipo": "contenido",
       "texto": "Utilización de herramientas.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2952,6 +3131,7 @@
       "codigo": "MAD.DAM.0373.CO.8",
       "tipo": "contenido",
       "texto": "Sistemas de gestión empresarial:",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2964,6 +3144,7 @@
       "codigo": "MAD.DAM.0373.CO.8.1",
       "tipo": "contenido",
       "texto": "Conceptos generales de ERP (Enterprise Resource Planning).",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2976,6 +3157,7 @@
       "codigo": "MAD.DAM.0373.CO.8.2",
       "tipo": "contenido",
       "texto": "Instalación.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2988,6 +3170,7 @@
       "codigo": "MAD.DAM.0373.CO.8.3",
       "tipo": "contenido",
       "texto": "Identificación de flujos de información.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -3000,6 +3183,7 @@
       "codigo": "MAD.DAM.0373.CO.8.4",
       "tipo": "contenido",
       "texto": "Adaptación y configuración. Programación.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -3012,6 +3196,7 @@
       "codigo": "MAD.DAM.0373.CO.8.5",
       "tipo": "contenido",
       "texto": "Seguridad.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -3024,6 +3209,7 @@
       "codigo": "MAD.DAM.0373.CO.8.6",
       "tipo": "contenido",
       "texto": "Integración de módulos.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -3036,6 +3222,7 @@
       "codigo": "MAD.DAM.0373.CO.8.7",
       "tipo": "contenido",
       "texto": "Diseño de formularios.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -3048,6 +3235,7 @@
       "codigo": "MAD.DAM.0373.CO.8.8",
       "tipo": "contenido",
       "texto": "Elaboración de informes.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -3060,6 +3248,7 @@
       "codigo": "MAD.DAM.0373.CO.8.9",
       "tipo": "contenido",
       "texto": "Integración con aplicaciones informáticas.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -3072,6 +3261,7 @@
       "codigo": "MAD.DAM.0373.CO.8.10",
       "tipo": "contenido",
       "texto": "Exportación de información.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -3084,6 +3274,7 @@
       "codigo": "MAD.DAM.0373.CO.8.11",
       "tipo": "contenido",
       "texto": "Gestores de relaciones con clientes CRM (Customer Relationship Management).",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",

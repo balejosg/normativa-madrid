@@ -15,6 +15,7 @@
       "codigo": "MAD.CMO.311",
       "tipo": "modulo",
       "texto": "Informática aplicada a sistemas electrónicos (Robótica)",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-311",
@@ -29,6 +30,7 @@
       "codigo": "MAD.CMO.311.RA.1",
       "tipo": "resultado_aprendizaje",
       "texto": "Describe los fundamentos básicos de las señales eléctricas.",
+      "codigo_oficial": "1.",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-311, resultado de aprendizaje 1",
@@ -41,6 +43,7 @@
       "codigo": "MAD.CMO.311.RA.1.a",
       "tipo": "criterio_fp",
       "texto": "Se ha descrito el significado de corriente, tensión, resistencia, potencia y energía.",
+      "codigo_oficial": "a)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-311, resultado de aprendizaje 1, criterio a",
@@ -53,6 +56,7 @@
       "codigo": "MAD.CMO.311.RA.1.b",
       "tipo": "criterio_fp",
       "texto": "Se han identificado señales continuas y alternas.",
+      "codigo_oficial": "b)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-311, resultado de aprendizaje 1, criterio b",
@@ -65,6 +69,7 @@
       "codigo": "MAD.CMO.311.RA.1.c",
       "tipo": "criterio_fp",
       "texto": "Se han identificado señales periódicas y aleatorias.",
+      "codigo_oficial": "c)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-311, resultado de aprendizaje 1, criterio c",
@@ -77,6 +82,7 @@
       "codigo": "MAD.CMO.311.RA.1.d",
       "tipo": "criterio_fp",
       "texto": "Se han descrito la amplitud, frecuencia y el periodo de una señal periódica.",
+      "codigo_oficial": "d)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-311, resultado de aprendizaje 1, criterio d",
@@ -89,6 +95,7 @@
       "codigo": "MAD.CMO.311.RA.1.e",
       "tipo": "criterio_fp",
       "texto": "Se han identificado señales en tiempo continuo y discreto.",
+      "codigo_oficial": "e)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-311, resultado de aprendizaje 1, criterio e",
@@ -101,6 +108,7 @@
       "codigo": "MAD.CMO.311.RA.1.f",
       "tipo": "criterio_fp",
       "texto": "Se ha descrito la conversión analógico-digital (muestreo, cuantificación y codificación) examinando los conceptos básicos (frecuencia de muestreo y resolución).",
+      "codigo_oficial": "f)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-311, resultado de aprendizaje 1, criterio f",
@@ -113,6 +121,7 @@
       "codigo": "MAD.CMO.311.RA.2",
       "tipo": "resultado_aprendizaje",
       "texto": "Analiza, diseña, simula y mide circuitos electrónicos en continua.",
+      "codigo_oficial": "2.",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-311, resultado de aprendizaje 2",
@@ -125,6 +134,7 @@
       "codigo": "MAD.CMO.311.RA.2.a",
       "tipo": "criterio_fp",
       "texto": "Se han identificado los distintos componentes discretos que forman parte de un circuito electrónico.",
+      "codigo_oficial": "a)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-311, resultado de aprendizaje 2, criterio a",
@@ -137,6 +147,7 @@
       "codigo": "MAD.CMO.311.RA.2.b",
       "tipo": "criterio_fp",
       "texto": "Se han descrito las características básicas y principios de los distintos componentes discretos.",
+      "codigo_oficial": "b)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-311, resultado de aprendizaje 2, criterio b",
@@ -149,6 +160,7 @@
       "codigo": "MAD.CMO.311.RA.2.c",
       "tipo": "criterio_fp",
       "texto": "Se han analizado y explicado circuitos electrónicos con componentes discretos.",
+      "codigo_oficial": "c)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-311, resultado de aprendizaje 2, criterio c",
@@ -161,6 +173,7 @@
       "codigo": "MAD.CMO.311.RA.2.d",
       "tipo": "criterio_fp",
       "texto": "Se han diseñado circuitos electrónicos con componentes discretos.",
+      "codigo_oficial": "d)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-311, resultado de aprendizaje 2, criterio d",
@@ -173,6 +186,7 @@
       "codigo": "MAD.CMO.311.RA.2.e",
       "tipo": "criterio_fp",
       "texto": "Se han empleado programas de simulación para comprobar cálculos y verificar el diseño de los circuitos electrónicos.",
+      "codigo_oficial": "e)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-311, resultado de aprendizaje 2, criterio e",
@@ -185,6 +199,7 @@
       "codigo": "MAD.CMO.311.RA.2.f",
       "tipo": "criterio_fp",
       "texto": "Se han realizado montajes y pruebas de funcionamiento de circuitos con componentes discretos con las herramientas e instrumentación adecuada.",
+      "codigo_oficial": "f)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-311, resultado de aprendizaje 2, criterio f",
@@ -197,6 +212,7 @@
       "codigo": "MAD.CMO.311.RA.2.g",
       "tipo": "criterio_fp",
       "texto": "Se han identificado circuitos abiertos y cortocircuitos.",
+      "codigo_oficial": "g)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-311, resultado de aprendizaje 2, criterio g",
@@ -209,6 +225,7 @@
       "codigo": "MAD.CMO.311.RA.3",
       "tipo": "resultado_aprendizaje",
       "texto": "Utiliza con destreza un entorno de programación de sistemas electrónicos digitales.",
+      "codigo_oficial": "3.",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-311, resultado de aprendizaje 3",
@@ -221,6 +238,7 @@
       "codigo": "MAD.CMO.311.RA.3.a",
       "tipo": "criterio_fp",
       "texto": "Se ha utilizado con precisión el entorno de programación de un sistema electrónico.",
+      "codigo_oficial": "a)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-311, resultado de aprendizaje 3, criterio a",
@@ -233,6 +251,7 @@
       "codigo": "MAD.CMO.311.RA.3.b",
       "tipo": "criterio_fp",
       "texto": "Se han desarrollado programas para controlar el funcionamiento de un sistema electrónico.",
+      "codigo_oficial": "b)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-311, resultado de aprendizaje 3, criterio b",
@@ -245,6 +264,7 @@
       "codigo": "MAD.CMO.311.RA.3.c",
       "tipo": "criterio_fp",
       "texto": "Se han usado de manera adecuada comandos de control de ejecución (condicionales y bucles).",
+      "codigo_oficial": "c)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-311, resultado de aprendizaje 3, criterio c",
@@ -257,6 +277,7 @@
       "codigo": "MAD.CMO.311.RA.3.d",
       "tipo": "criterio_fp",
       "texto": "Se han usado de manera adecuada constantes, variables y listas.",
+      "codigo_oficial": "d)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-311, resultado de aprendizaje 3, criterio d",
@@ -269,6 +290,7 @@
       "codigo": "MAD.CMO.311.RA.3.e",
       "tipo": "criterio_fp",
       "texto": "Se ha analizado el funcionamiento de un programa de un sistema electrónico.",
+      "codigo_oficial": "e)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-311, resultado de aprendizaje 3, criterio e",
@@ -281,6 +303,7 @@
       "codigo": "MAD.CMO.311.RA.4",
       "tipo": "resultado_aprendizaje",
       "texto": "Utiliza software de diseño 3D e impresión 3D para la creación de objetos y prototipos.",
+      "codigo_oficial": "4.",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-311, resultado de aprendizaje 4",
@@ -293,6 +316,7 @@
       "codigo": "MAD.CMO.311.RA.4.a",
       "tipo": "criterio_fp",
       "texto": "Se ha descrito el funcionamiento de un sistema de impresión 3D.",
+      "codigo_oficial": "a)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-311, resultado de aprendizaje 4, criterio a",
@@ -305,6 +329,7 @@
       "codigo": "MAD.CMO.311.RA.4.b",
       "tipo": "criterio_fp",
       "texto": "Se han enumerado los distintos tipos de materiales usados en impresión 3D, así como las características de cada uno de ellos.",
+      "codigo_oficial": "b)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-311, resultado de aprendizaje 4, criterio b",
@@ -317,6 +342,7 @@
       "codigo": "MAD.CMO.311.RA.4.c",
       "tipo": "criterio_fp",
       "texto": "Se ha seleccionado el material adecuado de impresión 3D.",
+      "codigo_oficial": "c)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-311, resultado de aprendizaje 4, criterio c",
@@ -329,6 +355,7 @@
       "codigo": "MAD.CMO.311.RA.4.d",
       "tipo": "criterio_fp",
       "texto": "Se ha usado software de diseño adecuado para la creación de objetos y prototipos 3D.",
+      "codigo_oficial": "d)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-311, resultado de aprendizaje 4, criterio d",
@@ -341,6 +368,7 @@
       "codigo": "MAD.CMO.311.RA.4.e",
       "tipo": "criterio_fp",
       "texto": "Se ha usado software de impresión 3D y se han configurado sus parámetros para la impresión adecuada de objetos y prototipos 3D.",
+      "codigo_oficial": "e)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-311, resultado de aprendizaje 4, criterio e",
@@ -353,6 +381,7 @@
       "codigo": "MAD.CMO.311.RA.5",
       "tipo": "resultado_aprendizaje",
       "texto": "Desarrolla un proyecto para la creación de un prototipo de un sistema robótico funcional, respetando las fases de diseño, elaborando documentación técnica y presentando dicho proyecto.",
+      "codigo_oficial": "5.",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-311, resultado de aprendizaje 5",
@@ -365,6 +394,7 @@
       "codigo": "MAD.CMO.311.RA.5.a",
       "tipo": "criterio_fp",
       "texto": "Se han descrito las fases del proceso de un proyecto tecnológico.",
+      "codigo_oficial": "a)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-311, resultado de aprendizaje 5, criterio a",
@@ -377,6 +407,7 @@
       "codigo": "MAD.CMO.311.RA.5.b",
       "tipo": "criterio_fp",
       "texto": "Se han usado herramientas de gestión de proyectos.",
+      "codigo_oficial": "b)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-311, resultado de aprendizaje 5, criterio b",
@@ -389,6 +420,7 @@
       "codigo": "MAD.CMO.311.RA.5.c",
       "tipo": "criterio_fp",
       "texto": "Se ha empleado el software adecuado para la generación de la documentación asociada al proceso tecnológico (elaboración de exposiciones, presupuestos...).",
+      "codigo_oficial": "c)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-311, resultado de aprendizaje 5, criterio c",
@@ -401,6 +433,7 @@
       "codigo": "MAD.CMO.311.RA.5.d",
       "tipo": "criterio_fp",
       "texto": "Se ha elaborado documentación técnica asociada a un proyecto tecnológico.",
+      "codigo_oficial": "d)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-311, resultado de aprendizaje 5, criterio d",
@@ -413,6 +446,7 @@
       "codigo": "MAD.CMO.311.RA.5.e",
       "tipo": "criterio_fp",
       "texto": "Se ha desarrollado y seguido una planificación del proyecto.",
+      "codigo_oficial": "e)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-311, resultado de aprendizaje 5, criterio e",
@@ -425,6 +459,7 @@
       "codigo": "MAD.CMO.311.RA.5.f",
       "tipo": "criterio_fp",
       "texto": "Se ha diseñado y creado un sistema robótico.",
+      "codigo_oficial": "f)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-311, resultado de aprendizaje 5, criterio f",
@@ -437,6 +472,7 @@
       "codigo": "MAD.CMO.311.RA.5.g",
       "tipo": "criterio_fp",
       "texto": "Se ha presentado adecuadamente el proyecto de un sistema robótico.",
+      "codigo_oficial": "g)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-311, resultado de aprendizaje 5, criterio g",
@@ -449,6 +485,7 @@
       "codigo": "MAD.CMO.311.CO.1",
       "tipo": "contenido",
       "texto": "Electricidad y circuitos electrónicos en corriente continua.",
+      "codigo_oficial": "1.",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-311, contenidos",
@@ -461,6 +498,7 @@
       "codigo": "MAD.CMO.311.CO.2",
       "tipo": "contenido",
       "texto": "Sistemas electrónicos analógicos y digitales.",
+      "codigo_oficial": "2.",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-311, contenidos",
@@ -473,6 +511,7 @@
       "codigo": "MAD.CMO.311.CO.3",
       "tipo": "contenido",
       "texto": "Dispositivos discretos: pasivos (resistores fijos, resistores variables, condensadores y bobinas); activos (diodos como rectificadores, diodo led y fotodetectores); sensores (temperatura, iluminación, ultrasonidos y presencia); actuadores (motores DC, servomotores, relés y zumbadores).",
+      "codigo_oficial": "3.",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-311, contenidos",
@@ -485,6 +524,7 @@
       "codigo": "MAD.CMO.311.CO.4",
       "tipo": "contenido",
       "texto": "Diseño, montaje y medida de circuitos electrónicos en un proyecto tecnológico.",
+      "codigo_oficial": "4.",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-311, contenidos",
@@ -497,6 +537,7 @@
       "codigo": "MAD.CMO.311.CO.5",
       "tipo": "contenido",
       "texto": "Programación de sistemas/circuitos electrónicos de un proyecto tecnológico.",
+      "codigo_oficial": "5.",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-311, contenidos",
@@ -509,6 +550,7 @@
       "codigo": "MAD.CMO.311.CO.6",
       "tipo": "contenido",
       "texto": "Diseño y fabricación de los elementos mecánicos de un proyecto tecnológico mediante impresión 3D.",
+      "codigo_oficial": "6.",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-311, contenidos",
@@ -521,6 +563,7 @@
       "codigo": "MAD.CMO.311.CO.7",
       "tipo": "contenido",
       "texto": "Proyectos tecnológicos:",
+      "codigo_oficial": "7.",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-311, contenidos",
@@ -533,6 +576,7 @@
       "codigo": "MAD.CMO.311.CO.8",
       "tipo": "contenido",
       "texto": "Fases del proyecto tecnológico.",
+      "codigo_oficial": "8.",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-311, contenidos",
@@ -545,6 +589,7 @@
       "codigo": "MAD.CMO.311.CO.9",
       "tipo": "contenido",
       "texto": "Diseño y representación gráfica de los elementos de un proyecto tecnológico.",
+      "codigo_oficial": "9.",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-311, contenidos",
@@ -557,6 +602,7 @@
       "codigo": "MAD.CMO.311.CO.10",
       "tipo": "contenido",
       "texto": "Identificación del problema y análisis de su naturaleza.",
+      "codigo_oficial": "10.",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-311, contenidos",
@@ -569,6 +615,7 @@
       "codigo": "MAD.CMO.311.CO.11",
       "tipo": "contenido",
       "texto": "Innovación y creatividad para la búsqueda de soluciones tecnológicas.",
+      "codigo_oficial": "11.",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-311, contenidos",
@@ -581,6 +628,7 @@
       "codigo": "MAD.CMO.311.CO.12",
       "tipo": "contenido",
       "texto": "Documentación de un proyecto tecnológico.",
+      "codigo_oficial": "12.",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-311, contenidos",

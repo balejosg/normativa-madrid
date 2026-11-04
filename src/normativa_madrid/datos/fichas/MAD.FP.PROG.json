@@ -16,6 +16,7 @@
       "codigo": "MAD.FP.PROG.1",
       "tipo": "requisito_programacion",
       "texto": "Partiendo de los planes de estudio de los ciclos de formación profesional y tomando como referencia el proyecto educativo del centro y la concreción curricular, se elaborarán las programaciones didácticas de los ciclos formativos. La metodología didáctica que se empleará en el desarrollo de las actividades promoverá la integración de los contenidos científicos, tecnológicos y organizativos, potenciará el aprendizaje autónomo y el trabajo en equipo, fomentará el desarrollo de las habilidades sociales necesarias para desempeñar la actividad laboral, la igualdad y evitará cualquier tipo de discriminación, con el fin de que los alumnos adquieran una visión global de los procesos productivos propios de la actividad profesional correspondiente.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20250522-1",
         "ubicacion": "art. 63.4",
@@ -27,6 +28,7 @@
       "codigo": "MAD.FP.PROG.2",
       "tipo": "requisito_programacion",
       "texto": "El equipo directivo coordinará la elaboración de una programación didáctica para cada ciclo formativo o curso de especialización, que se realizará de forma colegiada por parte de los departamentos de las familias profesionales y departamentos didácticos que impartan enseñanzas en el ciclo formativo correspondiente en los centros públicos, o los órganos de coordinación que realicen sus funciones en los centros privados. Este documento incluirá, al menos, los siguientes elementos:",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20250522-1",
         "ubicacion": "art. 67.1",
@@ -38,6 +40,7 @@
       "codigo": "MAD.FP.PROG.2.a",
       "tipo": "requisito_programacion",
       "texto": "Identificación del título: denominación, nivel, duración y familia profesional.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20250522-1",
         "ubicacion": "art. 67.1.a",
@@ -50,6 +53,7 @@
       "codigo": "MAD.FP.PROG.2.b",
       "tipo": "requisito_programacion",
       "texto": "Competencia general y competencias profesionales, personales y sociales del ciclo.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20250522-1",
         "ubicacion": "art. 67.1.b",
@@ -62,6 +66,7 @@
       "codigo": "MAD.FP.PROG.2.c",
       "tipo": "requisito_programacion",
       "texto": "Estándares de competencia incluidos en el título.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20250522-1",
         "ubicacion": "art. 67.1.c",
@@ -74,6 +79,7 @@
       "codigo": "MAD.FP.PROG.2.d",
       "tipo": "requisito_programacion",
       "texto": "Objetivos generales del ciclo.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20250522-1",
         "ubicacion": "art. 67.1.d",
@@ -86,6 +92,7 @@
       "codigo": "MAD.FP.PROG.2.e",
       "tipo": "requisito_programacion",
       "texto": "Recursos didácticos.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20250522-1",
         "ubicacion": "art. 67.1.e",
@@ -98,6 +105,7 @@
       "codigo": "MAD.FP.PROG.2.f",
       "tipo": "requisito_programacion",
       "texto": "Programación de cada módulo profesional incluido en el ciclo.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20250522-1",
         "ubicacion": "art. 67.1.f",
@@ -110,6 +118,7 @@
       "codigo": "MAD.FP.PROG.2.g",
       "tipo": "requisito_programacion",
       "texto": "Características generales del programa formativo de la fase de formación en la empresa.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20250522-1",
         "ubicacion": "art. 67.1.g",
@@ -122,6 +131,7 @@
       "codigo": "MAD.FP.PROG.2.h",
       "tipo": "requisito_programacion",
       "texto": "Características generales del proyecto intermodular, incluyendo propuestas para su desarrollo.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20250522-1",
         "ubicacion": "art. 67.1.h",
@@ -134,6 +144,7 @@
       "codigo": "MAD.FP.PROG.2.i",
       "tipo": "requisito_programacion",
       "texto": "En su caso, características propias del plan de trabajo derivado de los proyectos educativos de innovación y emprendimiento autorizados.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20250522-1",
         "ubicacion": "art. 67.1.i",
@@ -146,6 +157,7 @@
       "codigo": "MAD.FP.PROG.3",
       "tipo": "requisito_programacion",
       "texto": "Los departamentos de familia profesional y los departamentos didácticos en los centros públicos, o los órganos de coordinación que realicen sus funciones en los centros privados, dispondrán de una única programación por cada módulo profesional que tengan asignado, dentro de la programación didáctica de un mismo ciclo formativo, sin perjuicio de las adaptaciones que se deriven cuando se imparta a más de un grupo de alumnos en regímenes o modalidades diferentes para cada caso. Esta programación didáctica será diseñada de forma colegiada por los profesores que impartan dicho módulo profesional en el mismo ciclo formativo.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20250522-1",
         "ubicacion": "art. 67.2",
@@ -157,6 +169,7 @@
       "codigo": "MAD.FP.PROG.4",
       "tipo": "requisito_programacion",
       "texto": "Las programaciones de los módulos profesionales tendrán en cuenta los resultados de aprendizaje y los criterios de evaluación establecidos en el título o curso de especialización, desarrollarán los objetivos generales y tomarán como referencia las competencias profesionales, personales y sociales incluidas en el perfil profesional.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20250522-1",
         "ubicacion": "art. 67.3",
@@ -168,6 +181,7 @@
       "codigo": "MAD.FP.PROG.5",
       "tipo": "requisito_programacion",
       "texto": "En los procesos de enseñanza y de aprendizaje definidos en las programaciones didácticas se integrarán el principio de igualdad de oportunidades entre mujeres y hombres y la prevención de la violencia de género, la prevención de la violencia sobre la infancia y la adolescencia y el respeto y la no discriminación por motivos de orientación sexual y diversidad sexual e identidad o expresión de género.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20250522-1",
         "ubicacion": "art. 67.3, párrafo segundo",
@@ -179,6 +193,7 @@
       "codigo": "MAD.FP.PROG.6",
       "tipo": "requisito_programacion",
       "texto": "En las programaciones didácticas se tendrán en consideración las características de los alumnos, prestándose especial atención a las necesidades específicas de aprendizaje o de quienes presenten una discapacidad reconocida, para facilitar el acceso al currículo y la adquisición de las competencias incluidas en el mismo. Asimismo, se integrará el principio de «diseño universal o diseño para todas las personas».",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20250522-1",
         "ubicacion": "art. 67.4",
@@ -190,6 +205,7 @@
       "codigo": "MAD.FP.PROG.7",
       "tipo": "requisito_programacion",
       "texto": "La programación de cada módulo profesional deberá incluir, al menos, los siguientes elementos:",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20250522-1",
         "ubicacion": "art. 67.5",
@@ -201,6 +217,7 @@
       "codigo": "MAD.FP.PROG.7.a",
       "tipo": "requisito_programacion",
       "texto": "Aquellos objetivos generales del ciclo formativo que se pretenden alcanzar relacionados con el módulo profesional.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20250522-1",
         "ubicacion": "art. 67.5.a",
@@ -213,6 +230,7 @@
       "codigo": "MAD.FP.PROG.7.b",
       "tipo": "requisito_programacion",
       "texto": "Los resultados de aprendizaje propios de cada módulo profesional.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20250522-1",
         "ubicacion": "art. 67.5.b",
@@ -225,6 +243,7 @@
       "codigo": "MAD.FP.PROG.7.c",
       "tipo": "requisito_programacion",
       "texto": "Relación de unidades didácticas que la integran y que contribuirán al desarrollo del módulo profesional.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20250522-1",
         "ubicacion": "art. 67.5.c",
@@ -237,6 +256,7 @@
       "codigo": "MAD.FP.PROG.7.d",
       "tipo": "requisito_programacion",
       "texto": "Secuenciación y distribución temporal de cada una de las unidades didácticas.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20250522-1",
         "ubicacion": "art. 67.5.d",
@@ -249,6 +269,7 @@
       "codigo": "MAD.FP.PROG.7.e",
       "tipo": "requisito_programacion",
       "texto": "Competencias profesionales y personales, y contenidos que se desarrollarán en cada unidad didáctica.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20250522-1",
         "ubicacion": "art. 67.5.e",
@@ -261,6 +282,7 @@
       "codigo": "MAD.FP.PROG.7.f",
       "tipo": "requisito_programacion",
       "texto": "Actividades de enseñanzas-aprendizaje y de evaluación, así como los recursos e instrumentos necesarios para su realización.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20250522-1",
         "ubicacion": "art. 67.5.f",
@@ -273,6 +295,7 @@
       "codigo": "MAD.FP.PROG.7.g",
       "tipo": "requisito_programacion",
       "texto": "Actividades y procedimientos de refuerzo o recuperación.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20250522-1",
         "ubicacion": "art. 67.5.g",
@@ -285,6 +308,7 @@
       "codigo": "MAD.FP.PROG.7.h",
       "tipo": "requisito_programacion",
       "texto": "Criterios de evaluación y calificación que serán aplicados para valorar el progreso de los alumnos.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20250522-1",
         "ubicacion": "art. 67.5.h",
@@ -297,6 +321,7 @@
       "codigo": "MAD.FP.PROG.8",
       "tipo": "requisito_programacion",
       "texto": "Los centros elaborarán una programación didáctica de las ofertas de Grados D y E en los términos establecidos en el artículo 67.1 del Decreto 27/2025, de 21 de mayo, que, además, concretará los siguientes aspectos:",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "cm-instrucciones-fp-2026-27",
         "ubicacion": "instrucción segunda, 1",
@@ -308,6 +333,7 @@
       "codigo": "MAD.FP.PROG.8.a",
       "tipo": "requisito_programacion",
       "texto": "La organización general de la oferta. Se consignarán las singulares características que pueda presentar la oferta, tales como su impartición en régimen general o intensivo, la modalidad, la integración de módulos, la distribución de módulos de forma trimestral o cuatrimestral, la oferta de optatividad, el carácter bilingüe, el desarrollo de metodologías por proyectos o las diferentes circunstancias adoptadas en virtud de la autonomía pedagógica del centro. Además, para los cursos o programas de especialización, se recogerá, en su caso, la impartición de la oferta de forma concentrada en el primer o segundo cuatrimestre del curso académico.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "cm-instrucciones-fp-2026-27",
         "ubicacion": "instrucción segunda, 1.a",
@@ -320,6 +346,7 @@
       "codigo": "MAD.FP.PROG.8.b",
       "tipo": "requisito_programacion",
       "texto": "La coordinación intermodular de la formación en prevención de riesgos laborales y de riesgos específicos del sector profesional.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "cm-instrucciones-fp-2026-27",
         "ubicacion": "instrucción segunda, 1.b",
@@ -332,6 +359,7 @@
       "codigo": "MAD.FP.PROG.8.c",
       "tipo": "requisito_programacion",
       "texto": "Características generales de la fase de formación en empresa u organismo equiparado (en adelante, FFE), su organización general, periodos, medidas de intervención educativa en el caso de alumnos que no se incorporen a dicha fase en el primer curso y los criterios generales para la valoración de esta fase, así como también los criterios de asignación de puestos formativos. En el caso de las ofertas en modalidad semipresencial o virtual, la identificación de los módulos profesionales que deben haberse superado antes de iniciar la FFE, así como de aquellos que formarán parte del plan de formación base, expresando para estos últimos la redistribución de la carga horaria anual correspondiente al centro docente.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "cm-instrucciones-fp-2026-27",
         "ubicacion": "instrucción segunda, 1.c",
@@ -344,6 +372,7 @@
       "codigo": "MAD.FP.PROG.8.d",
       "tipo": "requisito_programacion",
       "texto": "En el caso de las ofertas en régimen intensivo, los criterios para la toma de decisión, para cada alumno, sobre la continuación en el siguiente año de formación o repetición del primer año, o del segundo en los planes de estudios de tres años, conforme a lo establecido en la instrucción vigésima.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "cm-instrucciones-fp-2026-27",
         "ubicacion": "instrucción segunda, 1.d",
@@ -356,6 +385,7 @@
       "codigo": "MAD.FP.PROG.9",
       "tipo": "requisito_programacion",
       "texto": "Las programaciones de los módulos profesionales se diseñarán de acuerdo con lo establecido en los apartados 2 a 5 del artículo 67 del Decreto 27/2025, de 21 de mayo.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "cm-instrucciones-fp-2026-27",
         "ubicacion": "instrucción segunda, 2",
@@ -367,6 +397,7 @@
       "codigo": "MAD.FP.PROG.10",
       "tipo": "requisito_programacion",
       "texto": "La programación de los módulos integrados, que podrá unificarse en un mismo documento, deberá identificar los resultados de aprendizaje de cada módulo profesional, asociados a sus correspondientes criterios de evaluación. Además, fijará la temporalización y la distribución de los elementos curriculares integrados, así como los criterios de calificación correspondientes a cada módulo.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "cm-instrucciones-fp-2026-27",
         "ubicacion": "instrucción quinta, 3",
@@ -378,6 +409,7 @@
       "codigo": "MAD.FP.PROG.11",
       "tipo": "requisito_programacion",
       "texto": "En la programación didáctica del ciclo formativo se determinarán las actividades que realizará el alumnado a lo largo del proyecto intermodular y su temporalización. Cada equipo docente deberá diseñar actividades que impliquen la activación de varios resultados de aprendizaje contenidos en más de un módulo profesional del ciclo formativo. A tal efecto, podrá establecerse la integración del proyecto intermodular en los correspondientes módulos profesionales, conforme a lo dispuesto en la instrucción quinta, teniendo en cuenta que la carga lectiva atribuida al proyecto intermodular tiene la consideración de trabajo autónomo del alumno. Además de la selección concreta de actividades asociadas a resultados de aprendizaje de los módulos profesionales, realizada por el equipo docente según la especialidad del ciclo, se trabajarán transversalmente los resultados de aprendizaje que figuran en el currículo del proyecto intermodular.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "cm-instrucciones-fp-2026-27",
         "ubicacion": "instrucción sexta, 4",
@@ -389,6 +421,7 @@
       "codigo": "MAD.FP.PROG.12",
       "tipo": "requisito_programacion",
       "texto": "La programación didáctica de los departamentos incluirá, necesariamente, los siguientes aspectos para cada una de las áreas, materias y módulos asignados al mismo o integrados en él, como consecuencia de lo establecido en los apartados 3 y 4 del artículo 48 de este Reglamento:",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-1996-3834",
         "ubicacion": "art. 68.2",
@@ -400,6 +433,7 @@
       "codigo": "MAD.FP.PROG.12.b",
       "tipo": "requisito_programacion",
       "texto": "En el caso del bachillerato y de los ciclos formativos, los objetivos, los contenidos y los criterios de evaluación para cada curso.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-1996-3834",
         "ubicacion": "art. 68.2.b",
@@ -412,6 +446,7 @@
       "codigo": "MAD.FP.PROG.12.c",
       "tipo": "requisito_programacion",
       "texto": "En la programación de los distintos aspectos que se señalan en los párrafos a) y b) de este artículo deberá aparecer la forma en que se incorporan los temas transversales.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-1996-3834",
         "ubicacion": "art. 68.2.c",
@@ -424,6 +459,7 @@
       "codigo": "MAD.FP.PROG.12.d",
       "tipo": "requisito_programacion",
       "texto": "La distribución temporal de los contenidos en el ciclo o curso correspondiente.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-1996-3834",
         "ubicacion": "art. 68.2.d",
@@ -436,6 +472,7 @@
       "codigo": "MAD.FP.PROG.12.e",
       "tipo": "requisito_programacion",
       "texto": "La metodología didáctica que se va a aplicar.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-1996-3834",
         "ubicacion": "art. 68.2.e",
@@ -448,6 +485,7 @@
       "codigo": "MAD.FP.PROG.12.f",
       "tipo": "requisito_programacion",
       "texto": "Los procedimientos de evaluación del aprendizaje de los alumnos.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-1996-3834",
         "ubicacion": "art. 68.2.f",
@@ -460,6 +498,7 @@
       "codigo": "MAD.FP.PROG.12.g",
       "tipo": "requisito_programacion",
       "texto": "Los criterios de calificación que se vayan a aplicar.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-1996-3834",
         "ubicacion": "art. 68.2.g",
@@ -472,6 +511,7 @@
       "codigo": "MAD.FP.PROG.12.i",
       "tipo": "requisito_programacion",
       "texto": "Los materiales y recursos didácticos que se vayan a utilizar, incluidos los libros para uso de los alumnos.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-1996-3834",
         "ubicacion": "art. 68.2.i",
@@ -484,6 +524,7 @@
       "codigo": "MAD.FP.PROG.12.j",
       "tipo": "requisito_programacion",
       "texto": "Las actividades complementarias y extraescolares que se pretenden realizar desde el departamento.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-1996-3834",
         "ubicacion": "art. 68.2.j",
@@ -496,6 +537,7 @@
       "codigo": "MAD.FP.PROG.12.k",
       "tipo": "requisito_programacion",
       "texto": "Las medidas de atención a la diversidad y las adaptaciones curriculares para los alumnos que las precisen.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-1996-3834",
         "ubicacion": "art. 68.2.k",
@@ -508,6 +550,7 @@
       "codigo": "MAD.FP.PROG.13",
       "tipo": "requisito_programacion",
       "texto": "Los profesores desarrollarán su actividad docente de acuerdo con las programaciones didácticas de los departamentos a los que pertenezcan. En caso de que algún profesor decida incluir en su actividad docente alguna variación respecto de la programación del departamento consensuada por el conjunto de sus miembros, dicha variación, y su justificación, deberán ser incluidas en la programación didáctica del departamento. En todo caso, las variaciones que se incluyan deberán respetar las decisiones generales adoptadas en el proyecto curricular de la etapa correspondiente.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-1996-3834",
         "ubicacion": "art. 68.3",

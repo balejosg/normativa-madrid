@@ -16,6 +16,7 @@
       "codigo": "MAD.DAM.1708",
       "tipo": "modulo",
       "texto": "Sostenibilidad aplicada al sistema productivo",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20241115-2",
         "ubicacion": "anexo II",
@@ -31,6 +32,7 @@
       "codigo": "MAD.DAM.1708.RA.1",
       "tipo": "resultado_aprendizaje",
       "texto": "Identifica los aspectos ambientales, sociales y de gobernanza (ASG) relativos a la sostenibilidad teniendo en cuenta el concepto de desarrollo sostenible y los marcos internacionales que contribuyen a su consecución.",
+      "codigo_oficial": "1.",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VI, módulo 1708, resultado de aprendizaje 1",
@@ -43,6 +45,7 @@
       "codigo": "MAD.DAM.1708.RA.1.a",
       "tipo": "criterio_fp",
       "texto": "Se ha descrito el concepto de sostenibilidad, estableciendo los marcos internacionales asociados al desarrollo sostenible.",
+      "codigo_oficial": "a)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VI, módulo 1708, resultado de aprendizaje 1, criterio a",
@@ -55,6 +58,7 @@
       "codigo": "MAD.DAM.1708.RA.1.b",
       "tipo": "criterio_fp",
       "texto": "Se han identificado los asuntos ambientales, sociales y de gobernanza que influyen en el desarrollo sostenible de las organizaciones empresariales.",
+      "codigo_oficial": "b)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VI, módulo 1708, resultado de aprendizaje 1, criterio b",
@@ -67,6 +71,7 @@
       "codigo": "MAD.DAM.1708.RA.1.c",
       "tipo": "criterio_fp",
       "texto": "Se han relacionado los Objetivos de Desarrollo Sostenible (ODS) con su importancia para la consecución de la Agenda 2030.",
+      "codigo_oficial": "c)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VI, módulo 1708, resultado de aprendizaje 1, criterio c",
@@ -79,6 +84,7 @@
       "codigo": "MAD.DAM.1708.RA.1.d",
       "tipo": "criterio_fp",
       "texto": "Se ha analizado la importancia de identificar los aspectos ASG más relevantes para los grupos de interés de las organizaciones relacionándolos con los riesgos y oportunidades que suponen para la propia organización.",
+      "codigo_oficial": "d)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VI, módulo 1708, resultado de aprendizaje 1, criterio d",
@@ -91,6 +97,7 @@
       "codigo": "MAD.DAM.1708.RA.1.e",
       "tipo": "criterio_fp",
       "texto": "Se han identificado los principales estándares de métricas para la evaluación del desempeño en sostenibilidad y su papel en la rendición de cuentas que marca la legislación vigente y las futuras regulaciones en desarrollo.",
+      "codigo_oficial": "e)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VI, módulo 1708, resultado de aprendizaje 1, criterio e",
@@ -103,6 +110,7 @@
       "codigo": "MAD.DAM.1708.RA.1.f",
       "tipo": "criterio_fp",
       "texto": "Se ha descrito la inversión socialmente responsable y el papel de los analistas, inversores, agencias e índices de sostenibilidad en el fomento de la sostenibilidad.",
+      "codigo_oficial": "f)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VI, módulo 1708, resultado de aprendizaje 1, criterio f",
@@ -115,6 +123,7 @@
       "codigo": "MAD.DAM.1708.RA.2",
       "tipo": "resultado_aprendizaje",
       "texto": "Caracteriza los retos ambientales y sociales a los que se enfrenta la sociedad, describiendo los impactos sobre las personas y los sectores productivos y proponiendo acciones para minimizarlos.",
+      "codigo_oficial": "2.",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VI, módulo 1708, resultado de aprendizaje 2",
@@ -127,6 +136,7 @@
       "codigo": "MAD.DAM.1708.RA.2.a",
       "tipo": "criterio_fp",
       "texto": "Se han identificado los principales retos ambientales y sociales.",
+      "codigo_oficial": "a)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VI, módulo 1708, resultado de aprendizaje 2, criterio a",
@@ -139,6 +149,7 @@
       "codigo": "MAD.DAM.1708.RA.2.b",
       "tipo": "criterio_fp",
       "texto": "Se han relacionado los retos ambientales y sociales con el desarrollo de la actividad económica.",
+      "codigo_oficial": "b)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VI, módulo 1708, resultado de aprendizaje 2, criterio b",
@@ -151,6 +162,7 @@
       "codigo": "MAD.DAM.1708.RA.2.c",
       "tipo": "criterio_fp",
       "texto": "Se ha analizado el efecto de los impactos ambientales y sociales sobre las personas y los sectores productivos.",
+      "codigo_oficial": "c)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VI, módulo 1708, resultado de aprendizaje 2, criterio c",
@@ -163,6 +175,7 @@
       "codigo": "MAD.DAM.1708.RA.2.d",
       "tipo": "criterio_fp",
       "texto": "Se han identificado las medidas y acciones encaminadas a minimizar los impactos ambientales y sociales.",
+      "codigo_oficial": "d)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VI, módulo 1708, resultado de aprendizaje 2, criterio d",
@@ -175,6 +188,7 @@
       "codigo": "MAD.DAM.1708.RA.2.e",
       "tipo": "criterio_fp",
       "texto": "Se ha analizado la importancia de establecer alianzas y trabajar de manera transversal y coordinada para abordar con éxito los retos ambientales y sociales.",
+      "codigo_oficial": "e)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VI, módulo 1708, resultado de aprendizaje 2, criterio e",
@@ -187,6 +201,7 @@
       "codigo": "MAD.DAM.1708.RA.3",
       "tipo": "resultado_aprendizaje",
       "texto": "Establece la aplicación de criterios de sostenibilidad en el desempeño profesional y personal, identificando los elementos necesarios.",
+      "codigo_oficial": "3.",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VI, módulo 1708, resultado de aprendizaje 3",
@@ -199,6 +214,7 @@
       "codigo": "MAD.DAM.1708.RA.3.a",
       "tipo": "criterio_fp",
       "texto": "Se han identificado los ODS más relevantes para la actividad profesional que realiza.",
+      "codigo_oficial": "a)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VI, módulo 1708, resultado de aprendizaje 3, criterio a",
@@ -211,6 +227,7 @@
       "codigo": "MAD.DAM.1708.RA.3.b",
       "tipo": "criterio_fp",
       "texto": "Se han analizado los riesgos y oportunidades que representan los ODS.",
+      "codigo_oficial": "b)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VI, módulo 1708, resultado de aprendizaje 3, criterio b",
@@ -223,6 +240,7 @@
       "codigo": "MAD.DAM.1708.RA.3.c",
       "tipo": "criterio_fp",
       "texto": "Se han identificado las acciones necesarias para atender algunos de los retos ambientales y sociales desde la actividad profesional y el entorno personal.",
+      "codigo_oficial": "c)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VI, módulo 1708, resultado de aprendizaje 3, criterio c",
@@ -235,6 +253,7 @@
       "codigo": "MAD.DAM.1708.RA.4",
       "tipo": "resultado_aprendizaje",
       "texto": "Propone productos y servicios responsables teniendo en cuenta los principios de la economía circular.",
+      "codigo_oficial": "4.",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VI, módulo 1708, resultado de aprendizaje 4",
@@ -247,6 +266,7 @@
       "codigo": "MAD.DAM.1708.RA.4.a",
       "tipo": "criterio_fp",
       "texto": "Se ha caracterizado el modelo de producción y consumo actual.",
+      "codigo_oficial": "a)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VI, módulo 1708, resultado de aprendizaje 4, criterio a",
@@ -259,6 +279,7 @@
       "codigo": "MAD.DAM.1708.RA.4.b",
       "tipo": "criterio_fp",
       "texto": "Se han identificado los principios de la economía verde y circular.",
+      "codigo_oficial": "b)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VI, módulo 1708, resultado de aprendizaje 4, criterio b",
@@ -271,6 +292,7 @@
       "codigo": "MAD.DAM.1708.RA.4.c",
       "tipo": "criterio_fp",
       "texto": "Se han contrastado los beneficios de la economía verde y circular frente al modelo clásico de producción.",
+      "codigo_oficial": "c)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VI, módulo 1708, resultado de aprendizaje 4, criterio c",
@@ -283,6 +305,7 @@
       "codigo": "MAD.DAM.1708.RA.4.d",
       "tipo": "criterio_fp",
       "texto": "Se han aplicado principios de ecodiseño.",
+      "codigo_oficial": "d)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VI, módulo 1708, resultado de aprendizaje 4, criterio d",
@@ -295,6 +318,7 @@
       "codigo": "MAD.DAM.1708.RA.4.e",
       "tipo": "criterio_fp",
       "texto": "Se ha analizado el ciclo de vida del producto.",
+      "codigo_oficial": "e)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VI, módulo 1708, resultado de aprendizaje 4, criterio e",
@@ -307,6 +331,7 @@
       "codigo": "MAD.DAM.1708.RA.4.f",
       "tipo": "criterio_fp",
       "texto": "Se han identificado los procesos de producción y los criterios de sostenibilidad aplicados.",
+      "codigo_oficial": "f)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VI, módulo 1708, resultado de aprendizaje 4, criterio f",
@@ -319,6 +344,7 @@
       "codigo": "MAD.DAM.1708.RA.5",
       "tipo": "resultado_aprendizaje",
       "texto": "Realiza actividades sostenibles minimizando el impacto de las mismas en el medio ambiente.",
+      "codigo_oficial": "5.",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VI, módulo 1708, resultado de aprendizaje 5",
@@ -331,6 +357,7 @@
       "codigo": "MAD.DAM.1708.RA.5.a",
       "tipo": "criterio_fp",
       "texto": "Se ha caracterizado el modelo de producción y consumo actual.",
+      "codigo_oficial": "a)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VI, módulo 1708, resultado de aprendizaje 5, criterio a",
@@ -343,6 +370,7 @@
       "codigo": "MAD.DAM.1708.RA.5.b",
       "tipo": "criterio_fp",
       "texto": "Se han identificado los principios de la economía verde y circular.",
+      "codigo_oficial": "b)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VI, módulo 1708, resultado de aprendizaje 5, criterio b",
@@ -355,6 +383,7 @@
       "codigo": "MAD.DAM.1708.RA.5.c",
       "tipo": "criterio_fp",
       "texto": "Se han contrastado los beneficios de la economía verde y circular frente al modelo clásico de producción.",
+      "codigo_oficial": "c)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VI, módulo 1708, resultado de aprendizaje 5, criterio c",
@@ -367,6 +396,7 @@
       "codigo": "MAD.DAM.1708.RA.5.d",
       "tipo": "criterio_fp",
       "texto": "Se ha evaluado el impacto de las actividades personales y profesionales.",
+      "codigo_oficial": "d)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VI, módulo 1708, resultado de aprendizaje 5, criterio d",
@@ -379,6 +409,7 @@
       "codigo": "MAD.DAM.1708.RA.5.e",
       "tipo": "criterio_fp",
       "texto": "Se han aplicado principios de ecodiseño.",
+      "codigo_oficial": "e)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VI, módulo 1708, resultado de aprendizaje 5, criterio e",
@@ -391,6 +422,7 @@
       "codigo": "MAD.DAM.1708.RA.5.f",
       "tipo": "criterio_fp",
       "texto": "Se han aplicado estrategias sostenibles.",
+      "codigo_oficial": "f)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VI, módulo 1708, resultado de aprendizaje 5, criterio f",
@@ -403,6 +435,7 @@
       "codigo": "MAD.DAM.1708.RA.5.g",
       "tipo": "criterio_fp",
       "texto": "Se ha analizado el ciclo de vida del producto.",
+      "codigo_oficial": "g)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VI, módulo 1708, resultado de aprendizaje 5, criterio g",
@@ -415,6 +448,7 @@
       "codigo": "MAD.DAM.1708.RA.5.h",
       "tipo": "criterio_fp",
       "texto": "Se han identificado los procesos de producción y los criterios de sostenibilidad aplicados.",
+      "codigo_oficial": "h)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VI, módulo 1708, resultado de aprendizaje 5, criterio h",
@@ -427,6 +461,7 @@
       "codigo": "MAD.DAM.1708.RA.5.i",
       "tipo": "criterio_fp",
       "texto": "Se ha aplicado la normativa ambiental.",
+      "codigo_oficial": "i)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VI, módulo 1708, resultado de aprendizaje 5, criterio i",
@@ -439,6 +474,7 @@
       "codigo": "MAD.DAM.1708.RA.6",
       "tipo": "resultado_aprendizaje",
       "texto": "Analiza un plan de sostenibilidad de una empresa del sector, identificando sus grupos de interés, los aspectos ASG materiales y justificando acciones para su gestión y medición. Se han identificado los principales grupos de interés de la empresa.",
+      "codigo_oficial": "6.",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VI, módulo 1708, resultado de aprendizaje 6",
@@ -451,6 +487,7 @@
       "codigo": "MAD.DAM.1708.RA.6.a",
       "tipo": "criterio_fp",
       "texto": "Se han identificado los principales grupos de interés de la empresa.",
+      "codigo_oficial": "a)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VI, módulo 1708, resultado de aprendizaje 6, criterio a",
@@ -463,6 +500,7 @@
       "codigo": "MAD.DAM.1708.RA.6.b",
       "tipo": "criterio_fp",
       "texto": "Se han analizado los aspectos ASG materiales, las expectativas de los grupos de interés y la importancia de los aspectos ASG en relación con los objetivos empresariales.",
+      "codigo_oficial": "b)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VI, módulo 1708, resultado de aprendizaje 6, criterio b",
@@ -475,6 +513,7 @@
       "codigo": "MAD.DAM.1708.RA.6.c",
       "tipo": "criterio_fp",
       "texto": "Se han definido acciones encaminadas a minimizar los impactos negativos y aprovechar las oportunidades que plantean los principales aspectos ASG identificados.",
+      "codigo_oficial": "c)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VI, módulo 1708, resultado de aprendizaje 6, criterio c",
@@ -487,6 +526,7 @@
       "codigo": "MAD.DAM.1708.RA.6.d",
       "tipo": "criterio_fp",
       "texto": "Se han determinado las métricas de evaluación del desempeño de la empresa de acuerdo con los estándares de sostenibilidad más ampliamente utilizados.",
+      "codigo_oficial": "d)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VI, módulo 1708, resultado de aprendizaje 6, criterio d",
@@ -499,6 +539,7 @@
       "codigo": "MAD.DAM.1708.RA.6.e",
       "tipo": "criterio_fp",
       "texto": "Se ha elaborado un informe de sostenibilidad con el plan y los indicadores propuestos.",
+      "codigo_oficial": "e)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VI, módulo 1708, resultado de aprendizaje 6, criterio e",
@@ -511,6 +552,7 @@
       "codigo": "MAD.DAM.1708.CO.1",
       "tipo": "contenido",
       "texto": "La sostenibilidad en el entorno actual.",
+      "codigo_oficial": "1.",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VI",
@@ -523,6 +565,7 @@
       "codigo": "MAD.DAM.1708.CO.1.1",
       "tipo": "contenido",
       "texto": "La sostenibilidad: definición e importancia en la economía globalizada.",
+      "codigo_oficial": "a)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VI",
@@ -535,6 +578,7 @@
       "codigo": "MAD.DAM.1708.CO.1.2",
       "tipo": "contenido",
       "texto": "Objetivos para el desarrollo de la sostenibilidad y los aspectos medioambientales en los sectores empresariales.",
+      "codigo_oficial": "b)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VI",
@@ -547,6 +591,7 @@
       "codigo": "MAD.DAM.1708.CO.1.3",
       "tipo": "contenido",
       "texto": "Marco internacional. Acuerdos e instituciones.",
+      "codigo_oficial": "c)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VI",
@@ -559,6 +604,7 @@
       "codigo": "MAD.DAM.1708.CO.2",
       "tipo": "contenido",
       "texto": "Principales retos ambientales y sociales en el desarrollo sostenible.",
+      "codigo_oficial": "2.",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VI",
@@ -571,6 +617,7 @@
       "codigo": "MAD.DAM.1708.CO.2.1",
       "tipo": "contenido",
       "texto": "Retos ambientales y sociales en el desarrollo de la actividad económica.",
+      "codigo_oficial": "a)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VI",
@@ -583,6 +630,7 @@
       "codigo": "MAD.DAM.1708.CO.2.2",
       "tipo": "contenido",
       "texto": "Acciones que favorecen la conservación del medio ambiente, descarbonización y protección de ecosistemas. La cooperación.",
+      "codigo_oficial": "b)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VI",
@@ -595,6 +643,7 @@
       "codigo": "MAD.DAM.1708.CO.3",
       "tipo": "contenido",
       "texto": "Criterios de sostenibilidad.",
+      "codigo_oficial": "3.",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VI",
@@ -607,6 +656,7 @@
       "codigo": "MAD.DAM.1708.CO.3.1",
       "tipo": "contenido",
       "texto": "Concreción de los objetivos de sostenibilidad relacionados con el sector productivo.",
+      "codigo_oficial": "a)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VI",
@@ -619,6 +669,7 @@
       "codigo": "MAD.DAM.1708.CO.3.2",
       "tipo": "contenido",
       "texto": "Análisis de los riesgos y beneficios de la aplicación de la sostenibilidad.",
+      "codigo_oficial": "b)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VI",
@@ -631,6 +682,7 @@
       "codigo": "MAD.DAM.1708.CO.3.3",
       "tipo": "contenido",
       "texto": "El papel de la responsabilidad social corporativa (RSC).",
+      "codigo_oficial": "c)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VI",
@@ -643,6 +695,7 @@
       "codigo": "MAD.DAM.1708.CO.4",
       "tipo": "contenido",
       "texto": "La transformación a una Economía Circular.",
+      "codigo_oficial": "4.",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VI",
@@ -655,6 +708,7 @@
       "codigo": "MAD.DAM.1708.CO.4.1",
       "tipo": "contenido",
       "texto": "Proceso de implantación de la economía circular. Objetivos.",
+      "codigo_oficial": "a)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VI",
@@ -667,6 +721,7 @@
       "codigo": "MAD.DAM.1708.CO.4.2",
       "tipo": "contenido",
       "texto": "La economía verde. La huella ecológica. El consumo responsable.",
+      "codigo_oficial": "b)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VI",
@@ -679,6 +734,7 @@
       "codigo": "MAD.DAM.1708.CO.5",
       "tipo": "contenido",
       "texto": "Estrategias sostenibles.",
+      "codigo_oficial": "5.",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VI",
@@ -691,6 +747,7 @@
       "codigo": "MAD.DAM.1708.CO.5.1",
       "tipo": "contenido",
       "texto": "Diseño de actividades para mejorar la conservación del medio ambiente.",
+      "codigo_oficial": "a)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VI",
@@ -703,6 +760,7 @@
       "codigo": "MAD.DAM.1708.CO.5.2",
       "tipo": "contenido",
       "texto": "Estrategias para mejorar el diseño de productos y servicios. El proceso productivo y la sostenibilidad.",
+      "codigo_oficial": "b)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VI",
@@ -715,6 +773,7 @@
       "codigo": "MAD.DAM.1708.CO.5.3",
       "tipo": "contenido",
       "texto": "Normativa medioambiental.",
+      "codigo_oficial": "c)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VI",
@@ -727,6 +786,7 @@
       "codigo": "MAD.DAM.1708.CO.6",
       "tipo": "contenido",
       "texto": "Plan de sostenibilidad empresarial.",
+      "codigo_oficial": "6.",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VI",
@@ -739,6 +799,7 @@
       "codigo": "MAD.DAM.1708.CO.6.1",
       "tipo": "contenido",
       "texto": "Concreción de los objetivos de sostenibilidad en la actividad de la empresa. Estrategias de sostenibilidad.",
+      "codigo_oficial": "a)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VI",
@@ -751,6 +812,7 @@
       "codigo": "MAD.DAM.1708.CO.6.2",
       "tipo": "contenido",
       "texto": "Elaboración del informe de sostenibilidad. Determinación de los indicadores de logro.",
+      "codigo_oficial": "b)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VI",
@@ -763,6 +825,7 @@
       "codigo": "MAD.DAM.1708.CO.6.3",
       "tipo": "contenido",
       "texto": "Plan de formación de los empleados en las estrategias de sostenibilidad.",
+      "codigo_oficial": "c)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VI",
@@ -775,6 +838,7 @@
       "codigo": "MAD.DAM.1708.CO.6.4",
       "tipo": "contenido",
       "texto": "La evaluación y medidas de control.",
+      "codigo_oficial": "d)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo VI",

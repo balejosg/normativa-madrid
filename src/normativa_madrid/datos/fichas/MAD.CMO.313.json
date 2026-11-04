@@ -15,6 +15,7 @@
       "codigo": "MAD.CMO.313",
       "tipo": "modulo",
       "texto": "Fundamentos de programación",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-313",
@@ -29,6 +30,7 @@
       "codigo": "MAD.CMO.313.RA.1",
       "tipo": "resultado_aprendizaje",
       "texto": "Reconoce la estructura de un programa informático, identificando y relacionando los elementos propios del lenguaje de programación utilizado.",
+      "codigo_oficial": "1.",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-313, resultado de aprendizaje 1",
@@ -41,6 +43,7 @@
       "codigo": "MAD.CMO.313.RA.1.a",
       "tipo": "criterio_fp",
       "texto": "Se han identificado los bloques que componen la estructura de un programa informático.",
+      "codigo_oficial": "a)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-313, resultado de aprendizaje 1, criterio a",
@@ -53,6 +56,7 @@
       "codigo": "MAD.CMO.313.RA.1.b",
       "tipo": "criterio_fp",
       "texto": "Se han creado proyectos de desarrollo de aplicaciones.",
+      "codigo_oficial": "b)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-313, resultado de aprendizaje 1, criterio b",
@@ -65,6 +69,7 @@
       "codigo": "MAD.CMO.313.RA.1.c",
       "tipo": "criterio_fp",
       "texto": "Se han utilizado entornos integrados de desarrollo.",
+      "codigo_oficial": "c)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-313, resultado de aprendizaje 1, criterio c",
@@ -77,6 +82,7 @@
       "codigo": "MAD.CMO.313.RA.1.d",
       "tipo": "criterio_fp",
       "texto": "Se han identificado los distintos tipos de variables y la utilidad específica de cada uno.",
+      "codigo_oficial": "d)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-313, resultado de aprendizaje 1, criterio d",
@@ -89,6 +95,7 @@
       "codigo": "MAD.CMO.313.RA.1.e",
       "tipo": "criterio_fp",
       "texto": "Se ha modificado el código de un programa para crear y utilizar variables.",
+      "codigo_oficial": "e)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-313, resultado de aprendizaje 1, criterio e",
@@ -101,6 +108,7 @@
       "codigo": "MAD.CMO.313.RA.1.f",
       "tipo": "criterio_fp",
       "texto": "Se han creado y utilizado constantes y literales.",
+      "codigo_oficial": "f)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-313, resultado de aprendizaje 1, criterio f",
@@ -113,6 +121,7 @@
       "codigo": "MAD.CMO.313.RA.1.g",
       "tipo": "criterio_fp",
       "texto": "Se han clasificado, reconocido y utilizado en expresiones los operadores del lenguaje.",
+      "codigo_oficial": "g)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-313, resultado de aprendizaje 1, criterio g",
@@ -125,6 +134,7 @@
       "codigo": "MAD.CMO.313.RA.1.h",
       "tipo": "criterio_fp",
       "texto": "Se ha comprobado el funcionamiento de las conversiones de tipo explícitas e implícitas.",
+      "codigo_oficial": "h)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-313, resultado de aprendizaje 1, criterio h",
@@ -137,6 +147,7 @@
       "codigo": "MAD.CMO.313.RA.1.i",
       "tipo": "criterio_fp",
       "texto": "Se han introducido comentarios en el código.",
+      "codigo_oficial": "i)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-313, resultado de aprendizaje 1, criterio i",
@@ -149,6 +160,7 @@
       "codigo": "MAD.CMO.313.RA.2",
       "tipo": "resultado_aprendizaje",
       "texto": "Escribe y prueba programas sencillos, reconociendo y aplicando los fundamentos de la programación.",
+      "codigo_oficial": "2.",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-313, resultado de aprendizaje 2",
@@ -161,6 +173,7 @@
       "codigo": "MAD.CMO.313.RA.2.a",
       "tipo": "criterio_fp",
       "texto": "Se han identificado los fundamentos de la programación.",
+      "codigo_oficial": "a)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-313, resultado de aprendizaje 2, criterio a",
@@ -173,6 +186,7 @@
       "codigo": "MAD.CMO.313.RA.2.b",
       "tipo": "criterio_fp",
       "texto": "Se han escrito programas simples.",
+      "codigo_oficial": "b)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-313, resultado de aprendizaje 2, criterio b",
@@ -185,6 +199,7 @@
       "codigo": "MAD.CMO.313.RA.2.c",
       "tipo": "criterio_fp",
       "texto": "Se han utilizado métodos/ funciones.",
+      "codigo_oficial": "c)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-313, resultado de aprendizaje 2, criterio c",
@@ -197,6 +212,7 @@
       "codigo": "MAD.CMO.313.RA.2.d",
       "tipo": "criterio_fp",
       "texto": "Se han utilizado parámetros en la llamada métodos.",
+      "codigo_oficial": "d)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-313, resultado de aprendizaje 2, criterio d",
@@ -209,6 +225,7 @@
       "codigo": "MAD.CMO.313.RA.2.e",
       "tipo": "criterio_fp",
       "texto": "Se han incorporado y utilizado librerías.",
+      "codigo_oficial": "e)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-313, resultado de aprendizaje 2, criterio e",
@@ -221,6 +238,7 @@
       "codigo": "MAD.CMO.313.RA.3",
       "tipo": "resultado_aprendizaje",
       "texto": "Escribe y depura código, analizando y utilizando las estructuras de control del lenguaje.",
+      "codigo_oficial": "3.",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-313, resultado de aprendizaje 3",
@@ -233,6 +251,7 @@
       "codigo": "MAD.CMO.313.RA.3.a",
       "tipo": "criterio_fp",
       "texto": "Se ha escrito y probado código que haga uso de estructuras de selección.",
+      "codigo_oficial": "a)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-313, resultado de aprendizaje 3, criterio a",
@@ -245,6 +264,7 @@
       "codigo": "MAD.CMO.313.RA.3.b",
       "tipo": "criterio_fp",
       "texto": "Se han utilizado estructuras de repetición.",
+      "codigo_oficial": "b)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-313, resultado de aprendizaje 3, criterio b",
@@ -257,6 +277,7 @@
       "codigo": "MAD.CMO.313.RA.3.c",
       "tipo": "criterio_fp",
       "texto": "Se han reconocido las posibilidades de las sentencias de salto.",
+      "codigo_oficial": "c)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-313, resultado de aprendizaje 3, criterio c",
@@ -269,6 +290,7 @@
       "codigo": "MAD.CMO.313.RA.3.d",
       "tipo": "criterio_fp",
       "texto": "Se ha escrito código utilizando control de excepciones.",
+      "codigo_oficial": "d)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-313, resultado de aprendizaje 3, criterio d",
@@ -281,6 +303,7 @@
       "codigo": "MAD.CMO.313.RA.3.e",
       "tipo": "criterio_fp",
       "texto": "Se han creado programas ejecutables utilizando diferentes estructuras de control.",
+      "codigo_oficial": "e)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-313, resultado de aprendizaje 3, criterio e",
@@ -293,6 +316,7 @@
       "codigo": "MAD.CMO.313.RA.3.f",
       "tipo": "criterio_fp",
       "texto": "Se han probado y depurado los programas.",
+      "codigo_oficial": "f)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-313, resultado de aprendizaje 3, criterio f",
@@ -305,6 +329,7 @@
       "codigo": "MAD.CMO.313.RA.3.g",
       "tipo": "criterio_fp",
       "texto": "Se ha comentado y documentado el código.",
+      "codigo_oficial": "g)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-313, resultado de aprendizaje 3, criterio g",
@@ -317,6 +342,7 @@
       "codigo": "MAD.CMO.313.RA.4",
       "tipo": "resultado_aprendizaje",
       "texto": "Conoce los fundamentos de la programación orientada a objetos.",
+      "codigo_oficial": "4.",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-313, resultado de aprendizaje 4",
@@ -329,6 +355,7 @@
       "codigo": "MAD.CMO.313.RA.4.a",
       "tipo": "criterio_fp",
       "texto": "Se han definido y utilizado clases adecuadamente.",
+      "codigo_oficial": "a)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-313, resultado de aprendizaje 4, criterio a",
@@ -341,6 +368,7 @@
       "codigo": "MAD.CMO.313.RA.4.b",
       "tipo": "criterio_fp",
       "texto": "Se ha conocido el concepto de herencia y su utilización",
+      "codigo_oficial": "b)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-313, resultado de aprendizaje 4, criterio b",
@@ -353,6 +381,7 @@
       "codigo": "MAD.CMO.313.RA.4.c",
       "tipo": "criterio_fp",
       "texto": "Se han diferenciado las condiciones de acceso a los atributos y métodos que definen una clase.",
+      "codigo_oficial": "c)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-313, resultado de aprendizaje 4, criterio c",
@@ -365,6 +394,7 @@
       "codigo": "MAD.CMO.313.RA.5",
       "tipo": "resultado_aprendizaje",
       "texto": "Realiza operaciones de entrada y salida de información utilizando ficheros usando las librerías o clases que ofrece el lenguaje de programación.",
+      "codigo_oficial": "5.",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-313, resultado de aprendizaje 5",
@@ -377,6 +407,7 @@
       "codigo": "MAD.CMO.313.RA.5.a",
       "tipo": "criterio_fp",
       "texto": "Se ha utilizado la consola para realizar operaciones de entrada y salida de información.",
+      "codigo_oficial": "a)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-313, resultado de aprendizaje 5, criterio a",
@@ -389,6 +420,7 @@
       "codigo": "MAD.CMO.313.RA.5.b",
       "tipo": "criterio_fp",
       "texto": "Se han aplicado formatos en la visualización de la información.",
+      "codigo_oficial": "b)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-313, resultado de aprendizaje 5, criterio b",
@@ -401,6 +433,7 @@
       "codigo": "MAD.CMO.313.RA.5.c",
       "tipo": "criterio_fp",
       "texto": "Se han reconocido las posibilidades de entrada / salida del lenguaje y las librerías asociadas.",
+      "codigo_oficial": "c)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-313, resultado de aprendizaje 5, criterio c",
@@ -413,6 +446,7 @@
       "codigo": "MAD.CMO.313.RA.5.d",
       "tipo": "criterio_fp",
       "texto": "Se han utilizado ficheros para almacenar y recuperar información.",
+      "codigo_oficial": "d)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-313, resultado de aprendizaje 5, criterio d",
@@ -425,6 +459,7 @@
       "codigo": "MAD.CMO.313.RA.5.e",
       "tipo": "criterio_fp",
       "texto": "Se han creado programas que utilicen ficheros distintos formatos.",
+      "codigo_oficial": "e)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-313, resultado de aprendizaje 5, criterio e",
@@ -437,6 +472,7 @@
       "codigo": "MAD.CMO.313.RA.6",
       "tipo": "resultado_aprendizaje",
       "texto": "Gestiona información almacenada en bases de datos relacionales manteniendo la integridad y la consistencia de los datos.",
+      "codigo_oficial": "6.",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-313, resultado de aprendizaje 6",
@@ -449,6 +485,7 @@
       "codigo": "MAD.CMO.313.RA.6.a",
       "tipo": "criterio_fp",
       "texto": "Se han identificado las características y métodos de acceso a sistemas gestores de bases de datos relacionales.",
+      "codigo_oficial": "a)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-313, resultado de aprendizaje 6, criterio a",
@@ -461,6 +498,7 @@
       "codigo": "MAD.CMO.313.RA.6.b",
       "tipo": "criterio_fp",
       "texto": "Se han programado conexiones con bases de datos.",
+      "codigo_oficial": "b)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-313, resultado de aprendizaje 6, criterio b",
@@ -473,6 +511,7 @@
       "codigo": "MAD.CMO.313.RA.6.c",
       "tipo": "criterio_fp",
       "texto": "Se ha escrito código para almacenar información en bases de datos.",
+      "codigo_oficial": "c)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-313, resultado de aprendizaje 6, criterio c",
@@ -485,6 +524,7 @@
       "codigo": "MAD.CMO.313.RA.6.d",
       "tipo": "criterio_fp",
       "texto": "Se han creado programas para recuperar y mostrar información almacenada en bases de datos.",
+      "codigo_oficial": "d)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-313, resultado de aprendizaje 6, criterio d",
@@ -497,6 +537,7 @@
       "codigo": "MAD.CMO.313.RA.6.e",
       "tipo": "criterio_fp",
       "texto": "Se han efectuado borrados y modificaciones sobre la información almacenada.",
+      "codigo_oficial": "e)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-313, resultado de aprendizaje 6, criterio e",
@@ -509,6 +550,7 @@
       "codigo": "MAD.CMO.313.RA.6.f",
       "tipo": "criterio_fp",
       "texto": "Se han creado aplicaciones que ejecuten consultas sobre bases de datos.",
+      "codigo_oficial": "f)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-313, resultado de aprendizaje 6, criterio f",
@@ -521,6 +563,7 @@
       "codigo": "MAD.CMO.313.RA.6.g",
       "tipo": "criterio_fp",
       "texto": "Se han creado aplicaciones para posibilitar la gestión de información presente en bases de datos relacionales.",
+      "codigo_oficial": "g)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-313, resultado de aprendizaje 6, criterio g",
@@ -533,6 +576,7 @@
       "codigo": "MAD.CMO.313.CO.1",
       "tipo": "contenido",
       "texto": "Introducción a la programación.",
+      "codigo_oficial": "1.",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-313, contenidos",
@@ -545,6 +589,7 @@
       "codigo": "MAD.CMO.313.CO.1.1",
       "tipo": "contenido",
       "texto": "Lenguajes de programación.",
+      "codigo_oficial": "a)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-313, contenidos",
@@ -557,6 +602,7 @@
       "codigo": "MAD.CMO.313.CO.1.2",
       "tipo": "contenido",
       "texto": "Datos, algoritmos y programas.",
+      "codigo_oficial": "b)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-313, contenidos",
@@ -569,6 +615,7 @@
       "codigo": "MAD.CMO.313.CO.1.3",
       "tipo": "contenido",
       "texto": "Metodologías de desarrollo de software.",
+      "codigo_oficial": "c)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-313, contenidos",
@@ -581,6 +628,7 @@
       "codigo": "MAD.CMO.313.CO.2",
       "tipo": "contenido",
       "texto": "Elementos de un programa informático.",
+      "codigo_oficial": "2.",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-313, contenidos",
@@ -593,6 +641,7 @@
       "codigo": "MAD.CMO.313.CO.2.1",
       "tipo": "contenido",
       "texto": "Identificadores y palabras reservadas.",
+      "codigo_oficial": "a)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-313, contenidos",
@@ -605,6 +654,7 @@
       "codigo": "MAD.CMO.313.CO.2.2",
       "tipo": "contenido",
       "texto": "Definición de datos.",
+      "codigo_oficial": "b)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-313, contenidos",
@@ -617,6 +667,7 @@
       "codigo": "MAD.CMO.313.CO.2.3",
       "tipo": "contenido",
       "texto": "Instrucciones y operadores.",
+      "codigo_oficial": "c)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-313, contenidos",
@@ -629,6 +680,7 @@
       "codigo": "MAD.CMO.313.CO.3",
       "tipo": "contenido",
       "texto": "Estructuras de control.",
+      "codigo_oficial": "3.",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-313, contenidos",
@@ -641,6 +693,7 @@
       "codigo": "MAD.CMO.313.CO.3.1",
       "tipo": "contenido",
       "texto": "Alternativas.",
+      "codigo_oficial": "a)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-313, contenidos",
@@ -653,6 +706,7 @@
       "codigo": "MAD.CMO.313.CO.3.2",
       "tipo": "contenido",
       "texto": "Repetitivas.",
+      "codigo_oficial": "b)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-313, contenidos",
@@ -665,6 +719,7 @@
       "codigo": "MAD.CMO.313.CO.4",
       "tipo": "contenido",
       "texto": "Estructuras de datos.",
+      "codigo_oficial": "4.",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-313, contenidos",
@@ -677,6 +732,7 @@
       "codigo": "MAD.CMO.313.CO.4.1",
       "tipo": "contenido",
       "texto": "Datos simples.",
+      "codigo_oficial": "a)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-313, contenidos",
@@ -689,6 +745,7 @@
       "codigo": "MAD.CMO.313.CO.4.2",
       "tipo": "contenido",
       "texto": "Datos compuestos.",
+      "codigo_oficial": "b)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-313, contenidos",
@@ -701,6 +758,7 @@
       "codigo": "MAD.CMO.313.CO.4.3",
       "tipo": "contenido",
       "texto": "Estructuras estáticas y estructuras dinámicas.",
+      "codigo_oficial": "c)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-313, contenidos",
@@ -713,6 +771,7 @@
       "codigo": "MAD.CMO.313.CO.5",
       "tipo": "contenido",
       "texto": "Funciones y librerías.",
+      "codigo_oficial": "5.",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-313, contenidos",
@@ -725,6 +784,7 @@
       "codigo": "MAD.CMO.313.CO.5.1",
       "tipo": "contenido",
       "texto": "Definición de funciones, paso de parámetros.",
+      "codigo_oficial": "a)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-313, contenidos",
@@ -737,6 +797,7 @@
       "codigo": "MAD.CMO.313.CO.5.2",
       "tipo": "contenido",
       "texto": "Uso de módulo y/o paquetes.",
+      "codigo_oficial": "b)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-313, contenidos",
@@ -749,6 +810,7 @@
       "codigo": "MAD.CMO.313.CO.6",
       "tipo": "contenido",
       "texto": "Excepciones y manejo de errores.",
+      "codigo_oficial": "6.",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-313, contenidos",
@@ -761,6 +823,7 @@
       "codigo": "MAD.CMO.313.CO.7",
       "tipo": "contenido",
       "texto": "Estructuras externas: ficheros y base de datos.",
+      "codigo_oficial": "7.",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-313, contenidos",
@@ -773,6 +836,7 @@
       "codigo": "MAD.CMO.313.CO.7.1",
       "tipo": "contenido",
       "texto": "Operaciones básicas sobre ficheros.",
+      "codigo_oficial": "a)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-313, contenidos",
@@ -785,6 +849,7 @@
       "codigo": "MAD.CMO.313.CO.7.2",
       "tipo": "contenido",
       "texto": "Operaciones básicas sobre BD.",
+      "codigo_oficial": "b)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-313, contenidos",
@@ -797,6 +862,7 @@
       "codigo": "MAD.CMO.313.CO.8",
       "tipo": "contenido",
       "texto": "Introducción a la programación orientada a objetos.",
+      "codigo_oficial": "8.",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-313, contenidos",
@@ -809,6 +875,7 @@
       "codigo": "MAD.CMO.313.CO.8.1",
       "tipo": "contenido",
       "texto": "Principios básicos de POO.",
+      "codigo_oficial": "a)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-313, contenidos",
@@ -821,6 +888,7 @@
       "codigo": "MAD.CMO.313.CO.8.2",
       "tipo": "contenido",
       "texto": "Objetos, clases y herencia.",
+      "codigo_oficial": "b)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-313, contenidos",

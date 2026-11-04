@@ -374,6 +374,7 @@ def escribir_datos(raiz: Path, ficha: dict) -> None:
                 "codigo": codigo,
                 "tipo": "descriptor",
                 "texto": "Texto de prueba.",
+                "codigo_oficial": None,
                 "procedencia": {"norma": "boe-a-2022-4975", "ubicacion": "anexo I", "pagina": None},
                 "orden": i,
             }
@@ -418,6 +419,7 @@ def elemento(texto: str, pagina: int | None = 1, norma: str = "boe-a-2022-1") ->
         codigo="EST.BACH.DESC.CD1",
         tipo="descriptor",
         texto=texto,
+        codigo_oficial=None,
         procedencia=Procedencia(norma=norma, ubicacion="anexo I", pagina=pagina),
         padre=None,
     )
@@ -481,6 +483,7 @@ def test_comprobar_no_da_texto_en_filas_de_tabla():
             codigo="MAD.DAM.0484",
             tipo="modulo",
             texto=texto,
+            codigo_oficial=None,
             procedencia=Procedencia(norma="boe-a-2022-1", ubicacion="anexo II", pagina=1),
             padre=None,
             datos={"horas": 205, "curso": "1"},
@@ -951,6 +954,7 @@ def test_comprobar_solo_exime_del_codigo_de_la_ficha_a_los_modulos(tmp_path):
             "codigo": ficha["codigo"],
             "tipo": "competencia_especifica",
             "texto": "Un elemento con el código de la ficha.",
+            "codigo_oficial": None,
             "procedencia": {"norma": "bocm-20250101-1", "ubicacion": "anexo II", "pagina": 12},
             "orden": 99,
         }
@@ -973,6 +977,7 @@ def _corregido(texto: str, pagina_via: int | None = 5, norma="corrige-1", via="o
         codigo="EST.X.DESC.D1",
         tipo="descriptor",
         texto=texto,
+        codigo_oficial=None,
         procedencia=Procedencia(
             norma=norma,
             ubicacion="corrección de errores",
@@ -1076,6 +1081,7 @@ def _modulo_renombrado(via_pagina: str):
         codigo="MAD.CMO.315",
         tipo="modulo",
         texto="Arquitecturas en la nube",
+        codigo_oficial=None,
         procedencia=Procedencia(
             norma="corrige-1",
             ubicacion="anexo I, módulo CMO-315",

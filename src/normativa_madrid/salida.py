@@ -25,6 +25,9 @@ __all__ = [
     "AVISO",
     "CODIGOS_ERROR",
     "INDICE_PROGRAMACION",
+    "AVISOS",
+    "NUMERACION_NO_OFICIAL",
+    "AvisoSalida",
     "Catalogo",
     "CorreccionSalida",
     "ElementoSalida",
@@ -49,6 +52,15 @@ AVISO = "Texto literal del boletín. Cita siempre el código y la procedencia."
 INDICE_PROGRAMACION = (
     "Cuando ninguna norma fija el índice de la programación, lo fija la plantilla del centro."
 )
+
+# Los avisos que puede llevar una respuesta: código -> detalle fijo.
+NUMERACION_NO_OFICIAL = "NUMERACION_NO_OFICIAL"
+AVISOS = {
+    NUMERACION_NO_OFICIAL: (
+        "Estos elementos no están numerados en el boletín; su código es estable pero no "
+        "oficial: no lo presentes como numeración oficial"
+    ),
+}
 
 # Los códigos de error de una consulta: solo estos salen en un error impreso.
 CODIGOS_ERROR = frozenset(
@@ -115,12 +127,21 @@ class RelacionSalida:
 
 
 @dataclass(frozen=True)
+class AvisoSalida:
+    """Un aviso de la respuesta: ``codigo`` es uno de :data:`AVISOS` y ``detalle`` su texto fijo."""
+
+    codigo: str
+    detalle: str
+
+
+@dataclass(frozen=True)
 class Fragmento:
     """Un elemento de una ficha: su texto, su procedencia y sus relaciones resueltas."""
 
     codigo: str
     tipo: str
     texto: str
+    codigo_oficial: str | None
     procedencia: ProcedenciaSalida
     padre: str | None
     orden: int
@@ -156,6 +177,7 @@ class Resultado:
     ficha: str
     tipo: str
     texto: str
+    codigo_oficial: str | None
     procedencia: ProcedenciaSalida
 
 
@@ -173,6 +195,7 @@ class Respuesta:
     curso_academico: str
     curso_en_vigor: bool
     aviso: str = AVISO
+    avisos: tuple[AvisoSalida, ...] = ()
 
     def a_dict(self) -> dict[str, Any]:
         """El documento que se imprime: ``consulta`` y los campos, sin nada más."""
@@ -302,6 +325,9 @@ def validar(documento: Any) -> None:
     for clave, fijo in clase.FIJOS.items():
         if resto[clave] != fijo:
             raise ErrorSalida("VALOR_NO_PERMITIDO", f"{clave} no es el texto fijo")
+    for i, a in enumerate(resto["avisos"]):
+        if AVISOS.get(a["codigo"]) != a["detalle"]:
+            raise ErrorSalida("VALOR_NO_PERMITIDO", f"avisos[{i}]: no es uno de los avisos fijos")
     if not _FECHA.fullmatch(resto["version_datos"]):
         raise ErrorSalida("VALOR_NO_PERMITIDO", "version_datos debe ser una fecha ISO")
     if not _CURSO_ACADEMICO.fullmatch(resto["curso_academico"]):

@@ -108,6 +108,7 @@ def ficha_descriptores(
             "codigo": f"{codigo}.{descriptor}",
             "tipo": "descriptor",
             "texto": texto,
+            "codigo_oficial": descriptor,
             "procedencia": procedencia,
             "orden": orden,
         }

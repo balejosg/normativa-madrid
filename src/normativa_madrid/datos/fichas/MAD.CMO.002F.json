@@ -15,6 +15,7 @@
       "codigo": "MAD.CMO.002F",
       "tipo": "modulo",
       "texto": "Ampliación de lengua extranjera profesional",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-002",
@@ -29,6 +30,7 @@
       "codigo": "MAD.CMO.002F.RA.1",
       "tipo": "resultado_aprendizaje",
       "texto": "Identifica y comprende informaciones relativas al campo profesional objeto de estudio en diversas situaciones comunicativas orales planteadas (presencial, telefónica, videollamadas, etc.).",
+      "codigo_oficial": "1.",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-002, resultado de aprendizaje 1",
@@ -41,6 +43,7 @@
       "codigo": "MAD.CMO.002F.RA.1.a",
       "tipo": "criterio_fp",
       "texto": "Se han identificado todos los elementos de la situación comunicativa en el entorno profesional.",
+      "codigo_oficial": "a)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-002, resultado de aprendizaje 1, criterio a",
@@ -53,6 +56,7 @@
       "codigo": "MAD.CMO.002F.RA.1.b",
       "tipo": "criterio_fp",
       "texto": "Se han identificado las ideas principales y secundarias de declaraciones y mensajes sobre temas concretos: conferencias, charlas e informes y otras formas de presentación profesional lingüísticamente complejas.",
+      "codigo_oficial": "b)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-002, resultado de aprendizaje 1, criterio b",
@@ -65,6 +69,7 @@
       "codigo": "MAD.CMO.002F.RA.1.c",
       "tipo": "criterio_fp",
       "texto": "Se ha comprendido el sentido global de un mensaje en lengua estándar, incluso en un ambiente con ruido de fondo.",
+      "codigo_oficial": "c)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-002, resultado de aprendizaje 1, criterio c",
@@ -77,6 +82,7 @@
       "codigo": "MAD.CMO.002F.RA.2",
       "tipo": "resultado_aprendizaje",
       "texto": "Analiza e interpreta información profesional contenida en mensajes orales y escritos de cierta longitud y complejidad.",
+      "codigo_oficial": "2.",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-002, resultado de aprendizaje 2",
@@ -89,6 +95,7 @@
       "codigo": "MAD.CMO.002F.RA.2.a",
       "tipo": "criterio_fp",
       "texto": "Se ha leído con un alto grado de independencia, adaptando el estilo de textos con distintas finalidades.",
+      "codigo_oficial": "a)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-002, resultado de aprendizaje 2, criterio a",
@@ -101,6 +108,7 @@
       "codigo": "MAD.CMO.002F.RA.2.b",
       "tipo": "criterio_fp",
       "texto": "Se ha interpretado el significado esencial de los mensajes en formato físico y digital relativo a su especialidad.",
+      "codigo_oficial": "b)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-002, resultado de aprendizaje 2, criterio b",
@@ -113,6 +121,7 @@
       "codigo": "MAD.CMO.002F.RA.2.c",
       "tipo": "criterio_fp",
       "texto": "Se han interpretado textos orales y escritos de diferente extensión y de relativa complejidad, relacionados con su especialidad.",
+      "codigo_oficial": "c)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-002, resultado de aprendizaje 2, criterio c",
@@ -125,6 +134,7 @@
       "codigo": "MAD.CMO.002F.RA.2.d",
       "tipo": "criterio_fp",
       "texto": "Se ha reconocido el contenido y la importancia de noticias, artículos e informes sobre una amplia serie de temas profesionales.",
+      "codigo_oficial": "d)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-002, resultado de aprendizaje 2, criterio d",
@@ -137,6 +147,7 @@
       "codigo": "MAD.CMO.002F.RA.3",
       "tipo": "resultado_aprendizaje",
       "texto": "Emite argumentaciones orales originales, claras y coherentes, sobre informaciones profesionales conforme a una situación de comunicación concreta, a las normas de cortesía y al registro lingüístico del interlocutor.",
+      "codigo_oficial": "3.",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-002, resultado de aprendizaje 3",
@@ -149,6 +160,7 @@
       "codigo": "MAD.CMO.002F.RA.3.a",
       "tipo": "criterio_fp",
       "texto": "Se han identificado los registros, puntos de vista y las actitudes del hablante utilizados para la emisión del mensaje.",
+      "codigo_oficial": "a)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-002, resultado de aprendizaje 3, criterio a",
@@ -161,6 +173,7 @@
       "codigo": "MAD.CMO.002F.RA.3.b",
       "tipo": "criterio_fp",
       "texto": "Se ha comunicado espontáneamente con fluidez, adoptando un nivel de formalidad adecuado a la situación profesional.",
+      "codigo_oficial": "b)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-002, resultado de aprendizaje 3, criterio b",
@@ -173,6 +186,7 @@
       "codigo": "MAD.CMO.002F.RA.3.c",
       "tipo": "criterio_fp",
       "texto": "Se han utilizado normas de cortesía de la cultura en presentaciones formales e informales.",
+      "codigo_oficial": "c)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-002, resultado de aprendizaje 3, criterio c",
@@ -185,6 +199,7 @@
       "codigo": "MAD.CMO.002F.RA.3.d",
       "tipo": "criterio_fp",
       "texto": "Se han expresado y defendido puntos de vista con claridad, proporcionando argumentos adecuados y utilizando correctamente la terminología de la profesión.",
+      "codigo_oficial": "d)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-002, resultado de aprendizaje 3, criterio d",
@@ -197,6 +212,7 @@
       "codigo": "MAD.CMO.002F.RA.3.e",
       "tipo": "criterio_fp",
       "texto": "Se ha solicitado la reformulación del discurso o parte del mismo cuando se ha considerado necesario.",
+      "codigo_oficial": "e)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-002, resultado de aprendizaje 3, criterio e",
@@ -209,6 +225,7 @@
       "codigo": "MAD.CMO.002F.RA.4",
       "tipo": "resultado_aprendizaje",
       "texto": "Elabora textos escritos adecuados a la profesión y al país de habla de la lengua extranjera, tales como cartas como cartas de presentación, CV, etc. Sirviéndose de un nivel de lengua adecuado a la situación de comunicación.",
+      "codigo_oficial": "4.",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-002, resultado de aprendizaje 4",
@@ -221,6 +238,7 @@
       "codigo": "MAD.CMO.002F.RA.4.a",
       "tipo": "criterio_fp",
       "texto": "Se han definido los rasgos más significativos de las costumbres y usos de la comunidad donde se habla la lengua extranjera.",
+      "codigo_oficial": "a)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-002, resultado de aprendizaje 4, criterio a",
@@ -233,6 +251,7 @@
       "codigo": "MAD.CMO.002F.RA.4.b",
       "tipo": "criterio_fp",
       "texto": "Se han aplicado los protocolos y normas de relación social propios del país de la lengua extranjera.",
+      "codigo_oficial": "b)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-002, resultado de aprendizaje 4, criterio b",
@@ -245,6 +264,7 @@
       "codigo": "MAD.CMO.002F.RA.4.c",
       "tipo": "criterio_fp",
       "texto": "Se ha respondido a ofertas de trabajo elaborando cartas de presentación y CV entre otros documentos.",
+      "codigo_oficial": "c)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-002, resultado de aprendizaje 4, criterio c",
@@ -257,6 +277,7 @@
       "codigo": "MAD.CMO.002F.CO.1",
       "tipo": "contenido",
       "texto": "Técnicas de escucha activa:",
+      "codigo_oficial": "1.",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-002, contenidos",
@@ -269,6 +290,7 @@
       "codigo": "MAD.CMO.002F.CO.1.1",
       "tipo": "contenido",
       "texto": "Comprensión del contenido de una tipología variada de discursos profesionales del sector: conversaciones presenciales, telefónicas, videollamadas, reuniones, conferencias, etc.",
+      "codigo_oficial": "a)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-002, contenidos",
@@ -281,6 +303,7 @@
       "codigo": "MAD.CMO.002F.CO.1.2",
       "tipo": "contenido",
       "texto": "Identificación de la idea principal y secundaria en diferentes textos, así como la forma de organizar dicha información distinguiendo sus distintas partes.",
+      "codigo_oficial": "b)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-002, contenidos",
@@ -293,6 +316,7 @@
       "codigo": "MAD.CMO.002F.CO.1.3",
       "tipo": "contenido",
       "texto": "Interpretación de la terminología específica del ámbito laboral.",
+      "codigo_oficial": "c)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-002, contenidos",
@@ -305,6 +329,7 @@
       "codigo": "MAD.CMO.002F.CO.1.4",
       "tipo": "contenido",
       "texto": "Comprensión e interpretación de correos electrónicos, plataformas comunicativas, etc.",
+      "codigo_oficial": "d)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-002, contenidos",
@@ -317,6 +342,7 @@
       "codigo": "MAD.CMO.002F.CO.1.5",
       "tipo": "contenido",
       "texto": "Análisis y comprensión de instrucciones sobre operaciones y tareas propias del puesto de trabajo.",
+      "codigo_oficial": "e)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-002, contenidos",
@@ -329,6 +355,7 @@
       "codigo": "MAD.CMO.002F.CO.1.6",
       "tipo": "contenido",
       "texto": "Comprensión de ofertas de trabajo relativas al campo profesional.",
+      "codigo_oficial": "f)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-002, contenidos",
@@ -341,6 +368,7 @@
       "codigo": "MAD.CMO.002F.CO.2",
       "tipo": "contenido",
       "texto": "Técnicas de producción oral / escrita:",
+      "codigo_oficial": "2.",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-002, contenidos",
@@ -353,6 +381,7 @@
       "codigo": "MAD.CMO.002F.CO.2.1",
       "tipo": "contenido",
       "texto": "Redacción de mensajes relacionados con el entorno laboral en diferentes formatos: correos electrónicos, plataformas comunicativas, etc.",
+      "codigo_oficial": "a)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-002, contenidos",
@@ -365,6 +394,7 @@
       "codigo": "MAD.CMO.002F.CO.2.2",
       "tipo": "contenido",
       "texto": "Participación activa y respetuosa en distintas situaciones comunicativas orales.",
+      "codigo_oficial": "b)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-002, contenidos",
@@ -377,6 +407,7 @@
       "codigo": "MAD.CMO.002F.CO.2.3",
       "tipo": "contenido",
       "texto": "Reformulación de preguntas para comprobar la comprensión del mensaje por parte de los distintos participantes en la situación de comunicación.",
+      "codigo_oficial": "c)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-002, contenidos",
@@ -389,6 +420,7 @@
       "codigo": "MAD.CMO.002F.CO.2.4",
       "tipo": "contenido",
       "texto": "Preparación para una reunión de trabajo usando estrategias de argumentación.",
+      "codigo_oficial": "d)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-002, contenidos",
@@ -401,6 +433,7 @@
       "codigo": "MAD.CMO.002F.CO.2.5",
       "tipo": "contenido",
       "texto": "Simulación de una situación de comunicación entre candidato a un puesto de trabajo y entrevistador.",
+      "codigo_oficial": "e)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-002, contenidos",
@@ -413,6 +446,7 @@
       "codigo": "MAD.CMO.002F.CO.2.6",
       "tipo": "contenido",
       "texto": "Elaboración de un currículum vitae y de documentos necesarios para solicitar un puesto de trabajo.",
+      "codigo_oficial": "f)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-002, contenidos",
@@ -425,6 +459,7 @@
       "codigo": "MAD.CMO.002F.CO.2.7",
       "tipo": "contenido",
       "texto": "Empleo de estrategias comunicativas en las entrevistas de trabajo.",
+      "codigo_oficial": "g)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-002, contenidos",
@@ -437,6 +472,7 @@
       "codigo": "MAD.CMO.002F.CO.2.8",
       "tipo": "contenido",
       "texto": "Uso de las fórmulas de cortesía del país donde se habla la lengua extranjera.",
+      "codigo_oficial": "h)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-002, contenidos",
@@ -449,6 +485,7 @@
       "codigo": "MAD.CMO.002F.CO.3",
       "tipo": "contenido",
       "texto": "Recursos comunicativos:",
+      "codigo_oficial": "3.",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-002, contenidos",
@@ -461,6 +498,7 @@
       "codigo": "MAD.CMO.002F.CO.3.1",
       "tipo": "contenido",
       "texto": "Uso de estructuras lingüísticas fundamentales para comunicarse en situaciones laborales concretas.",
+      "codigo_oficial": "a)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-002, contenidos",
@@ -473,6 +511,7 @@
       "codigo": "MAD.CMO.002F.CO.3.2",
       "tipo": "contenido",
       "texto": "Uso de fórmulas de cortesía, de saludo o de despedida para participar en una comunicación oral.",
+      "codigo_oficial": "b)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-002, contenidos",
@@ -485,6 +524,7 @@
       "codigo": "MAD.CMO.002F.CO.3.3",
       "tipo": "contenido",
       "texto": "Aplicación de normas de convivencia y elementos necesarios para intervenir en una situación de comunicación en el entorno laboral (toma, mantenimiento y cesión del turno de palabra, etc.).",
+      "codigo_oficial": "c)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-002, contenidos",
@@ -497,6 +537,7 @@
       "codigo": "MAD.CMO.002F.CO.3.4",
       "tipo": "contenido",
       "texto": "Uso del léxico y terminología de uso común en el ámbito laboral y acordes al contexto comunicativo.",
+      "codigo_oficial": "d)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-002, contenidos",
@@ -509,6 +550,7 @@
       "codigo": "MAD.CMO.002F.CO.3.5",
       "tipo": "contenido",
       "texto": "Reflexión sobre la entonación o el ritmo como recursos de coherencia discursiva.",
+      "codigo_oficial": "e)",
       "procedencia": {
         "norma": "bocm-20250827-5",
         "ubicacion": "anexo II, módulo CMO-002, contenidos",

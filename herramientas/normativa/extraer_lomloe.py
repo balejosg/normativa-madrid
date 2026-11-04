@@ -272,11 +272,14 @@ def extraer_materia(
         ubicacion: str,
         padre: str | None = None,
         relaciones: dict[str, list[str]] | None = None,
+        codigo_oficial: str | None = None,
     ) -> None:
+        # ``codigo_oficial``: la numeración que imprime el boletín; ``None`` si no numera.
         elemento: dict[str, Any] = {
             "codigo": codigo,
             "tipo": tipo,
             "texto": comun.unir(lineas_texto),
+            "codigo_oficial": codigo_oficial,
             "procedencia": {"norma": norma, "ubicacion": ubicacion, "pagina": pagina},
             "orden": len(elementos) + 1,
         }
@@ -296,6 +299,7 @@ def extraer_materia(
             c["pagina"],
             f"{anexo}, competencia específica {c['numero']}",
             relaciones={"descriptores": descriptores} if descriptores else None,
+            codigo_oficial=str(c["numero"]),
         )
         for criterio in (k for k in criterios if k["ce"] == c["numero"]):
             anadir(
@@ -305,6 +309,7 @@ def extraer_materia(
                 criterio["pagina"],
                 f"{anexo}, {ordinal}, criterio {criterio['numero']}",
                 padre=codigo,
+                codigo_oficial=str(criterio["numero"]),
             )
     conocidas = {c["numero"] for c in competencias}
     sueltos = sorted({k["ce"] for k in criterios} - conocidas)
@@ -325,6 +330,7 @@ def extraer_materia(
                 item["lineas"],
                 item["pagina"],
                 f"{anexo}, {ordinal}, contenidos, bloque {item['letra']}",
+                codigo_oficial=str(item["letra"]),
             )
         elif item["nivel"] == 1 or not contenido:
             n_contenido += 1

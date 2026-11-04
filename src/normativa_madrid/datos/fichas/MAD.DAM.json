@@ -16,6 +16,7 @@
       "codigo": "MAD.DAM.TIT.1",
       "tipo": "titulo",
       "texto": "Denominación: Desarrollo de Aplicaciones Multiplataforma.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Uno (artículo 2), Denominación",
@@ -34,6 +35,7 @@
       "codigo": "MAD.DAM.TIT.2",
       "tipo": "titulo",
       "texto": "Nivel: Formación Profesional de Grado Superior.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Uno (artículo 2), Nivel",
@@ -52,6 +54,7 @@
       "codigo": "MAD.DAM.TIT.3",
       "tipo": "titulo",
       "texto": "Duración: 2000 horas.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Uno (artículo 2), Duración",
@@ -70,6 +73,7 @@
       "codigo": "MAD.DAM.TIT.4",
       "tipo": "titulo",
       "texto": "Equivalencia en créditos ECTS: 120.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Uno (artículo 2), Equivalencia en créditos ECTS",
@@ -88,6 +92,7 @@
       "codigo": "MAD.DAM.TIT.5",
       "tipo": "titulo",
       "texto": "Familia profesional: Informática y Comunicaciones.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Uno (artículo 2), Familia profesional",
@@ -106,6 +111,7 @@
       "codigo": "MAD.DAM.TIT.6",
       "tipo": "titulo",
       "texto": "Ramas de conocimiento: Ciencias. Ingeniería y Arquitectura.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Uno (artículo 2), Ramas de conocimiento",
@@ -124,6 +130,7 @@
       "codigo": "MAD.DAM.TIT.7",
       "tipo": "titulo",
       "texto": "Referente en la Clasificación Internacional Normalizada de la Educación: P-5.5.4.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Uno (artículo 2), Referente en la Clasificación Internacional Normalizada de la Educación",
@@ -142,6 +149,7 @@
       "codigo": "MAD.DAM.TIT.8",
       "tipo": "titulo",
       "texto": "Nivel del Marco Español de Cualificaciones para la Educación Superior: Nivel 1 Técnico Superior.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Uno (artículo 2), Nivel del Marco Español de Cualificaciones para la Educación Superior",
@@ -160,6 +168,7 @@
       "codigo": "MAD.DAM.TIT.9",
       "tipo": "titulo",
       "texto": "El título de Técnico Superior se corresponde con un nivel 5A del Marco Español de Cualificaciones para el Aprendizaje Permanente.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2024-10685",
         "ubicacion": "artículo segundo (párrafo final que se añade al artículo 2)",
@@ -178,6 +187,7 @@
       "codigo": "MAD.DAM.CG",
       "tipo": "competencia_general",
       "texto": "La competencia general de este título consiste en desarrollar, implantar, documentar y mantener aplicaciones informáticas multiplataforma, utilizando tecnologías y entornos de desarrollo específicos, garantizando el acceso a los datos de forma segura y cumpliendo los criterios de «usabilidad» y calidad exigidas en los estándares establecidos.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2010-8067",
         "ubicacion": "artículo 4",
@@ -189,6 +199,7 @@
       "codigo": "MAD.DAM.CP.a",
       "tipo": "competencia_profesional",
       "texto": "Configurar y explotar sistemas informáticos, adaptando la configuración lógica del sistema según las necesidades de uso y los criterios establecidos.",
+      "codigo_oficial": "a)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Dos (artículo 5), letra a",
@@ -207,6 +218,7 @@
       "codigo": "MAD.DAM.CP.b",
       "tipo": "competencia_profesional",
       "texto": "Aplicar técnicas y procedimientos relacionados con la seguridad en sistemas, servicios y aplicaciones, cumpliendo el plan de seguridad.",
+      "codigo_oficial": "b)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Dos (artículo 5), letra b",
@@ -225,6 +237,7 @@
       "codigo": "MAD.DAM.CP.c",
       "tipo": "competencia_profesional",
       "texto": "Gestionar bases de datos, interpretando su diseño lógico y verificando integridad, consistencia, seguridad y accesibilidad de los datos.",
+      "codigo_oficial": "c)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Dos (artículo 5), letra c",
@@ -243,6 +256,7 @@
       "codigo": "MAD.DAM.CP.d",
       "tipo": "competencia_profesional",
       "texto": "Gestionar entornos de desarrollo adaptando su configuración en cada caso para permitir el desarrollo y despliegue de aplicaciones.",
+      "codigo_oficial": "d)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Dos (artículo 5), letra d",
@@ -261,6 +275,7 @@
       "codigo": "MAD.DAM.CP.e",
       "tipo": "competencia_profesional",
       "texto": "Desarrollar aplicaciones multiplataforma con acceso a bases de datos utilizando lenguajes, librerías y herramientas adecuados a las especificaciones.",
+      "codigo_oficial": "e)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Dos (artículo 5), letra e",
@@ -279,6 +294,7 @@
       "codigo": "MAD.DAM.CP.f",
       "tipo": "competencia_profesional",
       "texto": "Desarrollar aplicaciones implementando un sistema completo de formularios e informes que permitan gestionar de forma integral la información almacenada.",
+      "codigo_oficial": "f)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Dos (artículo 5), letra f",
@@ -297,6 +313,7 @@
       "codigo": "MAD.DAM.CP.g",
       "tipo": "competencia_profesional",
       "texto": "Integrar contenidos gráficos y componentes multimedia en aplicaciones multiplataforma, empleando herramientas específicas y cumpliendo los requerimientos establecidos.",
+      "codigo_oficial": "g)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Dos (artículo 5), letra g",
@@ -315,6 +332,7 @@
       "codigo": "MAD.DAM.CP.h",
       "tipo": "competencia_profesional",
       "texto": "Desarrollar interfaces gráficos de usuario interactivos y con la usabilidad adecuada, empleando componentes visuales estándar o implementando componentes visuales específicos.",
+      "codigo_oficial": "h)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Dos (artículo 5), letra h",
@@ -333,6 +351,7 @@
       "codigo": "MAD.DAM.CP.i",
       "tipo": "competencia_profesional",
       "texto": "Participar en el desarrollo de juegos y aplicaciones en el ámbito del entretenimiento y la educación empleando técnicas, motores y entornos de desarrollo específicos.",
+      "codigo_oficial": "i)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Dos (artículo 5), letra i",
@@ -351,6 +370,7 @@
       "codigo": "MAD.DAM.CP.j",
       "tipo": "competencia_profesional",
       "texto": "Desarrollar aplicaciones para teléfonos móviles, tabletas y otros dispositivos inteligentes empleando técnicas y entornos de desarrollo específicos.",
+      "codigo_oficial": "j)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Dos (artículo 5), letra j",
@@ -369,6 +389,7 @@
       "codigo": "MAD.DAM.CP.k",
       "tipo": "competencia_profesional",
       "texto": "Crear ayudas generales y sensibles al contexto, empleando herramientas específicas e integrándolas en sus correspondientes aplicaciones.",
+      "codigo_oficial": "k)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Dos (artículo 5), letra k",
@@ -387,6 +408,7 @@
       "codigo": "MAD.DAM.CP.l",
       "tipo": "competencia_profesional",
       "texto": "Crear tutoriales, manuales de usuario, de instalación, de configuración y de administración, empleando herramientas específicas.",
+      "codigo_oficial": "l)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Dos (artículo 5), letra l",
@@ -405,6 +427,7 @@
       "codigo": "MAD.DAM.CP.m",
       "tipo": "competencia_profesional",
       "texto": "Empaquetar aplicaciones para su distribución preparando paquetes auto instalables con asistentes incorporados.",
+      "codigo_oficial": "m)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Dos (artículo 5), letra m",
@@ -423,6 +446,7 @@
       "codigo": "MAD.DAM.CP.n",
       "tipo": "competencia_profesional",
       "texto": "Desarrollar aplicaciones multiproceso y multihilo empleando librerías y técnicas de programación específicas.",
+      "codigo_oficial": "n)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Dos (artículo 5), letra n",
@@ -441,6 +465,7 @@
       "codigo": "MAD.DAM.CP.ñ",
       "tipo": "competencia_profesional",
       "texto": "Desarrollar aplicaciones capaces de ofrecer servicios en red empleando mecanismos de comunicación.",
+      "codigo_oficial": "ñ)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Dos (artículo 5), letra ñ",
@@ -459,6 +484,7 @@
       "codigo": "MAD.DAM.CP.o",
       "tipo": "competencia_profesional",
       "texto": "Participar en la implantación de sistemas ERP-CRM evaluando la utilidad de cada uno de sus módulos.",
+      "codigo_oficial": "o)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Dos (artículo 5), letra o",
@@ -477,6 +503,7 @@
       "codigo": "MAD.DAM.CP.p",
       "tipo": "competencia_profesional",
       "texto": "Gestionar la información almacenada en sistemas ERP-CRM garantizando su integridad.",
+      "codigo_oficial": "p)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Dos (artículo 5), letra p",
@@ -495,6 +522,7 @@
       "codigo": "MAD.DAM.CP.q",
       "tipo": "competencia_profesional",
       "texto": "Desarrollar componentes personalizados para un sistema ERP-CRM atendiendo a los requerimientos.",
+      "codigo_oficial": "q)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Dos (artículo 5), letra q",
@@ -513,6 +541,7 @@
       "codigo": "MAD.DAM.CP.r",
       "tipo": "competencia_profesional",
       "texto": "Realizar planes de pruebas verificando el funcionamiento de los componentes software desarrollados, según las especificaciones.",
+      "codigo_oficial": "r)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Dos (artículo 5), letra r",
@@ -531,6 +560,7 @@
       "codigo": "MAD.DAM.CP.s",
       "tipo": "competencia_profesional",
       "texto": "Desplegar y distribuir aplicaciones en distintos ámbitos de implantación verificando su comportamiento y realizando las modificaciones necesarias.",
+      "codigo_oficial": "s)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Dos (artículo 5), letra s",
@@ -549,6 +579,7 @@
       "codigo": "MAD.DAM.CP.t",
       "tipo": "competencia_profesional",
       "texto": "Establecer vidas eficaces de relación profesional y comunicación con sus superiores, compañeros y subordinados, respetando la autonomía y competencias de las distintas personas.",
+      "codigo_oficial": "t)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Dos (artículo 5), letra t",
@@ -567,6 +598,7 @@
       "codigo": "MAD.DAM.CP.u",
       "tipo": "competencia_profesional",
       "texto": "Liderar situaciones colectivas que se puedan producir, mediando en conflictos personales y laborales, contribuyendo al establecimiento de un ambiente de trabajo agradable, actuando en todo momento de forma respetuosa y tolerante.",
+      "codigo_oficial": "u)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Dos (artículo 5), letra u",
@@ -585,6 +617,7 @@
       "codigo": "MAD.DAM.CP.v",
       "tipo": "competencia_profesional",
       "texto": "Gestionar su carrera profesional, analizando las oportunidades de empleo, autoempleo y de aprendizaje.",
+      "codigo_oficial": "v)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Dos (artículo 5), letra v",
@@ -603,6 +636,7 @@
       "codigo": "MAD.DAM.CP.w",
       "tipo": "competencia_profesional",
       "texto": "Mantener el espíritu de innovación y actualización en el ámbito de su trabajo para adaptarse a los cambios tecnológicos y organizativos de su entorno profesional.",
+      "codigo_oficial": "w)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Dos (artículo 5), letra w",
@@ -621,6 +655,7 @@
       "codigo": "MAD.DAM.CP.x",
       "tipo": "competencia_profesional",
       "texto": "Crear y gestionar una pequeña empresa, realizando un estudio de viabilidad de productos, de planificación de la producción y de comercialización.",
+      "codigo_oficial": "x)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Dos (artículo 5), letra x",
@@ -639,6 +674,7 @@
       "codigo": "MAD.DAM.CP.y",
       "tipo": "competencia_profesional",
       "texto": "Participar de forma activa en la vida económica, social y cultural, con una actitud crítica y responsable.",
+      "codigo_oficial": "y)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Dos (artículo 5), letra y",
@@ -657,6 +693,7 @@
       "codigo": "MAD.DAM.OG.a",
       "tipo": "objetivo_general",
       "texto": "Ajustar la configuración lógica del sistema analizando las necesidades y criterios establecidos para configurar y explotar sistemas informáticos.",
+      "codigo_oficial": "a)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Cinco (artículo 9), letra a",
@@ -675,6 +712,7 @@
       "codigo": "MAD.DAM.OG.b",
       "tipo": "objetivo_general",
       "texto": "Identificar las necesidades de seguridad analizando vulnerabilidades y verificando el plan preestablecido para aplicar técnicas y procedimientos relacionados con la seguridad en el sistema.",
+      "codigo_oficial": "b)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Cinco (artículo 9), letra b",
@@ -693,6 +731,7 @@
       "codigo": "MAD.DAM.OG.c",
       "tipo": "objetivo_general",
       "texto": "Interpretar el diseño lógico de bases de datos, analizando y cumpliendo las especificaciones relativas a su aplicación, para gestionar bases de datos.",
+      "codigo_oficial": "c)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Cinco (artículo 9), letra c",
@@ -711,6 +750,7 @@
       "codigo": "MAD.DAM.OG.d",
       "tipo": "objetivo_general",
       "texto": "Instalar y configurar módulos y complementos, evaluando su funcionalidad, para gestionar entornos de desarrollo.",
+      "codigo_oficial": "d)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Cinco (artículo 9), letra d",
@@ -729,6 +769,7 @@
       "codigo": "MAD.DAM.OG.e",
       "tipo": "objetivo_general",
       "texto": "Seleccionar y emplear lenguajes, herramientas y librerías, interpretando las especificaciones para desarrollar aplicaciones multiplataforma con acceso a bases de datos.",
+      "codigo_oficial": "e)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Cinco (artículo 9), letra e",
@@ -747,6 +788,7 @@
       "codigo": "MAD.DAM.OG.f",
       "tipo": "objetivo_general",
       "texto": "Gestionar la información almacenada, planificando e implementando sistemas de formularios e informes para desarrollar aplicaciones de gestión.",
+      "codigo_oficial": "f)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Cinco (artículo 9), letra f",
@@ -765,6 +807,7 @@
       "codigo": "MAD.DAM.OG.g",
       "tipo": "objetivo_general",
       "texto": "Seleccionar y utilizar herramientas específicas, lenguajes y librerías, evaluando sus posibilidades y siguiendo un manual de estilo, para manipular e integrar en aplicaciones multiplataforma contenidos gráficos y componentes multimedia.",
+      "codigo_oficial": "g)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Cinco (artículo 9), letra g",
@@ -783,6 +826,7 @@
       "codigo": "MAD.DAM.OG.h",
       "tipo": "objetivo_general",
       "texto": "Emplear herramientas de desarrollo, lenguajes y componentes visuales, siguiendo las especificaciones y verificando interactividad y usabilidad, para desarrollar interfaces gráficos de usuario en aplicaciones multiplataforma.",
+      "codigo_oficial": "h)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Cinco (artículo 9), letra h",
@@ -801,6 +845,7 @@
       "codigo": "MAD.DAM.OG.i",
       "tipo": "objetivo_general",
       "texto": "Seleccionar y emplear técnicas, motores y entornos de desarrollo, evaluando sus posibilidades, para participar en el desarrollo de juegos y aplicaciones en el ámbito del entretenimiento.",
+      "codigo_oficial": "i)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Cinco (artículo 9), letra i",
@@ -819,6 +864,7 @@
       "codigo": "MAD.DAM.OG.j",
       "tipo": "objetivo_general",
       "texto": "Seleccionar y emplear técnicas, lenguajes y entornos de desarrollo, evaluando sus posibilidades, para desarrollar aplicaciones en teléfonos móviles, tabletas y otros dispositivos inteligentes.",
+      "codigo_oficial": "j)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Cinco (artículo 9), letra j",
@@ -837,6 +883,7 @@
       "codigo": "MAD.DAM.OG.k",
       "tipo": "objetivo_general",
       "texto": "Valorar y emplear herramientas específicas, atendiendo a la estructura de los contenidos, para crear ayudas generales y sensibles al contexto.",
+      "codigo_oficial": "k)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Cinco (artículo 9), letra k",
@@ -855,6 +902,7 @@
       "codigo": "MAD.DAM.OG.l",
       "tipo": "objetivo_general",
       "texto": "Valorar y emplear herramientas específicas, atendiendo a la estructura de los contenidos, para crear tutoriales, manuales de usuario y otros documentos asociados a una aplicación.",
+      "codigo_oficial": "l)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Cinco (artículo 9), letra l",
@@ -873,6 +921,7 @@
       "codigo": "MAD.DAM.OG.m",
       "tipo": "objetivo_general",
       "texto": "Seleccionar y emplear técnicas y herramientas, evaluando la utilidad de los asistentes de instalación generados, para empaquetar aplicaciones.",
+      "codigo_oficial": "m)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Cinco (artículo 9), letra m",
@@ -891,6 +940,7 @@
       "codigo": "MAD.DAM.OG.n",
       "tipo": "objetivo_general",
       "texto": "Analizar y aplicar técnicas y librerías específicas, simulando diferentes escenarios, para desarrollar aplicaciones capaces de ofrecer servicios en red.",
+      "codigo_oficial": "n)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Cinco (artículo 9), letra n",
@@ -909,6 +959,7 @@
       "codigo": "MAD.DAM.OG.ñ",
       "tipo": "objetivo_general",
       "texto": "Analizar y aplicar técnicas y librerías de programación, evaluando su funcionalidad para desarrollar aplicaciones multiproceso y multihilo.",
+      "codigo_oficial": "ñ)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Cinco (artículo 9), letra ñ",
@@ -927,6 +978,7 @@
       "codigo": "MAD.DAM.OG.o",
       "tipo": "objetivo_general",
       "texto": "Reconocer la estructura de los sistemas ERP-CRM, identificando la utilidad de cada uno de sus módulos, para participar en su implantación.",
+      "codigo_oficial": "o)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Cinco (artículo 9), letra o",
@@ -945,6 +997,7 @@
       "codigo": "MAD.DAM.OG.p",
       "tipo": "objetivo_general",
       "texto": "Realizar consultas, analizando y evaluando su alcance, para gestionar la información almacenada en sistemas ERP-CRM.",
+      "codigo_oficial": "p)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Cinco (artículo 9), letra p",
@@ -963,6 +1016,7 @@
       "codigo": "MAD.DAM.OG.q",
       "tipo": "objetivo_general",
       "texto": "Seleccionar y emplear lenguajes y herramientas, atendiendo a los requerimientos, para desarrollar componentes personalizados en sistemas ERP-CRM.",
+      "codigo_oficial": "q)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Cinco (artículo 9), letra q",
@@ -981,6 +1035,7 @@
       "codigo": "MAD.DAM.OG.r",
       "tipo": "objetivo_general",
       "texto": "Verificar los componentes software desarrollados, analizando las especificaciones, para completar un plan de pruebas.",
+      "codigo_oficial": "r)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Cinco (artículo 9), letra r",
@@ -999,6 +1054,7 @@
       "codigo": "MAD.DAM.OG.s",
       "tipo": "objetivo_general",
       "texto": "Establecer procedimientos, verificando su funcionalidad, para desplegar y distribuir aplicaciones.",
+      "codigo_oficial": "s)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Cinco (artículo 9), letra s",
@@ -1017,6 +1073,7 @@
       "codigo": "MAD.DAM.OG.t",
       "tipo": "objetivo_general",
       "texto": "Describir los roles de cada uno de los componentes del grupo de trabajo, identificando en cada caso la responsabilidad asociada, para establecer las relaciones profesionales más convenientes.",
+      "codigo_oficial": "t)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Cinco (artículo 9), letra t",
@@ -1035,6 +1092,7 @@
       "codigo": "MAD.DAM.OG.u",
       "tipo": "objetivo_general",
       "texto": "Identificar formas de intervención ante conflictos de tipo personal y laboral, teniendo en cuenta las decisiones más convenientes, para garantizar un entorno de trabajo satisfactorio.",
+      "codigo_oficial": "u)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Cinco (artículo 9), letra u",
@@ -1053,6 +1111,7 @@
       "codigo": "MAD.DAM.OG.v",
       "tipo": "objetivo_general",
       "texto": "Identificar y valorar las oportunidades de promoción profesional y de aprendizaje, analizando el contexto del sector, para elegir el itinerario laboral y formativo más conveniente.",
+      "codigo_oficial": "v)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Cinco (artículo 9), letra v",
@@ -1071,6 +1130,7 @@
       "codigo": "MAD.DAM.OG.w",
       "tipo": "objetivo_general",
       "texto": "Identificar los cambios tecnológicos, organizativos, económicos y laborales en su actividad, analizando sus implicaciones en el ámbito de trabajo, para mantener el espíritu de innovación.",
+      "codigo_oficial": "w)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Cinco (artículo 9), letra w",
@@ -1089,6 +1149,7 @@
       "codigo": "MAD.DAM.OG.x",
       "tipo": "objetivo_general",
       "texto": "Reconocer las oportunidades de negocio, identificando y analizando demandas del mercado para crear y gestionar una pequeña empresa.",
+      "codigo_oficial": "x)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Cinco (artículo 9), letra x",
@@ -1107,6 +1168,7 @@
       "codigo": "MAD.DAM.OG.y",
       "tipo": "objetivo_general",
       "texto": "Reconocer sus derechos y deberes como agente activo en la sociedad, analizando el marco legal que regula las condiciones sociales y laborales para participar como ciudadano democrático.",
+      "codigo_oficial": "y)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Cinco (artículo 9), letra y",

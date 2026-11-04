@@ -186,3 +186,52 @@ def test_la_salida_rechaza_los_mismos_invisibles_que_el_cargador(invisible):
     malo = {"error": "CODIGO_DESCONOCIDO", "detalle": "a", "disponibles": [f"x{invisible}"]}
     with pytest.raises(salida.ErrorSalida):
         salida.validar(malo)
+
+
+# --- codigo_oficial y aviso de numeración no oficial (datos reales del paquete) ---------------
+
+
+def test_codigo_oficial_de_criterio(capsys):
+    codigo, documento = ejecutar(
+        capsys, ["elemento", "MAD.ESO.TECDIG.2.CR.1.1", "--curso-academico", "2026-27"]
+    )
+    assert codigo == 0
+    salida.validar(documento)
+    assert documento["elemento"]["codigo_oficial"] == "1.1"
+
+
+def test_aviso_numeracion_no_oficial(capsys):
+    codigo, documento = ejecutar(
+        capsys, ["elemento", "MAD.ESO.TECDIG.2.CO.A.1", "--curso-academico", "2026-27"]
+    )
+    assert codigo == 0
+    salida.validar(documento)
+    assert documento["elemento"]["codigo_oficial"] is None
+    assert [a["codigo"] for a in documento["avisos"]] == ["NUMERACION_NO_OFICIAL"]
+    assert "no lo presentes como numeración oficial" in documento["avisos"][0]["detalle"]
+
+    codigo, documento = ejecutar(
+        capsys, ["elemento", "MAD.ESO.TECDIG.2.CR.1.1", "--curso-academico", "2026-27"]
+    )
+    assert documento["avisos"] == []
+
+
+def test_aviso_en_ficha_y_busqueda_solo_si_hay_elementos_sin_numerar(capsys):
+    _, ficha = ejecutar(capsys, ["ficha", "MAD.ESO.TECDIG.2", "--curso-academico", "2026-27"])
+    salida.validar(ficha)
+    assert [a["codigo"] for a in ficha["avisos"]] == ["NUMERACION_NO_OFICIAL"]
+    _, busqueda = ejecutar(
+        capsys, ["buscar", "definir problemas", "--en", "MAD.ESO.TECDIG.2", "--curso-academico", "2026-27"]
+    )
+    salida.validar(busqueda)
+    codigos = {r["codigo"]: r["codigo_oficial"] for r in busqueda["resultados"]}
+    assert codigos["MAD.ESO.TECDIG.2.CR.1.1"] == "1.1"
+
+
+def test_la_salida_rechaza_un_aviso_inventado(capsys):
+    _, documento = ejecutar(
+        capsys, ["elemento", "MAD.ESO.TECDIG.2.CO.A.1", "--curso-academico", "2026-27"]
+    )
+    documento["avisos"][0]["detalle"] = "otra cosa"
+    with pytest.raises(salida.ErrorSalida):
+        salida.validar(documento)

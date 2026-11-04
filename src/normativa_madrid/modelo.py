@@ -107,11 +107,16 @@ class Norma:
 
 @dataclass(frozen=True)
 class Elemento:
-    """Un fragmento citable de una ficha, con su código estable y su procedencia."""
+    """Un fragmento citable de una ficha, con su código estable y su procedencia.
+
+    ``codigo_oficial`` es la numeración tal como la publica el boletín («1.1», «a)»…), o
+    ``None`` si el boletín no numera el elemento: entonces ``codigo`` es estable pero no oficial.
+    """
 
     codigo: str
     tipo: str
     texto: str
+    codigo_oficial: str | None
     procedencia: Procedencia
     padre: str | None
     relaciones: dict[str, tuple[str, ...]] = field(default_factory=dict)

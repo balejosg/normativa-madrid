@@ -10,6 +10,7 @@
       "codigo": "MAD.DAM.0485",
       "tipo": "modulo",
       "texto": "Módulo de juguete",
+      "codigo_oficial": null,
       "procedencia": {"norma": "cm-resolucion-3-2025", "ubicacion": "anexo I", "pagina": 1},
       "orden": 1,
       "datos": {"horas": 160, "curso": "1"}
@@ -18,6 +19,7 @@
       "codigo": "MAD.DAM.0485.RA.1",
       "tipo": "resultado_aprendizaje",
       "texto": "Reconoce los elementos de un sistema de ejemplo.",
+      "codigo_oficial": "1.",
       "procedencia": {"norma": "cm-resolucion-3-2025", "ubicacion": "anexo I", "pagina": 2},
       "padre": "MAD.DAM.0485",
       "orden": 2

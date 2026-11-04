@@ -10,6 +10,7 @@
       "codigo": "MAD.ESO.PROG.REQ.1",
       "tipo": "requisito_programacion",
       "texto": "Incluye la concreción de los criterios de evaluación de ejemplo.",
+      "codigo_oficial": null,
       "procedencia": {"norma": "bocm-20250101-1", "ubicacion": "art. 4.1", "pagina": 5},
       "orden": 1
     },
@@ -17,6 +18,7 @@
       "codigo": "MAD.ESO.PROG.REQ.2",
       "tipo": "requisito_programacion",
       "texto": "Describe las medidas de atención a la diversidad de ejemplo.",
+      "codigo_oficial": null,
       "procedencia": {"norma": "bocm-20250101-1", "ubicacion": "art. 4.2", "pagina": 5},
       "orden": 2
     }

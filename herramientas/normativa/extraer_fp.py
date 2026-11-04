@@ -277,12 +277,19 @@ def _linea_de_basicos(
 
 
 def _elemento(
-    codigo: str, tipo: str, texto: str, procedencia: dict[str, Any], padre: str | None
+    codigo: str,
+    tipo: str,
+    texto: str,
+    procedencia: dict[str, Any],
+    padre: str | None,
+    oficial: str | None = None,
 ) -> dict[str, Any]:
+    """``oficial``: la numeración tal como la imprime el boletín («1.», «a)»); ``None`` si no hay."""
     elemento: dict[str, Any] = {
         "codigo": codigo,
         "tipo": tipo,
         "texto": texto,
+        "codigo_oficial": oficial,
         "procedencia": procedencia,
         "orden": 0,
     }
@@ -311,7 +318,11 @@ def _arbol_de_contenidos(
         codigo = f"{prefijo}." + ".".join(str(c) for c in contadores[:nivel])
         codigos[nivel - 1] = codigo
         padre = codigos[nivel - 2] if nivel > 1 else raiz
-        elementos.append(_elemento(codigo, tipo, item["texto"], procedencia(item["pagina"]), padre))
+        elementos.append(
+            _elemento(
+                codigo, tipo, item["texto"], procedencia(item["pagina"]), padre, item.get("marca")
+            )
+        )
     return elementos
 
 
@@ -351,7 +362,14 @@ def elementos_del_modulo(
         sufijo = f", resultado de aprendizaje {resultado['numero']}"
         dato = procedencia(sufijo, resultado["pagina"])
         elementos.append(
-            _elemento(codigo, "resultado_aprendizaje", resultado["texto"], dato, ficha)
+            _elemento(
+                codigo,
+                "resultado_aprendizaje",
+                resultado["texto"],
+                dato,
+                ficha,
+                f"{resultado['numero']}.",
+            )
         )
         for criterio in resultado["criterios"]:
             elementos.append(
@@ -361,6 +379,7 @@ def elementos_del_modulo(
                     criterio["texto"],
                     procedencia(f"{sufijo}, criterio {criterio['letra']}", criterio["pagina"]),
                     codigo,
+                    f"{criterio['letra']})",
                 )
             )
     if modulo["basicos"]:
@@ -650,14 +669,28 @@ def _contenidos_del_cuerpo(
                     f"{codigo_modulo}: apartado {apartado[1]} fuera de orden (iba el {apartados + 1})"
                 )
             apartados, letras, romanos = apartados + 1, 0, 0
-            items.append({"nivel": 1, "lineas": [apartado[2]], "pagina": linea.pagina})
+            items.append(
+                {
+                    "nivel": 1,
+                    "lineas": [apartado[2]],
+                    "pagina": linea.pagina,
+                    "marca": f"{apartado[1]}.",
+                }
+            )
         elif letra is not None and apartados:
             if letra[1] != _LETRAS[letras]:
                 raise ValueError(
                     f"{codigo_modulo}: letra {letra[1]} fuera de orden (iba la {_LETRAS[letras]})"
                 )
             letras, romanos, letra_previa = letras + 1, 0, linea
-            items.append({"nivel": 2, "lineas": [letra[2]], "pagina": linea.pagina})
+            items.append(
+                {
+                    "nivel": 2,
+                    "lineas": [letra[2]],
+                    "pagina": linea.pagina,
+                    "marca": f"{letra[1]})",
+                }
+            )
         elif (
             romano is not None
             and items
@@ -665,7 +698,14 @@ def _contenidos_del_cuerpo(
             and romano[1] == _ROMANOS[romanos]
         ):
             romanos += 1
-            items.append({"nivel": 3, "lineas": [romano[2]], "pagina": linea.pagina})
+            items.append(
+                {
+                    "nivel": 3,
+                    "lineas": [romano[2]],
+                    "pagina": linea.pagina,
+                    "marca": f"{romano[1]}.",
+                }
+            )
         elif sin_numerar and _es_titulo(linea, anterior, items, letra_previa, codigo_modulo):
             apartados, letras, romanos = apartados + 1, 0, 0
             items.append({"nivel": 1, "lineas": [linea.texto.strip()], "pagina": linea.pagina})
@@ -676,8 +716,14 @@ def _contenidos_del_cuerpo(
         anterior = linea.texto
     if not items:
         raise ValueError(f"{codigo_modulo}: «Contenidos:» está vacío")
+    # ``marca``: lo que imprime el boletín («1.», «a)», «i.»); los títulos sin numerar no tienen.
     return [
-        {"nivel": i["nivel"], "texto": comun.unir(i["lineas"]), "pagina": i["pagina"]}
+        {
+            "nivel": i["nivel"],
+            "texto": comun.unir(i["lineas"]),
+            "pagina": i["pagina"],
+            **({"marca": i["marca"]} if "marca" in i else {}),
+        }
         for i in items
     ]
 
@@ -923,6 +969,7 @@ def elemento_modulo(
         "codigo": ficha,
         "tipo": "modulo",
         "texto": nombre,
+        "codigo_oficial": None,  # el módulo se identifica por su código, no por una numeración
         "procedencia": {"norma": norma, "ubicacion": ubicacion, "pagina": pagina},
         "orden": orden,
         "datos": datos,
@@ -1192,6 +1239,7 @@ def elementos_del_titulo(
                     letra["texto"],
                     procedencia(apartado, articulo, letra["lugar"], letra["pagina"]),
                     None,
+                    f"{letra['clave']})",
                 )
             )
     for i, elemento in enumerate(elementos, start=1):

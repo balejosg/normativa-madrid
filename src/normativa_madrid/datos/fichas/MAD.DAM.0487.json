@@ -17,6 +17,7 @@
       "codigo": "MAD.DAM.0487",
       "tipo": "modulo",
       "texto": "Entornos de desarrollo",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20241115-2",
         "ubicacion": "anexo II",
@@ -32,6 +33,7 @@
       "codigo": "MAD.DAM.0487.RA.1",
       "tipo": "resultado_aprendizaje",
       "texto": "Reconoce los elementos y herramientas que intervienen en el desarrollo de un programa informático, analizando sus características y las fases en las que actúan hasta llegar a su puesta en funcionamiento.",
+      "codigo_oficial": "1.",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0487, resultado de aprendizaje 1",
@@ -51,6 +53,7 @@
       "codigo": "MAD.DAM.0487.RA.1.a",
       "tipo": "criterio_fp",
       "texto": "Se ha reconocido la relación de los programas con los componentes del sistema informático: memoria, procesador, periféricos, entre otros.",
+      "codigo_oficial": "a)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0487, resultado de aprendizaje 1, criterio a",
@@ -70,6 +73,7 @@
       "codigo": "MAD.DAM.0487.RA.1.b",
       "tipo": "criterio_fp",
       "texto": "Se han identificado las fases de desarrollo de una aplicación informática.",
+      "codigo_oficial": "b)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0487, resultado de aprendizaje 1, criterio b",
@@ -89,6 +93,7 @@
       "codigo": "MAD.DAM.0487.RA.1.c",
       "tipo": "criterio_fp",
       "texto": "Se han diferenciado los conceptos de código fuente, objeto y ejecutable.",
+      "codigo_oficial": "c)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0487, resultado de aprendizaje 1, criterio c",
@@ -108,6 +113,7 @@
       "codigo": "MAD.DAM.0487.RA.1.d",
       "tipo": "criterio_fp",
       "texto": "Se han reconocido las características de la generación de código intermedio para su ejecución en máquinas virtuales.",
+      "codigo_oficial": "d)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0487, resultado de aprendizaje 1, criterio d",
@@ -127,6 +133,7 @@
       "codigo": "MAD.DAM.0487.RA.1.e",
       "tipo": "criterio_fp",
       "texto": "Se han clasificado los lenguajes de programación, identificando sus características.",
+      "codigo_oficial": "e)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0487, resultado de aprendizaje 1, criterio e",
@@ -146,6 +153,7 @@
       "codigo": "MAD.DAM.0487.RA.1.f",
       "tipo": "criterio_fp",
       "texto": "Se ha evaluado la funcionalidad ofrecida por las herramientas utilizadas en el desarrollo de software.",
+      "codigo_oficial": "f)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0487, resultado de aprendizaje 1, criterio f",
@@ -165,6 +173,7 @@
       "codigo": "MAD.DAM.0487.RA.1.g",
       "tipo": "criterio_fp",
       "texto": "Se han identificado las características y escenarios de uso de las metodologías ágiles de desarrollo de software.",
+      "codigo_oficial": "g)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0487, resultado de aprendizaje 1, criterio g",
@@ -184,6 +193,7 @@
       "codigo": "MAD.DAM.0487.RA.2",
       "tipo": "resultado_aprendizaje",
       "texto": "Evalúa entornos integrados de desarrollo analizando sus características para editar código fuente y generar ejecutables.",
+      "codigo_oficial": "2.",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0487, resultado de aprendizaje 2",
@@ -203,6 +213,7 @@
       "codigo": "MAD.DAM.0487.RA.2.a",
       "tipo": "criterio_fp",
       "texto": "Se han instalado entornos de desarrollo, propietarios y libres.",
+      "codigo_oficial": "a)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0487, resultado de aprendizaje 2, criterio a",
@@ -222,6 +233,7 @@
       "codigo": "MAD.DAM.0487.RA.2.b",
       "tipo": "criterio_fp",
       "texto": "Se han añadido y eliminado módulos en el entorno de desarrollo.",
+      "codigo_oficial": "b)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0487, resultado de aprendizaje 2, criterio b",
@@ -241,6 +253,7 @@
       "codigo": "MAD.DAM.0487.RA.2.c",
       "tipo": "criterio_fp",
       "texto": "Se ha personalizado y automatizado el entorno de desarrollo.",
+      "codigo_oficial": "c)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0487, resultado de aprendizaje 2, criterio c",
@@ -260,6 +273,7 @@
       "codigo": "MAD.DAM.0487.RA.2.d",
       "tipo": "criterio_fp",
       "texto": "Se ha configurado el sistema de actualización del entorno de desarrollo.",
+      "codigo_oficial": "d)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0487, resultado de aprendizaje 2, criterio d",
@@ -279,6 +293,7 @@
       "codigo": "MAD.DAM.0487.RA.2.e",
       "tipo": "criterio_fp",
       "texto": "Se han generado ejecutables a partir de código fuente de diferentes lenguajes en un mismo entorno de desarrollo.",
+      "codigo_oficial": "e)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0487, resultado de aprendizaje 2, criterio e",
@@ -298,6 +313,7 @@
       "codigo": "MAD.DAM.0487.RA.2.f",
       "tipo": "criterio_fp",
       "texto": "Se han generado ejecutables a partir de un mismo código fuente con varios entornos de desarrollo.",
+      "codigo_oficial": "f)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0487, resultado de aprendizaje 2, criterio f",
@@ -317,6 +333,7 @@
       "codigo": "MAD.DAM.0487.RA.2.g",
       "tipo": "criterio_fp",
       "texto": "Se han identificado las características comunes y específicas de diversos entornos de desarrollo.",
+      "codigo_oficial": "g)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0487, resultado de aprendizaje 2, criterio g",
@@ -336,6 +353,7 @@
       "codigo": "MAD.DAM.0487.RA.3",
       "tipo": "resultado_aprendizaje",
       "texto": "Verifica el funcionamiento de programas diseñando y realizando pruebas.",
+      "codigo_oficial": "3.",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0487, resultado de aprendizaje 3",
@@ -355,6 +373,7 @@
       "codigo": "MAD.DAM.0487.RA.3.a",
       "tipo": "criterio_fp",
       "texto": "Se han identificado los diferentes tipos de pruebas.",
+      "codigo_oficial": "a)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0487, resultado de aprendizaje 3, criterio a",
@@ -374,6 +393,7 @@
       "codigo": "MAD.DAM.0487.RA.3.b",
       "tipo": "criterio_fp",
       "texto": "Se han definido casos de prueba.",
+      "codigo_oficial": "b)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0487, resultado de aprendizaje 3, criterio b",
@@ -393,6 +413,7 @@
       "codigo": "MAD.DAM.0487.RA.3.c",
       "tipo": "criterio_fp",
       "texto": "Se han identificado las herramientas de depuración y prueba de aplicaciones ofrecidas por el entorno de desarrollo.",
+      "codigo_oficial": "c)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0487, resultado de aprendizaje 3, criterio c",
@@ -412,6 +433,7 @@
       "codigo": "MAD.DAM.0487.RA.3.d",
       "tipo": "criterio_fp",
       "texto": "Se han utilizado herramientas de depuración para definir puntos de ruptura y seguimiento.",
+      "codigo_oficial": "d)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0487, resultado de aprendizaje 3, criterio d",
@@ -431,6 +453,7 @@
       "codigo": "MAD.DAM.0487.RA.3.e",
       "tipo": "criterio_fp",
       "texto": "Se han utilizado las herramientas de depuración para examinar y modificar el comportamiento de un programa en tiempo de ejecución.",
+      "codigo_oficial": "e)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0487, resultado de aprendizaje 3, criterio e",
@@ -450,6 +473,7 @@
       "codigo": "MAD.DAM.0487.RA.3.f",
       "tipo": "criterio_fp",
       "texto": "Se han efectuado pruebas unitarias de clases y funciones.",
+      "codigo_oficial": "f)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0487, resultado de aprendizaje 3, criterio f",
@@ -469,6 +493,7 @@
       "codigo": "MAD.DAM.0487.RA.3.g",
       "tipo": "criterio_fp",
       "texto": "Se han implementado pruebas automáticas.",
+      "codigo_oficial": "g)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0487, resultado de aprendizaje 3, criterio g",
@@ -488,6 +513,7 @@
       "codigo": "MAD.DAM.0487.RA.3.h",
       "tipo": "criterio_fp",
       "texto": "Se han documentado las incidencias detectadas.",
+      "codigo_oficial": "h)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0487, resultado de aprendizaje 3, criterio h",
@@ -507,6 +533,7 @@
       "codigo": "MAD.DAM.0487.RA.3.i",
       "tipo": "criterio_fp",
       "texto": "Se han utilizado dobles de prueba para aislar los componentes durante las pruebas.",
+      "codigo_oficial": "i)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0487, resultado de aprendizaje 3, criterio i",
@@ -526,6 +553,7 @@
       "codigo": "MAD.DAM.0487.RA.4",
       "tipo": "resultado_aprendizaje",
       "texto": "Optimiza código empleando las herramientas disponibles en el entorno de desarrollo.",
+      "codigo_oficial": "4.",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0487, resultado de aprendizaje 4",
@@ -545,6 +573,7 @@
       "codigo": "MAD.DAM.0487.RA.4.a",
       "tipo": "criterio_fp",
       "texto": "Se han identificado los patrones de refactorización más usuales.",
+      "codigo_oficial": "a)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0487, resultado de aprendizaje 4, criterio a",
@@ -564,6 +593,7 @@
       "codigo": "MAD.DAM.0487.RA.4.b",
       "tipo": "criterio_fp",
       "texto": "Se han elaborado las pruebas asociadas a la refactorización.",
+      "codigo_oficial": "b)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0487, resultado de aprendizaje 4, criterio b",
@@ -583,6 +613,7 @@
       "codigo": "MAD.DAM.0487.RA.4.c",
       "tipo": "criterio_fp",
       "texto": "Se ha revisado el código fuente usando un analizador de código.",
+      "codigo_oficial": "c)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0487, resultado de aprendizaje 4, criterio c",
@@ -602,6 +633,7 @@
       "codigo": "MAD.DAM.0487.RA.4.d",
       "tipo": "criterio_fp",
       "texto": "Se han identificado las posibilidades de configuración de un analizador de código.",
+      "codigo_oficial": "d)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0487, resultado de aprendizaje 4, criterio d",
@@ -621,6 +653,7 @@
       "codigo": "MAD.DAM.0487.RA.4.e",
       "tipo": "criterio_fp",
       "texto": "Se han aplicado patrones de refactorización con las herramientas que proporciona el entorno de desarrollo.",
+      "codigo_oficial": "e)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0487, resultado de aprendizaje 4, criterio e",
@@ -640,6 +673,7 @@
       "codigo": "MAD.DAM.0487.RA.4.f",
       "tipo": "criterio_fp",
       "texto": "Se ha realizado el control de versiones integrado en el entorno de desarrollo.",
+      "codigo_oficial": "f)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0487, resultado de aprendizaje 4, criterio f",
@@ -659,6 +693,7 @@
       "codigo": "MAD.DAM.0487.RA.4.g",
       "tipo": "criterio_fp",
       "texto": "Se han utilizado herramientas del entorno de desarrollo para documentar las clases.",
+      "codigo_oficial": "g)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0487, resultado de aprendizaje 4, criterio g",
@@ -678,6 +713,7 @@
       "codigo": "MAD.DAM.0487.RA.4.h",
       "tipo": "criterio_fp",
       "texto": "Se han utilizado repositorios remotos para el desarrollo de código colaborativo.",
+      "codigo_oficial": "h)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0487, resultado de aprendizaje 4, criterio h",
@@ -697,6 +733,7 @@
       "codigo": "MAD.DAM.0487.RA.4.i",
       "tipo": "criterio_fp",
       "texto": "Se han utilizado herramientas para la integración continua del código.",
+      "codigo_oficial": "i)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0487, resultado de aprendizaje 4, criterio i",
@@ -716,6 +753,7 @@
       "codigo": "MAD.DAM.0487.RA.5",
       "tipo": "resultado_aprendizaje",
       "texto": "Genera diagramas de clases valorando su importancia en el desarrollo de aplicaciones y empleando herramientas específicas.",
+      "codigo_oficial": "5.",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0487, resultado de aprendizaje 5",
@@ -735,6 +773,7 @@
       "codigo": "MAD.DAM.0487.RA.5.a",
       "tipo": "criterio_fp",
       "texto": "Se han identificado los conceptos básicos de la programación orientada a objetos.",
+      "codigo_oficial": "a)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0487, resultado de aprendizaje 5, criterio a",
@@ -754,6 +793,7 @@
       "codigo": "MAD.DAM.0487.RA.5.b",
       "tipo": "criterio_fp",
       "texto": "Se han utilizado herramientas para la elaboración de diagramas de clases.",
+      "codigo_oficial": "b)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0487, resultado de aprendizaje 5, criterio b",
@@ -773,6 +813,7 @@
       "codigo": "MAD.DAM.0487.RA.5.c",
       "tipo": "criterio_fp",
       "texto": "Se ha interpretado el significado de diagramas de clases.",
+      "codigo_oficial": "c)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0487, resultado de aprendizaje 5, criterio c",
@@ -792,6 +833,7 @@
       "codigo": "MAD.DAM.0487.RA.5.d",
       "tipo": "criterio_fp",
       "texto": "Se han trazado diagramas de clases a partir de las especificaciones de las mismas.",
+      "codigo_oficial": "d)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0487, resultado de aprendizaje 5, criterio d",
@@ -811,6 +853,7 @@
       "codigo": "MAD.DAM.0487.RA.5.e",
       "tipo": "criterio_fp",
       "texto": "Se ha generado código a partir de un diagrama de clases.",
+      "codigo_oficial": "e)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0487, resultado de aprendizaje 5, criterio e",
@@ -830,6 +873,7 @@
       "codigo": "MAD.DAM.0487.RA.5.f",
       "tipo": "criterio_fp",
       "texto": "Se ha generado un diagrama de clases mediante ingeniería inversa.",
+      "codigo_oficial": "f)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0487, resultado de aprendizaje 5, criterio f",
@@ -849,6 +893,7 @@
       "codigo": "MAD.DAM.0487.RA.6",
       "tipo": "resultado_aprendizaje",
       "texto": "Genera diagramas de comportamiento valorando su importancia en el desarrollo de aplicaciones y empleando herramientas específicas.",
+      "codigo_oficial": "6.",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0487, resultado de aprendizaje 6",
@@ -868,6 +913,7 @@
       "codigo": "MAD.DAM.0487.RA.6.a",
       "tipo": "criterio_fp",
       "texto": "Se han identificado los distintos tipos de diagramas de comportamiento.",
+      "codigo_oficial": "a)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0487, resultado de aprendizaje 6, criterio a",
@@ -887,6 +933,7 @@
       "codigo": "MAD.DAM.0487.RA.6.b",
       "tipo": "criterio_fp",
       "texto": "Se ha reconocido el significado de los diagramas de casos de uso.",
+      "codigo_oficial": "b)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0487, resultado de aprendizaje 6, criterio b",
@@ -906,6 +953,7 @@
       "codigo": "MAD.DAM.0487.RA.6.c",
       "tipo": "criterio_fp",
       "texto": "Se han interpretado diagramas de interacción.",
+      "codigo_oficial": "c)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0487, resultado de aprendizaje 6, criterio c",
@@ -925,6 +973,7 @@
       "codigo": "MAD.DAM.0487.RA.6.d",
       "tipo": "criterio_fp",
       "texto": "Se han elaborado diagramas de interacción sencillos.",
+      "codigo_oficial": "d)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0487, resultado de aprendizaje 6, criterio d",
@@ -944,6 +993,7 @@
       "codigo": "MAD.DAM.0487.RA.6.e",
       "tipo": "criterio_fp",
       "texto": "Se ha interpretado el significado de diagramas de actividades.",
+      "codigo_oficial": "e)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0487, resultado de aprendizaje 6, criterio e",
@@ -963,6 +1013,7 @@
       "codigo": "MAD.DAM.0487.RA.6.f",
       "tipo": "criterio_fp",
       "texto": "Se han elaborado diagramas de actividades sencillos.",
+      "codigo_oficial": "f)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0487, resultado de aprendizaje 6, criterio f",
@@ -982,6 +1033,7 @@
       "codigo": "MAD.DAM.0487.RA.6.g",
       "tipo": "criterio_fp",
       "texto": "Se han interpretado diagramas de estados.",
+      "codigo_oficial": "g)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0487, resultado de aprendizaje 6, criterio g",
@@ -1001,6 +1053,7 @@
       "codigo": "MAD.DAM.0487.RA.6.h",
       "tipo": "criterio_fp",
       "texto": "Se han planteado diagramas de estados sencillos.",
+      "codigo_oficial": "h)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0487, resultado de aprendizaje 6, criterio h",
@@ -1020,6 +1073,7 @@
       "codigo": "EST.DAM.0487.CB.1",
       "tipo": "contenido_basico",
       "texto": "Desarrollo de software:",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0487, contenidos básicos",
@@ -1039,6 +1093,7 @@
       "codigo": "EST.DAM.0487.CB.1.1",
       "tipo": "contenido_basico",
       "texto": "Concepto de programa informático.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0487, contenidos básicos",
@@ -1058,6 +1113,7 @@
       "codigo": "EST.DAM.0487.CB.1.2",
       "tipo": "contenido_basico",
       "texto": "Código fuente, código objeto y código ejecutable; tecnologías de virtualización.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0487, contenidos básicos",
@@ -1077,6 +1133,7 @@
       "codigo": "EST.DAM.0487.CB.1.3",
       "tipo": "contenido_basico",
       "texto": "Tipos de lenguajes de programación. Paradigmas.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0487, contenidos básicos",
@@ -1096,6 +1153,7 @@
       "codigo": "EST.DAM.0487.CB.1.4",
       "tipo": "contenido_basico",
       "texto": "Características de los lenguajes más difundidos.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0487, contenidos básicos",
@@ -1115,6 +1173,7 @@
       "codigo": "EST.DAM.0487.CB.1.5",
       "tipo": "contenido_basico",
       "texto": "Fases del desarrollo de una aplicación: análisis, diseño, codificación, pruebas, documentación, explotación y mantenimiento, entre otras.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0487, contenidos básicos",
@@ -1134,6 +1193,7 @@
       "codigo": "EST.DAM.0487.CB.1.6",
       "tipo": "contenido_basico",
       "texto": "Proceso de obtención de código ejecutable a partir del código fuente; herramientas implicadas.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0487, contenidos básicos",
@@ -1153,6 +1213,7 @@
       "codigo": "EST.DAM.0487.CB.1.7",
       "tipo": "contenido_basico",
       "texto": "Metodologías ágiles. Técnicas. Características.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0487, contenidos básicos",
@@ -1172,6 +1233,7 @@
       "codigo": "EST.DAM.0487.CB.2",
       "tipo": "contenido_basico",
       "texto": "Instalación y uso de entornos de desarrollo:",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0487, contenidos básicos",
@@ -1191,6 +1253,7 @@
       "codigo": "EST.DAM.0487.CB.2.1",
       "tipo": "contenido_basico",
       "texto": "Funciones de un entorno de desarrollo.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0487, contenidos básicos",
@@ -1210,6 +1273,7 @@
       "codigo": "EST.DAM.0487.CB.2.2",
       "tipo": "contenido_basico",
       "texto": "Instalación de un entorno de desarrollo.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0487, contenidos básicos",
@@ -1229,6 +1293,7 @@
       "codigo": "EST.DAM.0487.CB.2.3",
       "tipo": "contenido_basico",
       "texto": "Uso básico de un entorno de desarrollo.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0487, contenidos básicos",
@@ -1248,6 +1313,7 @@
       "codigo": "EST.DAM.0487.CB.2.4",
       "tipo": "contenido_basico",
       "texto": "Personalización del entorno de desarrollo: temas, estilos de codificación, módulos y extensiones, entre otras.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0487, contenidos básicos",
@@ -1267,6 +1333,7 @@
       "codigo": "EST.DAM.0487.CB.2.5",
       "tipo": "contenido_basico",
       "texto": "Edición de programas.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0487, contenidos básicos",
@@ -1286,6 +1353,7 @@
       "codigo": "EST.DAM.0487.CB.2.6",
       "tipo": "contenido_basico",
       "texto": "Generación de ejecutables en distintos entornos.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0487, contenidos básicos",
@@ -1305,6 +1373,7 @@
       "codigo": "EST.DAM.0487.CB.2.7",
       "tipo": "contenido_basico",
       "texto": "Herramientas y automatización.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0487, contenidos básicos",
@@ -1324,6 +1393,7 @@
       "codigo": "EST.DAM.0487.CB.3",
       "tipo": "contenido_basico",
       "texto": "Diseño y realización de pruebas:",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0487, contenidos básicos",
@@ -1343,6 +1413,7 @@
       "codigo": "EST.DAM.0487.CB.3.1",
       "tipo": "contenido_basico",
       "texto": "Planificación de Pruebas.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0487, contenidos básicos",
@@ -1362,6 +1433,7 @@
       "codigo": "EST.DAM.0487.CB.3.2",
       "tipo": "contenido_basico",
       "texto": "Tipos de pruebas: Funcionales, estructurales y regresión, entre otras.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0487, contenidos básicos",
@@ -1381,6 +1453,7 @@
       "codigo": "EST.DAM.0487.CB.3.3",
       "tipo": "contenido_basico",
       "texto": "Procedimientos y casos de prueba.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0487, contenidos básicos",
@@ -1400,6 +1473,7 @@
       "codigo": "EST.DAM.0487.CB.3.4",
       "tipo": "contenido_basico",
       "texto": "Pruebas de Código: Cubrimiento, valores límite y clases de equivalencia, entre otras.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0487, contenidos básicos",
@@ -1419,6 +1493,7 @@
       "codigo": "EST.DAM.0487.CB.3.5",
       "tipo": "contenido_basico",
       "texto": "Pruebas unitarias; herramientas de automatización.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0487, contenidos básicos",
@@ -1438,6 +1513,7 @@
       "codigo": "EST.DAM.0487.CB.3.6",
       "tipo": "contenido_basico",
       "texto": "Documentación de las incidencias.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0487, contenidos básicos",
@@ -1457,6 +1533,7 @@
       "codigo": "EST.DAM.0487.CB.3.7",
       "tipo": "contenido_basico",
       "texto": "Dobles de prueba. Tipos. Características.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0487, contenidos básicos",
@@ -1476,6 +1553,7 @@
       "codigo": "EST.DAM.0487.CB.4",
       "tipo": "contenido_basico",
       "texto": "Optimización y documentación:",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0487, contenidos básicos",
@@ -1495,6 +1573,7 @@
       "codigo": "EST.DAM.0487.CB.4.1",
       "tipo": "contenido_basico",
       "texto": "Refactorización. Concepto. Limitaciones. Patrones de refactorización más usuales. Refactorización y pruebas. Herramientas de ayuda a la refactorización.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0487, contenidos básicos",
@@ -1514,6 +1593,7 @@
       "codigo": "EST.DAM.0487.CB.4.2",
       "tipo": "contenido_basico",
       "texto": "Analizadores de código.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0487, contenidos básicos",
@@ -1533,6 +1613,7 @@
       "codigo": "EST.DAM.0487.CB.4.3",
       "tipo": "contenido_basico",
       "texto": "Control de versiones. Estructura de las herramientas de control de versiones.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0487, contenidos básicos",
@@ -1552,6 +1633,7 @@
       "codigo": "EST.DAM.0487.CB.5",
       "tipo": "contenido_basico",
       "texto": "Repositorio. Herramientas de control de versiones. Uso integrado en el entorno de desarrollo:",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0487, contenidos básicos",
@@ -1571,6 +1653,7 @@
       "codigo": "EST.DAM.0487.CB.5.1",
       "tipo": "contenido_basico",
       "texto": "Repositorios remotos.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0487, contenidos básicos",
@@ -1590,6 +1673,7 @@
       "codigo": "EST.DAM.0487.CB.5.2",
       "tipo": "contenido_basico",
       "texto": "Documentación. Uso de comentarios. Alternativas.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0487, contenidos básicos",
@@ -1609,6 +1693,7 @@
       "codigo": "EST.DAM.0487.CB.5.3",
       "tipo": "contenido_basico",
       "texto": "Integración continua. Herramientas.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0487, contenidos básicos",
@@ -1628,6 +1713,7 @@
       "codigo": "EST.DAM.0487.CB.6",
       "tipo": "contenido_basico",
       "texto": "Elaboración de diagramas de clases:",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0487, contenidos básicos",
@@ -1647,6 +1733,7 @@
       "codigo": "EST.DAM.0487.CB.6.1",
       "tipo": "contenido_basico",
       "texto": "Clases. Atributos, métodos y visibilidad.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0487, contenidos básicos",
@@ -1666,6 +1753,7 @@
       "codigo": "EST.DAM.0487.CB.6.2",
       "tipo": "contenido_basico",
       "texto": "Objetos. Instanciación.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0487, contenidos básicos",
@@ -1685,6 +1773,7 @@
       "codigo": "EST.DAM.0487.CB.6.3",
       "tipo": "contenido_basico",
       "texto": "Relaciones. Asociación, navegabilidad y multiplicidad. Herencia, composición, agregación. Realización y dependencia.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0487, contenidos básicos",
@@ -1704,6 +1793,7 @@
       "codigo": "EST.DAM.0487.CB.6.4",
       "tipo": "contenido_basico",
       "texto": "Notación de los diagramas de clases.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0487, contenidos básicos",
@@ -1723,6 +1813,7 @@
       "codigo": "EST.DAM.0487.CB.6.5",
       "tipo": "contenido_basico",
       "texto": "Herramientas.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0487, contenidos básicos",
@@ -1742,6 +1833,7 @@
       "codigo": "EST.DAM.0487.CB.6.6",
       "tipo": "contenido_basico",
       "texto": "Generación automática de código. Ingeniería inversa.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0487, contenidos básicos",
@@ -1761,6 +1853,7 @@
       "codigo": "EST.DAM.0487.CB.7",
       "tipo": "contenido_basico",
       "texto": "Elaboración de diagramas de comportamiento:",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0487, contenidos básicos",
@@ -1780,6 +1873,7 @@
       "codigo": "EST.DAM.0487.CB.7.1",
       "tipo": "contenido_basico",
       "texto": "Tipos. Campo de aplicación.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0487, contenidos básicos",
@@ -1799,6 +1893,7 @@
       "codigo": "EST.DAM.0487.CB.7.2",
       "tipo": "contenido_basico",
       "texto": "Diagrama de casos de uso. Actores, escenario, relación de comunicación.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0487, contenidos básicos",
@@ -1818,6 +1913,7 @@
       "codigo": "EST.DAM.0487.CB.7.3",
       "tipo": "contenido_basico",
       "texto": "Diagrama de secuencia. Línea de vida de un objeto, activación, envío de mensajes.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0487, contenidos básicos",
@@ -1837,6 +1933,7 @@
       "codigo": "EST.DAM.0487.CB.7.4",
       "tipo": "contenido_basico",
       "texto": "Diagrama de comunicación. Objetos, mensajes.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0487, contenidos básicos",
@@ -1856,6 +1953,7 @@
       "codigo": "EST.DAM.0487.CB.7.5",
       "tipo": "contenido_basico",
       "texto": "Diagrama de actividad. Diagrama de estados.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0487, contenidos básicos",
@@ -1875,6 +1973,7 @@
       "codigo": "MAD.DAM.0487.ORI",
       "tipo": "orientaciones",
       "texto": "Este módulo profesional contiene parte de la formación necesaria para desempeñar la función de desarrollador de aplicaciones. La función de desarrollador de aplicaciones incluye aspectos como: La utilización de las herramientas software disponibles. La elaboración de documentación interna y técnica de la aplicación. El diseño, la elaboración y ejecución de pruebas. La optimización de código. Las actividades profesionales asociadas a esta función se aplican en el desarrollo de aplicaciones. La formación del módulo contribuye a alcanzar los objetivos generales d), e), h), i), j), ñ) y o) del ciclo formativo y las competencias profesionales, personales y sociales d), f), h), i) y j), m) y n) del título. Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten alcanzar los objetivos del módulo están relacionados con: La interpretación de documentación técnica. La instalación, configuración y personalización de diversos entornos de desarrollo. La utilización de distintos entornos de desarrollo para la edición y prueba de aplicaciones. La utilización de herramientas de depuración, optimización y documentación de aplicaciones. La generación de diagramas técnicos. La elaboración de documentación interna de la aplicación. La utilización de sistemas de control de versiones.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0487, orientaciones pedagógicas",
@@ -1894,6 +1993,7 @@
       "codigo": "MAD.DAM.0487.CO.1",
       "tipo": "contenido",
       "texto": "Desarrollo de software:",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -1906,6 +2006,7 @@
       "codigo": "MAD.DAM.0487.CO.1.1",
       "tipo": "contenido",
       "texto": "Concepto de programa informático. Instrucciones y datos.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -1918,6 +2019,7 @@
       "codigo": "MAD.DAM.0487.CO.1.2",
       "tipo": "contenido",
       "texto": "Ejecución de programas en ordenadores:",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -1930,6 +2032,7 @@
       "codigo": "MAD.DAM.0487.CO.1.2.1",
       "tipo": "contenido",
       "texto": "Datos y programas.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -1942,6 +2045,7 @@
       "codigo": "MAD.DAM.0487.CO.1.2.2",
       "tipo": "contenido",
       "texto": "Hardware vs. software.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -1954,6 +2058,7 @@
       "codigo": "MAD.DAM.0487.CO.1.2.3",
       "tipo": "contenido",
       "texto": "Estructura funcional de un ordenador: procesador, memoria.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -1966,6 +2071,7 @@
       "codigo": "MAD.DAM.0487.CO.1.2.4",
       "tipo": "contenido",
       "texto": "Tipos de software. BIOS. Sistema. Aplicaciones.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -1978,6 +2084,7 @@
       "codigo": "MAD.DAM.0487.CO.1.2.5",
       "tipo": "contenido",
       "texto": "Código fuente, código objeto y código ejecutable; máquinas virtuales.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -1990,6 +2097,7 @@
       "codigo": "MAD.DAM.0487.CO.1.3",
       "tipo": "contenido",
       "texto": "Lenguajes de programación:",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2002,6 +2110,7 @@
       "codigo": "MAD.DAM.0487.CO.1.3.1",
       "tipo": "contenido",
       "texto": "Tipos de lenguajes de programación.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2014,6 +2123,7 @@
       "codigo": "MAD.DAM.0487.CO.1.3.2",
       "tipo": "contenido",
       "texto": "Características de los lenguajes más difundidos.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2026,6 +2136,7 @@
       "codigo": "MAD.DAM.0487.CO.1.4",
       "tipo": "contenido",
       "texto": "Introducción a la ingeniería del software:",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2038,6 +2149,7 @@
       "codigo": "MAD.DAM.0487.CO.1.4.1",
       "tipo": "contenido",
       "texto": "Proceso software y ciclo de vida del software.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2050,6 +2162,7 @@
       "codigo": "MAD.DAM.0487.CO.1.4.2",
       "tipo": "contenido",
       "texto": "Fases del desarrollo de una aplicación: análisis, diseño, codificación, pruebas, documentación, explotación y mantenimiento, entre otras.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2062,6 +2175,7 @@
       "codigo": "MAD.DAM.0487.CO.1.4.3",
       "tipo": "contenido",
       "texto": "Modelos de proceso de desarrollo software (cascada, iterativo, evolutivo).",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2074,6 +2188,7 @@
       "codigo": "MAD.DAM.0487.CO.1.4.4",
       "tipo": "contenido",
       "texto": "Metodologías de desarrollo software. Características. Técnicas. Objetivos. Tipos de metodologías:",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2086,6 +2201,7 @@
       "codigo": "MAD.DAM.0487.CO.1.4.5",
       "tipo": "contenido",
       "texto": "Herramientas CASE (Computer Aided Software Engineering).",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2098,6 +2214,7 @@
       "codigo": "MAD.DAM.0487.CO.1.5",
       "tipo": "contenido",
       "texto": "Proceso de obtención de código ejecutable a partir del código fuente; herramientas implicadas (editores, compiladores, enlazadores, etcétera).",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2110,6 +2227,7 @@
       "codigo": "MAD.DAM.0487.CO.1.6",
       "tipo": "contenido",
       "texto": "Errores en el desarrollo de programas.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2122,6 +2240,7 @@
       "codigo": "MAD.DAM.0487.CO.1.7",
       "tipo": "contenido",
       "texto": "Importancia de la reutilización de código.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2134,6 +2253,7 @@
       "codigo": "MAD.DAM.0487.CO.2",
       "tipo": "contenido",
       "texto": "Instalación y uso de entornos de desarrollo:",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2146,6 +2266,7 @@
       "codigo": "MAD.DAM.0487.CO.2.1",
       "tipo": "contenido",
       "texto": "Funciones de un entorno de desarrollo.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2158,6 +2279,7 @@
       "codigo": "MAD.DAM.0487.CO.2.2",
       "tipo": "contenido",
       "texto": "Tipos de entornos de desarrollo. Entornos de desarrollo libres y propietarios. Características.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2170,6 +2292,7 @@
       "codigo": "MAD.DAM.0487.CO.2.3",
       "tipo": "contenido",
       "texto": "Instalación de un entorno de desarrollo.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2182,6 +2305,7 @@
       "codigo": "MAD.DAM.0487.CO.2.4",
       "tipo": "contenido",
       "texto": "Uso básico de un entorno de desarrollo:",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2194,6 +2318,7 @@
       "codigo": "MAD.DAM.0487.CO.2.4.1",
       "tipo": "contenido",
       "texto": "Uso de herramientas y asistentes.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2206,6 +2331,7 @@
       "codigo": "MAD.DAM.0487.CO.2.4.2",
       "tipo": "contenido",
       "texto": "Creación de proyectos.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2218,6 +2344,7 @@
       "codigo": "MAD.DAM.0487.CO.2.4.3",
       "tipo": "contenido",
       "texto": "Incorporación de elementos a proyectos.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2230,6 +2357,7 @@
       "codigo": "MAD.DAM.0487.CO.2.4.4",
       "tipo": "contenido",
       "texto": "Edición de programas. Sintaxis y formateo de código.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2242,6 +2370,7 @@
       "codigo": "MAD.DAM.0487.CO.2.4.5",
       "tipo": "contenido",
       "texto": "Compilación de programas. Detección de errores.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2254,6 +2383,7 @@
       "codigo": "MAD.DAM.0487.CO.2.4.6",
       "tipo": "contenido",
       "texto": "Generación de ejecutables.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2266,6 +2396,7 @@
       "codigo": "MAD.DAM.0487.CO.2.4.7",
       "tipo": "contenido",
       "texto": "Ejecución de programas.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2278,6 +2409,7 @@
       "codigo": "MAD.DAM.0487.CO.2.4.8",
       "tipo": "contenido",
       "texto": "Paneles y vistas.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2290,6 +2422,7 @@
       "codigo": "MAD.DAM.0487.CO.2.4.9",
       "tipo": "contenido",
       "texto": "Importación y exportación de ficheros.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2302,6 +2435,7 @@
       "codigo": "MAD.DAM.0487.CO.2.4.10",
       "tipo": "contenido",
       "texto": "Personalización.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2314,6 +2448,7 @@
       "codigo": "MAD.DAM.0487.CO.2.4.11",
       "tipo": "contenido",
       "texto": "Acceso a documentación.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2326,6 +2461,7 @@
       "codigo": "MAD.DAM.0487.CO.2.4.12",
       "tipo": "contenido",
       "texto": "Instalación y desinstalación de aplicaciones, módulos y plugins adicionales.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2338,6 +2474,7 @@
       "codigo": "MAD.DAM.0487.CO.2.4.13",
       "tipo": "contenido",
       "texto": "Configuración de actualizaciones.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2350,6 +2487,7 @@
       "codigo": "MAD.DAM.0487.CO.2.4.14",
       "tipo": "contenido",
       "texto": "Automatización de tareas.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2362,6 +2500,7 @@
       "codigo": "MAD.DAM.0487.CO.3",
       "tipo": "contenido",
       "texto": "Diseño y realización de pruebas:",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2374,6 +2513,7 @@
       "codigo": "MAD.DAM.0487.CO.3.1",
       "tipo": "contenido",
       "texto": "Pruebas en el proceso de desarrollo de software:",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2386,6 +2526,7 @@
       "codigo": "MAD.DAM.0487.CO.3.1.1",
       "tipo": "contenido",
       "texto": "Planificación de pruebas a lo largo del ciclo de desarrollo.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2398,6 +2539,7 @@
       "codigo": "MAD.DAM.0487.CO.3.1.2",
       "tipo": "contenido",
       "texto": "Tipos de pruebas: funcionales, estructurales, regresión, caja negra.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2410,6 +2552,7 @@
       "codigo": "MAD.DAM.0487.CO.3.1.3",
       "tipo": "contenido",
       "texto": "Procedimientos y casos de prueba.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2422,6 +2565,7 @@
       "codigo": "MAD.DAM.0487.CO.3.2",
       "tipo": "contenido",
       "texto": "Pruebas de código:",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2434,6 +2578,7 @@
       "codigo": "MAD.DAM.0487.CO.3.2.1",
       "tipo": "contenido",
       "texto": "Cubrimiento, valores límite, clases de equivalencia.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2446,6 +2591,7 @@
       "codigo": "MAD.DAM.0487.CO.3.2.2",
       "tipo": "contenido",
       "texto": "Pruebas unitarias de clases y funciones.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2458,6 +2604,7 @@
       "codigo": "MAD.DAM.0487.CO.3.2.3",
       "tipo": "contenido",
       "texto": "Uso de herramientas integradas en los entornos de desarrollo para realizar pruebas unitarias.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2470,6 +2617,7 @@
       "codigo": "MAD.DAM.0487.CO.3.2.4",
       "tipo": "contenido",
       "texto": "Automatización de pruebas unitarias.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2482,6 +2630,7 @@
       "codigo": "MAD.DAM.0487.CO.3.2.5",
       "tipo": "contenido",
       "texto": "Pruebas de integración.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2494,6 +2643,7 @@
       "codigo": "MAD.DAM.0487.CO.3.2.6",
       "tipo": "contenido",
       "texto": "Diseño y documentación casos de prueba.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2506,6 +2656,7 @@
       "codigo": "MAD.DAM.0487.CO.3.3",
       "tipo": "contenido",
       "texto": "Depuración de programas:",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2518,6 +2669,7 @@
       "codigo": "MAD.DAM.0487.CO.3.3.1",
       "tipo": "contenido",
       "texto": "Herramientas de depuración integradas en los entornos de desarrollo,",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2530,6 +2682,7 @@
       "codigo": "MAD.DAM.0487.CO.3.3.2",
       "tipo": "contenido",
       "texto": "Puntos de ruptura y seguimiento en tiempo de ejecución.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2542,6 +2695,7 @@
       "codigo": "MAD.DAM.0487.CO.3.3.3",
       "tipo": "contenido",
       "texto": "Examinadores de variables.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2554,6 +2708,7 @@
       "codigo": "MAD.DAM.0487.CO.4",
       "tipo": "contenido",
       "texto": "Optimización y documentación:",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2566,6 +2721,7 @@
       "codigo": "MAD.DAM.0487.CO.4.1",
       "tipo": "contenido",
       "texto": "Refactorización:",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2578,6 +2734,7 @@
       "codigo": "MAD.DAM.0487.CO.4.1.1",
       "tipo": "contenido",
       "texto": "Concepto. Limitaciones.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2590,6 +2747,7 @@
       "codigo": "MAD.DAM.0487.CO.4.1.2",
       "tipo": "contenido",
       "texto": "Patrones de refactorización más usuales.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2602,6 +2760,7 @@
       "codigo": "MAD.DAM.0487.CO.4.1.3",
       "tipo": "contenido",
       "texto": "Refactorización y pruebas.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2614,6 +2773,7 @@
       "codigo": "MAD.DAM.0487.CO.4.1.4",
       "tipo": "contenido",
       "texto": "Herramientas de ayuda a la refactorización.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2626,6 +2786,7 @@
       "codigo": "MAD.DAM.0487.CO.4.2",
       "tipo": "contenido",
       "texto": "Control de versiones:",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2638,6 +2799,7 @@
       "codigo": "MAD.DAM.0487.CO.4.2.1",
       "tipo": "contenido",
       "texto": "Desarrollos colectivos",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2650,6 +2812,7 @@
       "codigo": "MAD.DAM.0487.CO.4.2.2",
       "tipo": "contenido",
       "texto": "Herramientas de control de versiones. Utilidad. Características. Estructura (cliente/servidor). Repositorio.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2662,6 +2825,7 @@
       "codigo": "MAD.DAM.0487.CO.4.2.3",
       "tipo": "contenido",
       "texto": "Clientes de control de versiones. Descarga de ficheros inicial. Modificación de ficheros. Actualización de ficheros en local. Actualización de ficheros en el repositorio. Diferencias entre versiones. Restauración de versiones anteriores. Resolución de conflictos. Historial de versiones.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2674,6 +2838,7 @@
       "codigo": "MAD.DAM.0487.CO.4.3",
       "tipo": "contenido",
       "texto": "Documentación:",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2686,6 +2851,7 @@
       "codigo": "MAD.DAM.0487.CO.4.3.1",
       "tipo": "contenido",
       "texto": "Uso de comentarios.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2698,6 +2864,7 @@
       "codigo": "MAD.DAM.0487.CO.4.3.2",
       "tipo": "contenido",
       "texto": "Herramientas integradas en el entorno de desarrollo para generar documentación automáticas de clases.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2710,6 +2877,7 @@
       "codigo": "MAD.DAM.0487.CO.4.3.3",
       "tipo": "contenido",
       "texto": "Alternativas.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2722,6 +2890,7 @@
       "codigo": "MAD.DAM.0487.CO.5",
       "tipo": "contenido",
       "texto": "Introducción al lenguaje unificado de modelado (UML, Unified Modeling Language):",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2734,6 +2903,7 @@
       "codigo": "MAD.DAM.0487.CO.5.1",
       "tipo": "contenido",
       "texto": "Características.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2746,6 +2916,7 @@
       "codigo": "MAD.DAM.0487.CO.5.2",
       "tipo": "contenido",
       "texto": "Versiones.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2758,6 +2929,7 @@
       "codigo": "MAD.DAM.0487.CO.5.3",
       "tipo": "contenido",
       "texto": "Diagramas UML.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2770,6 +2942,7 @@
       "codigo": "MAD.DAM.0487.CO.5.4",
       "tipo": "contenido",
       "texto": "Utilización en metodologías de desarrollo orientado a objetos.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2782,6 +2955,7 @@
       "codigo": "MAD.DAM.0487.CO.5.5",
       "tipo": "contenido",
       "texto": "Herramientas CASE con soporte UML.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2794,6 +2968,7 @@
       "codigo": "MAD.DAM.0487.CO.6",
       "tipo": "contenido",
       "texto": "Elaboración de diagramas de clases:",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2806,6 +2981,7 @@
       "codigo": "MAD.DAM.0487.CO.6.1",
       "tipo": "contenido",
       "texto": "Notación de los diagramas de clases:",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2818,6 +2994,7 @@
       "codigo": "MAD.DAM.0487.CO.6.1.1",
       "tipo": "contenido",
       "texto": "Clases. Atributos, métodos y visibilidad.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2830,6 +3007,7 @@
       "codigo": "MAD.DAM.0487.CO.6.1.2",
       "tipo": "contenido",
       "texto": "Objetos. Instanciación.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2842,6 +3020,7 @@
       "codigo": "MAD.DAM.0487.CO.6.1.3",
       "tipo": "contenido",
       "texto": "Relaciones. Asociación, herencia, composición, agregación, dependencia, navegabilidad.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2854,6 +3033,7 @@
       "codigo": "MAD.DAM.0487.CO.6.1.4",
       "tipo": "contenido",
       "texto": "Clases abstractas. Interfaces.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2866,6 +3046,7 @@
       "codigo": "MAD.DAM.0487.CO.6.1.5",
       "tipo": "contenido",
       "texto": "Paquetes.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2878,6 +3059,7 @@
       "codigo": "MAD.DAM.0487.CO.6.1.6",
       "tipo": "contenido",
       "texto": "Grado de detalle.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2890,6 +3072,7 @@
       "codigo": "MAD.DAM.0487.CO.6.2",
       "tipo": "contenido",
       "texto": "Utilización de herramientas CASE para elaborar diagramas de clases.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2902,6 +3085,7 @@
       "codigo": "MAD.DAM.0487.CO.6.3",
       "tipo": "contenido",
       "texto": "Módulos integrados en entornos de desarrollo para elaborar diagramas de clases.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2914,6 +3098,7 @@
       "codigo": "MAD.DAM.0487.CO.6.4",
       "tipo": "contenido",
       "texto": "Creación de código a partir de diagramas de clases.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2926,6 +3111,7 @@
       "codigo": "MAD.DAM.0487.CO.6.5",
       "tipo": "contenido",
       "texto": "Generación de diagramas de clases a partir de código (ingeniería inversa).",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2938,6 +3124,7 @@
       "codigo": "MAD.DAM.0487.CO.7",
       "tipo": "contenido",
       "texto": "Elaboración de diagramas de comportamiento:",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2950,6 +3137,7 @@
       "codigo": "MAD.DAM.0487.CO.7.1",
       "tipo": "contenido",
       "texto": "Tipos. Campo de aplicación.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2962,6 +3150,7 @@
       "codigo": "MAD.DAM.0487.CO.7.2",
       "tipo": "contenido",
       "texto": "Diagramas de casos de uso. Actores, casos de uso, escenario, asociaciones (relación de comunicación entre actores y casos de uso), relaciones entre casos de uso.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2974,6 +3163,7 @@
       "codigo": "MAD.DAM.0487.CO.7.3",
       "tipo": "contenido",
       "texto": "Diagramas de secuencia. Línea de vida de un objeto/actor, activación, envío de mensajes.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2986,6 +3176,7 @@
       "codigo": "MAD.DAM.0487.CO.7.4",
       "tipo": "contenido",
       "texto": "Diagramas de colaboración. Objetos/actores, mensajes.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2998,6 +3189,7 @@
       "codigo": "MAD.DAM.0487.CO.7.5",
       "tipo": "contenido",
       "texto": "Otros diagramas:",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -3010,6 +3202,7 @@
       "codigo": "MAD.DAM.0487.CO.7.5.1",
       "tipo": "contenido",
       "texto": "Diagramas de actividades.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -3022,6 +3215,7 @@
       "codigo": "MAD.DAM.0487.CO.7.5.2",
       "tipo": "contenido",
       "texto": "Diagramas de estado.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -3034,6 +3228,7 @@
       "codigo": "MAD.DAM.0487.CO.7.6",
       "tipo": "contenido",
       "texto": "Utilización de herramientas CASE para elaborar diagramas de comportamiento",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -3046,6 +3241,7 @@
       "codigo": "MAD.DAM.0487.CO.7.7",
       "tipo": "contenido",
       "texto": "Módulos integrados en entornos de desarrollo para elaborar diagramas de comportamiento.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",

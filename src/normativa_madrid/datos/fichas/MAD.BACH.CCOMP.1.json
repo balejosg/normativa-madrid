@@ -14,6 +14,7 @@
       "codigo": "MAD.BACH.CCOMP.1.CE.1",
       "tipo": "competencia_especifica",
       "texto": "Reconocer y analizar los elementos físicos que componen un sistema informático, estudiando su evolución histórica y las ventajas que ha supuesto la implementación de los avances tecnológicos en estos sistemas, para identificar las posibilidades y funcionalidades de la informática y su presencia en la actividad cotidiana.",
+      "codigo_oficial": "1",
       "procedencia": {
         "norma": "bocm-20230531-18",
         "ubicacion": "anexo IV, competencia específica 1",
@@ -36,6 +37,7 @@
       "codigo": "MAD.BACH.CCOMP.1.CR.1.1",
       "tipo": "criterio",
       "texto": "Conocer la evolución histórica de los avances tecnológicos así como los principios físicos y técnicos de su funcionamiento, para analizar la revolución digital y el desarrollo de las ciencias de la computación así como los impactos que en cada caso han originado en la sociedad.",
+      "codigo_oficial": "1.1",
       "procedencia": {
         "norma": "bocm-20230531-18",
         "ubicacion": "anexo IV, 1.º, criterio 1.1",
@@ -48,6 +50,7 @@
       "codigo": "MAD.BACH.CCOMP.1.CR.1.2",
       "tipo": "criterio",
       "texto": "Identificar los subsistemas y elementos de un sistema informático, valorando la influencia de los avances tecnológicos en los cambios que se implementan en estos sistemas.",
+      "codigo_oficial": "1.2",
       "procedencia": {
         "norma": "bocm-20230531-18",
         "ubicacion": "anexo IV, 1.º, criterio 1.2",
@@ -60,6 +63,7 @@
       "codigo": "MAD.BACH.CCOMP.1.CR.1.3",
       "tipo": "criterio",
       "texto": "Reconocer la arquitectura los sistemas informáticos, analizando los cambios que se han ido produciendo en su estructura en la historia reciente y han facilitado el desarrollo tecnológico.",
+      "codigo_oficial": "1.3",
       "procedencia": {
         "norma": "bocm-20230531-18",
         "ubicacion": "anexo IV, 1.º, criterio 1.3",
@@ -72,6 +76,7 @@
       "codigo": "MAD.BACH.CCOMP.1.CE.2",
       "tipo": "competencia_especifica",
       "texto": "Identificar las características y funciones de los diferentes componentes de un sistema informático y la interrelación entre los mismos, así como los sistemas de comunicación para la conexión entre diferentes dispositivos y las redes de comunicación estableciendo configuraciones seguras, analizando el impacto social, económico y cultural que han tenido los sistemas de comunicación y trasmisión de la información en la historia reciente.",
+      "codigo_oficial": "2",
       "procedencia": {
         "norma": "bocm-20230531-18",
         "ubicacion": "anexo IV, competencia específica 2",
@@ -94,6 +99,7 @@
       "codigo": "MAD.BACH.CCOMP.1.CR.2.1",
       "tipo": "criterio",
       "texto": "Identificar y conocer las características de cada componente de un sistema informático, así como las conexiones entre ellos, valorando las funciones que realizan en el conjunto del sistema.",
+      "codigo_oficial": "2.1",
       "procedencia": {
         "norma": "bocm-20230531-18",
         "ubicacion": "anexo IV, 1.º, criterio 2.1",
@@ -106,6 +112,7 @@
       "codigo": "MAD.BACH.CCOMP.1.CE.3",
       "tipo": "competencia_especifica",
       "texto": "Conocer y utilizar a nivel de usuario las aplicaciones informáticas de uso más frecuente; ofimáticas, de edición de imagen, sonido y vídeo, valorando las posibilidades que ofrecen estas herramientas en la difusión del conocimiento y la promoción profesional, para integrar el uso de las aplicaciones informáticas en las diferentes actividades académicas, profesionales, personales y sociales.",
+      "codigo_oficial": "3",
       "procedencia": {
         "norma": "bocm-20230531-18",
         "ubicacion": "anexo IV, competencia específica 3",
@@ -133,6 +140,7 @@
       "codigo": "MAD.BACH.CCOMP.1.CR.3.1",
       "tipo": "criterio",
       "texto": "Manejar de forma adecuada las herramientas de ofimática para la elaboración de documentación y el tratamiento de la información, incorporando estas herramientas como un elemento instrumental en su vida académica.",
+      "codigo_oficial": "3.1",
       "procedencia": {
         "norma": "bocm-20230531-18",
         "ubicacion": "anexo IV, 1.º, criterio 3.1",
@@ -145,6 +153,7 @@
       "codigo": "MAD.BACH.CCOMP.1.CR.3.2",
       "tipo": "criterio",
       "texto": "Conocer las funciones avanzadas de la ofimática y las herramientas de gestión de proyectos, utilizando estas aplicaciones en situaciones prácticas de su vida académica.",
+      "codigo_oficial": "3.2",
       "procedencia": {
         "norma": "bocm-20230531-18",
         "ubicacion": "anexo IV, 1.º, criterio 3.2",
@@ -157,6 +166,7 @@
       "codigo": "MAD.BACH.CCOMP.1.CR.3.3",
       "tipo": "criterio",
       "texto": "Elaborar y difundir contenidos e información contrastada en Internet, desarrollando proyectos para la elaboración de contenidos web en equipos de trabajo, utilizando las herramientas y aplicaciones ofimáticas más adecuadas para la gestión de las tareas en cada caso.",
+      "codigo_oficial": "3.3",
       "procedencia": {
         "norma": "bocm-20230531-18",
         "ubicacion": "anexo IV, 1.º, criterio 3.3",
@@ -169,6 +179,7 @@
       "codigo": "MAD.BACH.CCOMP.1.CE.4",
       "tipo": "competencia_especifica",
       "texto": "Diseñar y crear aplicaciones y programas informáticos con diversas finalidades para dar respuesta a problemas y situaciones que puedan producirse en el ámbito académico y profesional, estructurando y aplicando los algoritmos necesarios, así como realizando las operaciones de compilación y depuración necesarias, valorando la incidencia de la programación y su impacto en la sociedad actual.",
+      "codigo_oficial": "4",
       "procedencia": {
         "norma": "bocm-20230531-18",
         "ubicacion": "anexo IV, competencia específica 4",
@@ -191,6 +202,7 @@
       "codigo": "MAD.BACH.CCOMP.1.CR.4.1",
       "tipo": "criterio",
       "texto": "Detectar problemas y situaciones en las que puedan aplicarse algoritmos para su resolución, valorando el papel del pensamiento computacional y la programación para su resolución.",
+      "codigo_oficial": "4.1",
       "procedencia": {
         "norma": "bocm-20230531-18",
         "ubicacion": "anexo IV, 1.º, criterio 4.1",
@@ -203,6 +215,7 @@
       "codigo": "MAD.BACH.CCOMP.1.CR.4.2",
       "tipo": "criterio",
       "texto": "Diseñar la estructura de un programa informático basándose en los fundamentos de la programación, seleccionando el lenguaje más idóneo para materializarlo.",
+      "codigo_oficial": "4.2",
       "procedencia": {
         "norma": "bocm-20230531-18",
         "ubicacion": "anexo IV, 1.º, criterio 4.2",
@@ -215,6 +228,7 @@
       "codigo": "MAD.BACH.CCOMP.1.CR.4.3",
       "tipo": "criterio",
       "texto": "Conocer las principales sentencias e instrucciones de uno o varios lenguajes de programación, considerando la importancia de la corrección en la sintaxis para su depuración y compilación.",
+      "codigo_oficial": "4.3",
       "procedencia": {
         "norma": "bocm-20230531-18",
         "ubicacion": "anexo IV, 1.º, criterio 4.3",
@@ -227,6 +241,7 @@
       "codigo": "MAD.BACH.CCOMP.1.CO.A",
       "tipo": "bloque_contenidos",
       "texto": "Ciencias de la computación. Evolución histórica.",
+      "codigo_oficial": "A",
       "procedencia": {
         "norma": "bocm-20230531-18",
         "ubicacion": "anexo IV, 1.º, contenidos, bloque A",
@@ -238,6 +253,7 @@
       "codigo": "MAD.BACH.CCOMP.1.CO.A.1",
       "tipo": "contenido",
       "texto": "Los inicios de las ciencias de la computación (Alan Turing, Ada Lovelace, John von Neumann). Teoría de algoritmos. Máquina de Turing. Álgebra de Boole.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20230531-18",
         "ubicacion": "anexo IV, 1.º, contenidos, bloque A",
@@ -250,6 +266,7 @@
       "codigo": "MAD.BACH.CCOMP.1.CO.A.2",
       "tipo": "contenido",
       "texto": "Computación y computabilidad. Problemas de decisión y problemas indecibles.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20230531-18",
         "ubicacion": "anexo IV, 1.º, contenidos, bloque A",
@@ -262,6 +279,7 @@
       "codigo": "MAD.BACH.CCOMP.1.CO.A.3",
       "tipo": "contenido",
       "texto": "El comienzo de la revolución digital. La era de la información y el internet.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20230531-18",
         "ubicacion": "anexo IV, 1.º, contenidos, bloque A",
@@ -274,6 +292,7 @@
       "codigo": "MAD.BACH.CCOMP.1.CO.A.4",
       "tipo": "contenido",
       "texto": "Avances tecnológicos en la computación a lo largo de la historia:",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20230531-18",
         "ubicacion": "anexo IV, 1.º, contenidos, bloque A",
@@ -286,6 +305,7 @@
       "codigo": "MAD.BACH.CCOMP.1.CO.A.4.1",
       "tipo": "contenido",
       "texto": "Las primeras máquinas matemáticas: el ábaco, los logaritmos de Napier, la regla deslizante (William Oughtred, 1621), la rueda de pascal o pascalina (Blaise Pascal, 1642).",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20230531-18",
         "ubicacion": "anexo IV, 1.º, contenidos, bloque A",
@@ -298,6 +318,7 @@
       "codigo": "MAD.BACH.CCOMP.1.CO.A.4.2",
       "tipo": "contenido",
       "texto": "La máquina diferencial de Charles Babbage (1822).",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20230531-18",
         "ubicacion": "anexo IV, 1.º, contenidos, bloque A",
@@ -310,6 +331,7 @@
       "codigo": "MAD.BACH.CCOMP.1.CO.A.4.3",
       "tipo": "contenido",
       "texto": "La válvula de vacío. El primer ordenador electrónico (ENIAC 1943-1946).",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20230531-18",
         "ubicacion": "anexo IV, 1.º, contenidos, bloque A",
@@ -322,6 +344,7 @@
       "codigo": "MAD.BACH.CCOMP.1.CO.A.4.4",
       "tipo": "contenido",
       "texto": "El transistor.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20230531-18",
         "ubicacion": "anexo IV, 1.º, contenidos, bloque A",
@@ -334,6 +357,7 @@
       "codigo": "MAD.BACH.CCOMP.1.CO.A.4.5",
       "tipo": "contenido",
       "texto": "El circuito integrado. El chip.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20230531-18",
         "ubicacion": "anexo IV, 1.º, contenidos, bloque A",
@@ -346,6 +370,7 @@
       "codigo": "MAD.BACH.CCOMP.1.CO.A.4.6",
       "tipo": "contenido",
       "texto": "Los sensores. La robótica.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20230531-18",
         "ubicacion": "anexo IV, 1.º, contenidos, bloque A",
@@ -358,6 +383,7 @@
       "codigo": "MAD.BACH.CCOMP.1.CO.A.4.7",
       "tipo": "contenido",
       "texto": "La inteligencia artificial.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20230531-18",
         "ubicacion": "anexo IV, 1.º, contenidos, bloque A",
@@ -370,6 +396,7 @@
       "codigo": "MAD.BACH.CCOMP.1.CO.A.5",
       "tipo": "contenido",
       "texto": "Las tarjetas perforadas. Los lenguajes de programación. La computación gráfica. Los simuladores.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20230531-18",
         "ubicacion": "anexo IV, 1.º, contenidos, bloque A",
@@ -382,6 +409,7 @@
       "codigo": "MAD.BACH.CCOMP.1.CO.A.6",
       "tipo": "contenido",
       "texto": "Computación y sociedad. Impacto en el desarrollo social y económico. Beneficios y efectos negativos.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20230531-18",
         "ubicacion": "anexo IV, 1.º, contenidos, bloque A",
@@ -394,6 +422,7 @@
       "codigo": "MAD.BACH.CCOMP.1.CO.B",
       "tipo": "bloque_contenidos",
       "texto": "Los sistemas informáticos.",
+      "codigo_oficial": "B",
       "procedencia": {
         "norma": "bocm-20230531-18",
         "ubicacion": "anexo IV, 1.º, contenidos, bloque B",
@@ -405,6 +434,7 @@
       "codigo": "MAD.BACH.CCOMP.1.CO.B.1",
       "tipo": "contenido",
       "texto": "Elementos de un sistema informático: subsistema físico (hardware), subsistema lógico (software) y el usuario (analistas, programadores, operarios, etc.)",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20230531-18",
         "ubicacion": "anexo IV, 1.º, contenidos, bloque B",
@@ -417,6 +447,7 @@
       "codigo": "MAD.BACH.CCOMP.1.CO.B.2",
       "tipo": "contenido",
       "texto": "Ordenadores personales, sistemas departamentales y grandes ordenadores.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20230531-18",
         "ubicacion": "anexo IV, 1.º, contenidos, bloque B",
@@ -429,6 +460,7 @@
       "codigo": "MAD.BACH.CCOMP.1.CO.B.3",
       "tipo": "contenido",
       "texto": "Estructura del hardware.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20230531-18",
         "ubicacion": "anexo IV, 1.º, contenidos, bloque B",
@@ -441,6 +473,7 @@
       "codigo": "MAD.BACH.CCOMP.1.CO.B.3.1",
       "tipo": "contenido",
       "texto": "Arquitectura de Neumann: procesador, memoria, interfaces de entrada y salida, buses.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20230531-18",
         "ubicacion": "anexo IV, 1.º, contenidos, bloque B",
@@ -453,6 +486,7 @@
       "codigo": "MAD.BACH.CCOMP.1.CO.B.3.2",
       "tipo": "contenido",
       "texto": "Dispositivos de cómputo: unidad central de proceso (CPU), memoria (RAM, ROM, caché), bus de datos.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20230531-18",
         "ubicacion": "anexo IV, 1.º, contenidos, bloque B",
@@ -465,6 +499,7 @@
       "codigo": "MAD.BACH.CCOMP.1.CO.B.3.3",
       "tipo": "contenido",
       "texto": "Dispositivos de almacenamiento.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20230531-18",
         "ubicacion": "anexo IV, 1.º, contenidos, bloque B",
@@ -477,6 +512,7 @@
       "codigo": "MAD.BACH.CCOMP.1.CO.B.3.4",
       "tipo": "contenido",
       "texto": "Dispositivos de comunicación.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20230531-18",
         "ubicacion": "anexo IV, 1.º, contenidos, bloque B",
@@ -489,6 +525,7 @@
       "codigo": "MAD.BACH.CCOMP.1.CO.B.3.5",
       "tipo": "contenido",
       "texto": "Dispositivos de entrada.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20230531-18",
         "ubicacion": "anexo IV, 1.º, contenidos, bloque B",
@@ -501,6 +538,7 @@
       "codigo": "MAD.BACH.CCOMP.1.CO.B.3.6",
       "tipo": "contenido",
       "texto": "Dispositivos de salida.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20230531-18",
         "ubicacion": "anexo IV, 1.º, contenidos, bloque B",
@@ -513,6 +551,7 @@
       "codigo": "MAD.BACH.CCOMP.1.CO.B.4",
       "tipo": "contenido",
       "texto": "La placa base (mainboard):",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20230531-18",
         "ubicacion": "anexo IV, 1.º, contenidos, bloque B",
@@ -525,6 +564,7 @@
       "codigo": "MAD.BACH.CCOMP.1.CO.B.4.1",
       "tipo": "contenido",
       "texto": "Conectores de alimentación.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20230531-18",
         "ubicacion": "anexo IV, 1.º, contenidos, bloque B",
@@ -537,6 +577,7 @@
       "codigo": "MAD.BACH.CCOMP.1.CO.B.4.2",
       "tipo": "contenido",
       "texto": "Zócalo de CPU.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20230531-18",
         "ubicacion": "anexo IV, 1.º, contenidos, bloque B",
@@ -549,6 +590,7 @@
       "codigo": "MAD.BACH.CCOMP.1.CO.B.4.3",
       "tipo": "contenido",
       "texto": "Ranuras de RAM.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20230531-18",
         "ubicacion": "anexo IV, 1.º, contenidos, bloque B",
@@ -561,6 +603,7 @@
       "codigo": "MAD.BACH.CCOMP.1.CO.B.4.4",
       "tipo": "contenido",
       "texto": "Chipset: puente norte (interconexiones CPU, RAM, procesador gráfico) y puente sur (interconexiones periféricos y dispositivos de almacenamiento).",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20230531-18",
         "ubicacion": "anexo IV, 1.º, contenidos, bloque B",
@@ -573,6 +616,7 @@
       "codigo": "MAD.BACH.CCOMP.1.CO.B.4.5",
       "tipo": "contenido",
       "texto": "Reloj.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20230531-18",
         "ubicacion": "anexo IV, 1.º, contenidos, bloque B",
@@ -585,6 +629,7 @@
       "codigo": "MAD.BACH.CCOMP.1.CO.B.4.6",
       "tipo": "contenido",
       "texto": "Semiconductor complementario de óxido metálico (CMOS), memoria de configuración del equipo.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20230531-18",
         "ubicacion": "anexo IV, 1.º, contenidos, bloque B",
@@ -597,6 +642,7 @@
       "codigo": "MAD.BACH.CCOMP.1.CO.B.4.7",
       "tipo": "contenido",
       "texto": "Firmware: sistema básico de entrada y salida (BIOS), interfaz unificada de firmware extensible (UEFI).",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20230531-18",
         "ubicacion": "anexo IV, 1.º, contenidos, bloque B",
@@ -609,6 +655,7 @@
       "codigo": "MAD.BACH.CCOMP.1.CO.B.4.8",
       "tipo": "contenido",
       "texto": "Buses y conectores. Puertos más frecuentes en los equipos.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20230531-18",
         "ubicacion": "anexo IV, 1.º, contenidos, bloque B",
@@ -621,6 +668,7 @@
       "codigo": "MAD.BACH.CCOMP.1.CO.B.5",
       "tipo": "contenido",
       "texto": "Subsistemas integrantes de equipos informáticos. Alimentación. Sistemas de protección ante fallos.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20230531-18",
         "ubicacion": "anexo IV, 1.º, contenidos, bloque B",
@@ -633,6 +681,7 @@
       "codigo": "MAD.BACH.CCOMP.1.CO.B.6",
       "tipo": "contenido",
       "texto": "Secuencia de arranque de un equipo informático, el gestor de arranque (bootloader).",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20230531-18",
         "ubicacion": "anexo IV, 1.º, contenidos, bloque B",
@@ -645,6 +694,7 @@
       "codigo": "MAD.BACH.CCOMP.1.CO.C",
       "tipo": "bloque_contenidos",
       "texto": "Software de sistema y de utilidad.",
+      "codigo_oficial": "C",
       "procedencia": {
         "norma": "bocm-20230531-18",
         "ubicacion": "anexo IV, 1.º, contenidos, bloque C",
@@ -656,6 +706,7 @@
       "codigo": "MAD.BACH.CCOMP.1.CO.C.1",
       "tipo": "contenido",
       "texto": "Software de sistema: sistemas operativos, lenguajes de programación.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20230531-18",
         "ubicacion": "anexo IV, 1.º, contenidos, bloque C",
@@ -668,6 +719,7 @@
       "codigo": "MAD.BACH.CCOMP.1.CO.C.2",
       "tipo": "contenido",
       "texto": "Sistemas operativos:",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20230531-18",
         "ubicacion": "anexo IV, 1.º, contenidos, bloque C",
@@ -680,6 +732,7 @@
       "codigo": "MAD.BACH.CCOMP.1.CO.C.2.1",
       "tipo": "contenido",
       "texto": "Funciones del sistema operativo.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20230531-18",
         "ubicacion": "anexo IV, 1.º, contenidos, bloque C",
@@ -692,6 +745,7 @@
       "codigo": "MAD.BACH.CCOMP.1.CO.C.2.2",
       "tipo": "contenido",
       "texto": "Interfaz: de línea de comandos, gráfica de usuario (GUI).",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20230531-18",
         "ubicacion": "anexo IV, 1.º, contenidos, bloque C",
@@ -704,6 +758,7 @@
       "codigo": "MAD.BACH.CCOMP.1.CO.C.2.3",
       "tipo": "contenido",
       "texto": "Tipos de sistemas.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20230531-18",
         "ubicacion": "anexo IV, 1.º, contenidos, bloque C",
@@ -716,6 +771,7 @@
       "codigo": "MAD.BACH.CCOMP.1.CO.C.2.4",
       "tipo": "contenido",
       "texto": "Componentes: sistema de archivos, interpretación de comandos, núcleo.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20230531-18",
         "ubicacion": "anexo IV, 1.º, contenidos, bloque C",
@@ -728,6 +784,7 @@
       "codigo": "MAD.BACH.CCOMP.1.CO.C.3",
       "tipo": "contenido",
       "texto": "Lenguajes de programación: de bajo y alto nivel.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20230531-18",
         "ubicacion": "anexo IV, 1.º, contenidos, bloque C",
@@ -740,6 +797,7 @@
       "codigo": "MAD.BACH.CCOMP.1.CO.C.4",
       "tipo": "contenido",
       "texto": "Tipos de programación: declarativa, imperativa, estructurada, modular, orientada a objetos, orientada a eventos.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20230531-18",
         "ubicacion": "anexo IV, 1.º, contenidos, bloque C",
@@ -752,6 +810,7 @@
       "codigo": "MAD.BACH.CCOMP.1.CO.C.5",
       "tipo": "contenido",
       "texto": "Software de utilidad.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20230531-18",
         "ubicacion": "anexo IV, 1.º, contenidos, bloque C",
@@ -764,6 +823,7 @@
       "codigo": "MAD.BACH.CCOMP.1.CO.C.5.1",
       "tipo": "contenido",
       "texto": "Software libre y propietario.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20230531-18",
         "ubicacion": "anexo IV, 1.º, contenidos, bloque C",
@@ -776,6 +836,7 @@
       "codigo": "MAD.BACH.CCOMP.1.CO.C.5.2",
       "tipo": "contenido",
       "texto": "Tipos de aplicaciones.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20230531-18",
         "ubicacion": "anexo IV, 1.º, contenidos, bloque C",
@@ -788,6 +849,7 @@
       "codigo": "MAD.BACH.CCOMP.1.CO.C.5.3",
       "tipo": "contenido",
       "texto": "Instalación y prueba de aplicaciones.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20230531-18",
         "ubicacion": "anexo IV, 1.º, contenidos, bloque C",
@@ -800,6 +862,7 @@
       "codigo": "MAD.BACH.CCOMP.1.CO.C.5.4",
       "tipo": "contenido",
       "texto": "Requerimientos de las aplicaciones.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20230531-18",
         "ubicacion": "anexo IV, 1.º, contenidos, bloque C",
@@ -812,6 +875,7 @@
       "codigo": "MAD.BACH.CCOMP.1.CO.D",
       "tipo": "bloque_contenidos",
       "texto": "Elaboración y difusión de la información.",
+      "codigo_oficial": "D",
       "procedencia": {
         "norma": "bocm-20230531-18",
         "ubicacion": "anexo IV, 1.º, contenidos, bloque D",
@@ -823,6 +887,7 @@
       "codigo": "MAD.BACH.CCOMP.1.CO.D.1",
       "tipo": "contenido",
       "texto": "Ofimática y documentación electrónica.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20230531-18",
         "ubicacion": "anexo IV, 1.º, contenidos, bloque D",
@@ -835,6 +900,7 @@
       "codigo": "MAD.BACH.CCOMP.1.CO.D.2",
       "tipo": "contenido",
       "texto": "Utilización académica y profesional de procesadores de texto, hojas de cálculo, bases de datos, presentaciones y organización de proyectos.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20230531-18",
         "ubicacion": "anexo IV, 1.º, contenidos, bloque D",
@@ -847,6 +913,7 @@
       "codigo": "MAD.BACH.CCOMP.1.CO.D.3",
       "tipo": "contenido",
       "texto": "Software de comunicación: desde el correo electrónico y los gestores de agenda hasta las redes sociales y los entornos virtuales para la comunicación en tiempo real.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20230531-18",
         "ubicacion": "anexo IV, 1.º, contenidos, bloque D",
@@ -859,6 +926,7 @@
       "codigo": "MAD.BACH.CCOMP.1.CO.D.4",
       "tipo": "contenido",
       "texto": "Herramientas de gestión de archivos y almacenamiento en la nube. Contenidos compartidos.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20230531-18",
         "ubicacion": "anexo IV, 1.º, contenidos, bloque D",
@@ -871,6 +939,7 @@
       "codigo": "MAD.BACH.CCOMP.1.CO.D.5",
       "tipo": "contenido",
       "texto": "Diseño y edición de páginas web. Aplicaciones y lenguajes. Publicación de páginas web. Estándares de accesibilidad de la información.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20230531-18",
         "ubicacion": "anexo IV, 1.º, contenidos, bloque D",
@@ -883,6 +952,7 @@
       "codigo": "MAD.BACH.CCOMP.1.CO.D.6",
       "tipo": "contenido",
       "texto": "La evolución de Internet y su impacto social.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20230531-18",
         "ubicacion": "anexo IV, 1.º, contenidos, bloque D",
@@ -895,6 +965,7 @@
       "codigo": "MAD.BACH.CCOMP.1.CO.D.6.1",
       "tipo": "contenido",
       "texto": "La revolución de la web 1.0, el acceso instantáneo a la información. El nacimiento de la sociedad de la información y la comunicación.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20230531-18",
         "ubicacion": "anexo IV, 1.º, contenidos, bloque D",
@@ -907,6 +978,7 @@
       "codigo": "MAD.BACH.CCOMP.1.CO.D.6.2",
       "tipo": "contenido",
       "texto": "La web 2.0, la interoperabilidad y la creación colaborativa de contenidos, la web social. Usos y riesgos de las redes sociales y sus aplicaciones.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20230531-18",
         "ubicacion": "anexo IV, 1.º, contenidos, bloque D",
@@ -919,6 +991,7 @@
       "codigo": "MAD.BACH.CCOMP.1.CO.D.6.3",
       "tipo": "contenido",
       "texto": "La web 3.0 el internet de las cosas y la incorporación de la inteligencia artificial a la red, el BigData.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20230531-18",
         "ubicacion": "anexo IV, 1.º, contenidos, bloque D",
@@ -931,6 +1004,7 @@
       "codigo": "MAD.BACH.CCOMP.1.CO.E",
       "tipo": "bloque_contenidos",
       "texto": "Programación.",
+      "codigo_oficial": "E",
       "procedencia": {
         "norma": "bocm-20230531-18",
         "ubicacion": "anexo IV, 1.º, contenidos, bloque E",
@@ -942,6 +1016,7 @@
       "codigo": "MAD.BACH.CCOMP.1.CO.E.1",
       "tipo": "contenido",
       "texto": "Elementos de programación.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20230531-18",
         "ubicacion": "anexo IV, 1.º, contenidos, bloque E",
@@ -954,6 +1029,7 @@
       "codigo": "MAD.BACH.CCOMP.1.CO.E.2",
       "tipo": "contenido",
       "texto": "Conceptos básicos: ingeniería de software, lenguajes de programación, evolución de la programación.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20230531-18",
         "ubicacion": "anexo IV, 1.º, contenidos, bloque E",
@@ -966,6 +1042,7 @@
       "codigo": "MAD.BACH.CCOMP.1.CO.E.3",
       "tipo": "contenido",
       "texto": "Algoritmos: estáticos, probabilísticos y adaptativos.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20230531-18",
         "ubicacion": "anexo IV, 1.º, contenidos, bloque E",
@@ -978,6 +1055,7 @@
       "codigo": "MAD.BACH.CCOMP.1.CO.E.4",
       "tipo": "contenido",
       "texto": "Diagramas de flujo: símbolos gráficos, elaboración de diagramas.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20230531-18",
         "ubicacion": "anexo IV, 1.º, contenidos, bloque E",
@@ -990,6 +1068,7 @@
       "codigo": "MAD.BACH.CCOMP.1.CO.E.5",
       "tipo": "contenido",
       "texto": "Pseudocódigo: instrucciones primitivas, de proceso, de control, compuestas, de descripción.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20230531-18",
         "ubicacion": "anexo IV, 1.º, contenidos, bloque E",
@@ -1002,6 +1081,7 @@
       "codigo": "MAD.BACH.CCOMP.1.CO.E.6",
       "tipo": "contenido",
       "texto": "Resolución de problemas mediante programación. Descomposición de problemas mayores en otros más pequeños.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20230531-18",
         "ubicacion": "anexo IV, 1.º, contenidos, bloque E",
@@ -1014,6 +1094,7 @@
       "codigo": "MAD.BACH.CCOMP.1.CO.E.7",
       "tipo": "contenido",
       "texto": "Estructuras básicas de la programación. Programación estructurada.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20230531-18",
         "ubicacion": "anexo IV, 1.º, contenidos, bloque E",
@@ -1026,6 +1107,7 @@
       "codigo": "MAD.BACH.CCOMP.1.CO.E.8",
       "tipo": "contenido",
       "texto": "Entornos de programación.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20230531-18",
         "ubicacion": "anexo IV, 1.º, contenidos, bloque E",
@@ -1038,6 +1120,7 @@
       "codigo": "MAD.BACH.CCOMP.1.CO.E.9",
       "tipo": "contenido",
       "texto": "Metodología de desarrollo de programas:",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20230531-18",
         "ubicacion": "anexo IV, 1.º, contenidos, bloque E",
@@ -1050,6 +1133,7 @@
       "codigo": "MAD.BACH.CCOMP.1.CO.E.9.1",
       "tipo": "contenido",
       "texto": "Sentencias de programación: simples y estructuradas.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20230531-18",
         "ubicacion": "anexo IV, 1.º, contenidos, bloque E",
@@ -1062,6 +1146,7 @@
       "codigo": "MAD.BACH.CCOMP.1.CO.E.9.2",
       "tipo": "contenido",
       "texto": "Sintaxis y codificación: variables y vectores, expresiones condicionales, selección y bucles, funciones.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20230531-18",
         "ubicacion": "anexo IV, 1.º, contenidos, bloque E",
@@ -1074,6 +1159,7 @@
       "codigo": "MAD.BACH.CCOMP.1.CO.E.9.3",
       "tipo": "contenido",
       "texto": "Ensamblaje o compilación del programa.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20230531-18",
         "ubicacion": "anexo IV, 1.º, contenidos, bloque E",
@@ -1086,6 +1172,7 @@
       "codigo": "MAD.BACH.CCOMP.1.CO.E.9.4",
       "tipo": "contenido",
       "texto": "Prueba y depuración del programa.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20230531-18",
         "ubicacion": "anexo IV, 1.º, contenidos, bloque E",

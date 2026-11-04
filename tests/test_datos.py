@@ -206,6 +206,19 @@ def test_rechaza_directorio_ausente(tmp_path):
     invalido(tmp_path, "normas")
 
 
+def test_codigo_oficial_obligatorio(raiz):
+    modificar(raiz, FICHA, lambda d: elemento(d, f"{MATERIA}.CE.1").pop("codigo_oficial"))
+    invalido(raiz, "codigo_oficial")
+
+
+@pytest.mark.parametrize("valor", [1, "", ["a"], True])
+def test_codigo_oficial_es_cadena_o_nulo(raiz, valor):
+    modificar(
+        raiz, FICHA, lambda d: elemento(d, f"{MATERIA}.CE.1").update(codigo_oficial=valor)
+    )
+    invalido(raiz, "codigo_oficial")
+
+
 @pytest.mark.parametrize(
     ("campo", "valor"),
     [

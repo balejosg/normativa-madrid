@@ -17,6 +17,7 @@
       "codigo": "MAD.DAM.0490",
       "tipo": "modulo",
       "texto": "Programación de servicios y procesos",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20241115-2",
         "ubicacion": "anexo II",
@@ -32,6 +33,7 @@
       "codigo": "MAD.DAM.0490.RA.1",
       "tipo": "resultado_aprendizaje",
       "texto": "Desarrolla aplicaciones compuestas por varios procesos reconociendo y aplicando principios de programación paralela.",
+      "codigo_oficial": "1.",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0490, resultado de aprendizaje 1",
@@ -51,6 +53,7 @@
       "codigo": "MAD.DAM.0490.RA.1.a",
       "tipo": "criterio_fp",
       "texto": "Se han reconocido las características de la programación concurrente y sus ámbitos de aplicación.",
+      "codigo_oficial": "a)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0490, resultado de aprendizaje 1, criterio a",
@@ -70,6 +73,7 @@
       "codigo": "MAD.DAM.0490.RA.1.b",
       "tipo": "criterio_fp",
       "texto": "Se han identificado las diferencias entre programación paralela y programación distribuida, sus ventajas e inconvenientes.",
+      "codigo_oficial": "b)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0490, resultado de aprendizaje 1, criterio b",
@@ -89,6 +93,7 @@
       "codigo": "MAD.DAM.0490.RA.1.c",
       "tipo": "criterio_fp",
       "texto": "Se han analizado las características de los procesos y de su ejecución por el sistema operativo.",
+      "codigo_oficial": "c)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0490, resultado de aprendizaje 1, criterio c",
@@ -108,6 +113,7 @@
       "codigo": "MAD.DAM.0490.RA.1.d",
       "tipo": "criterio_fp",
       "texto": "Se han caracterizado los hilos de ejecución y descrito su relación con los procesos.",
+      "codigo_oficial": "d)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0490, resultado de aprendizaje 1, criterio d",
@@ -127,6 +133,7 @@
       "codigo": "MAD.DAM.0490.RA.1.e",
       "tipo": "criterio_fp",
       "texto": "Se han utilizado clases para programar aplicaciones que crean subprocesos.",
+      "codigo_oficial": "e)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0490, resultado de aprendizaje 1, criterio e",
@@ -146,6 +153,7 @@
       "codigo": "MAD.DAM.0490.RA.1.f",
       "tipo": "criterio_fp",
       "texto": "Se han utilizado mecanismos para compartir información con los subprocesos iniciados.",
+      "codigo_oficial": "f)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0490, resultado de aprendizaje 1, criterio f",
@@ -165,6 +173,7 @@
       "codigo": "MAD.DAM.0490.RA.1.g",
       "tipo": "criterio_fp",
       "texto": "Se han utilizado mecanismos para sincronizar y obtener el valor devuelto por los subprocesos iniciados.",
+      "codigo_oficial": "g)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0490, resultado de aprendizaje 1, criterio g",
@@ -184,6 +193,7 @@
       "codigo": "MAD.DAM.0490.RA.1.h",
       "tipo": "criterio_fp",
       "texto": "Se han desarrollado aplicaciones que gestionen y utilicen procesos para la ejecución de varias tareas en paralelo.",
+      "codigo_oficial": "h)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0490, resultado de aprendizaje 1, criterio h",
@@ -203,6 +213,7 @@
       "codigo": "MAD.DAM.0490.RA.1.i",
       "tipo": "criterio_fp",
       "texto": "Se han depurado y documentado las aplicaciones desarrolladas.",
+      "codigo_oficial": "i)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0490, resultado de aprendizaje 1, criterio i",
@@ -222,6 +233,7 @@
       "codigo": "MAD.DAM.0490.RA.2",
       "tipo": "resultado_aprendizaje",
       "texto": "Desarrolla aplicaciones compuestas por varios hilos de ejecución analizando y aplicando librerías específicas del lenguaje de programación.",
+      "codigo_oficial": "2.",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0490, resultado de aprendizaje 2",
@@ -241,6 +253,7 @@
       "codigo": "MAD.DAM.0490.RA.2.a",
       "tipo": "criterio_fp",
       "texto": "Se han identificado situaciones en las que resulte útil la utilización de varios hilos en un programa.",
+      "codigo_oficial": "a)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0490, resultado de aprendizaje 2, criterio a",
@@ -260,6 +273,7 @@
       "codigo": "MAD.DAM.0490.RA.2.b",
       "tipo": "criterio_fp",
       "texto": "Se han reconocido los mecanismos para crear, iniciar y finalizar hilos.",
+      "codigo_oficial": "b)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0490, resultado de aprendizaje 2, criterio b",
@@ -279,6 +293,7 @@
       "codigo": "MAD.DAM.0490.RA.2.c",
       "tipo": "criterio_fp",
       "texto": "Se han programado aplicaciones que implementen varios hilos.",
+      "codigo_oficial": "c)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0490, resultado de aprendizaje 2, criterio c",
@@ -298,6 +313,7 @@
       "codigo": "MAD.DAM.0490.RA.2.d",
       "tipo": "criterio_fp",
       "texto": "Se han identificado los posibles estados de ejecución de un hilo y programado aplicaciones que los gestionen.",
+      "codigo_oficial": "d)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0490, resultado de aprendizaje 2, criterio d",
@@ -317,6 +333,7 @@
       "codigo": "MAD.DAM.0490.RA.2.e",
       "tipo": "criterio_fp",
       "texto": "Se han utilizado mecanismos para compartir información entre varios hilos de un mismo proceso.",
+      "codigo_oficial": "e)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0490, resultado de aprendizaje 2, criterio e",
@@ -336,6 +353,7 @@
       "codigo": "MAD.DAM.0490.RA.2.f",
       "tipo": "criterio_fp",
       "texto": "Se han desarrollado programas formados por varios hilos sincronizados mediante técnicas específicas.",
+      "codigo_oficial": "f)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0490, resultado de aprendizaje 2, criterio f",
@@ -355,6 +373,7 @@
       "codigo": "MAD.DAM.0490.RA.2.g",
       "tipo": "criterio_fp",
       "texto": "Se ha establecido y controlado la prioridad de cada uno de los hilos de ejecución.",
+      "codigo_oficial": "g)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0490, resultado de aprendizaje 2, criterio g",
@@ -374,6 +393,7 @@
       "codigo": "MAD.DAM.0490.RA.2.h",
       "tipo": "criterio_fp",
       "texto": "Se han depurado y documentado los programas desarrollados.",
+      "codigo_oficial": "h)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0490, resultado de aprendizaje 2, criterio h",
@@ -393,6 +413,7 @@
       "codigo": "MAD.DAM.0490.RA.2.i",
       "tipo": "criterio_fp",
       "texto": "Se ha analizado el contexto de ejecución de los hilos.",
+      "codigo_oficial": "i)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0490, resultado de aprendizaje 2, criterio i",
@@ -412,6 +433,7 @@
       "codigo": "MAD.DAM.0490.RA.2.j",
       "tipo": "criterio_fp",
       "texto": "Se han analizado librerías específicas del lenguaje de programación que permiten la programacióm multihilo.",
+      "codigo_oficial": "j)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0490, resultado de aprendizaje 2, criterio j",
@@ -431,6 +453,7 @@
       "codigo": "MAD.DAM.0490.RA.2.k",
       "tipo": "criterio_fp",
       "texto": "Se han reconocido los problemas derivados de la compartición de información entre los hilos de un mismo proceso.",
+      "codigo_oficial": "k)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0490, resultado de aprendizaje 2, criterio k",
@@ -450,6 +473,7 @@
       "codigo": "MAD.DAM.0490.RA.3",
       "tipo": "resultado_aprendizaje",
       "texto": "Programa mecanismos de comunicación en red empleando sockets y analizando el escenario de ejecución.",
+      "codigo_oficial": "3.",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0490, resultado de aprendizaje 3",
@@ -469,6 +493,7 @@
       "codigo": "MAD.DAM.0490.RA.3.a",
       "tipo": "criterio_fp",
       "texto": "Se han identificado escenarios que precisan establecer comunicación en red entre varias aplicaciones.",
+      "codigo_oficial": "a)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0490, resultado de aprendizaje 3, criterio a",
@@ -488,6 +513,7 @@
       "codigo": "MAD.DAM.0490.RA.3.b",
       "tipo": "criterio_fp",
       "texto": "Se han identificado los roles de cliente y de servidor y sus funciones asociadas.",
+      "codigo_oficial": "b)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0490, resultado de aprendizaje 3, criterio b",
@@ -507,6 +533,7 @@
       "codigo": "MAD.DAM.0490.RA.3.c",
       "tipo": "criterio_fp",
       "texto": "Se han reconocido librerías y mecanismos del lenguaje de programación que permiten programar aplicaciones en red.",
+      "codigo_oficial": "c)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0490, resultado de aprendizaje 3, criterio c",
@@ -526,6 +553,7 @@
       "codigo": "MAD.DAM.0490.RA.3.d",
       "tipo": "criterio_fp",
       "texto": "Se ha analizado el concepto de socket, sus tipos y características.",
+      "codigo_oficial": "d)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0490, resultado de aprendizaje 3, criterio d",
@@ -545,6 +573,7 @@
       "codigo": "MAD.DAM.0490.RA.3.e",
       "tipo": "criterio_fp",
       "texto": "Se han utilizado sockets para programar una aplicación cliente que se comunique con un servidor.",
+      "codigo_oficial": "e)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0490, resultado de aprendizaje 3, criterio e",
@@ -564,6 +593,7 @@
       "codigo": "MAD.DAM.0490.RA.3.f",
       "tipo": "criterio_fp",
       "texto": "Se ha desarrollado una aplicación servidor en red y verificado su funcionamiento.",
+      "codigo_oficial": "f)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0490, resultado de aprendizaje 3, criterio f",
@@ -583,6 +613,7 @@
       "codigo": "MAD.DAM.0490.RA.3.g",
       "tipo": "criterio_fp",
       "texto": "Se han desarrollado aplicaciones que utilizan sockets para intercambiar",
+      "codigo_oficial": "g)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0490, resultado de aprendizaje 3, criterio g",
@@ -602,6 +633,7 @@
       "codigo": "MAD.DAM.0490.RA.3.h",
       "tipo": "criterio_fp",
       "texto": "información.",
+      "codigo_oficial": "h)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0490, resultado de aprendizaje 3, criterio h",
@@ -621,6 +653,7 @@
       "codigo": "MAD.DAM.0490.RA.3.i",
       "tipo": "criterio_fp",
       "texto": "Se han utilizado hilos para posibilitar la comunicación simultánea de varios clientes con el servidor.",
+      "codigo_oficial": "i)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0490, resultado de aprendizaje 3, criterio i",
@@ -640,6 +673,7 @@
       "codigo": "MAD.DAM.0490.RA.3.j",
       "tipo": "criterio_fp",
       "texto": "Se han caracterizado los modelos de comunicación más usuales en las arquitecturas de aplicaciones distribuidas.",
+      "codigo_oficial": "j)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0490, resultado de aprendizaje 3, criterio j",
@@ -659,6 +693,7 @@
       "codigo": "MAD.DAM.0490.RA.3.k",
       "tipo": "criterio_fp",
       "texto": "Se han depurado y documentado las aplicaciones desarrolladas.",
+      "codigo_oficial": "k)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0490, resultado de aprendizaje 3, criterio k",
@@ -678,6 +713,7 @@
       "codigo": "MAD.DAM.0490.RA.4",
       "tipo": "resultado_aprendizaje",
       "texto": "Desarrolla aplicaciones que ofrecen servicios en red, utilizando librerías de clases y aplicando criterios de eficiencia y disponibilidad.",
+      "codigo_oficial": "4.",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0490, resultado de aprendizaje 4",
@@ -697,6 +733,7 @@
       "codigo": "MAD.DAM.0490.RA.4.a",
       "tipo": "criterio_fp",
       "texto": "Se han identificado diferentes protocolos estándar de comunicación para la implementación de servicios en red.",
+      "codigo_oficial": "a)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0490, resultado de aprendizaje 4, criterio a",
@@ -716,6 +753,7 @@
       "codigo": "MAD.DAM.0490.RA.4.b",
       "tipo": "criterio_fp",
       "texto": "Se han reconocido las ventajas de la utilización de protocolos estándar para la comunicación entre aplicaciones y procesos.",
+      "codigo_oficial": "b)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0490, resultado de aprendizaje 4, criterio b",
@@ -735,6 +773,7 @@
       "codigo": "MAD.DAM.0490.RA.4.c",
       "tipo": "criterio_fp",
       "texto": "Se han analizado librerías que permitan implementar servicios en red utilizando protocolos estándar de comunicación.",
+      "codigo_oficial": "c)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0490, resultado de aprendizaje 4, criterio c",
@@ -754,6 +793,7 @@
       "codigo": "MAD.DAM.0490.RA.4.d",
       "tipo": "criterio_fp",
       "texto": "Se han desarrollado y probado servicios de comunicación en red.",
+      "codigo_oficial": "d)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0490, resultado de aprendizaje 4, criterio d",
@@ -773,6 +813,7 @@
       "codigo": "MAD.DAM.0490.RA.4.e",
       "tipo": "criterio_fp",
       "texto": "Se han utilizado clientes de comunicaciones para verificar el funcionamiento de los servicios.",
+      "codigo_oficial": "e)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0490, resultado de aprendizaje 4, criterio e",
@@ -792,6 +833,7 @@
       "codigo": "MAD.DAM.0490.RA.4.f",
       "tipo": "criterio_fp",
       "texto": "Se han incorporado mecanismos para posibilitar la comunicación simultánea de varios clientes con el servicio.",
+      "codigo_oficial": "f)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0490, resultado de aprendizaje 4, criterio f",
@@ -811,6 +853,7 @@
       "codigo": "MAD.DAM.0490.RA.4.g",
       "tipo": "criterio_fp",
       "texto": "Se ha verificado la disponibilidad del servicio.",
+      "codigo_oficial": "g)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0490, resultado de aprendizaje 4, criterio g",
@@ -830,6 +873,7 @@
       "codigo": "MAD.DAM.0490.RA.4.h",
       "tipo": "criterio_fp",
       "texto": "Se han depurado y documentado las aplicaciones desarrolladas.",
+      "codigo_oficial": "h)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0490, resultado de aprendizaje 4, criterio h",
@@ -849,6 +893,7 @@
       "codigo": "MAD.DAM.0490.RA.5",
       "tipo": "resultado_aprendizaje",
       "texto": "Protege las aplicaciones y los datos definiendo y aplicando criterios de seguridad en el acceso, almacenamiento y transmisión de la información.",
+      "codigo_oficial": "5.",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0490, resultado de aprendizaje 5",
@@ -868,6 +913,7 @@
       "codigo": "MAD.DAM.0490.RA.5.a",
       "tipo": "criterio_fp",
       "texto": "Se han identificado y aplicado principios y prácticas de programación segura.",
+      "codigo_oficial": "a)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0490, resultado de aprendizaje 5, criterio a",
@@ -887,6 +933,7 @@
       "codigo": "MAD.DAM.0490.RA.5.b",
       "tipo": "criterio_fp",
       "texto": "Se han analizado las principales técnicas y prácticas criptográficas.",
+      "codigo_oficial": "b)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0490, resultado de aprendizaje 5, criterio b",
@@ -906,6 +953,7 @@
       "codigo": "MAD.DAM.0490.RA.5.c",
       "tipo": "criterio_fp",
       "texto": "Se han definido e implantado políticas de seguridad para limitar y controlar el acceso de los usuarios a las aplicaciones desarrolladas.",
+      "codigo_oficial": "c)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0490, resultado de aprendizaje 5, criterio c",
@@ -925,6 +973,7 @@
       "codigo": "MAD.DAM.0490.RA.5.d",
       "tipo": "criterio_fp",
       "texto": "Se han utilizado esquemas de seguridad basados en roles.",
+      "codigo_oficial": "d)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0490, resultado de aprendizaje 5, criterio d",
@@ -944,6 +993,7 @@
       "codigo": "MAD.DAM.0490.RA.5.e",
       "tipo": "criterio_fp",
       "texto": "Se han empleado algoritmos criptográficos para proteger el acceso a la información almacenada.",
+      "codigo_oficial": "e)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0490, resultado de aprendizaje 5, criterio e",
@@ -963,6 +1013,7 @@
       "codigo": "MAD.DAM.0490.RA.5.f",
       "tipo": "criterio_fp",
       "texto": "Se han identificado métodos para asegurar la información transmitida.",
+      "codigo_oficial": "f)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0490, resultado de aprendizaje 5, criterio f",
@@ -982,6 +1033,7 @@
       "codigo": "MAD.DAM.0490.RA.5.g",
       "tipo": "criterio_fp",
       "texto": "Se han desarrollado aplicaciones que utilicen comunicaciones seguras para la transmisión de información.",
+      "codigo_oficial": "g)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0490, resultado de aprendizaje 5, criterio g",
@@ -1001,6 +1053,7 @@
       "codigo": "MAD.DAM.0490.RA.5.h",
       "tipo": "criterio_fp",
       "texto": "Se han depurado y documentado las aplicaciones desarrolladas.",
+      "codigo_oficial": "h)",
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0490, resultado de aprendizaje 5, criterio h",
@@ -1020,6 +1073,7 @@
       "codigo": "EST.DAM.0490.CB.1",
       "tipo": "contenido_basico",
       "texto": "Programación multiproceso:",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0490, contenidos básicos",
@@ -1039,6 +1093,7 @@
       "codigo": "EST.DAM.0490.CB.1.1",
       "tipo": "contenido_basico",
       "texto": "Ejecutables. Procesos. Servicios.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0490, contenidos básicos",
@@ -1058,6 +1113,7 @@
       "codigo": "EST.DAM.0490.CB.1.2",
       "tipo": "contenido_basico",
       "texto": "Estados de un proceso. Planificación de procesos.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0490, contenidos básicos",
@@ -1077,6 +1133,7 @@
       "codigo": "EST.DAM.0490.CB.1.3",
       "tipo": "contenido_basico",
       "texto": "Hilos.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0490, contenidos básicos",
@@ -1096,6 +1153,7 @@
       "codigo": "EST.DAM.0490.CB.1.4",
       "tipo": "contenido_basico",
       "texto": "Programación concurrente.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0490, contenidos básicos",
@@ -1115,6 +1173,7 @@
       "codigo": "EST.DAM.0490.CB.1.5",
       "tipo": "contenido_basico",
       "texto": "Programación paralela y distribuida.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0490, contenidos básicos",
@@ -1134,6 +1193,7 @@
       "codigo": "EST.DAM.0490.CB.1.6",
       "tipo": "contenido_basico",
       "texto": "Comunicación entre procesos.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0490, contenidos básicos",
@@ -1153,6 +1213,7 @@
       "codigo": "EST.DAM.0490.CB.1.7",
       "tipo": "contenido_basico",
       "texto": "Gestión de procesos. Herramientas de monitorización.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0490, contenidos básicos",
@@ -1172,6 +1233,7 @@
       "codigo": "EST.DAM.0490.CB.1.8",
       "tipo": "contenido_basico",
       "texto": "Sincronización entre procesos.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0490, contenidos básicos",
@@ -1191,6 +1253,7 @@
       "codigo": "EST.DAM.0490.CB.1.9",
       "tipo": "contenido_basico",
       "texto": "Programación de aplicaciones multiproceso.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0490, contenidos básicos",
@@ -1210,6 +1273,7 @@
       "codigo": "EST.DAM.0490.CB.2",
       "tipo": "contenido_basico",
       "texto": "Programación multihilo:",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0490, contenidos básicos",
@@ -1229,6 +1293,7 @@
       "codigo": "EST.DAM.0490.CB.2.1",
       "tipo": "contenido_basico",
       "texto": "Contexto de ejecución de los hilos. Recursos compartidos.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0490, contenidos básicos",
@@ -1248,6 +1313,7 @@
       "codigo": "EST.DAM.0490.CB.2.2",
       "tipo": "contenido_basico",
       "texto": "Estados de un hilo. Cambios de estado.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0490, contenidos básicos",
@@ -1267,6 +1333,7 @@
       "codigo": "EST.DAM.0490.CB.2.3",
       "tipo": "contenido_basico",
       "texto": "Librerías y clases.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0490, contenidos básicos",
@@ -1286,6 +1353,7 @@
       "codigo": "EST.DAM.0490.CB.2.4",
       "tipo": "contenido_basico",
       "texto": "Gestión de hilos. Prioridades.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0490, contenidos básicos",
@@ -1305,6 +1373,7 @@
       "codigo": "EST.DAM.0490.CB.2.5",
       "tipo": "contenido_basico",
       "texto": "Sincronización de hilos.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0490, contenidos básicos",
@@ -1324,6 +1393,7 @@
       "codigo": "EST.DAM.0490.CB.2.6",
       "tipo": "contenido_basico",
       "texto": "Compartición de información entre hilos. Problemas.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0490, contenidos básicos",
@@ -1343,6 +1413,7 @@
       "codigo": "EST.DAM.0490.CB.2.7",
       "tipo": "contenido_basico",
       "texto": "Programación de aplicaciones multihilo.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0490, contenidos básicos",
@@ -1362,6 +1433,7 @@
       "codigo": "EST.DAM.0490.CB.3",
       "tipo": "contenido_basico",
       "texto": "Programación de comunicaciones en red:",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0490, contenidos básicos",
@@ -1381,6 +1453,7 @@
       "codigo": "EST.DAM.0490.CB.3.1",
       "tipo": "contenido_basico",
       "texto": "Comunicación entre aplicaciones. Modelos.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0490, contenidos básicos",
@@ -1400,6 +1473,7 @@
       "codigo": "EST.DAM.0490.CB.3.2",
       "tipo": "contenido_basico",
       "texto": "Roles cliente y servidor.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0490, contenidos básicos",
@@ -1419,6 +1493,7 @@
       "codigo": "EST.DAM.0490.CB.3.3",
       "tipo": "contenido_basico",
       "texto": "Librerías y clases.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0490, contenidos básicos",
@@ -1438,6 +1513,7 @@
       "codigo": "EST.DAM.0490.CB.3.4",
       "tipo": "contenido_basico",
       "texto": "Sockets. Tipos. Características.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0490, contenidos básicos",
@@ -1457,6 +1533,7 @@
       "codigo": "EST.DAM.0490.CB.3.5",
       "tipo": "contenido_basico",
       "texto": "Creación de sockets.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0490, contenidos básicos",
@@ -1476,6 +1553,7 @@
       "codigo": "EST.DAM.0490.CB.3.6",
       "tipo": "contenido_basico",
       "texto": "Enlazado y establecimiento de conexiones.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0490, contenidos básicos",
@@ -1495,6 +1573,7 @@
       "codigo": "EST.DAM.0490.CB.3.7",
       "tipo": "contenido_basico",
       "texto": "Utilización de sockets para la transmisión y recepción de información.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0490, contenidos básicos",
@@ -1514,6 +1593,7 @@
       "codigo": "EST.DAM.0490.CB.3.8",
       "tipo": "contenido_basico",
       "texto": "Programación de aplicaciones cliente y servidor.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0490, contenidos básicos",
@@ -1533,6 +1613,7 @@
       "codigo": "EST.DAM.0490.CB.3.9",
       "tipo": "contenido_basico",
       "texto": "Utilización de hilos para la implementación de comunicaciones simultáneas con el servidor.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0490, contenidos básicos",
@@ -1552,6 +1633,7 @@
       "codigo": "EST.DAM.0490.CB.4",
       "tipo": "contenido_basico",
       "texto": "Generación de servicios en red:",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0490, contenidos básicos",
@@ -1571,6 +1653,7 @@
       "codigo": "EST.DAM.0490.CB.4.1",
       "tipo": "contenido_basico",
       "texto": "Protocolos estándar de comunicación en red a nivel de aplicación. Ventajas de su utilización.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0490, contenidos básicos",
@@ -1590,6 +1673,7 @@
       "codigo": "EST.DAM.0490.CB.4.2",
       "tipo": "contenido_basico",
       "texto": "Servicios web.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0490, contenidos básicos",
@@ -1609,6 +1693,7 @@
       "codigo": "EST.DAM.0490.CB.4.3",
       "tipo": "contenido_basico",
       "texto": "Librerías de clases y componentes.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0490, contenidos básicos",
@@ -1628,6 +1713,7 @@
       "codigo": "EST.DAM.0490.CB.4.4",
       "tipo": "contenido_basico",
       "texto": "Programación de servidores.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0490, contenidos básicos",
@@ -1647,6 +1733,7 @@
       "codigo": "EST.DAM.0490.CB.4.5",
       "tipo": "contenido_basico",
       "texto": "Establecimiento y finalización de conexiones.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0490, contenidos básicos",
@@ -1666,6 +1753,7 @@
       "codigo": "EST.DAM.0490.CB.4.6",
       "tipo": "contenido_basico",
       "texto": "Transmisión de información.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0490, contenidos básicos",
@@ -1685,6 +1773,7 @@
       "codigo": "EST.DAM.0490.CB.4.7",
       "tipo": "contenido_basico",
       "texto": "Implementación de comunicaciones simultáneas.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0490, contenidos básicos",
@@ -1704,6 +1793,7 @@
       "codigo": "EST.DAM.0490.CB.4.8",
       "tipo": "contenido_basico",
       "texto": "Utilización de aplicaciones clientes.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0490, contenidos básicos",
@@ -1723,6 +1813,7 @@
       "codigo": "EST.DAM.0490.CB.4.9",
       "tipo": "contenido_basico",
       "texto": "Monitorización del servicio. Herramientas.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0490, contenidos básicos",
@@ -1742,6 +1833,7 @@
       "codigo": "EST.DAM.0490.CB.5",
       "tipo": "contenido_basico",
       "texto": "Utilización de técnicas de programación segura:",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0490, contenidos básicos",
@@ -1761,6 +1853,7 @@
       "codigo": "EST.DAM.0490.CB.5.1",
       "tipo": "contenido_basico",
       "texto": "Prácticas de programación segura.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0490, contenidos básicos",
@@ -1780,6 +1873,7 @@
       "codigo": "EST.DAM.0490.CB.5.2",
       "tipo": "contenido_basico",
       "texto": "Criptografía de clave pública y clave privada.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0490, contenidos básicos",
@@ -1799,6 +1893,7 @@
       "codigo": "EST.DAM.0490.CB.5.3",
       "tipo": "contenido_basico",
       "texto": "Principales aplicaciones de la criptografía.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0490, contenidos básicos",
@@ -1818,6 +1913,7 @@
       "codigo": "EST.DAM.0490.CB.5.4",
       "tipo": "contenido_basico",
       "texto": "Protocolos criptográficos.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0490, contenidos básicos",
@@ -1837,6 +1933,7 @@
       "codigo": "EST.DAM.0490.CB.5.5",
       "tipo": "contenido_basico",
       "texto": "Política de seguridad. Roles.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0490, contenidos básicos",
@@ -1856,6 +1953,7 @@
       "codigo": "EST.DAM.0490.CB.5.6",
       "tipo": "contenido_basico",
       "texto": "Programación de mecanismos de control de acceso.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0490, contenidos básicos",
@@ -1875,6 +1973,7 @@
       "codigo": "EST.DAM.0490.CB.5.7",
       "tipo": "contenido_basico",
       "texto": "Encriptación de información.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0490, contenidos básicos",
@@ -1894,6 +1993,7 @@
       "codigo": "EST.DAM.0490.CB.5.8",
       "tipo": "contenido_basico",
       "texto": "Protocolos seguros de comunicaciones.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0490, contenidos básicos",
@@ -1913,6 +2013,7 @@
       "codigo": "EST.DAM.0490.CB.5.9",
       "tipo": "contenido_basico",
       "texto": "Programación de aplicaciones con comunicaciones seguras.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0490, contenidos básicos",
@@ -1932,6 +2033,7 @@
       "codigo": "MAD.DAM.0490.ORI",
       "tipo": "orientaciones",
       "texto": "Este módulo profesional contiene parte de la formación necesaria para desempeñar la función de desarrollo de aplicaciones seguras en red. La función de desarrollo de aplicaciones seguras en red incluye aspectos como: La utilización de las capacidades ofrecidas por el sistema operativo para la gestión de procesos e hilos. La programación de aplicaciones compuestas por varios procesos e hilos. El desarrollo de aplicaciones con capacidades para comunicarse y ofrecer servicios a través de una red. La utilización de mecanismos de seguridad en el desarrollo de aplicaciones. Las actividades profesionales asociadas a esta función se aplican en el área de sistemas y desarrollo de software en el entorno empresarial. La formación del módulo contribuye a alcanzar los objetivos generales b), e), i), j), l), n) ñ), t) y w) del ciclo formativo y las competencias profesionales, personales y sociales b), e), i), j), l), n), ñ), t) y w) del título. Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten alcanzar los objetivos del módulo versarán sobre: La gestión de procesos e hilos y los mecanismos de comunicación y sincronización entre ellos. El desarrollo de programas compuestos por varios procesos e hilos. La utilización de sockets para la programación de aplicaciones conectadas en red. El desarrollo de aplicaciones que ofrezcan y utilicen servicios estándar de red. La aplicación de prácticas de programación segura. La aplicación de técnicas criptográficas en la utilización, almacenamiento y transmisión de información.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "boe-a-2023-13221",
         "ubicacion": "artículo segundo, apartado Seis (anexo I), módulo 0490, orientaciones pedagógicas",
@@ -1951,6 +2053,7 @@
       "codigo": "MAD.DAM.0490.CO.1",
       "tipo": "contenido",
       "texto": "Programación multiproceso:",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -1963,6 +2066,7 @@
       "codigo": "MAD.DAM.0490.CO.1.1",
       "tipo": "contenido",
       "texto": "Programas. Ejecutables. Procesos. Servicios.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -1975,6 +2079,7 @@
       "codigo": "MAD.DAM.0490.CO.1.2",
       "tipo": "contenido",
       "texto": "Procesos:",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -1987,6 +2092,7 @@
       "codigo": "MAD.DAM.0490.CO.1.2.1",
       "tipo": "contenido",
       "texto": "Elementos de un proceso.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -1999,6 +2105,7 @@
       "codigo": "MAD.DAM.0490.CO.1.2.2",
       "tipo": "contenido",
       "texto": "Estados de un proceso. Cambios de estado.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2011,6 +2118,7 @@
       "codigo": "MAD.DAM.0490.CO.1.2.3",
       "tipo": "contenido",
       "texto": "Planificación de procesos por el sistema operativo.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2023,6 +2131,7 @@
       "codigo": "MAD.DAM.0490.CO.1.3",
       "tipo": "contenido",
       "texto": "Hilos:",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2035,6 +2144,7 @@
       "codigo": "MAD.DAM.0490.CO.1.3.1",
       "tipo": "contenido",
       "texto": "Concepto y características.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2047,6 +2157,7 @@
       "codigo": "MAD.DAM.0490.CO.1.3.2",
       "tipo": "contenido",
       "texto": "Hilos vs. procesos.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2059,6 +2170,7 @@
       "codigo": "MAD.DAM.0490.CO.1.4",
       "tipo": "contenido",
       "texto": "Sistemas multitarea:",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2071,6 +2183,7 @@
       "codigo": "MAD.DAM.0490.CO.1.4.1",
       "tipo": "contenido",
       "texto": "Programación concurrente.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2083,6 +2196,7 @@
       "codigo": "MAD.DAM.0490.CO.1.4.2",
       "tipo": "contenido",
       "texto": "Programación paralela",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2095,6 +2209,7 @@
       "codigo": "MAD.DAM.0490.CO.1.4.3",
       "tipo": "contenido",
       "texto": "Programación distribuida.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2107,6 +2222,7 @@
       "codigo": "MAD.DAM.0490.CO.1.5",
       "tipo": "contenido",
       "texto": "Gestión de procesos. Conceptos básicos:",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2119,6 +2235,7 @@
       "codigo": "MAD.DAM.0490.CO.1.5.1",
       "tipo": "contenido",
       "texto": "Creación, ejecución y finalización de procesos.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2131,6 +2248,7 @@
       "codigo": "MAD.DAM.0490.CO.1.5.2",
       "tipo": "contenido",
       "texto": "Sincronización entre procesos. Exclusión mutua. Condiciones de sincronización.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2143,6 +2261,7 @@
       "codigo": "MAD.DAM.0490.CO.1.5.3",
       "tipo": "contenido",
       "texto": "Compartición de información (comunicación) entre hilos. Recursos compartidos.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2155,6 +2274,7 @@
       "codigo": "MAD.DAM.0490.CO.1.5.4",
       "tipo": "contenido",
       "texto": "Mecanismos de comunicación y sincronización de procesos (semáforos, monitores, paso de mensajes.)",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2167,6 +2287,7 @@
       "codigo": "MAD.DAM.0490.CO.1.5.5",
       "tipo": "contenido",
       "texto": "Problemas. Inanición, interbloqueos.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2179,6 +2300,7 @@
       "codigo": "MAD.DAM.0490.CO.1.6",
       "tipo": "contenido",
       "texto": "Programación de aplicaciones multiproceso.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2191,6 +2313,7 @@
       "codigo": "MAD.DAM.0490.CO.2",
       "tipo": "contenido",
       "texto": "Programación multihilo:",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2203,6 +2326,7 @@
       "codigo": "MAD.DAM.0490.CO.2.1",
       "tipo": "contenido",
       "texto": "Hilos:",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2215,6 +2339,7 @@
       "codigo": "MAD.DAM.0490.CO.2.1.1",
       "tipo": "contenido",
       "texto": "Estados de un hilo. Cambios de estado.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2227,6 +2352,7 @@
       "codigo": "MAD.DAM.0490.CO.2.1.2",
       "tipo": "contenido",
       "texto": "Recursos compartidos por los hilos.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2239,6 +2365,7 @@
       "codigo": "MAD.DAM.0490.CO.2.1.3",
       "tipo": "contenido",
       "texto": "Hilos de usuario vs. hilos de sistema. Modelos de hilos.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2251,6 +2378,7 @@
       "codigo": "MAD.DAM.0490.CO.2.1.4",
       "tipo": "contenido",
       "texto": "Planificación de hilos.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2263,6 +2391,7 @@
       "codigo": "MAD.DAM.0490.CO.2.1.5",
       "tipo": "contenido",
       "texto": "Hilo principal de un programa.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2275,6 +2404,7 @@
       "codigo": "MAD.DAM.0490.CO.2.2",
       "tipo": "contenido",
       "texto": "Elementos relacionados con la programación de hilos. Librerías y clases.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2287,6 +2417,7 @@
       "codigo": "MAD.DAM.0490.CO.2.3",
       "tipo": "contenido",
       "texto": "Gestión de hilos:",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2299,6 +2430,7 @@
       "codigo": "MAD.DAM.0490.CO.2.3.1",
       "tipo": "contenido",
       "texto": "Creación, ejecución y finalización de hilos.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2311,6 +2443,7 @@
       "codigo": "MAD.DAM.0490.CO.2.3.2",
       "tipo": "contenido",
       "texto": "Sincronización de hilos. Exclusión mutua. Condiciones de sincronización.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2323,6 +2456,7 @@
       "codigo": "MAD.DAM.0490.CO.2.3.3",
       "tipo": "contenido",
       "texto": "Compartición de información (comunicación) entre hilos. Recursos compartidos.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2335,6 +2469,7 @@
       "codigo": "MAD.DAM.0490.CO.2.3.4",
       "tipo": "contenido",
       "texto": "Mecanismos de comunicación y sincronización de hilos (semáforos, monitores, paso de mensajes).",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2347,6 +2482,7 @@
       "codigo": "MAD.DAM.0490.CO.2.3.5",
       "tipo": "contenido",
       "texto": "Prioridades.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2359,6 +2495,7 @@
       "codigo": "MAD.DAM.0490.CO.2.3.6",
       "tipo": "contenido",
       "texto": "Hilos demonio",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2371,6 +2508,7 @@
       "codigo": "MAD.DAM.0490.CO.2.3.7",
       "tipo": "contenido",
       "texto": "Problemas. Inanición, interbloqueos.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2383,6 +2521,7 @@
       "codigo": "MAD.DAM.0490.CO.2.3.8",
       "tipo": "contenido",
       "texto": "Grupos (pool) de hilos.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2395,6 +2534,7 @@
       "codigo": "MAD.DAM.0490.CO.2.3.9",
       "tipo": "contenido",
       "texto": "Temporizadores y tareas periódicas.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2407,6 +2547,7 @@
       "codigo": "MAD.DAM.0490.CO.2.4",
       "tipo": "contenido",
       "texto": "Programación de aplicaciones multihilo.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2419,6 +2560,7 @@
       "codigo": "MAD.DAM.0490.CO.3",
       "tipo": "contenido",
       "texto": "Programación de comunicaciones en red:",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2431,6 +2573,7 @@
       "codigo": "MAD.DAM.0490.CO.3.1",
       "tipo": "contenido",
       "texto": "Protocolos de comunicaciones (IP-Internet Protocol, TCP-Transmission Control Protocol, UDP-User Datagram Protocol).",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2443,6 +2586,7 @@
       "codigo": "MAD.DAM.0490.CO.3.2",
       "tipo": "contenido",
       "texto": "Comunicación entre aplicaciones. Modelos cliente/servidor, p2p (peer-to-peer) e híbridos.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2455,6 +2599,7 @@
       "codigo": "MAD.DAM.0490.CO.3.3",
       "tipo": "contenido",
       "texto": "Roles cliente y servidor.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2467,6 +2612,7 @@
       "codigo": "MAD.DAM.0490.CO.3.4",
       "tipo": "contenido",
       "texto": "Elementos de programación de aplicaciones en red. Librerías y clases. APIs (Application Programming Interface) de sockets.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2479,6 +2625,7 @@
       "codigo": "MAD.DAM.0490.CO.3.5",
       "tipo": "contenido",
       "texto": "Sockets:",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2491,6 +2638,7 @@
       "codigo": "MAD.DAM.0490.CO.3.5.1",
       "tipo": "contenido",
       "texto": "Concepto y características.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2503,6 +2651,7 @@
       "codigo": "MAD.DAM.0490.CO.3.5.2",
       "tipo": "contenido",
       "texto": "Tipos de sockets (orientado a conexión y no orientados a conexión).",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2515,6 +2664,7 @@
       "codigo": "MAD.DAM.0490.CO.3.5.3",
       "tipo": "contenido",
       "texto": "Creación de sockets.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2527,6 +2677,7 @@
       "codigo": "MAD.DAM.0490.CO.3.5.4",
       "tipo": "contenido",
       "texto": "Enlazado y establecimiento de conexiones. Sockets servidores y clientes.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2539,6 +2690,7 @@
       "codigo": "MAD.DAM.0490.CO.3.5.5",
       "tipo": "contenido",
       "texto": "Utilización de sockets para la transmisión y recepción de información.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2551,6 +2703,7 @@
       "codigo": "MAD.DAM.0490.CO.3.6",
       "tipo": "contenido",
       "texto": "Programación de aplicaciones cliente y servidor.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2563,6 +2716,7 @@
       "codigo": "MAD.DAM.0490.CO.3.7",
       "tipo": "contenido",
       "texto": "Utilización de hilos en la programación de aplicaciones en red.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2575,6 +2729,7 @@
       "codigo": "MAD.DAM.0490.CO.4",
       "tipo": "contenido",
       "texto": "Generación de servicios en red:",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2587,6 +2742,7 @@
       "codigo": "MAD.DAM.0490.CO.4.1",
       "tipo": "contenido",
       "texto": "Protocolos estándar de comunicación en red a nivel de aplicación (telnet, ftp, http, pop3, smtp, entre otros).",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2599,6 +2755,7 @@
       "codigo": "MAD.DAM.0490.CO.4.2",
       "tipo": "contenido",
       "texto": "Librerías de clases y componentes.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2611,6 +2768,7 @@
       "codigo": "MAD.DAM.0490.CO.4.3",
       "tipo": "contenido",
       "texto": "Utilización de objetos predefinidos.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2623,6 +2781,7 @@
       "codigo": "MAD.DAM.0490.CO.4.4",
       "tipo": "contenido",
       "texto": "Establecimiento y finalización de conexiones.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2635,6 +2794,7 @@
       "codigo": "MAD.DAM.0490.CO.4.5",
       "tipo": "contenido",
       "texto": "Transmisión de información.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2647,6 +2807,7 @@
       "codigo": "MAD.DAM.0490.CO.4.6",
       "tipo": "contenido",
       "texto": "Programación de aplicaciones cliente.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2659,6 +2820,7 @@
       "codigo": "MAD.DAM.0490.CO.4.7",
       "tipo": "contenido",
       "texto": "Programación de servidores y servicios.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2671,6 +2833,7 @@
       "codigo": "MAD.DAM.0490.CO.4.8",
       "tipo": "contenido",
       "texto": "Implementación de comunicaciones simultáneas.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2683,6 +2846,7 @@
       "codigo": "MAD.DAM.0490.CO.5",
       "tipo": "contenido",
       "texto": "Utilización de técnicas de programación segura:",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2695,6 +2859,7 @@
       "codigo": "MAD.DAM.0490.CO.5.1",
       "tipo": "contenido",
       "texto": "Prácticas de programación segura.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2707,6 +2872,7 @@
       "codigo": "MAD.DAM.0490.CO.5.2",
       "tipo": "contenido",
       "texto": "Criptografía y sistemas de identificación:",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2719,6 +2885,7 @@
       "codigo": "MAD.DAM.0490.CO.5.2.1",
       "tipo": "contenido",
       "texto": "Criptografía de clave pública y clave privada.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2731,6 +2898,7 @@
       "codigo": "MAD.DAM.0490.CO.5.2.2",
       "tipo": "contenido",
       "texto": "Protocolos criptográficos.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2743,6 +2911,7 @@
       "codigo": "MAD.DAM.0490.CO.5.2.3",
       "tipo": "contenido",
       "texto": "Funciones hash",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2755,6 +2924,7 @@
       "codigo": "MAD.DAM.0490.CO.5.2.4",
       "tipo": "contenido",
       "texto": "Firma digital.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2767,6 +2937,7 @@
       "codigo": "MAD.DAM.0490.CO.5.2.5",
       "tipo": "contenido",
       "texto": "Certificados digitales",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2779,6 +2950,7 @@
       "codigo": "MAD.DAM.0490.CO.5.2.6",
       "tipo": "contenido",
       "texto": "Autoridades de certificación y distribución de claves.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2791,6 +2963,7 @@
       "codigo": "MAD.DAM.0490.CO.5.2.7",
       "tipo": "contenido",
       "texto": "Principales aplicaciones de la criptografía.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2803,6 +2976,7 @@
       "codigo": "MAD.DAM.0490.CO.5.3",
       "tipo": "contenido",
       "texto": "Política de seguridad.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2815,6 +2989,7 @@
       "codigo": "MAD.DAM.0490.CO.5.4",
       "tipo": "contenido",
       "texto": "Programación de mecanismos de control de acceso.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2827,6 +3002,7 @@
       "codigo": "MAD.DAM.0490.CO.5.5",
       "tipo": "contenido",
       "texto": "Encriptación de información. Transmitida y almacenada.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2839,6 +3015,7 @@
       "codigo": "MAD.DAM.0490.CO.5.6",
       "tipo": "contenido",
       "texto": "Protocolos seguros de comunicaciones (SSL/TSL-Secure Sockets Layer/Transport Layer Security, HTTPS-Hypertext Transfer Protocol Secure)",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2851,6 +3028,7 @@
       "codigo": "MAD.DAM.0490.CO.5.7",
       "tipo": "contenido",
       "texto": "Sockets seguros.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",
@@ -2863,6 +3041,7 @@
       "codigo": "MAD.DAM.0490.CO.5.8",
       "tipo": "contenido",
       "texto": "Programación de aplicaciones con comunicaciones seguras.",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20110131-3",
         "ubicacion": "anexo I",

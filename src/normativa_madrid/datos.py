@@ -99,7 +99,7 @@ _FICHA_OBLIGATORIAS = (
     "elementos",
 )
 _FICHA_OPCIONALES = ("desde",)
-_ELEMENTO_OBLIGATORIAS = ("codigo", "tipo", "texto", "procedencia", "orden")
+_ELEMENTO_OBLIGATORIAS = ("codigo", "tipo", "texto", "codigo_oficial", "procedencia", "orden")
 _ELEMENTO_OPCIONALES = ("padre", "relaciones", "datos")
 _PROCEDENCIA_OBLIGATORIAS = ("norma", "ubicacion")
 _PROCEDENCIA_OPCIONALES = ("pagina", "via")
@@ -367,8 +367,12 @@ def _leer_elemento(lector: _Lector, bruto: Any, posicion: int) -> Elemento:
     padre = d.get("padre")
     if padre is not None:
         padre = lector.patron(padre, f"{campo}.padre", _CODIGO)
+    oficial = d["codigo_oficial"]
+    if oficial is not None:
+        oficial = lector.texto(oficial, f"{campo}.codigo_oficial")
     return Elemento(
         codigo=lector.patron(d["codigo"], f"{campo}.codigo", _CODIGO),
+        codigo_oficial=oficial,
         tipo=tipo,
         texto=lector.texto(d["texto"], f"{campo}.texto"),
         procedencia=_leer_procedencia(lector, d["procedencia"], f"{campo}.procedencia"),

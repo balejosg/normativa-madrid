@@ -16,6 +16,7 @@
       "codigo": "MAD.DAM.0179",
       "tipo": "modulo",
       "texto": "Inglés profesional (GS)",
+      "codigo_oficial": null,
       "procedencia": {
         "norma": "bocm-20241115-2",
         "ubicacion": "anexo II",
@@ -31,6 +32,7 @@
       "codigo": "MAD.DAM.0179.RA.1",
       "tipo": "resultado_aprendizaje",
       "texto": "Comprende información, de índole profesional, académica y cotidiana, contenida en todo tipo de discursos orales, emitidos por cualquier medio de comunicación en lengua estándar, interpretando con precisión el contenido del mensaje.",
+      "codigo_oficial": "1.",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo III, módulo 0179, resultado de aprendizaje 1",
@@ -43,6 +45,7 @@
       "codigo": "MAD.DAM.0179.RA.1.a",
       "tipo": "criterio_fp",
       "texto": "Se ha identificado la idea principal de mensajes en lengua estándar relacionados con la vida social, profesional o académica.",
+      "codigo_oficial": "a)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo III, módulo 0179, resultado de aprendizaje 1, criterio a",
@@ -55,6 +58,7 @@
       "codigo": "MAD.DAM.0179.RA.1.b",
       "tipo": "criterio_fp",
       "texto": "Se ha reconocido la finalidad de mensajes directos o emitidos en cualquier soporte en lengua estándar.",
+      "codigo_oficial": "b)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo III, módulo 0179, resultado de aprendizaje 1, criterio b",
@@ -67,6 +71,7 @@
       "codigo": "MAD.DAM.0179.RA.1.c",
       "tipo": "criterio_fp",
       "texto": "Se ha extraído información específica contenida en distintos discursos orales en lengua estándar, relacionada con la vida social, profesional o académica.",
+      "codigo_oficial": "c)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo III, módulo 0179, resultado de aprendizaje 1, criterio c",
@@ -79,6 +84,7 @@
       "codigo": "MAD.DAM.0179.RA.1.d",
       "tipo": "criterio_fp",
       "texto": "Se ha identificado el punto de vista y la actitud del hablante.",
+      "codigo_oficial": "d)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo III, módulo 0179, resultado de aprendizaje 1, criterio d",
@@ -91,6 +97,7 @@
       "codigo": "MAD.DAM.0179.RA.1.e",
       "tipo": "criterio_fp",
       "texto": "Se ha identificado el hilo argumental de mensajes orales y determinado los roles que aparecen en dichos mensajes.",
+      "codigo_oficial": "e)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo III, módulo 0179, resultado de aprendizaje 1, criterio e",
@@ -103,6 +110,7 @@
       "codigo": "MAD.DAM.0179.RA.1.f",
       "tipo": "criterio_fp",
       "texto": "Se han comprendido adecuadamente mensajes en lengua estándar en ambientes con contaminación acústica.",
+      "codigo_oficial": "f)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo III, módulo 0179, resultado de aprendizaje 1, criterio f",
@@ -115,6 +123,7 @@
       "codigo": "MAD.DAM.0179.RA.1.g",
       "tipo": "criterio_fp",
       "texto": "Se han extraído las ideas principales de conferencias, charlas e informes, y otras formas de presentación académica y profesional, lingüísticamente complejas.",
+      "codigo_oficial": "g)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo III, módulo 0179, resultado de aprendizaje 1, criterio g",
@@ -127,6 +136,7 @@
       "codigo": "MAD.DAM.0179.RA.1.h",
       "tipo": "criterio_fp",
       "texto": "Se ha tomado conciencia de la importancia de comprender globalmente un mensaje sin entender todos y cada uno de los elementos del mismo.",
+      "codigo_oficial": "h)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo III, módulo 0179, resultado de aprendizaje 1, criterio h",
@@ -139,6 +149,7 @@
       "codigo": "MAD.DAM.0179.RA.2",
       "tipo": "resultado_aprendizaje",
       "texto": "Comprende mensajes escritos, de naturaleza profesional, académica y cotidiana, de relativa dificultad, analizando de forma comprensiva su contenido.",
+      "codigo_oficial": "2.",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo III, módulo 0179, resultado de aprendizaje 2",
@@ -151,6 +162,7 @@
       "codigo": "MAD.DAM.0179.RA.2.a",
       "tipo": "criterio_fp",
       "texto": "Se ha identificado la idea principal de textos específicos de su ámbito social, profesional o académico.",
+      "codigo_oficial": "a)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo III, módulo 0179, resultado de aprendizaje 2, criterio a",
@@ -163,6 +175,7 @@
       "codigo": "MAD.DAM.0179.RA.2.b",
       "tipo": "criterio_fp",
       "texto": "Se ha reconocido la finalidad de distintos textos escritos en cualquier soporte, en lengua estándar y relacionados con la actividad profesional.",
+      "codigo_oficial": "b)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo III, módulo 0179, resultado de aprendizaje 2, criterio b",
@@ -175,6 +188,7 @@
       "codigo": "MAD.DAM.0179.RA.2.c",
       "tipo": "criterio_fp",
       "texto": "Se ha extraído información específica de textos, de diferente naturaleza, relativos a su profesión, y contenidos en distintos soportes.",
+      "codigo_oficial": "c)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo III, módulo 0179, resultado de aprendizaje 2, criterio c",
@@ -187,6 +201,7 @@
       "codigo": "MAD.DAM.0179.RA.2.d",
       "tipo": "criterio_fp",
       "texto": "Se ha tomado conciencia de la importancia de comprender globalmente un texto sin entender todos y cada uno de los elementos del mismo.",
+      "codigo_oficial": "d)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo III, módulo 0179, resultado de aprendizaje 2, criterio d",
@@ -199,6 +214,7 @@
       "codigo": "MAD.DAM.0179.RA.2.e",
       "tipo": "criterio_fp",
       "texto": "Se han leído y comprendido, de manera autónoma, textos relacionados con el sector con la velocidad y estilo de lectura propia del nivel competencial.",
+      "codigo_oficial": "e)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo III, módulo 0179, resultado de aprendizaje 2, criterio e",
@@ -211,6 +227,7 @@
       "codigo": "MAD.DAM.0179.RA.2.f",
       "tipo": "criterio_fp",
       "texto": "Se ha interpretado la correspondencia relativa a su especialidad, captando fácilmente el significado esencial.",
+      "codigo_oficial": "f)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo III, módulo 0179, resultado de aprendizaje 2, criterio f",
@@ -223,6 +240,7 @@
       "codigo": "MAD.DAM.0179.RA.2.g",
       "tipo": "criterio_fp",
       "texto": "Se han interpretado textos extensos, y de cierta complejidad, relacionados o no con su especialidad, pudiendo realizar varias lecturas del mismo.",
+      "codigo_oficial": "g)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo III, módulo 0179, resultado de aprendizaje 2, criterio g",
@@ -235,6 +253,7 @@
       "codigo": "MAD.DAM.0179.RA.2.h",
       "tipo": "criterio_fp",
       "texto": "Se ha identificado con rapidez el contenido y la importancia de noticias, artículos e informes sobre una amplia serie de temas profesionales.",
+      "codigo_oficial": "h)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo III, módulo 0179, resultado de aprendizaje 2, criterio h",
@@ -247,6 +266,7 @@
       "codigo": "MAD.DAM.0179.RA.2.i",
       "tipo": "criterio_fp",
       "texto": "Se han interpretado instrucciones, con distintos niveles de dificultad, y mensajes técnicos recibidos a través de soportes digitales.",
+      "codigo_oficial": "i)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo III, módulo 0179, resultado de aprendizaje 2, criterio i",
@@ -259,6 +279,7 @@
       "codigo": "MAD.DAM.0179.RA.2.j",
       "tipo": "criterio_fp",
       "texto": "Se han traducido textos de cierta complejidad, utilizando material de apoyo en caso necesario.",
+      "codigo_oficial": "j)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo III, módulo 0179, resultado de aprendizaje 2, criterio j",
@@ -271,6 +292,7 @@
       "codigo": "MAD.DAM.0179.RA.3",
       "tipo": "resultado_aprendizaje",
       "texto": "Produce mensajes orales claros y bien estructurados, analizando el contenido de la situación y adaptándose al registro lingüístico del interlocutor.",
+      "codigo_oficial": "3.",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo III, módulo 0179, resultado de aprendizaje 3",
@@ -283,6 +305,7 @@
       "codigo": "MAD.DAM.0179.RA.3.a",
       "tipo": "criterio_fp",
       "texto": "Se han emitido mensajes generales propios del sector y de la vida cotidiana, utilizando nexos y estrategias de interacción.",
+      "codigo_oficial": "a)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo III, módulo 0179, resultado de aprendizaje 3, criterio a",
@@ -295,6 +318,7 @@
       "codigo": "MAD.DAM.0179.RA.3.b",
       "tipo": "criterio_fp",
       "texto": "Se ha intercambiado con fluidez información específica y detallada utilizando estructuras de una complejidad acorde al nivel competencial.",
+      "codigo_oficial": "b)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo III, módulo 0179, resultado de aprendizaje 3, criterio b",
@@ -307,6 +331,7 @@
       "codigo": "MAD.DAM.0179.RA.3.c",
       "tipo": "criterio_fp",
       "texto": "Se han seleccionado y aplicado los registros adecuados para la emisión del mensaje, así como protocolos y normas de relación social propios del país.",
+      "codigo_oficial": "c)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo III, módulo 0179, resultado de aprendizaje 3, criterio c",
@@ -319,6 +344,7 @@
       "codigo": "MAD.DAM.0179.RA.3.d",
       "tipo": "criterio_fp",
       "texto": "Se han realizado presentaciones, bien estructuradas, sobre temas de su ámbito profesional, haciendo uso de los protocolos establecidos.",
+      "codigo_oficial": "d)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo III, módulo 0179, resultado de aprendizaje 3, criterio d",
@@ -331,6 +357,7 @@
       "codigo": "MAD.DAM.0179.RA.3.e",
       "tipo": "criterio_fp",
       "texto": "Se ha utilizado correctamente la terminología de la profesión.",
+      "codigo_oficial": "e)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo III, módulo 0179, resultado de aprendizaje 3, criterio e",
@@ -343,6 +370,7 @@
       "codigo": "MAD.DAM.0179.RA.3.f",
       "tipo": "criterio_fp",
       "texto": "Se ha descrito y secuenciado oralmente un proceso de trabajo de su competencia.",
+      "codigo_oficial": "f)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo III, módulo 0179, resultado de aprendizaje 3, criterio f",
@@ -355,6 +383,7 @@
       "codigo": "MAD.DAM.0179.RA.3.g",
       "tipo": "criterio_fp",
       "texto": "Se ha solicitado la reformulación del discurso o parte del mismo cuando se ha considerado necesario.",
+      "codigo_oficial": "g)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo III, módulo 0179, resultado de aprendizaje 3, criterio g",
@@ -367,6 +396,7 @@
       "codigo": "MAD.DAM.0179.RA.3.h",
       "tipo": "criterio_fp",
       "texto": "Se ha interaccionado espontáneamente, adoptando un nivel de formalidad adecuado a las circunstancias.",
+      "codigo_oficial": "h)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo III, módulo 0179, resultado de aprendizaje 3, criterio h",
@@ -379,6 +409,7 @@
       "codigo": "MAD.DAM.0179.RA.3.i",
       "tipo": "criterio_fp",
       "texto": "Se ha expresado con fluidez, precisión y eficacia sobre una amplia serie de temas generales, académicos, profesionales o de ocio, marcando con claridad la relación entre las ideas.",
+      "codigo_oficial": "i)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo III, módulo 0179, resultado de aprendizaje 3, criterio i",
@@ -391,6 +422,7 @@
       "codigo": "MAD.DAM.0179.RA.3.j",
       "tipo": "criterio_fp",
       "texto": "Se han expresado y defendido puntos de vista con claridad, proporcionando explicaciones y argumentos adecuados.",
+      "codigo_oficial": "j)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo III, módulo 0179, resultado de aprendizaje 3, criterio j",
@@ -403,6 +435,7 @@
       "codigo": "MAD.DAM.0179.RA.3.k",
       "tipo": "criterio_fp",
       "texto": "Se ha respondido a preguntas relativas a su vida socio-profesional, incluidas las propias de una entrevista de trabajo.",
+      "codigo_oficial": "k)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo III, módulo 0179, resultado de aprendizaje 3, criterio k",
@@ -415,6 +448,7 @@
       "codigo": "MAD.DAM.0179.RA.4",
       "tipo": "resultado_aprendizaje",
       "texto": "Redacta documentos e informes, propios del sector o de la vida académica y cotidiana, relacionando los recursos lingüísticos con el propósito de los mismos.",
+      "codigo_oficial": "4.",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo III, módulo 0179, resultado de aprendizaje 4",
@@ -427,6 +461,7 @@
       "codigo": "MAD.DAM.0179.RA.4.a",
       "tipo": "criterio_fp",
       "texto": "Se han escrito textos claros y detallados sobre una variedad de temas relacionados con su profesión, sintetizando y evaluando información y argumentos procedentes de varias fuentes.",
+      "codigo_oficial": "a)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo III, módulo 0179, resultado de aprendizaje 4, criterio a",
@@ -439,6 +474,7 @@
       "codigo": "MAD.DAM.0179.RA.4.b",
       "tipo": "criterio_fp",
       "texto": "Se ha cumplimentado documentación específica de su campo profesional, utilizando vocabulario específico y protocolos y normas de relación social propios del país.",
+      "codigo_oficial": "b)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo III, módulo 0179, resultado de aprendizaje 4, criterio b",
@@ -451,6 +487,7 @@
       "codigo": "MAD.DAM.0179.RA.4.c",
       "tipo": "criterio_fp",
       "texto": "Se ha organizado la información con corrección, precisión, con cohesión y coherencia, solicitando o facilitando información de tipo general o detallada",
+      "codigo_oficial": "c)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo III, módulo 0179, resultado de aprendizaje 4, criterio c",
@@ -463,6 +500,7 @@
       "codigo": "MAD.DAM.0179.RA.4.d",
       "tipo": "criterio_fp",
       "texto": "Se han cumplimentado textos mediante apoyos visuales y claves lingüísticas.",
+      "codigo_oficial": "d)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo III, módulo 0179, resultado de aprendizaje 4, criterio d",
@@ -475,6 +513,7 @@
       "codigo": "MAD.DAM.0179.RA.4.e",
       "tipo": "criterio_fp",
       "texto": "Se han elaborado informes, destacando los aspectos significativos y ofreciendo detalles relevantes que sirvan de apoyo.",
+      "codigo_oficial": "e)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo III, módulo 0179, resultado de aprendizaje 4, criterio e",
@@ -487,6 +526,7 @@
       "codigo": "MAD.DAM.0179.RA.4.f",
       "tipo": "criterio_fp",
       "texto": "Se han escrito cartas, formales e informales, empleando las fórmulas de cortesía establecidas y el vocabulario específico para la elaboración de las mismas.",
+      "codigo_oficial": "f)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo III, módulo 0179, resultado de aprendizaje 4, criterio f",
@@ -499,6 +539,7 @@
       "codigo": "MAD.DAM.0179.RA.4.g",
       "tipo": "criterio_fp",
       "texto": "Se han resumido diferentes tipos de documentos escritos, utilizando sus propios recursos lingüísticos.",
+      "codigo_oficial": "g)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo III, módulo 0179, resultado de aprendizaje 4, criterio g",
@@ -511,6 +552,7 @@
       "codigo": "MAD.DAM.0179.RA.4.h",
       "tipo": "criterio_fp",
       "texto": "Se han utilizado las fórmulas de cortesía propias del documento que se va a elaborar.",
+      "codigo_oficial": "h)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo III, módulo 0179, resultado de aprendizaje 4, criterio h",
@@ -523,6 +565,7 @@
       "codigo": "MAD.DAM.0179.RA.5",
       "tipo": "resultado_aprendizaje",
       "texto": "Aplica actitudes y comportamientos profesionales en situaciones de comunicación, describiendo las relaciones típicas características del país de la lengua extranjera.",
+      "codigo_oficial": "5.",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo III, módulo 0179, resultado de aprendizaje 5",
@@ -535,6 +578,7 @@
       "codigo": "MAD.DAM.0179.RA.5.a",
       "tipo": "criterio_fp",
       "texto": "Se han definido los rasgos más significativos de las costumbres y usos de la comunidad donde se habla la lengua extranjera.",
+      "codigo_oficial": "a)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo III, módulo 0179, resultado de aprendizaje 5, criterio a",
@@ -547,6 +591,7 @@
       "codigo": "MAD.DAM.0179.RA.5.b",
       "tipo": "criterio_fp",
       "texto": "Se han descrito los protocolos y normas de relación social propios del país.",
+      "codigo_oficial": "b)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo III, módulo 0179, resultado de aprendizaje 5, criterio b",
@@ -559,6 +604,7 @@
       "codigo": "MAD.DAM.0179.RA.5.c",
       "tipo": "criterio_fp",
       "texto": "Se han identificado los valores y creencias propios de la comunidad donde se habla la lengua extranjera.",
+      "codigo_oficial": "c)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo III, módulo 0179, resultado de aprendizaje 5, criterio c",
@@ -571,6 +617,7 @@
       "codigo": "MAD.DAM.0179.RA.5.d",
       "tipo": "criterio_fp",
       "texto": "Se ha identificado los aspectos socio-profesionales propios del sector, en cualquier tipo de texto.",
+      "codigo_oficial": "d)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo III, módulo 0179, resultado de aprendizaje 5, criterio d",
@@ -583,6 +630,7 @@
       "codigo": "MAD.DAM.0179.RA.5.e",
       "tipo": "criterio_fp",
       "texto": "Se han aplicado los protocolos y normas de relación social propios del país de la lengua extranjera.",
+      "codigo_oficial": "e)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo III, módulo 0179, resultado de aprendizaje 5, criterio e",
@@ -595,6 +643,7 @@
       "codigo": "MAD.DAM.0179.RA.5.f",
       "tipo": "criterio_fp",
       "texto": "Se han reconocido los marcadores lingüísticos de la procedencia regional.",
+      "codigo_oficial": "f)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo III, módulo 0179, resultado de aprendizaje 5, criterio f",
@@ -607,6 +656,7 @@
       "codigo": "MAD.DAM.0179.CO.1",
       "tipo": "contenido",
       "texto": "Comprensión de textos orales.",
+      "codigo_oficial": "1.",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo III",
@@ -619,6 +669,7 @@
       "codigo": "MAD.DAM.0179.CO.1.1",
       "tipo": "contenido",
       "texto": "Comprensión de los recursos lingüísticos habituales y las palabras clave utilizadas en la comunicación oral, de carácter general o específico del ámbito profesional.",
+      "codigo_oficial": "a)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo III",
@@ -631,6 +682,7 @@
       "codigo": "MAD.DAM.0179.CO.1.2",
       "tipo": "contenido",
       "texto": "Estrategias para comprender la idea principal y secundaria en presentaciones y debates. Resolución de los problemas de comprensión en situaciones de intercambio oral.",
+      "codigo_oficial": "b)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo III",
@@ -643,6 +695,7 @@
       "codigo": "MAD.DAM.0179.CO.1.3",
       "tipo": "contenido",
       "texto": "Identificación de expresiones de opinión, preferencia, gusto y reclamaciones.",
+      "codigo_oficial": "c)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo III",
@@ -655,6 +708,7 @@
       "codigo": "MAD.DAM.0179.CO.1.4",
       "tipo": "contenido",
       "texto": "Fórmulas habituales para atender, mantener y finalizar conversaciones en diferentes entornos y con cierta comunicación acústica.",
+      "codigo_oficial": "d)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo III",
@@ -667,6 +721,7 @@
       "codigo": "MAD.DAM.0179.CO.2",
       "tipo": "contenido",
       "texto": "Producción de textos orales.",
+      "codigo_oficial": "2.",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo III",
@@ -679,6 +734,7 @@
       "codigo": "MAD.DAM.0179.CO.2.1",
       "tipo": "contenido",
       "texto": "Fórmulas de cortesía y formalidad adecuadas al contexto y al interlocutor.",
+      "codigo_oficial": "a)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo III",
@@ -691,6 +747,7 @@
       "codigo": "MAD.DAM.0179.CO.2.2",
       "tipo": "contenido",
       "texto": "Fórmulas habituales para iniciar, mantener y finalizar conversaciones en el entorno profesional, con el registro y grado de formalidad adecuados.",
+      "codigo_oficial": "b)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo III",
@@ -703,6 +760,7 @@
       "codigo": "MAD.DAM.0179.CO.2.3",
       "tipo": "contenido",
       "texto": "Expresiones con matices de la opinión, gustos y preferencias.",
+      "codigo_oficial": "c)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo III",
@@ -715,6 +773,7 @@
       "codigo": "MAD.DAM.0179.CO.2.4",
       "tipo": "contenido",
       "texto": "Estrategias para mantener la fluidez en la conversación: introducción de ejemplos, formulación de preguntas para confirmar comprensión.",
+      "codigo_oficial": "d)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo III",
@@ -727,6 +786,7 @@
       "codigo": "MAD.DAM.0179.CO.2.5",
       "tipo": "contenido",
       "texto": "Estrategias de clarificación.",
+      "codigo_oficial": "e)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo III",
@@ -739,6 +799,7 @@
       "codigo": "MAD.DAM.0179.CO.2.6",
       "tipo": "contenido",
       "texto": "Expresión de las ideas principales y secundarias en presentaciones y debates.",
+      "codigo_oficial": "f)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo III",
@@ -751,6 +812,7 @@
       "codigo": "MAD.DAM.0179.CO.2.7",
       "tipo": "contenido",
       "texto": "Respuesta adecuada de quejas y reclamaciones.",
+      "codigo_oficial": "g)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo III",
@@ -763,6 +825,7 @@
       "codigo": "MAD.DAM.0179.CO.2.8",
       "tipo": "contenido",
       "texto": "Producción de mensajes relacionados con la resolución de problemas, tales como el funcionamiento de objetos, maquinaria o aplicaciones informáticas, o la comunicación de instrucciones, planes, intenciones y opiniones.",
+      "codigo_oficial": "h)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo III",
@@ -775,6 +838,7 @@
       "codigo": "MAD.DAM.0179.CO.2.9",
       "tipo": "contenido",
       "texto": "Instrucciones sobre operaciones y tareas propias del puesto de trabajo y del entorno profesional.",
+      "codigo_oficial": "i)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo III",
@@ -787,6 +851,7 @@
       "codigo": "MAD.DAM.0179.CO.3",
       "tipo": "contenido",
       "texto": "Comprensión de textos escritos.",
+      "codigo_oficial": "3.",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo III",
@@ -799,6 +864,7 @@
       "codigo": "MAD.DAM.0179.CO.3.1",
       "tipo": "contenido",
       "texto": "Técnicas de localización y selección de la información relevante: lectura rápida para la identificación del tema principal y lectura orientada a encontrar una información específica.",
+      "codigo_oficial": "a)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo III",
@@ -811,6 +877,7 @@
       "codigo": "MAD.DAM.0179.CO.3.2",
       "tipo": "contenido",
       "texto": "Organización de la información en los textos técnicos: índices, títulos, encabezamientos, tablas, esquemas y gráficos.",
+      "codigo_oficial": "b)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo III",
@@ -823,6 +890,7 @@
       "codigo": "MAD.DAM.0179.CO.3.3",
       "tipo": "contenido",
       "texto": "Características de los tipos de documentos propios del sector profesional: informes, planes estratégicos, normas de seguridad, etc.",
+      "codigo_oficial": "c)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo III",
@@ -835,6 +903,7 @@
       "codigo": "MAD.DAM.0179.CO.3.4",
       "tipo": "contenido",
       "texto": "Interacción fluida respetando las fórmulas de cortesía y formalidad.",
+      "codigo_oficial": "d)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo III",
@@ -847,6 +916,7 @@
       "codigo": "MAD.DAM.0179.CO.3.5",
       "tipo": "contenido",
       "texto": "Comprensión detallada de los recursos lingüísticos habituales y las palabras clave utilizadas en la comunicación general y específica.",
+      "codigo_oficial": "e)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo III",
@@ -859,6 +929,7 @@
       "codigo": "MAD.DAM.0179.CO.3.6",
       "tipo": "contenido",
       "texto": "Interpretación de la terminología específica del sector profesional.",
+      "codigo_oficial": "f)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo III",
@@ -871,6 +942,7 @@
       "codigo": "MAD.DAM.0179.CO.3.7",
       "tipo": "contenido",
       "texto": "Comprensión detallada de la información contenida en textos escritos propios del sector profesional: informes, formularios, folletos, prensa especializada, ofertas de trabajo, instrucciones, correspondencia, etc.",
+      "codigo_oficial": "g)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo III",
@@ -883,6 +955,7 @@
       "codigo": "MAD.DAM.0179.CO.3.8",
       "tipo": "contenido",
       "texto": "Uso de diccionarios, traductores de textos y herramientas de consulta, referencia y análisis de información.",
+      "codigo_oficial": "h)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo III",
@@ -895,6 +968,7 @@
       "codigo": "MAD.DAM.0179.CO.4",
       "tipo": "contenido",
       "texto": "Producción de textos escritos.",
+      "codigo_oficial": "4.",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo III",
@@ -907,6 +981,7 @@
       "codigo": "MAD.DAM.0179.CO.4.1",
       "tipo": "contenido",
       "texto": "Características de la comunicación escrita profesional: factores y estrategias que contribuyen a la claridad, unidad, coherencia, cohesión y precisión de los escritos.",
+      "codigo_oficial": "a)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo III",
@@ -919,6 +994,7 @@
       "codigo": "MAD.DAM.0179.CO.4.2",
       "tipo": "contenido",
       "texto": "Técnicas para la elaboración de resúmenes y esquemas de lo leído o escuchado.",
+      "codigo_oficial": "b)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo III",
@@ -931,6 +1007,7 @@
       "codigo": "MAD.DAM.0179.CO.4.3",
       "tipo": "contenido",
       "texto": "Comprensión de recursos lingüísticos habituales y palabras clave utilizadas en la comunicación general y específica.",
+      "codigo_oficial": "c)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo III",
@@ -943,6 +1020,7 @@
       "codigo": "MAD.DAM.0179.CO.4.4",
       "tipo": "contenido",
       "texto": "Producción de textos cotidianos y profesionales del sector, usando el registro y fórmulas de cortesía adecuados al contexto de comunicación.",
+      "codigo_oficial": "d)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo III",
@@ -955,6 +1033,7 @@
       "codigo": "MAD.DAM.0179.CO.4.5",
       "tipo": "contenido",
       "texto": "Cumplimentación y formalización de documentos cotidianos y de los documentos asociados a la prestación de los servicios propios del perfil profesional.",
+      "codigo_oficial": "e)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo III",
@@ -967,6 +1046,7 @@
       "codigo": "MAD.DAM.0179.CO.4.6",
       "tipo": "contenido",
       "texto": "Producción de mensajes que impliquen la solicitud de información para la relacionados con la resolución de problemas, tales como el funcionamiento de objetos, maquinaria o aplicaciones informáticas, o la comunicación de instrucciones de trabajo, planes, intenciones y opiniones.",
+      "codigo_oficial": "f)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo III",
@@ -979,6 +1059,7 @@
       "codigo": "MAD.DAM.0179.CO.4.7",
       "tipo": "contenido",
       "texto": "Redacción de escritos y mensajes electrónicos relacionados con el proceso de inserción laboral: currículum vítae, carta de presentación, respuesta a una oferta de trabajo, etc.",
+      "codigo_oficial": "g)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo III",
@@ -991,6 +1072,7 @@
       "codigo": "MAD.DAM.0179.CO.4.8",
       "tipo": "contenido",
       "texto": "Utilización de terminología específica del sector profesional.",
+      "codigo_oficial": "h)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo III",
@@ -1003,6 +1085,7 @@
       "codigo": "MAD.DAM.0179.CO.4.9",
       "tipo": "contenido",
       "texto": "Tratamiento de quejas y reclamaciones.",
+      "codigo_oficial": "i)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo III",
@@ -1015,6 +1098,7 @@
       "codigo": "MAD.DAM.0179.CO.5",
       "tipo": "contenido",
       "texto": "Competencia sociocultural.",
+      "codigo_oficial": "5.",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo III",
@@ -1027,6 +1111,7 @@
       "codigo": "MAD.DAM.0179.CO.5.1",
       "tipo": "contenido",
       "texto": "Utilización adecuada y con fluidez de las fórmulas asociadas a las habilidades sociales: saludos, presentaciones personales, bienvenidas, relación comercial, mantenimiento de conversaciones, etc. Uso de la entonación y pronunciación adecuadas de dichas fórmulas en la comunicación oral.",
+      "codigo_oficial": "a)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo III",
@@ -1039,6 +1124,7 @@
       "codigo": "MAD.DAM.0179.CO.5.2",
       "tipo": "contenido",
       "texto": "Conocimiento de costumbres horarias y hábitos profesionales que difieren entre distintas culturas y regiones.",
+      "codigo_oficial": "b)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo III",
@@ -1051,6 +1137,7 @@
       "codigo": "MAD.DAM.0179.CO.5.3",
       "tipo": "contenido",
       "texto": "Conocimiento de las normas socioculturales y protocolarias en las relaciones internacionales.",
+      "codigo_oficial": "c)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo III",
@@ -1063,6 +1150,7 @@
       "codigo": "MAD.DAM.0179.CO.5.4",
       "tipo": "contenido",
       "texto": "Marcadores lingüísticos de relaciones sociales, normas de cortesía y diferencias de registro.",
+      "codigo_oficial": "d)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo III",
@@ -1075,6 +1163,7 @@
       "codigo": "MAD.DAM.0179.CO.5.5",
       "tipo": "contenido",
       "texto": "Uso de registros adecuados según el contexto de la comunicación e intención de los interlocutores.",
+      "codigo_oficial": "e)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo III",
@@ -1087,6 +1176,7 @@
       "codigo": "MAD.DAM.0179.CO.5.6",
       "tipo": "contenido",
       "texto": "Reconocimiento de la lengua extranjera como medio para profundizar en conocimientos que resulten de interés a lo largo de la vida personal y profesional.",
+      "codigo_oficial": "f)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo III",
@@ -1099,6 +1189,7 @@
       "codigo": "MAD.DAM.0179.CO.5.7",
       "tipo": "contenido",
       "texto": "Uso de los recursos formales y funcionales en situaciones que requieren un comportamiento socio-profesional con el fin de proyectar una buena imagen de la empresa.",
+      "codigo_oficial": "g)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo III",
@@ -1111,6 +1202,7 @@
       "codigo": "MAD.DAM.0179.CO.6",
       "tipo": "contenido",
       "texto": "Contenidos léxico-gramaticales.",
+      "codigo_oficial": "6.",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo III",
@@ -1123,6 +1215,7 @@
       "codigo": "MAD.DAM.0179.CO.6.1",
       "tipo": "contenido",
       "texto": "Grupo del verbo: expresión del presente; expresión del pasado simple y perfecto; expresión del futuro",
+      "codigo_oficial": "a)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo III",
@@ -1135,6 +1228,7 @@
       "codigo": "MAD.DAM.0179.CO.6.2",
       "tipo": "contenido",
       "texto": "Relaciones de anterioridad, simultaneidad y posterioridad.",
+      "codigo_oficial": "b)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo III",
@@ -1147,6 +1241,7 @@
       "codigo": "MAD.DAM.0179.CO.6.3",
       "tipo": "contenido",
       "texto": "Adverbios de frecuencia, tiempo, lugar y modo.",
+      "codigo_oficial": "c)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo III",
@@ -1159,6 +1254,7 @@
       "codigo": "MAD.DAM.0179.CO.6.4",
       "tipo": "contenido",
       "texto": "Verbos modales.",
+      "codigo_oficial": "d)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo III",
@@ -1171,6 +1267,7 @@
       "codigo": "MAD.DAM.0179.CO.6.5",
       "tipo": "contenido",
       "texto": "La voz pasiva.",
+      "codigo_oficial": "e)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo III",
@@ -1183,6 +1280,7 @@
       "codigo": "MAD.DAM.0179.CO.6.6",
       "tipo": "contenido",
       "texto": "Oraciones de relativo.",
+      "codigo_oficial": "f)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo III",
@@ -1195,6 +1293,7 @@
       "codigo": "MAD.DAM.0179.CO.6.7",
       "tipo": "contenido",
       "texto": "Expresión de hipótesis: oraciones condicionales.",
+      "codigo_oficial": "g)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo III",
@@ -1207,6 +1306,7 @@
       "codigo": "MAD.DAM.0179.CO.6.8",
       "tipo": "contenido",
       "texto": "Expresión de concesión, causa, finalidad y resultado.",
+      "codigo_oficial": "h)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo III",
@@ -1219,6 +1319,7 @@
       "codigo": "MAD.DAM.0179.CO.6.9",
       "tipo": "contenido",
       "texto": "La comparación de adjetivos y adverbios. Comparativos y superlativos irregulares.",
+      "codigo_oficial": "i)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo III",
@@ -1231,6 +1332,7 @@
       "codigo": "MAD.DAM.0179.CO.6.10",
       "tipo": "contenido",
       "texto": "Pronombres interrogativos.",
+      "codigo_oficial": "j)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo III",
@@ -1243,6 +1345,7 @@
       "codigo": "MAD.DAM.0179.CO.6.11",
       "tipo": "contenido",
       "texto": "Recursos lingüísticos que permitan una coherencia textual a través de la adecuación del texto al contexto comunicativo, así como al tipo y formato de texto.",
+      "codigo_oficial": "k)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo III",
@@ -1255,6 +1358,7 @@
       "codigo": "MAD.DAM.0179.CO.6.12",
       "tipo": "contenido",
       "texto": "Selección de estructuras sintácticas complejas y de contenido relevante para la intención comunicativa.",
+      "codigo_oficial": "l)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo III",
@@ -1267,6 +1371,7 @@
       "codigo": "MAD.DAM.0179.CO.6.13",
       "tipo": "contenido",
       "texto": "Léxico y estructuras sintácticas que permitan desarrollar o resumir una idea con precisión: marcadores de iniciación y marcadores para desarrollar la información.",
+      "codigo_oficial": "m)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo III",
@@ -1279,6 +1384,7 @@
       "codigo": "MAD.DAM.0179.CO.6.14",
       "tipo": "contenido",
       "texto": "Entorno del puesto de trabajo, ubicación y vocabulario específico para dar direcciones.",
+      "codigo_oficial": "n)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo III",
@@ -1291,6 +1397,7 @@
       "codigo": "MAD.DAM.0179.CO.6.15",
       "tipo": "contenido",
       "texto": "Formación de palabras por derivación, composición y uso de prefijos y sufijos más habituales; siglas y abreviaturas usuales en comunicación comercial.",
+      "codigo_oficial": "ñ)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo III",
@@ -1303,6 +1410,7 @@
       "codigo": "MAD.DAM.0179.CO.6.16",
       "tipo": "contenido",
       "texto": "Léxico específico del sector profesional.",
+      "codigo_oficial": "o)",
       "procedencia": {
         "norma": "bocm-20250827-6",
         "ubicacion": "anexo III",
