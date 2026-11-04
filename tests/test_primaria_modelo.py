@@ -181,3 +181,11 @@ def test_cli_primaria(monkeypatch, capsys):
     assert codigo == 0 and len(doc["fichas"]) == 4
     codigo, doc = ejecutar("catalogo", "--etapa", "otra")
     assert (codigo, doc["error"]) == (2, "ETAPA_DESCONOCIDA")
+
+
+@pytest.mark.parametrize("filtro", [{"curso": 3}, {"ciclo": "C2"}])
+def test_curso_o_ciclo_en_una_ficha_que_no_es_de_primaria_es_error(indice, filtro):
+    error = fallo(lambda: pedir(indice, "MAD.ESO.CCOMP.1", **filtro))
+    assert error.codigo == "CURSO_SIN_DATOS"
+    assert "no es de Primaria" in error.detalle
+    salida.error_a_dict(error)

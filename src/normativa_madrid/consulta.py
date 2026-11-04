@@ -461,6 +461,12 @@ def _ficha_por_curso(
     pedido = curso or ciclo
     if codigo in datos.fichas:
         f = datos.fichas[codigo]
+        if pedido is not None and f.etapa != "primaria":
+            raise ErrorNormativa(
+                "CURSO_SIN_DATOS",
+                f"La ficha {_eco(codigo)} no es de Primaria: el curso y el ciclo solo "
+                "sirven para las áreas de Primaria (la ficha ya trae su propio curso).",
+            )
         if pedido is not None and not _rige_en(f, curso, ciclo):
             raise ErrorNormativa(
                 "CURSO_SIN_DATOS",
