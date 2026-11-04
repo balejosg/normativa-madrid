@@ -262,3 +262,10 @@ def test_codigo_del_real_decreto_compartido_sugiere_todos_los_nuevos():
     sugeridas = {d.codigo: d.sugerencias for d in r.ficheros[0].desconocidos}
     assert sugeridas["CMNSC.CE5"] == ("MAD.EP.CN.C1.CE.5", "MAD.EP.CS.C1.CE.1")
     assert sugeridas["CMNSC.CE6"] == ("MAD.EP.CN.C1.CE.6", "MAD.EP.CS.C1.CE.2")
+
+
+def test_codigo_de_area_sin_ciclo_sugiere_el_de_cada_ciclo():
+    r = comprobar(f"{CR.replace('.C2', '')} y MAD.EP.MAT.CR.9.9")
+    sugeridas = {d.codigo: d.sugerencias for d in r.ficheros[0].desconocidos}
+    assert sugeridas[CR.replace(".C2", "")] == tuple(CR.replace(".C2.", f".C{n}.") for n in (1, 2, 3))
+    assert sugeridas["MAD.EP.MAT.CR.9.9"] == ()

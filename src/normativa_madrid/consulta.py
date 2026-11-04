@@ -617,11 +617,26 @@ def _sugerencias(codigo: str, datos: Indice, existentes: frozenset[str]) -> tupl
         default=None,
     )
     if ficha is None:
-        return ()
+        return _sugerencias_sin_ciclo(codigo, datos, existentes)
     candidatos = sorted(e.codigo for e in datos.fichas[ficha].elementos if e.codigo in existentes)
     siguientes = [c for c in candidatos if c.startswith(codigo + ".")]
     parecidos = difflib.get_close_matches(codigo, candidatos, MAX_SUGERENCIAS)
     return tuple(dict.fromkeys(siguientes + parecidos))[:MAX_SUGERENCIAS]
+
+
+def _sugerencias_sin_ciclo(
+    codigo: str, datos: Indice, existentes: frozenset[str]
+) -> tuple[str, ...]:
+    """Un código de área de Primaria sin ciclo (``MAD.EP.MAT.CR.1.1``): el mismo en cada ciclo
+    del área que lo tiene (``MAD.EP.MAT.C1.CR.1.1``…)."""
+    propuestas = []
+    for f in sorted(datos.fichas.values(), key=lambda f: f.codigo):
+        area = _area_de(f)
+        if f.ciclo and codigo.startswith(area + "."):
+            propuesta = f.codigo + codigo[len(area) :]
+            if propuesta in existentes:
+                propuestas.append(propuesta)
+    return tuple(propuestas[:MAX_SUGERENCIAS])
 
 
 @cache
