@@ -10,7 +10,7 @@ código está aquí, y al revés.
 
 - Cada orden imprime **un único JSON** en stdout. Sale con **0** si se resuelve; con **2** si
   falla (el JSON es entonces un error, ver más abajo). `comprobar` sale con **1** si encuentra
-  códigos desconocidos en algún documento.
+  códigos desconocidos en algún documento y con **2** si algún documento no se pudo leer.
 - Sin red y sin escribir ficheros. Todas las órdenes salvo `norma` admiten
   `--curso-academico AAAA-AA` (por defecto, el curso académico de hoy en Madrid). Los datos
   actuales son del curso `2026-27`.
@@ -24,7 +24,10 @@ código está aquí, y al revés.
   boletín**, como cadena, y su formato cambia según la etapa: «1» y «1.1» en ESO y Bachillerato
   y en Primaria; «1.» y «a)» en FP. Es `null` si el boletín no numera el elemento, como pasa con
   los contenidos de Primaria y de Madrid en general.
-- `pagina` es la **página impresa** del boletín («Pág. N»), no la del PDF.
+- `pagina` es la **página impresa** del boletín («Pág. N»), no la del PDF. Puede ser `null`
+  cuando el texto viene del XML consolidado del BOE (los descriptores `EST.*` y los requisitos
+  de la programación): no tiene página impresa y `ubicacion` da entonces el lugar (el artículo o
+  el anexo).
 - Si `via` no está vacío, el texto procede de otra norma y esta lo corrige o lo renombra:
   `via` dice el lugar original.
 - Los contenidos se llaman **«contenidos»** en Madrid (no «saberes básicos»).
@@ -383,10 +386,12 @@ literal y su procedencia, y el `indice`, que dice quién fija el índice de la p
 ### `comprobar <fichero>…`
 
 Comprueba que **todos** los códigos citados en uno o más documentos (`.md`, `.txt`, `.docx`,
-`.odt`; lee también tablas, notas al pie y encabezados) existen. Por fichero devuelve los
+`.odt`; de un `.docx` lee también tablas, notas al pie y encabezados; de un `.odt`, su
+contenido, sin encabezados) existen. Por fichero devuelve los
 `conocidos` y los `desconocidos`, con sugerencias. Sale con 1 si hay algún desconocido. Un fichero
-que no se puede leer va a `ilegibles` y no tapa el resultado de los demás; si no se puede leer
-ninguno, la respuesta es un error `FICHERO_ILEGIBLE` (salida 2). También marca los códigos del
+que no se puede leer va a `ilegibles` y no tapa el resultado de los demás; la salida es 2 si
+hay alguno. Si no se puede leer ninguno, la respuesta es el mismo documento, con `ficheros` vacío
+y todos los nombres en `ilegibles`. También marca los códigos del
 formato antiguo de Primaria (`MAT.3.1.C2`) como desconocidos y sugiere el nuevo.
 Si el documento no cita ningún código, `conocidos` y `desconocidos` salen vacíos: no lo des por
 bueno si debería citar alguno.
@@ -444,8 +449,8 @@ Un error es un único JSON con salida 2; `disponibles` lista las opciones válid
 | `CODIGO_DESCONOCIDO` | El código pedido a `elemento` no existe. No hay ningún elemento con ese código. Busca el código exacto con la consulta de la ficha o con una búsqueda de texto. |
 | `CURSO_SIN_DATOS` | El curso académico, el curso o el ciclo pedidos no tienen datos (o falta decir el curso o el ciclo de un área de Primaria). normativa-madrid no trae datos de ese curso académico. La lista de «disponibles» dice de cuáles sí; no los sustituyas por los de otro curso sin avisar a quien consulta. |
 | `DATOS_INVALIDOS` | Los datos instalados no cumplen su formato. Los datos de normativa no cumplen su formato: el detalle nombra el fichero y el campo. Es un fallo de la instalación o de una edición a mano: reinstala o actualiza normativa-madrid. |
-| `ETAPA_DESCONOCIDA` | La etapa de `programacion` o de `catalogo --etapa` no es válida. La etapa debe ser eso, bachillerato o fp. |
-| `FICHERO_ILEGIBLE` | Ningún fichero de `comprobar` se pudo leer. No se pudo leer el documento: no existe, está dañado o no es .md, .txt, .docx ni .odt. Convierte el documento a uno de esos formatos y repite la comprobación. |
+| `ETAPA_DESCONOCIDA` | La etapa de `programacion` o de `catalogo --etapa` no es válida. La etapa no es válida. `programacion` admite eso, bachillerato o fp; `catalogo --etapa` admite primaria, eso, bachillerato o fp_gs. La lista de «disponibles» dice cuáles. |
+| `FICHERO_ILEGIBLE` | Un documento no se pudo leer (lo usa la lectura de documentos; `comprobar` lo informa en `ilegibles`). No se pudo leer el documento: no existe, está dañado o no es .md, .txt, .docx ni .odt. Convierte el documento a uno de esos formatos y repite la comprobación. |
 | `NORMATIVA_SIN_DATOS` | La ficha, materia o módulo pedido no está en el paquete. normativa-madrid no trae esa materia o ese módulo. La lista de «disponibles» dice cuáles sí trae; para lo demás, consulta la norma en el boletín. |
 | `NORMA_DESCONOCIDA` | La cita de `norma` no corresponde a ninguna norma. normativa-madrid no tiene esa norma. Prueba con otra forma de citarla (por ejemplo «Decreto 27/2025» o «RD 405/2023») o consulta el boletín. |
 | `SALIDA_INVALIDA` | La respuesta no cumplió el esquema de salida. La respuesta de la consulta no cumple el formato de salida: no la uses. Es un fallo de normativa-madrid; avisa a quien la mantiene con este código. |
@@ -465,7 +470,8 @@ Un aviso no es un error: la respuesta es válida, pero hay que leerlo y tenerlo 
 - **Texto literal.** Cada texto es el del boletín, con espacios y saltos de línea normalizados.
   No hay palabras cortadas ni unidas, letras perdidas ni restos de cabecera. Una herramienta de
   mantenimiento comprueba que cada texto aparece literal en la página que cita.
-- **Procedencia de cada elemento.** Norma, ubicación y página impresa del boletín, de modo que se
+- **Procedencia de cada elemento.** Norma, ubicación y página impresa del boletín (`null` si el
+  texto viene del XML consolidado del BOE; entonces `ubicacion` da el lugar), de modo que se
   puede cotejar con la fuente. Las correcciones de errores oficiales se aplican y quedan
   anotadas en `via`.
 - **Códigos estables.** Un `codigo` identifica siempre al mismo elemento; `comprobar` detecta

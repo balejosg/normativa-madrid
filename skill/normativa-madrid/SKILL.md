@@ -6,8 +6,8 @@ description: Consultar la normativa educativa oficial de la Comunidad de Madrid 
 # Normativa educativa de Madrid
 
 Fuente de datos: el paquete `normativa-madrid` (orden `normativa-madrid`). Trae el texto literal
-del boletín, un código estable por elemento y su procedencia (norma, ubicación y página impresa).
-Funciona sin Internet. El contrato completo está en `docs/contrato.md` del paquete.
+del boletín, un código estable por elemento y su procedencia (norma, ubicación y, si la hay, página impresa; es `null` en el texto que viene del XML consolidado del BOE y entonces `ubicacion` da el lugar).
+Funciona sin Internet. El contrato completo está en `docs/contrato.md` del repositorio (no va en el paquete instalado); cada orden admite `--help` y todo error trae su código y un detalle.
 
 ## Cuándo usarla
 Siempre que el encargo necesite citar competencias específicas, criterios de evaluación,
@@ -47,8 +47,8 @@ programación didáctica **en Madrid**. Si la comunidad no es Madrid, no la uses
    - Salida 0: los códigos existen. Si no cita ninguno y debería, el comprobador no los ha leído
      (p. ej. la numeración de un libro de texto): no lo des por bueno.
    - Salida 1: hay `desconocidos`, con sugerencias; corrígelos y repite.
-   - Salida 2: error de uso o de fichero (`FICHERO_ILEGIBLE` si no se pudo leer; conviértelo a
-     uno de los formatos admitidos).
+   - Salida 2: algún documento no se pudo leer (sale en `ilegibles`, con su motivo; conviértelo a
+     uno de los formatos admitidos) o hay un error de uso.
 
 Con `--curso-academico AAAA-AA` se consulta otro curso académico; por defecto, el de hoy.
 

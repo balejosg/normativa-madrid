@@ -9,7 +9,7 @@ Origen: el código sale del proyecto tiza (MIT, mismo autor), commit `210d608`; 
 Garantiza (detalle en [`docs/contrato.md`](docs/contrato.md)):
 
 - **Texto literal** del boletín (espacios y saltos de línea normalizados), comprobado contra la página que cita.
-- **Procedencia** de cada elemento: norma, ubicación y página impresa del boletín.
+- **Procedencia** de cada elemento: norma, ubicación y página impresa del boletín (`null` si el texto viene del XML consolidado del BOE; entonces `ubicacion` da el lugar).
 - **Códigos estables** (`MAD.EP.MAT.C2.CR.1.1`) y una orden, `comprobar`, que dice si los de un documento existen.
 - **`codigo_oficial`** tal como lo imprime el boletín (`"1.1"`, `"a)"`), o `null` si no numera; en ese caso la respuesta lleva el aviso `NUMERACION_NO_OFICIAL` y el código no se debe presentar como oficial. No es lo mismo que `codigo`, el identificador estable de este paquete.
 
@@ -53,7 +53,7 @@ normativa-madrid programacion eso
 normativa-madrid comprobar programacion.docx         # sale 1 si cita un código que no existe
 ```
 
-Todas admiten `--curso-academico AAAA-AA` (salvo `norma`). Cada consulta imprime un único JSON en stdout y sale con 0; si falla, imprime `{"error": "<CODIGO>", "detalle": ..., "disponibles": [...]}` y sale con 2. Una respuesta puede llevar `avisos`. El contrato está en [`docs/contrato.md`](docs/contrato.md) y una skill genérica para agentes, en [`skill/normativa-madrid/SKILL.md`](skill/normativa-madrid/SKILL.md).
+Todas admiten `--curso-academico AAAA-AA` (salvo `norma`). Cada consulta imprime un único JSON en stdout y sale con 0 (`comprobar` sale con 1 si encuentra códigos desconocidos y con 2 si no pudo leer un documento); si falla, imprime `{"error": "<CODIGO>", "detalle": ..., "disponibles": [...]}` y sale con 2. Una respuesta puede llevar `avisos`. El contrato está en [`docs/contrato.md`](docs/contrato.md) y una skill genérica para agentes, en [`skill/normativa-madrid/SKILL.md`](skill/normativa-madrid/SKILL.md).
 
 Como biblioteca: `normativa_madrid.cargar()`, `normativa_madrid.consulta` y `normativa_madrid.salida`.
 
