@@ -130,8 +130,6 @@ def _consulta_normativa(args, consulta):
                 textos[ruta] = leer_texto(ruta)
             except ErrorNormativa as error:
                 ilegibles[ruta] = _sin_control(error.detalle)
-        if ilegibles and not textos:  # ninguno legible: el error, con todos los nombres
-            raise ErrorNormativa("FICHERO_ILEGIBLE", " ".join(ilegibles.values()))
         return consulta.comprobar(textos, args.curso_academico, ilegibles=ilegibles)
     return consulta.programacion(args.etapa, args.curso_academico)
 

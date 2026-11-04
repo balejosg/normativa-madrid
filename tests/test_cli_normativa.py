@@ -235,3 +235,8 @@ def test_la_salida_rechaza_un_aviso_inventado(capsys):
     documento["avisos"][0]["detalle"] = "otra cosa"
     with pytest.raises(salida.ErrorSalida):
         salida.validar(documento)
+
+
+def test_ayuda_de_etapa_da_los_dos_vocabularios():
+    texto = ayuda.explicar("ETAPA_DESCONOCIDA")
+    assert all(v in texto for v in ("primaria", "fp_gs", "bachillerato", "fp"))

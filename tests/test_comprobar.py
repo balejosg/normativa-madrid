@@ -127,18 +127,19 @@ def test_comprobar_ilegible(tmp_path, capsys):
     f.write_bytes(b"\x00\x01esto no es un zip")
     codigo, doc = ejecutar(capsys, str(f))
     assert codigo == 2
-    assert doc["error"] == "FICHERO_ILEGIBLE"
-    assert "roto.docx" in doc["detalle"]
-    assert doc["disponibles"] == []
+    salida.validar(doc)
+    assert doc["consulta"] == "comprobar" and doc["ficheros"] == []
+    (mal,) = doc["ilegibles"]
+    assert mal["fichero"] == str(f) and "roto.docx" in mal["detalle"]
 
 
 def test_comprobar_inexistente_y_formato_no_admitido(tmp_path, capsys):
     codigo, doc = ejecutar(capsys, str(tmp_path / "no_existe.md"))
-    assert (codigo, doc["error"]) == (2, "FICHERO_ILEGIBLE")
+    assert (codigo, len(doc["ilegibles"]), doc["ficheros"]) == (2, 1, [])
     pdf = tmp_path / "a.pdf"
     pdf.write_bytes(b"%PDF-1.4")
     codigo, doc = ejecutar(capsys, str(pdf))
-    assert (codigo, doc["error"]) == (2, "FICHERO_ILEGIBLE")
+    assert (codigo, len(doc["ilegibles"]), doc["ficheros"]) == (2, 1, [])
 
 
 def test_comprobar_docx_sin_documento(tmp_path):
@@ -237,12 +238,15 @@ def test_comprobar_un_ilegible_no_tapa_los_demas(tmp_path, capsys):
     assert mal["fichero"] == str(roto) and "roto.docx" in mal["detalle"]
 
 
-def test_comprobar_dos_ilegibles_salen_los_dos(tmp_path, capsys):
-    a, b = tmp_path / "a.docx", tmp_path / "b.md"
-    a.write_bytes(b"\x00")
-    codigo, doc = ejecutar(capsys, str(a), str(b))
-    assert (codigo, doc["error"]) == (2, "FICHERO_ILEGIBLE")
-    assert "a.docx" in doc["detalle"] and "b.md" in doc["detalle"]
+def test_comprobar_seis_ilegibles_salen_los_seis(tmp_path, capsys):
+    rutas = [tmp_path / f"documento_con_un_nombre_bastante_largo_{n}.docx" for n in range(6)]
+    for ruta in rutas:
+        ruta.write_bytes(b"\x00")
+    codigo, doc = ejecutar(capsys, *map(str, rutas))
+    assert codigo == 2 and doc["ficheros"] == []
+    salida.validar(doc)
+    assert [i["fichero"] for i in doc["ilegibles"]] == [str(r) for r in rutas]
+    assert all(r.name in i["detalle"] for r, i in zip(rutas, doc["ilegibles"]))
 
 
 def test_comprobar_ilegible_sin_desconocidos_sigue_siendo_2(tmp_path, capsys):

@@ -30,7 +30,10 @@ AYUDA: dict[str, str] = {
         "No se pudo leer el documento: no existe, está dañado o no es .md, .txt, .docx ni .odt. "
         "Convierte el documento a uno de esos formatos y repite la comprobación."
     ),
-    "ETAPA_DESCONOCIDA": "La etapa debe ser eso, bachillerato o fp.",
+    "ETAPA_DESCONOCIDA": (
+        "La etapa no es válida. `programacion` admite eso, bachillerato o fp; `catalogo --etapa` "
+        "admite primaria, eso, bachillerato o fp_gs. La lista de «disponibles» dice cuáles."
+    ),
     "TEXTO_VACIO": "Falta el texto que buscar: escribe al menos una palabra.",
     "SALIDA_INVALIDA": (
         "La respuesta de la consulta no cumple el formato de salida: no la uses. Es un fallo de "

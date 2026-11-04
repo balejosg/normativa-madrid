@@ -317,8 +317,8 @@ class Comprobacion(Respuesta):
     def codigo_salida(self) -> int:
         """2 si algún documento no se pudo leer, si no 1 si algún código es desconocido, si no 0.
 
-        ``ficheros`` trae los documentos leídos y ``ilegibles`` los que no. Si no se pudo leer
-        ninguno, la CLI imprime en su lugar el error ``FICHERO_ILEGIBLE`` con todos sus nombres.
+        ``ficheros`` trae los documentos leídos y ``ilegibles`` los que no; si no se pudo leer
+        ninguno, ``ficheros`` va vacío y es este mismo documento, con salida 2.
         """
         if self.ilegibles:
             return 2
