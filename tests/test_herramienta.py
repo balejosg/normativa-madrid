@@ -1260,3 +1260,71 @@ def test_comprobar_los_recuentos_cuentan_los_elementos_que_la_correccion_declara
     assert [str(d) for d in comprobar.comprobar_recuentos(ficha, fuentes)] == [
         "SOBRA EST.X.DESC descriptores: «corrige-1» tiene 0 y la ficha 1"
     ]
+
+
+# --- red de seguridad: contenidos mal troceados ---------------------------------------
+
+
+def test_bloque_con_vinetas_es_error():
+    texto = CCOMP_ESO.read_text(encoding="utf-8")
+    cabecera = "    A.     Pensamiento computacional.\n"
+    assert cabecera in texto
+    # el patrón de Matemáticas de 1.º: sub-bloque numerado y viñetas «‒» (U+2012)
+    troceado = (
+        "    A. Números y operaciones.\n"
+        "    1. Conteo.\n"
+        "       ‒ Estrategias sencillas de recuento en situaciones de la vida cotidiana.\n"
+    )
+    with pytest.raises(ValueError, match=r"troceado.*MAD\.ESO\.CCOMP\.1\.CO\.A"):
+        ccomp_eso("1", texto.replace(cabecera, troceado, 1))
+
+
+def test_cabecera_con_mayusculas():
+    texto = CCOMP_ESO.read_text(encoding="utf-8")
+    assert "Competencias específicas." in texto
+    mayusculas = texto.replace("Competencias específicas.", "Competencias Específicas.")
+    assert elementos(ccomp_eso("1", mayusculas)) == elementos(ccomp_eso("1"))
+    lomloe = herramienta("extraer_lomloe")
+    for patron, frase in (
+        (lomloe._COMPETENCIAS, "Competencias Específicas."),
+        (lomloe._CRITERIOS, "Criterios de Evaluación."),
+    ):
+        assert patron.match(f"    {frase}")
+
+
+def _elemento_largo(tipo: str, texto: str) -> dict:
+    return {
+        "codigo": "MAD.ESO.CCOMP.1.CO.A",
+        "tipo": tipo,
+        "texto": texto,
+        "codigo_oficial": "A",
+        "procedencia": {"norma": "bocm-20250101-1", "ubicacion": "anexo II", "pagina": 12},
+        "orden": 98,
+    }
+
+
+def _problemas_de_troceado(tmp_path, *elementos_nuevos) -> list:
+    comprobar = herramienta("comprobar")
+    destino = tmp_path / "datos"
+    shutil.copytree(SINTETICOS, destino)
+    ruta = destino / "fichas" / "materia_ccomp_1.json"
+    ficha = json.loads(ruta.read_text(encoding="utf-8"))
+    ficha["elementos"].extend(elementos_nuevos)
+    ruta.write_text(json.dumps(ficha, ensure_ascii=False), encoding="utf-8")
+    limpiar_cache()
+    todos = comprobar.comprobar_datos(destino, {}, {})
+    return [d for d in todos if d.tipo == "TROCEADO_SOSPECHOSO"]
+
+
+def test_comprobar_detecta_troceado(tmp_path):
+    largo = ("Números y operaciones. " + "1. Conteo. ‒ Estrategias de recuento. " * 50).strip()
+    assert 1900 < len(largo)
+    problemas = _problemas_de_troceado(tmp_path, _elemento_largo("bloque_contenidos", largo))
+    assert [d.donde for d in problemas] == ["MAD.ESO.CCOMP.1.CO.A"]
+    # un contenido largo (sin viñetas) también es sospechoso; una nota larga, no
+    texto = ("Palabra " * 200).strip()
+    assert len(_problemas_de_troceado(tmp_path / "b", _elemento_largo("contenido", texto))) == 1
+    assert _problemas_de_troceado(tmp_path / "c", _elemento_largo("nota", texto)) == []
+    assert _problemas_de_troceado(
+        tmp_path / "d", _elemento_largo("bloque_contenidos", "Pensamiento computacional.")
+    ) == []

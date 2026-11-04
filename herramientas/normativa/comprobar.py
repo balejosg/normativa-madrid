@@ -10,6 +10,8 @@ vocabulario del doble chequeo:
 * ``PROCEDENCIA``: la página o la norma citada no existe.
 * ``RELACION``: una relación apunta a algo que no existe.
 * ``CODIGO``: un código mal formado, repetido o fuera de su ficha.
+* ``TROCEADO_SOSPECHOSO``: un elemento parece varios pegados (viñetas o sub-bloques numerados
+  en el título de un bloque, o más de 1200 caracteres).
 * ``VIGENCIA``: la ficha rige en un curso en el que una de sus normas ya está derogada.
 * ``FALTA`` / ``SOBRA``: menos o más elementos que los esperados en el anexo.
 * ``SIN_FUENTE``: no hay texto de la norma en la caché para comprobar.
@@ -39,6 +41,7 @@ TIPOS_DE_DISCREPANCIA = (
     "PROCEDENCIA",
     "RELACION",
     "CODIGO",
+    "TROCEADO_SOSPECHOSO",
     "VIGENCIA",
     "FALTA",
     "SOBRA",
@@ -503,6 +506,8 @@ def comprobar_datos(
                 problemas.append(
                     Discrepancia("CODIGO", elemento.codigo, f"no cuelga de la ficha {ficha.codigo}")
                 )
+            if (motivo := comun.troceado_sospechoso(elemento.tipo, elemento.texto)) is not None:
+                problemas.append(Discrepancia("TROCEADO_SOSPECHOSO", elemento.codigo, motivo))
             problemas.extend(comprobar_elemento(elemento, documentos, fuentes))
         problemas.extend(comprobar_recuentos(ficha, fuentes))
         problemas.extend(comprobar_vigencia(ficha, fuentes))

@@ -39,9 +39,9 @@ ETAPAS = {"eso": "ESO", "bachillerato": "BACH"}
 ORDINALES = {"1": "primer", "2": "segundo", "3": "tercer", "4": "cuarto"}
 
 _ANEXO = re.compile(r"^\s*ANEXO\s+([IVXLC]+)\s*$")
-_COMPETENCIAS = re.compile(r"^\s*Competencias espec[ií]ficas\.?\s*$")
-_CRITERIOS = re.compile(r"^\s*Criterios de evaluaci[oó]n\.?\s*$")
-_CONTENIDOS = re.compile(r"^\s*Contenidos\.?\s*$")
+_COMPETENCIAS = re.compile(r"^\s*Competencias espec[ií]ficas\.?\s*$", re.I)
+_CRITERIOS = re.compile(r"^\s*Criterios de evaluaci[oó]n\.?\s*$", re.I)
+_CONTENIDOS = re.compile(r"^\s*Contenidos\.?\s*$", re.I)
 _GRUPO = re.compile(r"^\s*Competencia espec[ií]fica (\d+)\.?\s*$")
 _CURSO_CUALQUIERA = re.compile(r"^\s*\d\s*\.?\s*[º°]\s*\.?\s*[A-ZÁÉÍÓÚ][A-ZÁÉÍÓÚ ]*\.?\s*$")
 _NUMERADA = re.compile(r"^\s*(\d+)\.\s+(\S.*)$")
@@ -287,6 +287,8 @@ def extraer_materia(
             elemento["padre"] = padre
         if relaciones:
             elemento["relaciones"] = relaciones
+        if (motivo := comun.troceado_sospechoso(tipo, elemento["texto"])) is not None:
+            raise ValueError(f"troceado sospechoso en {codigo} ({tipo}): {motivo}")
         elementos.append(elemento)
 
     for c in competencias:

@@ -27,6 +27,7 @@ __all__ = [
     "leer_fuentes",
     "nombre_de_catalogo",
     "procedencia_corregida",
+    "troceado_sospechoso",
     "lineas_de",
     "lineas_limpias",
     "norma_para_el_paquete",
@@ -92,6 +93,40 @@ RECUENTOS = {
 # de apartado) donde le hacen falta.
 GUIONES_DE_VINETA = "-–—−"
 VINETA = re.compile(rf"^\s*[{GUIONES_DE_VINETA}]\s+(\S.*)$")
+
+
+# Tipos de elemento cuyo texto no debería pasar de LONGITUD_MAXIMA caracteres: si lo hace,
+# lo normal es que la extracción haya pegado varios elementos en uno.
+TIPOS_ACOTADOS = frozenset(
+    {
+        "competencia_especifica",
+        "criterio",
+        "criterio_fp",
+        "resultado_aprendizaje",
+        "bloque_contenidos",
+        "contenido",
+        "contenido_basico",
+        "descriptor",
+    }
+)
+LONGITUD_MAXIMA = 1200
+# Una viñeta («‒», «–», «-», «x» o «•») tras un espacio y antes de una mayúscula.
+_VINETA_EN_TEXTO = re.compile(r"\s(?:[‒–\-x]\s+|•\s*)[A-ZÁÉÍÓÚ]")
+# Un sub-bloque numerado («1. Conteo.») después de la primera frase.
+_SUBBLOQUE_EN_TEXTO = re.compile(r"\b\d+\.\s+[A-ZÁÉÍÓÚ]")
+
+
+def troceado_sospechoso(tipo: str, texto: str) -> str | None:
+    """Por qué el texto de un elemento parece varios elementos pegados; ``None`` si no."""
+    if tipo == "bloque_contenidos":
+        if _VINETA_EN_TEXTO.search(texto):
+            return "el título del bloque contiene viñetas"
+        primera = texto.find(". ")
+        if primera >= 0 and _SUBBLOQUE_EN_TEXTO.search(texto, primera):
+            return "el título del bloque contiene sub-bloques numerados"
+    if tipo in TIPOS_ACOTADOS and len(texto) > LONGITUD_MAXIMA:
+        return f"el texto tiene {len(texto)} caracteres (más de {LONGITUD_MAXIMA})"
+    return None
 
 
 def normalizar_unicode(texto: str) -> str:
