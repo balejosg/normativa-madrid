@@ -4,8 +4,12 @@ from __future__ import annotations
 
 import copy
 import json
+import os
+import subprocess
+import sys
 import shutil
-from datetime import date
+from datetime import date, datetime, timezone
+from zoneinfo import ZoneInfoNotFoundError
 from pathlib import Path
 
 import pytest
@@ -584,3 +588,41 @@ def test_el_detalle_no_repite_lo_pedido_si_es_raro(indice):
     assert "script" not in salida.error_a_dict(error)["detalle"]
     error = fallo(lambda: consulta.norma("Decreto 1/1999", hoy=HOY, indice=indice))
     assert "Decreto 1/1999" in error.detalle
+
+
+@pytest.mark.parametrize(
+    ("utc", "madrid"),
+    [
+        (datetime(2026, 1, 15, 23, 30, tzinfo=timezone.utc), date(2026, 1, 16)),  # CET
+        (datetime(2026, 3, 29, 0, 59, tzinfo=timezone.utc), date(2026, 3, 29)),  # antes del cambio
+        (datetime(2026, 3, 29, 1, 0, tzinfo=timezone.utc), date(2026, 3, 29)),  # CEST
+        (datetime(2026, 7, 1, 22, 0, tzinfo=timezone.utc), date(2026, 7, 2)),  # CEST: +2
+        (datetime(2026, 7, 1, 21, 59, tzinfo=timezone.utc), date(2026, 7, 1)),
+        (datetime(2026, 10, 25, 0, 59, tzinfo=timezone.utc), date(2026, 10, 25)),
+        (datetime(2026, 10, 25, 1, 0, tzinfo=timezone.utc), date(2026, 10, 25)),  # CET
+        (datetime(2026, 10, 25, 23, 0, tzinfo=timezone.utc), date(2026, 10, 26)),
+    ],
+)
+def test_fecha_de_madrid_sin_base_de_zonas_horarias(utc, madrid):
+    assert consulta._fecha_de_madrid_sin_tzdata(utc) == madrid
+
+
+def test_hoy_en_madrid_sin_base_de_zonas_horarias(monkeypatch):
+    def sin_base(_clave):
+        raise ZoneInfoNotFoundError("Europe/Madrid")
+
+    monkeypatch.setattr(consulta, "ZoneInfo", sin_base)
+    assert isinstance(consulta.hoy_en_madrid(), date)
+
+
+def test_cli_sin_base_de_zonas_horarias(tmp_path):
+    vacia = tmp_path / "sin-tz"
+    vacia.mkdir()
+    entorno = {**os.environ, "PYTHONTZPATH": str(vacia)}
+    r = subprocess.run(
+        [sys.executable, "-m", "normativa_madrid", "elemento", "MAD.EP.MAT.C2.CR.1.1",
+         "--curso-academico", "2026-27"],
+        capture_output=True, text=True, env=entorno, check=False,
+    )
+    assert r.returncode == 0, r.stderr
+    assert json.loads(r.stdout)["elemento"]["codigo"] == "MAD.EP.MAT.C2.CR.1.1"

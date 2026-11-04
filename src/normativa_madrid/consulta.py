@@ -15,11 +15,11 @@ import json
 import re
 import unicodedata
 from collections.abc import Iterable
-from datetime import date, datetime
+from datetime import date, datetime, time, timedelta, timezone
 from functools import cache
 from importlib.resources import files
 from typing import TypedDict
-from zoneinfo import ZoneInfo
+from zoneinfo import ZoneInfo, ZoneInfoNotFoundError
 
 from . import salida
 from .datos import ErrorNormativa, Indice, cargar, normalizar_cita
@@ -80,9 +80,27 @@ def ciclo_de_curso(curso: int | str) -> str:
     return _CICLOS_DE_PRIMARIA[(int(texto) - 1) // 2]
 
 
+def _ultimo_domingo(anio: int, mes: int) -> date:
+    ultimo = date(anio, mes, 31)  # marzo y octubre tienen 31 días
+    return ultimo - timedelta(days=(ultimo.weekday() + 1) % 7)
+
+
+def _fecha_de_madrid_sin_tzdata(ahora_utc: datetime) -> date:
+    """La fecha de Madrid solo con la biblioteca estándar: UTC+1, y UTC+2 desde el último
+    domingo de marzo a la 01:00 UTC hasta el último domingo de octubre a la 01:00 UTC."""
+    anio = ahora_utc.year
+    inicio = datetime.combine(_ultimo_domingo(anio, 3), time(1), tzinfo=timezone.utc)
+    fin = datetime.combine(_ultimo_domingo(anio, 10), time(1), tzinfo=timezone.utc)
+    horas = 2 if inicio <= ahora_utc < fin else 1
+    return (ahora_utc + timedelta(hours=horas)).date()
+
+
 def hoy_en_madrid() -> date:
-    """La fecha de hoy en Europe/Madrid."""
-    return datetime.now(ZoneInfo("Europe/Madrid")).date()
+    """La fecha de hoy en Europe/Madrid (sin base de zonas horarias, con la regla fija CET/CEST)."""
+    try:
+        return datetime.now(ZoneInfo("Europe/Madrid")).date()
+    except ZoneInfoNotFoundError:
+        return _fecha_de_madrid_sin_tzdata(datetime.now(timezone.utc))
 
 
 def curso_de(fecha: date) -> str:
