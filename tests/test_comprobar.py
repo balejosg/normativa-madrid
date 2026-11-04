@@ -206,7 +206,7 @@ def test_equivalencias_apuntan_a_elementos_que_existen():
     ruta = Path(consulta.__file__).parent / "datos" / "equivalencias-primaria-2026.json"
     tabla = json.loads(ruta.read_text(encoding="utf-8"))["equivalencias"]
     elementos = cargar().elementos
-    assert tabla and all(nuevo in elementos for nuevo in tabla.values())
+    assert tabla and all(n in elementos for nuevos in tabla.values() for n in nuevos)
 
 
 def test_equivalencias_coinciden_con_el_generador(monkeypatch):
@@ -251,3 +251,10 @@ def test_comprobar_ilegible_sin_desconocidos_sigue_siendo_2(tmp_path, capsys):
     roto.write_bytes(b"x")
     codigo, doc = ejecutar(capsys, str(bueno), str(roto))
     assert codigo == 2 and len(doc["ilegibles"]) == 1
+
+
+def test_codigo_del_real_decreto_compartido_sugiere_todos_los_nuevos():
+    r = comprobar("La competencia CMNSC.CE5 y la CMNSC.CE6.")
+    sugeridas = {d.codigo: d.sugerencias for d in r.ficheros[0].desconocidos}
+    assert sugeridas["CMNSC.CE5"] == ("MAD.EP.CN.C1.CE.5", "MAD.EP.CS.C1.CE.1")
+    assert sugeridas["CMNSC.CE6"] == ("MAD.EP.CN.C1.CE.6", "MAD.EP.CS.C1.CE.2")

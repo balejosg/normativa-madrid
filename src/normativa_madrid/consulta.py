@@ -241,8 +241,7 @@ def comprobar(
                 if codigo in datos.elementos:
                     usados.append(datos.elementos[codigo][1])
             elif _CITA_ANTIGUA.fullmatch(codigo):
-                nuevo = equivalencias.get(codigo)
-                sugeridos = (nuevo,) if nuevo in existentes else ()
+                sugeridos = tuple(n for n in equivalencias.get(codigo, ()) if n in existentes)
                 desconocidos.append(salida.Desconocido(codigo, sugeridos))
             else:
                 desconocidos.append(
@@ -620,17 +619,18 @@ def _sugerencias(codigo: str, datos: Indice, existentes: frozenset[str]) -> tupl
 
 
 @cache
-def _equivalencias() -> dict[str, str]:
-    """Código antiguo de Primaria -> código nuevo (``datos/equivalencias-primaria-2026.json``)."""
+def _equivalencias() -> dict[str, tuple[str, ...]]:
+    """Código antiguo de Primaria -> códigos nuevos (``datos/equivalencias-primaria-2026.json``)."""
     nombre = "datos/equivalencias-primaria-2026.json"
     try:
         bruto = json.loads(files("normativa_madrid").joinpath(nombre).read_text(encoding="utf-8"))
         tabla = bruto["equivalencias"]
         valido = isinstance(tabla, dict) and all(
-            type(k) is str and type(v) is str for k, v in tabla.items()
+            type(k) is str and isinstance(v, list) and all(type(n) is str for n in v)
+            for k, v in tabla.items()
         )
     except (OSError, ValueError, KeyError, TypeError) as exc:
         raise ErrorNormativa("DATOS_INVALIDOS", f"{nombre}: no es un JSON legible") from exc
     if not valido:
-        raise ErrorNormativa("DATOS_INVALIDOS", f"{nombre}: debe ser un objeto de textos")
-    return tabla
+        raise ErrorNormativa("DATOS_INVALIDOS", f"{nombre}: debe ser un objeto de listas de textos")
+    return {k: tuple(v) for k, v in tabla.items()}

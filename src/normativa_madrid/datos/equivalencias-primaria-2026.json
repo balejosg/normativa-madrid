@@ -1,434 +1,1296 @@
 {
  "equivalencias": {
-  "CMNSC.CE1": "MAD.EP.CN.C1.CE.1",
-  "CMNSC.CE2": "MAD.EP.CN.C1.CE.2",
-  "CMNSC.CE3": "MAD.EP.CN.C1.CE.3",
-  "CMNSC.CE4": "MAD.EP.CN.C1.CE.4",
-  "CMNSC.CE5": "MAD.EP.CS.C1.CE.1",
-  "CMNSC.CE6": "MAD.EP.CS.C1.CE.2",
-  "CMNSC.CE7": "MAD.EP.CS.C1.CE.3",
-  "CMNSC.CE8": "MAD.EP.CS.C1.CE.4",
-  "CMNSC.CE9": "MAD.EP.CS.C1.CE.5",
-  "CN.1.1.C1": "MAD.EP.CN.C1.CR.1.1",
-  "CN.1.1.C2": "MAD.EP.CN.C2.CR.1.1",
-  "CN.1.1.C3": "MAD.EP.CN.C3.CR.1.1",
-  "CN.1.2.C1": "MAD.EP.CN.C1.CR.1.2",
-  "CN.2.1.C1": "MAD.EP.CN.C1.CR.2.1",
-  "CN.2.1.C2": "MAD.EP.CN.C2.CR.2.1",
-  "CN.2.1.C3": "MAD.EP.CN.C3.CR.2.1",
-  "CN.2.2.C1": "MAD.EP.CN.C1.CR.2.2",
-  "CN.2.2.C2": "MAD.EP.CN.C2.CR.2.2",
-  "CN.2.2.C3": "MAD.EP.CN.C3.CR.2.2",
-  "CN.2.3.C1": "MAD.EP.CN.C1.CR.2.3",
-  "CN.2.3.C2": "MAD.EP.CN.C2.CR.2.3",
-  "CN.2.3.C3": "MAD.EP.CN.C3.CR.2.3",
-  "CN.2.4.C1": "MAD.EP.CN.C1.CR.2.4",
-  "CN.2.4.C2": "MAD.EP.CN.C2.CR.2.4",
-  "CN.2.4.C3": "MAD.EP.CN.C3.CR.2.4",
-  "CN.2.5.C1": "MAD.EP.CN.C1.CR.2.5",
-  "CN.2.5.C2": "MAD.EP.CN.C2.CR.2.5",
-  "CN.2.5.C3": "MAD.EP.CN.C3.CR.2.5",
-  "CN.3.1.C1": "MAD.EP.CN.C1.CR.3.1",
-  "CN.3.1.C2": "MAD.EP.CN.C2.CR.3.1",
-  "CN.3.1.C3": "MAD.EP.CN.C3.CR.3.1",
-  "CN.3.2.C1": "MAD.EP.CN.C1.CR.3.2",
-  "CN.3.2.C2": "MAD.EP.CN.C2.CR.3.2",
-  "CN.3.2.C3": "MAD.EP.CN.C3.CR.3.2",
-  "CN.3.3.C1": "MAD.EP.CN.C1.CR.3.3",
-  "CN.3.3.C2": "MAD.EP.CN.C2.CR.3.3",
-  "CN.3.3.C3": "MAD.EP.CN.C3.CR.3.3",
-  "CN.3.4.C3": "MAD.EP.CN.C3.CR.3.4",
-  "CN.4.1.C1": "MAD.EP.CN.C1.CR.4.1",
-  "CN.4.1.C2": "MAD.EP.CN.C2.CR.4.1",
-  "CN.4.1.C3": "MAD.EP.CN.C3.CR.4.1",
-  "CN.4.2.C1": "MAD.EP.CN.C1.CR.4.2",
-  "CN.4.2.C2": "MAD.EP.CN.C2.CR.4.2",
-  "CN.4.2.C3": "MAD.EP.CN.C3.CR.4.2",
-  "CN.4.3.C2": "MAD.EP.CN.C2.CR.4.3",
-  "CN.5.1.C1": "MAD.EP.CN.C1.CR.5.1",
-  "CN.5.1.C2": "MAD.EP.CN.C2.CR.5.1",
-  "CN.5.1.C3": "MAD.EP.CN.C3.CR.5.1",
-  "CN.5.2.C1": "MAD.EP.CN.C1.CR.5.2",
-  "CN.5.2.C2": "MAD.EP.CN.C2.CR.5.2",
-  "CN.5.2.C3": "MAD.EP.CN.C3.CR.5.2",
-  "CN.5.3.C1": "MAD.EP.CN.C1.CR.5.3",
-  "CN.5.3.C2": "MAD.EP.CN.C2.CR.5.3",
-  "CN.5.3.C3": "MAD.EP.CN.C3.CR.5.3",
-  "CN.6.1.C1": "MAD.EP.CN.C1.CR.6.1",
-  "CN.6.1.C2": "MAD.EP.CN.C2.CR.6.1",
-  "CN.6.1.C3": "MAD.EP.CN.C3.CR.6.1",
-  "CN.6.2.C1": "MAD.EP.CN.C1.CR.6.2",
-  "CN.6.2.C2": "MAD.EP.CN.C2.CR.6.2",
-  "CN.6.2.C3": "MAD.EP.CN.C3.CR.6.2",
-  "CN.6.3.C2": "MAD.EP.CN.C2.CR.6.3",
-  "CN.CE1": "MAD.EP.CN.C1.CE.1",
-  "CN.CE2": "MAD.EP.CN.C1.CE.2",
-  "CN.CE3": "MAD.EP.CN.C1.CE.3",
-  "CN.CE4": "MAD.EP.CN.C1.CE.4",
-  "CN.CE5": "MAD.EP.CN.C1.CE.5",
-  "CN.CE6": "MAD.EP.CN.C1.CE.6",
-  "CS.1.1.C1": "MAD.EP.CS.C1.CR.1.1",
-  "CS.1.1.C2": "MAD.EP.CS.C2.CR.1.1",
-  "CS.1.1.C3": "MAD.EP.CS.C3.CR.1.1",
-  "CS.1.2.C1": "MAD.EP.CS.C1.CR.1.2",
-  "CS.1.2.C2": "MAD.EP.CS.C2.CR.1.2",
-  "CS.1.2.C3": "MAD.EP.CS.C3.CR.1.2",
-  "CS.1.3.C1": "MAD.EP.CS.C1.CR.1.3",
-  "CS.1.3.C2": "MAD.EP.CS.C2.CR.1.3",
-  "CS.1.3.C3": "MAD.EP.CS.C3.CR.1.3",
-  "CS.2.1.C1": "MAD.EP.CS.C1.CR.2.1",
-  "CS.2.1.C2": "MAD.EP.CS.C2.CR.2.1",
-  "CS.2.1.C3": "MAD.EP.CS.C3.CR.2.1",
-  "CS.2.2.C3": "MAD.EP.CS.C3.CR.2.2",
-  "CS.3.1.C1": "MAD.EP.CS.C1.CR.3.1",
-  "CS.3.1.C2": "MAD.EP.CS.C2.CR.3.1",
-  "CS.3.1.C3": "MAD.EP.CS.C3.CR.3.1",
-  "CS.3.2.C1": "MAD.EP.CS.C1.CR.3.2",
-  "CS.3.2.C2": "MAD.EP.CS.C2.CR.3.2",
-  "CS.3.2.C3": "MAD.EP.CS.C3.CR.3.2",
-  "CS.4.1.C1": "MAD.EP.CS.C1.CR.4.1",
-  "CS.4.1.C2": "MAD.EP.CS.C2.CR.4.1",
-  "CS.4.1.C3": "MAD.EP.CS.C3.CR.4.1",
-  "CS.4.2.C1": "MAD.EP.CS.C1.CR.4.2",
-  "CS.4.2.C2": "MAD.EP.CS.C2.CR.4.2",
-  "CS.4.2.C3": "MAD.EP.CS.C3.CR.4.2",
-  "CS.5.1.C1": "MAD.EP.CS.C1.CR.5.1",
-  "CS.5.1.C2": "MAD.EP.CS.C2.CR.5.1",
-  "CS.5.1.C3": "MAD.EP.CS.C3.CR.5.1",
-  "CS.5.2.C1": "MAD.EP.CS.C1.CR.5.2",
-  "CS.5.2.C2": "MAD.EP.CS.C2.CR.5.2",
-  "CS.5.2.C3": "MAD.EP.CS.C3.CR.5.2",
-  "CS.5.3.C1": "MAD.EP.CS.C1.CR.5.3",
-  "CS.5.3.C2": "MAD.EP.CS.C2.CR.5.3",
-  "CS.CE1": "MAD.EP.CS.C1.CE.1",
-  "CS.CE2": "MAD.EP.CS.C1.CE.2",
-  "CS.CE3": "MAD.EP.CS.C1.CE.3",
-  "CS.CE4": "MAD.EP.CS.C1.CE.4",
-  "CS.CE5": "MAD.EP.CS.C1.CE.5",
-  "EA.1.1.C1": "MAD.EP.EA.C1.CR.1.1",
-  "EA.1.1.C2": "MAD.EP.EA.C2.CR.1.1",
-  "EA.1.1.C3": "MAD.EP.EA.C3.CR.1.1",
-  "EA.1.2.C1": "MAD.EP.EA.C1.CR.1.2",
-  "EA.1.2.C2": "MAD.EP.EA.C2.CR.1.2",
-  "EA.1.2.C3": "MAD.EP.EA.C3.CR.1.2",
-  "EA.1.3.C1": "MAD.EP.EA.C1.CR.1.3",
-  "EA.1.3.C2": "MAD.EP.EA.C2.CR.1.3",
-  "EA.1.3.C3": "MAD.EP.EA.C3.CR.1.3",
-  "EA.2.1.C1": "MAD.EP.EA.C1.CR.2.1",
-  "EA.2.1.C2": "MAD.EP.EA.C2.CR.2.1",
-  "EA.2.1.C3": "MAD.EP.EA.C3.CR.2.1",
-  "EA.2.2.C1": "MAD.EP.EA.C1.CR.2.2",
-  "EA.2.2.C2": "MAD.EP.EA.C2.CR.2.2",
-  "EA.2.2.C3": "MAD.EP.EA.C3.CR.2.2",
-  "EA.2.3.C3": "MAD.EP.EA.C3.CR.2.3",
-  "EA.3.1.C1": "MAD.EP.EA.C1.CR.3.1",
-  "EA.3.1.C2": "MAD.EP.EA.C2.CR.3.1",
-  "EA.3.1.C3": "MAD.EP.EA.C3.CR.3.1",
-  "EA.3.2.C1": "MAD.EP.EA.C1.CR.3.2",
-  "EA.3.2.C2": "MAD.EP.EA.C2.CR.3.2",
-  "EA.3.2.C3": "MAD.EP.EA.C3.CR.3.2",
-  "EA.4.1.C1": "MAD.EP.EA.C1.CR.4.1",
-  "EA.4.1.C2": "MAD.EP.EA.C2.CR.4.1",
-  "EA.4.1.C3": "MAD.EP.EA.C3.CR.4.1",
-  "EA.4.2.C1": "MAD.EP.EA.C1.CR.4.2",
-  "EA.4.2.C2": "MAD.EP.EA.C2.CR.4.2",
-  "EA.4.2.C3": "MAD.EP.EA.C3.CR.4.2",
-  "EA.4.3.C1": "MAD.EP.EA.C1.CR.4.3",
-  "EA.4.3.C2": "MAD.EP.EA.C2.CR.4.3",
-  "EA.4.3.C3": "MAD.EP.EA.C3.CR.4.3",
-  "EA.4.4.C1": "MAD.EP.EA.C1.CR.4.4",
-  "EA.4.4.C2": "MAD.EP.EA.C2.CR.4.4",
-  "EA.4.4.C3": "MAD.EP.EA.C3.CR.4.4",
-  "EA.CE1": "MAD.EP.EA.C1.CE.1",
-  "EA.CE2": "MAD.EP.EA.C1.CE.2",
-  "EA.CE3": "MAD.EP.EA.C1.CE.3",
-  "EA.CE4": "MAD.EP.EA.C1.CE.4",
-  "EF.1.1.C1": "MAD.EP.EF.C1.CR.1.1",
-  "EF.1.1.C2": "MAD.EP.EF.C2.CR.1.1",
-  "EF.1.1.C3": "MAD.EP.EF.C3.CR.1.1",
-  "EF.1.2.C1": "MAD.EP.EF.C1.CR.1.2",
-  "EF.1.2.C2": "MAD.EP.EF.C2.CR.1.2",
-  "EF.1.2.C3": "MAD.EP.EF.C3.CR.1.2",
-  "EF.1.3.C1": "MAD.EP.EF.C1.CR.1.3",
-  "EF.1.3.C2": "MAD.EP.EF.C2.CR.1.3",
-  "EF.1.3.C3": "MAD.EP.EF.C3.CR.1.3",
-  "EF.1.4.C1": "MAD.EP.EF.C1.CR.1.4",
-  "EF.1.4.C2": "MAD.EP.EF.C2.CR.1.4",
-  "EF.1.4.C3": "MAD.EP.EF.C3.CR.1.4",
-  "EF.2.1.C1": "MAD.EP.EF.C1.CR.2.1",
-  "EF.2.1.C2": "MAD.EP.EF.C2.CR.2.1",
-  "EF.2.1.C3": "MAD.EP.EF.C3.CR.2.1",
-  "EF.2.2.C1": "MAD.EP.EF.C1.CR.2.2",
-  "EF.2.2.C2": "MAD.EP.EF.C2.CR.2.2",
-  "EF.2.2.C3": "MAD.EP.EF.C3.CR.2.2",
-  "EF.2.3.C1": "MAD.EP.EF.C1.CR.2.3",
-  "EF.2.3.C2": "MAD.EP.EF.C2.CR.2.3",
-  "EF.2.3.C3": "MAD.EP.EF.C3.CR.2.3",
-  "EF.3.1.C1": "MAD.EP.EF.C1.CR.3.1",
-  "EF.3.1.C2": "MAD.EP.EF.C2.CR.3.1",
-  "EF.3.1.C3": "MAD.EP.EF.C3.CR.3.1",
-  "EF.3.2.C1": "MAD.EP.EF.C1.CR.3.2",
-  "EF.3.2.C2": "MAD.EP.EF.C2.CR.3.2",
-  "EF.3.2.C3": "MAD.EP.EF.C3.CR.3.2",
-  "EF.3.3.C1": "MAD.EP.EF.C1.CR.3.3",
-  "EF.3.3.C2": "MAD.EP.EF.C2.CR.3.3",
-  "EF.3.3.C3": "MAD.EP.EF.C3.CR.3.3",
-  "EF.3.4.C3": "MAD.EP.EF.C3.CR.3.4",
-  "EF.4.1.C1": "MAD.EP.EF.C1.CR.4.1",
-  "EF.4.1.C2": "MAD.EP.EF.C2.CR.4.1",
-  "EF.4.1.C3": "MAD.EP.EF.C3.CR.4.1",
-  "EF.4.2.C1": "MAD.EP.EF.C1.CR.4.2",
-  "EF.4.2.C2": "MAD.EP.EF.C2.CR.4.2",
-  "EF.4.2.C3": "MAD.EP.EF.C3.CR.4.2",
-  "EF.4.3.C1": "MAD.EP.EF.C1.CR.4.3",
-  "EF.4.3.C2": "MAD.EP.EF.C2.CR.4.3",
-  "EF.4.3.C3": "MAD.EP.EF.C3.CR.4.3",
-  "EF.4.4.C2": "MAD.EP.EF.C2.CR.4.4",
-  "EF.4.4.C3": "MAD.EP.EF.C3.CR.4.4",
-  "EF.4.5.C2": "MAD.EP.EF.C2.CR.4.5",
-  "EF.5.1.C1": "MAD.EP.EF.C1.CR.5.1",
-  "EF.5.1.C2": "MAD.EP.EF.C2.CR.5.1",
-  "EF.5.1.C3": "MAD.EP.EF.C3.CR.5.1",
-  "EF.CE1": "MAD.EP.EF.C1.CE.1",
-  "EF.CE2": "MAD.EP.EF.C1.CE.2",
-  "EF.CE3": "MAD.EP.EF.C1.CE.3",
-  "EF.CE4": "MAD.EP.EF.C1.CE.4",
-  "EF.CE5": "MAD.EP.EF.C1.CE.5",
-  "ING.1.1.C1": "MAD.EP.ING.C1.CR.1.1",
-  "ING.1.1.C2": "MAD.EP.ING.C2.CR.1.1",
-  "ING.1.1.C3": "MAD.EP.ING.C3.CR.1.1",
-  "ING.1.2.C1": "MAD.EP.ING.C1.CR.1.2",
-  "ING.1.2.C2": "MAD.EP.ING.C2.CR.1.2",
-  "ING.1.2.C3": "MAD.EP.ING.C3.CR.1.2",
-  "ING.2.1.C1": "MAD.EP.ING.C1.CR.2.1",
-  "ING.2.1.C2": "MAD.EP.ING.C2.CR.2.1",
-  "ING.2.1.C3": "MAD.EP.ING.C3.CR.2.1",
-  "ING.2.2.C1": "MAD.EP.ING.C1.CR.2.2",
-  "ING.2.2.C2": "MAD.EP.ING.C2.CR.2.2",
-  "ING.2.2.C3": "MAD.EP.ING.C3.CR.2.2",
-  "ING.2.3.C1": "MAD.EP.ING.C1.CR.2.3",
-  "ING.2.3.C2": "MAD.EP.ING.C2.CR.2.3",
-  "ING.2.3.C3": "MAD.EP.ING.C3.CR.2.3",
-  "ING.3.1.C1": "MAD.EP.ING.C1.CR.3.1",
-  "ING.3.1.C2": "MAD.EP.ING.C2.CR.3.1",
-  "ING.3.1.C3": "MAD.EP.ING.C3.CR.3.1",
-  "ING.3.2.C1": "MAD.EP.ING.C1.CR.3.2",
-  "ING.3.2.C2": "MAD.EP.ING.C2.CR.3.2",
-  "ING.3.2.C3": "MAD.EP.ING.C3.CR.3.2",
-  "ING.4.1.C1": "MAD.EP.ING.C1.CR.4.1",
-  "ING.4.1.C2": "MAD.EP.ING.C2.CR.4.1",
-  "ING.4.1.C3": "MAD.EP.ING.C3.CR.4.1",
-  "ING.4.2.C2": "MAD.EP.ING.C2.CR.4.2",
-  "ING.4.2.C3": "MAD.EP.ING.C3.CR.4.2",
-  "ING.5.1.C1": "MAD.EP.ING.C1.CR.5.1",
-  "ING.5.1.C2": "MAD.EP.ING.C2.CR.5.1",
-  "ING.5.1.C3": "MAD.EP.ING.C3.CR.5.1",
-  "ING.5.2.C1": "MAD.EP.ING.C1.CR.5.2",
-  "ING.5.2.C2": "MAD.EP.ING.C2.CR.5.2",
-  "ING.5.2.C3": "MAD.EP.ING.C3.CR.5.2",
-  "ING.5.3.C1": "MAD.EP.ING.C1.CR.5.3",
-  "ING.5.3.C2": "MAD.EP.ING.C2.CR.5.3",
-  "ING.5.3.C3": "MAD.EP.ING.C3.CR.5.3",
-  "ING.6.1.C1": "MAD.EP.ING.C1.CR.6.1",
-  "ING.6.1.C2": "MAD.EP.ING.C2.CR.6.1",
-  "ING.6.1.C3": "MAD.EP.ING.C3.CR.6.1",
-  "ING.6.2.C1": "MAD.EP.ING.C1.CR.6.2",
-  "ING.6.2.C2": "MAD.EP.ING.C2.CR.6.2",
-  "ING.6.2.C3": "MAD.EP.ING.C3.CR.6.2",
-  "ING.6.3.C2": "MAD.EP.ING.C2.CR.6.3",
-  "ING.6.3.C3": "MAD.EP.ING.C3.CR.6.3",
-  "ING.CE1": "MAD.EP.ING.C1.CE.1",
-  "ING.CE2": "MAD.EP.ING.C1.CE.2",
-  "ING.CE3": "MAD.EP.ING.C1.CE.3",
-  "ING.CE4": "MAD.EP.ING.C1.CE.4",
-  "ING.CE5": "MAD.EP.ING.C1.CE.5",
-  "ING.CE6": "MAD.EP.ING.C1.CE.6",
-  "LCL.1.1.C1": "MAD.EP.LCL.C1.CR.1.1",
-  "LCL.1.1.C2": "MAD.EP.LCL.C2.CR.1.1",
-  "LCL.1.1.C3": "MAD.EP.LCL.C3.CR.1.1",
-  "LCL.1.2.C1": "MAD.EP.LCL.C1.CR.1.2",
-  "LCL.1.2.C2": "MAD.EP.LCL.C2.CR.1.2",
-  "LCL.1.2.C3": "MAD.EP.LCL.C3.CR.1.2",
-  "LCL.1.3.C2": "MAD.EP.LCL.C2.CR.1.3",
-  "LCL.1.3.C3": "MAD.EP.LCL.C3.CR.1.3",
-  "LCL.1.4.C3": "MAD.EP.LCL.C3.CR.1.4",
-  "LCL.10.1.C1": "MAD.EP.LCL.C1.CR.10.1",
-  "LCL.10.1.C2": "MAD.EP.LCL.C2.CR.10.1",
-  "LCL.10.1.C3": "MAD.EP.LCL.C3.CR.10.1",
-  "LCL.10.2.C1": "MAD.EP.LCL.C1.CR.10.2",
-  "LCL.10.2.C2": "MAD.EP.LCL.C2.CR.10.2",
-  "LCL.10.2.C3": "MAD.EP.LCL.C3.CR.10.2",
-  "LCL.2.1.C1": "MAD.EP.LCL.C1.CR.2.1",
-  "LCL.2.1.C2": "MAD.EP.LCL.C2.CR.2.1",
-  "LCL.2.1.C3": "MAD.EP.LCL.C3.CR.2.1",
-  "LCL.3.1.C1": "MAD.EP.LCL.C1.CR.3.1",
-  "LCL.3.1.C2": "MAD.EP.LCL.C2.CR.3.1",
-  "LCL.3.1.C3": "MAD.EP.LCL.C3.CR.3.1",
-  "LCL.3.2.C1": "MAD.EP.LCL.C1.CR.3.2",
-  "LCL.3.2.C2": "MAD.EP.LCL.C2.CR.3.2",
-  "LCL.3.2.C3": "MAD.EP.LCL.C3.CR.3.2",
-  "LCL.4.1.C1": "MAD.EP.LCL.C1.CR.4.1",
-  "LCL.4.1.C2": "MAD.EP.LCL.C2.CR.4.1",
-  "LCL.4.1.C3": "MAD.EP.LCL.C3.CR.4.1",
-  "LCL.4.2.C1": "MAD.EP.LCL.C1.CR.4.2",
-  "LCL.4.2.C2": "MAD.EP.LCL.C2.CR.4.2",
-  "LCL.4.2.C3": "MAD.EP.LCL.C3.CR.4.2",
-  "LCL.5.1.C1": "MAD.EP.LCL.C1.CR.5.1",
-  "LCL.5.1.C2": "MAD.EP.LCL.C2.CR.5.1",
-  "LCL.5.1.C3": "MAD.EP.LCL.C3.CR.5.1",
-  "LCL.6.1.C1": "MAD.EP.LCL.C1.CR.6.1",
-  "LCL.6.1.C2": "MAD.EP.LCL.C2.CR.6.1",
-  "LCL.6.1.C3": "MAD.EP.LCL.C3.CR.6.1",
-  "LCL.6.2.C1": "MAD.EP.LCL.C1.CR.6.2",
-  "LCL.6.2.C2": "MAD.EP.LCL.C2.CR.6.2",
-  "LCL.6.2.C3": "MAD.EP.LCL.C3.CR.6.2",
-  "LCL.6.3.C1": "MAD.EP.LCL.C1.CR.6.3",
-  "LCL.6.3.C2": "MAD.EP.LCL.C2.CR.6.3",
-  "LCL.6.3.C3": "MAD.EP.LCL.C3.CR.6.3",
-  "LCL.7.1.C1": "MAD.EP.LCL.C1.CR.7.1",
-  "LCL.7.1.C2": "MAD.EP.LCL.C2.CR.7.1",
-  "LCL.7.1.C3": "MAD.EP.LCL.C3.CR.7.1",
-  "LCL.7.2.C1": "MAD.EP.LCL.C1.CR.7.2",
-  "LCL.7.2.C2": "MAD.EP.LCL.C2.CR.7.2",
-  "LCL.7.2.C3": "MAD.EP.LCL.C3.CR.7.2",
-  "LCL.8.1.C1": "MAD.EP.LCL.C1.CR.8.1",
-  "LCL.8.1.C2": "MAD.EP.LCL.C2.CR.8.1",
-  "LCL.8.1.C3": "MAD.EP.LCL.C3.CR.8.1",
-  "LCL.8.2.C1": "MAD.EP.LCL.C1.CR.8.2",
-  "LCL.8.2.C2": "MAD.EP.LCL.C2.CR.8.2",
-  "LCL.8.2.C3": "MAD.EP.LCL.C3.CR.8.2",
-  "LCL.9.1.C1": "MAD.EP.LCL.C1.CR.9.1",
-  "LCL.9.1.C2": "MAD.EP.LCL.C2.CR.9.1",
-  "LCL.9.1.C3": "MAD.EP.LCL.C3.CR.9.1",
-  "LCL.9.2.C1": "MAD.EP.LCL.C1.CR.9.2",
-  "LCL.9.2.C2": "MAD.EP.LCL.C2.CR.9.2",
-  "LCL.9.2.C3": "MAD.EP.LCL.C3.CR.9.2",
-  "LCL.CE1": "MAD.EP.LCL.C1.CE.1",
-  "LCL.CE10": "MAD.EP.LCL.C1.CE.10",
-  "LCL.CE2": "MAD.EP.LCL.C1.CE.2",
-  "LCL.CE3": "MAD.EP.LCL.C1.CE.3",
-  "LCL.CE4": "MAD.EP.LCL.C1.CE.4",
-  "LCL.CE5": "MAD.EP.LCL.C1.CE.5",
-  "LCL.CE6": "MAD.EP.LCL.C1.CE.6",
-  "LCL.CE7": "MAD.EP.LCL.C1.CE.7",
-  "LCL.CE8": "MAD.EP.LCL.C1.CE.8",
-  "LCL.CE9": "MAD.EP.LCL.C1.CE.9",
-  "MAT.1.1.C1": "MAD.EP.MAT.C1.CR.1.1",
-  "MAT.1.1.C2": "MAD.EP.MAT.C2.CR.1.1",
-  "MAT.1.1.C3": "MAD.EP.MAT.C3.CR.1.1",
-  "MAT.1.2.C1": "MAD.EP.MAT.C1.CR.1.2",
-  "MAT.1.2.C2": "MAD.EP.MAT.C2.CR.1.2",
-  "MAT.1.2.C3": "MAD.EP.MAT.C3.CR.1.2",
-  "MAT.2.1.C1": "MAD.EP.MAT.C1.CR.2.1",
-  "MAT.2.1.C2": "MAD.EP.MAT.C2.CR.2.1",
-  "MAT.2.1.C3": "MAD.EP.MAT.C3.CR.2.1",
-  "MAT.2.2.C1": "MAD.EP.MAT.C1.CR.2.2",
-  "MAT.2.2.C2": "MAD.EP.MAT.C2.CR.2.2",
-  "MAT.2.2.C3": "MAD.EP.MAT.C3.CR.2.2",
-  "MAT.2.3.C1": "MAD.EP.MAT.C1.CR.2.3",
-  "MAT.2.3.C2": "MAD.EP.MAT.C2.CR.2.3",
-  "MAT.2.3.C3": "MAD.EP.MAT.C3.CR.2.3",
-  "MAT.3.1.C1": "MAD.EP.MAT.C1.CR.3.1",
-  "MAT.3.1.C2": "MAD.EP.MAT.C2.CR.3.1",
-  "MAT.3.1.C3": "MAD.EP.MAT.C3.CR.3.1",
-  "MAT.3.2.C1": "MAD.EP.MAT.C1.CR.3.2",
-  "MAT.3.2.C2": "MAD.EP.MAT.C2.CR.3.2",
-  "MAT.3.2.C3": "MAD.EP.MAT.C3.CR.3.2",
-  "MAT.4.1.C1": "MAD.EP.MAT.C1.CR.4.1",
-  "MAT.4.1.C2": "MAD.EP.MAT.C2.CR.4.1",
-  "MAT.4.1.C3": "MAD.EP.MAT.C3.CR.4.1",
-  "MAT.4.2.C1": "MAD.EP.MAT.C1.CR.4.2",
-  "MAT.4.2.C2": "MAD.EP.MAT.C2.CR.4.2",
-  "MAT.4.2.C3": "MAD.EP.MAT.C3.CR.4.2",
-  "MAT.5.1.C1": "MAD.EP.MAT.C1.CR.5.1",
-  "MAT.5.1.C2": "MAD.EP.MAT.C2.CR.5.1",
-  "MAT.5.1.C3": "MAD.EP.MAT.C3.CR.5.1",
-  "MAT.5.2.C1": "MAD.EP.MAT.C1.CR.5.2",
-  "MAT.5.2.C2": "MAD.EP.MAT.C2.CR.5.2",
-  "MAT.5.2.C3": "MAD.EP.MAT.C3.CR.5.2",
-  "MAT.6.1.C1": "MAD.EP.MAT.C1.CR.6.1",
-  "MAT.6.1.C2": "MAD.EP.MAT.C2.CR.6.1",
-  "MAT.6.1.C3": "MAD.EP.MAT.C3.CR.6.1",
-  "MAT.6.2.C1": "MAD.EP.MAT.C1.CR.6.2",
-  "MAT.6.2.C2": "MAD.EP.MAT.C2.CR.6.2",
-  "MAT.6.2.C3": "MAD.EP.MAT.C3.CR.6.2",
-  "MAT.7.1.C1": "MAD.EP.MAT.C1.CR.7.1",
-  "MAT.7.1.C2": "MAD.EP.MAT.C2.CR.7.1",
-  "MAT.7.1.C3": "MAD.EP.MAT.C3.CR.7.1",
-  "MAT.7.2.C1": "MAD.EP.MAT.C1.CR.7.2",
-  "MAT.7.2.C2": "MAD.EP.MAT.C2.CR.7.2",
-  "MAT.7.2.C3": "MAD.EP.MAT.C3.CR.7.2",
-  "MAT.8.1.C1": "MAD.EP.MAT.C1.CR.8.1",
-  "MAT.8.1.C2": "MAD.EP.MAT.C2.CR.8.1",
-  "MAT.8.1.C3": "MAD.EP.MAT.C3.CR.8.1",
-  "MAT.8.2.C1": "MAD.EP.MAT.C1.CR.8.2",
-  "MAT.8.2.C2": "MAD.EP.MAT.C2.CR.8.2",
-  "MAT.8.2.C3": "MAD.EP.MAT.C3.CR.8.2",
-  "MAT.CE1": "MAD.EP.MAT.C1.CE.1",
-  "MAT.CE2": "MAD.EP.MAT.C1.CE.2",
-  "MAT.CE3": "MAD.EP.MAT.C1.CE.3",
-  "MAT.CE4": "MAD.EP.MAT.C1.CE.4",
-  "MAT.CE5": "MAD.EP.MAT.C1.CE.5",
-  "MAT.CE6": "MAD.EP.MAT.C1.CE.6",
-  "MAT.CE7": "MAD.EP.MAT.C1.CE.7",
-  "MAT.CE8": "MAD.EP.MAT.C1.CE.8",
-  "SLE.1.1.E": "MAD.EP.SLE.CR.1.1",
-  "SLE.1.2.E": "MAD.EP.SLE.CR.1.2",
-  "SLE.2.1.E": "MAD.EP.SLE.CR.2.1",
-  "SLE.2.2.E": "MAD.EP.SLE.CR.2.2",
-  "SLE.2.3.E": "MAD.EP.SLE.CR.2.3",
-  "SLE.3.1.E": "MAD.EP.SLE.CR.3.1",
-  "SLE.3.2.E": "MAD.EP.SLE.CR.3.2",
-  "SLE.4.1.E": "MAD.EP.SLE.CR.4.1",
-  "SLE.4.2.E": "MAD.EP.SLE.CR.4.2",
-  "SLE.5.1.E": "MAD.EP.SLE.CR.5.1",
-  "SLE.5.2.E": "MAD.EP.SLE.CR.5.2",
-  "SLE.5.3.E": "MAD.EP.SLE.CR.5.3",
-  "SLE.5.4.E": "MAD.EP.SLE.CR.5.4",
-  "SLE.6.1.E": "MAD.EP.SLE.CR.6.1",
-  "SLE.6.2.E": "MAD.EP.SLE.CR.6.2",
-  "SLE.6.3.E": "MAD.EP.SLE.CR.6.3",
-  "SLE.CE1": "MAD.EP.SLE.CE.1",
-  "SLE.CE2": "MAD.EP.SLE.CE.2",
-  "SLE.CE3": "MAD.EP.SLE.CE.3",
-  "SLE.CE4": "MAD.EP.SLE.CE.4",
-  "SLE.CE5": "MAD.EP.SLE.CE.5",
-  "SLE.CE6": "MAD.EP.SLE.CE.6",
-  "TYR.1.1.E": "MAD.EP.TYR.CR.1.1",
-  "TYR.1.2.E": "MAD.EP.TYR.CR.1.2",
-  "TYR.1.3.E": "MAD.EP.TYR.CR.1.3",
-  "TYR.2.1.E": "MAD.EP.TYR.CR.2.1",
-  "TYR.2.2.E": "MAD.EP.TYR.CR.2.2",
-  "TYR.2.3.E": "MAD.EP.TYR.CR.2.3",
-  "TYR.2.4.E": "MAD.EP.TYR.CR.2.4",
-  "TYR.3.1.E": "MAD.EP.TYR.CR.3.1",
-  "TYR.3.2.E": "MAD.EP.TYR.CR.3.2",
-  "TYR.4.1.E": "MAD.EP.TYR.CR.4.1",
-  "TYR.4.2.E": "MAD.EP.TYR.CR.4.2",
-  "TYR.5.1.E": "MAD.EP.TYR.CR.5.1",
-  "TYR.5.2.E": "MAD.EP.TYR.CR.5.2",
-  "TYR.6.1.E": "MAD.EP.TYR.CR.6.1",
-  "TYR.6.2.E": "MAD.EP.TYR.CR.6.2",
-  "TYR.CE1": "MAD.EP.TYR.CE.1",
-  "TYR.CE2": "MAD.EP.TYR.CE.2",
-  "TYR.CE3": "MAD.EP.TYR.CE.3",
-  "TYR.CE4": "MAD.EP.TYR.CE.4",
-  "TYR.CE5": "MAD.EP.TYR.CE.5",
-  "TYR.CE6": "MAD.EP.TYR.CE.6",
-  "VCE.1.1.C3": "MAD.EP.VCE.CR.1.1",
-  "VCE.1.2.C3": "MAD.EP.VCE.CR.1.2",
-  "VCE.1.3.C3": "MAD.EP.VCE.CR.1.3",
-  "VCE.2.1.C3": "MAD.EP.VCE.CR.2.1",
-  "VCE.2.2.C3": "MAD.EP.VCE.CR.2.2",
-  "VCE.2.3.C3": "MAD.EP.VCE.CR.2.3",
-  "VCE.2.4.C3": "MAD.EP.VCE.CR.2.4",
-  "VCE.2.5.C3": "MAD.EP.VCE.CR.2.5",
-  "VCE.3.1.C3": "MAD.EP.VCE.CR.3.1",
-  "VCE.3.2.C3": "MAD.EP.VCE.CR.3.2",
-  "VCE.4.1.C3": "MAD.EP.VCE.CR.4.1",
-  "VCE.CE1": "MAD.EP.VCE.CE.1",
-  "VCE.CE2": "MAD.EP.VCE.CE.2",
-  "VCE.CE3": "MAD.EP.VCE.CE.3",
-  "VCE.CE4": "MAD.EP.VCE.CE.4"
+  "CMNSC.CE1": [
+   "MAD.EP.CN.C1.CE.1"
+  ],
+  "CMNSC.CE2": [
+   "MAD.EP.CN.C1.CE.2"
+  ],
+  "CMNSC.CE3": [
+   "MAD.EP.CN.C1.CE.3"
+  ],
+  "CMNSC.CE4": [
+   "MAD.EP.CN.C1.CE.4"
+  ],
+  "CMNSC.CE5": [
+   "MAD.EP.CN.C1.CE.5",
+   "MAD.EP.CS.C1.CE.1"
+  ],
+  "CMNSC.CE6": [
+   "MAD.EP.CN.C1.CE.6",
+   "MAD.EP.CS.C1.CE.2"
+  ],
+  "CMNSC.CE7": [
+   "MAD.EP.CS.C1.CE.3"
+  ],
+  "CMNSC.CE8": [
+   "MAD.EP.CS.C1.CE.4"
+  ],
+  "CMNSC.CE9": [
+   "MAD.EP.CS.C1.CE.5"
+  ],
+  "CN.1.1.C1": [
+   "MAD.EP.CN.C1.CR.1.1"
+  ],
+  "CN.1.1.C2": [
+   "MAD.EP.CN.C2.CR.1.1"
+  ],
+  "CN.1.1.C3": [
+   "MAD.EP.CN.C3.CR.1.1"
+  ],
+  "CN.1.2.C1": [
+   "MAD.EP.CN.C1.CR.1.2"
+  ],
+  "CN.2.1.C1": [
+   "MAD.EP.CN.C1.CR.2.1"
+  ],
+  "CN.2.1.C2": [
+   "MAD.EP.CN.C2.CR.2.1"
+  ],
+  "CN.2.1.C3": [
+   "MAD.EP.CN.C3.CR.2.1"
+  ],
+  "CN.2.2.C1": [
+   "MAD.EP.CN.C1.CR.2.2"
+  ],
+  "CN.2.2.C2": [
+   "MAD.EP.CN.C2.CR.2.2"
+  ],
+  "CN.2.2.C3": [
+   "MAD.EP.CN.C3.CR.2.2"
+  ],
+  "CN.2.3.C1": [
+   "MAD.EP.CN.C1.CR.2.3"
+  ],
+  "CN.2.3.C2": [
+   "MAD.EP.CN.C2.CR.2.3"
+  ],
+  "CN.2.3.C3": [
+   "MAD.EP.CN.C3.CR.2.3"
+  ],
+  "CN.2.4.C1": [
+   "MAD.EP.CN.C1.CR.2.4"
+  ],
+  "CN.2.4.C2": [
+   "MAD.EP.CN.C2.CR.2.4"
+  ],
+  "CN.2.4.C3": [
+   "MAD.EP.CN.C3.CR.2.4"
+  ],
+  "CN.2.5.C1": [
+   "MAD.EP.CN.C1.CR.2.5"
+  ],
+  "CN.2.5.C2": [
+   "MAD.EP.CN.C2.CR.2.5"
+  ],
+  "CN.2.5.C3": [
+   "MAD.EP.CN.C3.CR.2.5"
+  ],
+  "CN.3.1.C1": [
+   "MAD.EP.CN.C1.CR.3.1"
+  ],
+  "CN.3.1.C2": [
+   "MAD.EP.CN.C2.CR.3.1"
+  ],
+  "CN.3.1.C3": [
+   "MAD.EP.CN.C3.CR.3.1"
+  ],
+  "CN.3.2.C1": [
+   "MAD.EP.CN.C1.CR.3.2"
+  ],
+  "CN.3.2.C2": [
+   "MAD.EP.CN.C2.CR.3.2"
+  ],
+  "CN.3.2.C3": [
+   "MAD.EP.CN.C3.CR.3.2"
+  ],
+  "CN.3.3.C1": [
+   "MAD.EP.CN.C1.CR.3.3"
+  ],
+  "CN.3.3.C2": [
+   "MAD.EP.CN.C2.CR.3.3"
+  ],
+  "CN.3.3.C3": [
+   "MAD.EP.CN.C3.CR.3.3"
+  ],
+  "CN.3.4.C3": [
+   "MAD.EP.CN.C3.CR.3.4"
+  ],
+  "CN.4.1.C1": [
+   "MAD.EP.CN.C1.CR.4.1"
+  ],
+  "CN.4.1.C2": [
+   "MAD.EP.CN.C2.CR.4.1"
+  ],
+  "CN.4.1.C3": [
+   "MAD.EP.CN.C3.CR.4.1"
+  ],
+  "CN.4.2.C1": [
+   "MAD.EP.CN.C1.CR.4.2"
+  ],
+  "CN.4.2.C2": [
+   "MAD.EP.CN.C2.CR.4.2"
+  ],
+  "CN.4.2.C3": [
+   "MAD.EP.CN.C3.CR.4.2"
+  ],
+  "CN.4.3.C2": [
+   "MAD.EP.CN.C2.CR.4.3"
+  ],
+  "CN.5.1.C1": [
+   "MAD.EP.CN.C1.CR.5.1"
+  ],
+  "CN.5.1.C2": [
+   "MAD.EP.CN.C2.CR.5.1"
+  ],
+  "CN.5.1.C3": [
+   "MAD.EP.CN.C3.CR.5.1"
+  ],
+  "CN.5.2.C1": [
+   "MAD.EP.CN.C1.CR.5.2"
+  ],
+  "CN.5.2.C2": [
+   "MAD.EP.CN.C2.CR.5.2"
+  ],
+  "CN.5.2.C3": [
+   "MAD.EP.CN.C3.CR.5.2"
+  ],
+  "CN.5.3.C1": [
+   "MAD.EP.CN.C1.CR.5.3"
+  ],
+  "CN.5.3.C2": [
+   "MAD.EP.CN.C2.CR.5.3"
+  ],
+  "CN.5.3.C3": [
+   "MAD.EP.CN.C3.CR.5.3"
+  ],
+  "CN.6.1.C1": [
+   "MAD.EP.CN.C1.CR.6.1"
+  ],
+  "CN.6.1.C2": [
+   "MAD.EP.CN.C2.CR.6.1"
+  ],
+  "CN.6.1.C3": [
+   "MAD.EP.CN.C3.CR.6.1"
+  ],
+  "CN.6.2.C1": [
+   "MAD.EP.CN.C1.CR.6.2"
+  ],
+  "CN.6.2.C2": [
+   "MAD.EP.CN.C2.CR.6.2"
+  ],
+  "CN.6.2.C3": [
+   "MAD.EP.CN.C3.CR.6.2"
+  ],
+  "CN.6.3.C2": [
+   "MAD.EP.CN.C2.CR.6.3"
+  ],
+  "CN.CE1": [
+   "MAD.EP.CN.C1.CE.1"
+  ],
+  "CN.CE2": [
+   "MAD.EP.CN.C1.CE.2"
+  ],
+  "CN.CE3": [
+   "MAD.EP.CN.C1.CE.3"
+  ],
+  "CN.CE4": [
+   "MAD.EP.CN.C1.CE.4"
+  ],
+  "CN.CE5": [
+   "MAD.EP.CN.C1.CE.5"
+  ],
+  "CN.CE6": [
+   "MAD.EP.CN.C1.CE.6"
+  ],
+  "CS.1.1.C1": [
+   "MAD.EP.CS.C1.CR.1.1"
+  ],
+  "CS.1.1.C2": [
+   "MAD.EP.CS.C2.CR.1.1"
+  ],
+  "CS.1.1.C3": [
+   "MAD.EP.CS.C3.CR.1.1"
+  ],
+  "CS.1.2.C1": [
+   "MAD.EP.CS.C1.CR.1.2"
+  ],
+  "CS.1.2.C2": [
+   "MAD.EP.CS.C2.CR.1.2"
+  ],
+  "CS.1.2.C3": [
+   "MAD.EP.CS.C3.CR.1.2"
+  ],
+  "CS.1.3.C1": [
+   "MAD.EP.CS.C1.CR.1.3"
+  ],
+  "CS.1.3.C2": [
+   "MAD.EP.CS.C2.CR.1.3"
+  ],
+  "CS.1.3.C3": [
+   "MAD.EP.CS.C3.CR.1.3"
+  ],
+  "CS.2.1.C1": [
+   "MAD.EP.CS.C1.CR.2.1"
+  ],
+  "CS.2.1.C2": [
+   "MAD.EP.CS.C2.CR.2.1"
+  ],
+  "CS.2.1.C3": [
+   "MAD.EP.CS.C3.CR.2.1"
+  ],
+  "CS.2.2.C3": [
+   "MAD.EP.CS.C3.CR.2.2"
+  ],
+  "CS.3.1.C1": [
+   "MAD.EP.CS.C1.CR.3.1"
+  ],
+  "CS.3.1.C2": [
+   "MAD.EP.CS.C2.CR.3.1"
+  ],
+  "CS.3.1.C3": [
+   "MAD.EP.CS.C3.CR.3.1"
+  ],
+  "CS.3.2.C1": [
+   "MAD.EP.CS.C1.CR.3.2"
+  ],
+  "CS.3.2.C2": [
+   "MAD.EP.CS.C2.CR.3.2"
+  ],
+  "CS.3.2.C3": [
+   "MAD.EP.CS.C3.CR.3.2"
+  ],
+  "CS.4.1.C1": [
+   "MAD.EP.CS.C1.CR.4.1"
+  ],
+  "CS.4.1.C2": [
+   "MAD.EP.CS.C2.CR.4.1"
+  ],
+  "CS.4.1.C3": [
+   "MAD.EP.CS.C3.CR.4.1"
+  ],
+  "CS.4.2.C1": [
+   "MAD.EP.CS.C1.CR.4.2"
+  ],
+  "CS.4.2.C2": [
+   "MAD.EP.CS.C2.CR.4.2"
+  ],
+  "CS.4.2.C3": [
+   "MAD.EP.CS.C3.CR.4.2"
+  ],
+  "CS.5.1.C1": [
+   "MAD.EP.CS.C1.CR.5.1"
+  ],
+  "CS.5.1.C2": [
+   "MAD.EP.CS.C2.CR.5.1"
+  ],
+  "CS.5.1.C3": [
+   "MAD.EP.CS.C3.CR.5.1"
+  ],
+  "CS.5.2.C1": [
+   "MAD.EP.CS.C1.CR.5.2"
+  ],
+  "CS.5.2.C2": [
+   "MAD.EP.CS.C2.CR.5.2"
+  ],
+  "CS.5.2.C3": [
+   "MAD.EP.CS.C3.CR.5.2"
+  ],
+  "CS.5.3.C1": [
+   "MAD.EP.CS.C1.CR.5.3"
+  ],
+  "CS.5.3.C2": [
+   "MAD.EP.CS.C2.CR.5.3"
+  ],
+  "CS.CE1": [
+   "MAD.EP.CS.C1.CE.1"
+  ],
+  "CS.CE2": [
+   "MAD.EP.CS.C1.CE.2"
+  ],
+  "CS.CE3": [
+   "MAD.EP.CS.C1.CE.3"
+  ],
+  "CS.CE4": [
+   "MAD.EP.CS.C1.CE.4"
+  ],
+  "CS.CE5": [
+   "MAD.EP.CS.C1.CE.5"
+  ],
+  "EA.1.1.C1": [
+   "MAD.EP.EA.C1.CR.1.1"
+  ],
+  "EA.1.1.C2": [
+   "MAD.EP.EA.C2.CR.1.1"
+  ],
+  "EA.1.1.C3": [
+   "MAD.EP.EA.C3.CR.1.1"
+  ],
+  "EA.1.2.C1": [
+   "MAD.EP.EA.C1.CR.1.2"
+  ],
+  "EA.1.2.C2": [
+   "MAD.EP.EA.C2.CR.1.2"
+  ],
+  "EA.1.2.C3": [
+   "MAD.EP.EA.C3.CR.1.2"
+  ],
+  "EA.1.3.C1": [
+   "MAD.EP.EA.C1.CR.1.3"
+  ],
+  "EA.1.3.C2": [
+   "MAD.EP.EA.C2.CR.1.3"
+  ],
+  "EA.1.3.C3": [
+   "MAD.EP.EA.C3.CR.1.3"
+  ],
+  "EA.2.1.C1": [
+   "MAD.EP.EA.C1.CR.2.1"
+  ],
+  "EA.2.1.C2": [
+   "MAD.EP.EA.C2.CR.2.1"
+  ],
+  "EA.2.1.C3": [
+   "MAD.EP.EA.C3.CR.2.1"
+  ],
+  "EA.2.2.C1": [
+   "MAD.EP.EA.C1.CR.2.2"
+  ],
+  "EA.2.2.C2": [
+   "MAD.EP.EA.C2.CR.2.2"
+  ],
+  "EA.2.2.C3": [
+   "MAD.EP.EA.C3.CR.2.2"
+  ],
+  "EA.2.3.C3": [
+   "MAD.EP.EA.C3.CR.2.3"
+  ],
+  "EA.3.1.C1": [
+   "MAD.EP.EA.C1.CR.3.1"
+  ],
+  "EA.3.1.C2": [
+   "MAD.EP.EA.C2.CR.3.1"
+  ],
+  "EA.3.1.C3": [
+   "MAD.EP.EA.C3.CR.3.1"
+  ],
+  "EA.3.2.C1": [
+   "MAD.EP.EA.C1.CR.3.2"
+  ],
+  "EA.3.2.C2": [
+   "MAD.EP.EA.C2.CR.3.2"
+  ],
+  "EA.3.2.C3": [
+   "MAD.EP.EA.C3.CR.3.2"
+  ],
+  "EA.4.1.C1": [
+   "MAD.EP.EA.C1.CR.4.1"
+  ],
+  "EA.4.1.C2": [
+   "MAD.EP.EA.C2.CR.4.1"
+  ],
+  "EA.4.1.C3": [
+   "MAD.EP.EA.C3.CR.4.1"
+  ],
+  "EA.4.2.C1": [
+   "MAD.EP.EA.C1.CR.4.2"
+  ],
+  "EA.4.2.C2": [
+   "MAD.EP.EA.C2.CR.4.2"
+  ],
+  "EA.4.2.C3": [
+   "MAD.EP.EA.C3.CR.4.2"
+  ],
+  "EA.4.3.C1": [
+   "MAD.EP.EA.C1.CR.4.3"
+  ],
+  "EA.4.3.C2": [
+   "MAD.EP.EA.C2.CR.4.3"
+  ],
+  "EA.4.3.C3": [
+   "MAD.EP.EA.C3.CR.4.3"
+  ],
+  "EA.4.4.C1": [
+   "MAD.EP.EA.C1.CR.4.4"
+  ],
+  "EA.4.4.C2": [
+   "MAD.EP.EA.C2.CR.4.4"
+  ],
+  "EA.4.4.C3": [
+   "MAD.EP.EA.C3.CR.4.4"
+  ],
+  "EA.CE1": [
+   "MAD.EP.EA.C1.CE.1"
+  ],
+  "EA.CE2": [
+   "MAD.EP.EA.C1.CE.2"
+  ],
+  "EA.CE3": [
+   "MAD.EP.EA.C1.CE.3"
+  ],
+  "EA.CE4": [
+   "MAD.EP.EA.C1.CE.4"
+  ],
+  "EF.1.1.C1": [
+   "MAD.EP.EF.C1.CR.1.1"
+  ],
+  "EF.1.1.C2": [
+   "MAD.EP.EF.C2.CR.1.1"
+  ],
+  "EF.1.1.C3": [
+   "MAD.EP.EF.C3.CR.1.1"
+  ],
+  "EF.1.2.C1": [
+   "MAD.EP.EF.C1.CR.1.2"
+  ],
+  "EF.1.2.C2": [
+   "MAD.EP.EF.C2.CR.1.2"
+  ],
+  "EF.1.2.C3": [
+   "MAD.EP.EF.C3.CR.1.2"
+  ],
+  "EF.1.3.C1": [
+   "MAD.EP.EF.C1.CR.1.3"
+  ],
+  "EF.1.3.C2": [
+   "MAD.EP.EF.C2.CR.1.3"
+  ],
+  "EF.1.3.C3": [
+   "MAD.EP.EF.C3.CR.1.3"
+  ],
+  "EF.1.4.C1": [
+   "MAD.EP.EF.C1.CR.1.4"
+  ],
+  "EF.1.4.C2": [
+   "MAD.EP.EF.C2.CR.1.4"
+  ],
+  "EF.1.4.C3": [
+   "MAD.EP.EF.C3.CR.1.4"
+  ],
+  "EF.2.1.C1": [
+   "MAD.EP.EF.C1.CR.2.1"
+  ],
+  "EF.2.1.C2": [
+   "MAD.EP.EF.C2.CR.2.1"
+  ],
+  "EF.2.1.C3": [
+   "MAD.EP.EF.C3.CR.2.1"
+  ],
+  "EF.2.2.C1": [
+   "MAD.EP.EF.C1.CR.2.2"
+  ],
+  "EF.2.2.C2": [
+   "MAD.EP.EF.C2.CR.2.2"
+  ],
+  "EF.2.2.C3": [
+   "MAD.EP.EF.C3.CR.2.2"
+  ],
+  "EF.2.3.C1": [
+   "MAD.EP.EF.C1.CR.2.3"
+  ],
+  "EF.2.3.C2": [
+   "MAD.EP.EF.C2.CR.2.3"
+  ],
+  "EF.2.3.C3": [
+   "MAD.EP.EF.C3.CR.2.3"
+  ],
+  "EF.3.1.C1": [
+   "MAD.EP.EF.C1.CR.3.1"
+  ],
+  "EF.3.1.C2": [
+   "MAD.EP.EF.C2.CR.3.1"
+  ],
+  "EF.3.1.C3": [
+   "MAD.EP.EF.C3.CR.3.1"
+  ],
+  "EF.3.2.C1": [
+   "MAD.EP.EF.C1.CR.3.2"
+  ],
+  "EF.3.2.C2": [
+   "MAD.EP.EF.C2.CR.3.2"
+  ],
+  "EF.3.2.C3": [
+   "MAD.EP.EF.C3.CR.3.2"
+  ],
+  "EF.3.3.C1": [
+   "MAD.EP.EF.C1.CR.3.3"
+  ],
+  "EF.3.3.C2": [
+   "MAD.EP.EF.C2.CR.3.3"
+  ],
+  "EF.3.3.C3": [
+   "MAD.EP.EF.C3.CR.3.3"
+  ],
+  "EF.3.4.C3": [
+   "MAD.EP.EF.C3.CR.3.4"
+  ],
+  "EF.4.1.C1": [
+   "MAD.EP.EF.C1.CR.4.1"
+  ],
+  "EF.4.1.C2": [
+   "MAD.EP.EF.C2.CR.4.1"
+  ],
+  "EF.4.1.C3": [
+   "MAD.EP.EF.C3.CR.4.1"
+  ],
+  "EF.4.2.C1": [
+   "MAD.EP.EF.C1.CR.4.2"
+  ],
+  "EF.4.2.C2": [
+   "MAD.EP.EF.C2.CR.4.2"
+  ],
+  "EF.4.2.C3": [
+   "MAD.EP.EF.C3.CR.4.2"
+  ],
+  "EF.4.3.C1": [
+   "MAD.EP.EF.C1.CR.4.3"
+  ],
+  "EF.4.3.C2": [
+   "MAD.EP.EF.C2.CR.4.3"
+  ],
+  "EF.4.3.C3": [
+   "MAD.EP.EF.C3.CR.4.3"
+  ],
+  "EF.4.4.C2": [
+   "MAD.EP.EF.C2.CR.4.4"
+  ],
+  "EF.4.4.C3": [
+   "MAD.EP.EF.C3.CR.4.4"
+  ],
+  "EF.4.5.C2": [
+   "MAD.EP.EF.C2.CR.4.5"
+  ],
+  "EF.5.1.C1": [
+   "MAD.EP.EF.C1.CR.5.1"
+  ],
+  "EF.5.1.C2": [
+   "MAD.EP.EF.C2.CR.5.1"
+  ],
+  "EF.5.1.C3": [
+   "MAD.EP.EF.C3.CR.5.1"
+  ],
+  "EF.CE1": [
+   "MAD.EP.EF.C1.CE.1"
+  ],
+  "EF.CE2": [
+   "MAD.EP.EF.C1.CE.2"
+  ],
+  "EF.CE3": [
+   "MAD.EP.EF.C1.CE.3"
+  ],
+  "EF.CE4": [
+   "MAD.EP.EF.C1.CE.4"
+  ],
+  "EF.CE5": [
+   "MAD.EP.EF.C1.CE.5"
+  ],
+  "ING.1.1.C1": [
+   "MAD.EP.ING.C1.CR.1.1"
+  ],
+  "ING.1.1.C2": [
+   "MAD.EP.ING.C2.CR.1.1"
+  ],
+  "ING.1.1.C3": [
+   "MAD.EP.ING.C3.CR.1.1"
+  ],
+  "ING.1.2.C1": [
+   "MAD.EP.ING.C1.CR.1.2"
+  ],
+  "ING.1.2.C2": [
+   "MAD.EP.ING.C2.CR.1.2"
+  ],
+  "ING.1.2.C3": [
+   "MAD.EP.ING.C3.CR.1.2"
+  ],
+  "ING.2.1.C1": [
+   "MAD.EP.ING.C1.CR.2.1"
+  ],
+  "ING.2.1.C2": [
+   "MAD.EP.ING.C2.CR.2.1"
+  ],
+  "ING.2.1.C3": [
+   "MAD.EP.ING.C3.CR.2.1"
+  ],
+  "ING.2.2.C1": [
+   "MAD.EP.ING.C1.CR.2.2"
+  ],
+  "ING.2.2.C2": [
+   "MAD.EP.ING.C2.CR.2.2"
+  ],
+  "ING.2.2.C3": [
+   "MAD.EP.ING.C3.CR.2.2"
+  ],
+  "ING.2.3.C1": [
+   "MAD.EP.ING.C1.CR.2.3"
+  ],
+  "ING.2.3.C2": [
+   "MAD.EP.ING.C2.CR.2.3"
+  ],
+  "ING.2.3.C3": [
+   "MAD.EP.ING.C3.CR.2.3"
+  ],
+  "ING.3.1.C1": [
+   "MAD.EP.ING.C1.CR.3.1"
+  ],
+  "ING.3.1.C2": [
+   "MAD.EP.ING.C2.CR.3.1"
+  ],
+  "ING.3.1.C3": [
+   "MAD.EP.ING.C3.CR.3.1"
+  ],
+  "ING.3.2.C1": [
+   "MAD.EP.ING.C1.CR.3.2"
+  ],
+  "ING.3.2.C2": [
+   "MAD.EP.ING.C2.CR.3.2"
+  ],
+  "ING.3.2.C3": [
+   "MAD.EP.ING.C3.CR.3.2"
+  ],
+  "ING.4.1.C1": [
+   "MAD.EP.ING.C1.CR.4.1"
+  ],
+  "ING.4.1.C2": [
+   "MAD.EP.ING.C2.CR.4.1"
+  ],
+  "ING.4.1.C3": [
+   "MAD.EP.ING.C3.CR.4.1"
+  ],
+  "ING.4.2.C2": [
+   "MAD.EP.ING.C2.CR.4.2"
+  ],
+  "ING.4.2.C3": [
+   "MAD.EP.ING.C3.CR.4.2"
+  ],
+  "ING.5.1.C1": [
+   "MAD.EP.ING.C1.CR.5.1"
+  ],
+  "ING.5.1.C2": [
+   "MAD.EP.ING.C2.CR.5.1"
+  ],
+  "ING.5.1.C3": [
+   "MAD.EP.ING.C3.CR.5.1"
+  ],
+  "ING.5.2.C1": [
+   "MAD.EP.ING.C1.CR.5.2"
+  ],
+  "ING.5.2.C2": [
+   "MAD.EP.ING.C2.CR.5.2"
+  ],
+  "ING.5.2.C3": [
+   "MAD.EP.ING.C3.CR.5.2"
+  ],
+  "ING.5.3.C1": [
+   "MAD.EP.ING.C1.CR.5.3"
+  ],
+  "ING.5.3.C2": [
+   "MAD.EP.ING.C2.CR.5.3"
+  ],
+  "ING.5.3.C3": [
+   "MAD.EP.ING.C3.CR.5.3"
+  ],
+  "ING.6.1.C1": [
+   "MAD.EP.ING.C1.CR.6.1"
+  ],
+  "ING.6.1.C2": [
+   "MAD.EP.ING.C2.CR.6.1"
+  ],
+  "ING.6.1.C3": [
+   "MAD.EP.ING.C3.CR.6.1"
+  ],
+  "ING.6.2.C1": [
+   "MAD.EP.ING.C1.CR.6.2"
+  ],
+  "ING.6.2.C2": [
+   "MAD.EP.ING.C2.CR.6.2"
+  ],
+  "ING.6.2.C3": [
+   "MAD.EP.ING.C3.CR.6.2"
+  ],
+  "ING.6.3.C2": [
+   "MAD.EP.ING.C2.CR.6.3"
+  ],
+  "ING.6.3.C3": [
+   "MAD.EP.ING.C3.CR.6.3"
+  ],
+  "ING.CE1": [
+   "MAD.EP.ING.C1.CE.1"
+  ],
+  "ING.CE2": [
+   "MAD.EP.ING.C1.CE.2"
+  ],
+  "ING.CE3": [
+   "MAD.EP.ING.C1.CE.3"
+  ],
+  "ING.CE4": [
+   "MAD.EP.ING.C1.CE.4"
+  ],
+  "ING.CE5": [
+   "MAD.EP.ING.C1.CE.5"
+  ],
+  "ING.CE6": [
+   "MAD.EP.ING.C1.CE.6"
+  ],
+  "LCL.1.1.C1": [
+   "MAD.EP.LCL.C1.CR.1.1"
+  ],
+  "LCL.1.1.C2": [
+   "MAD.EP.LCL.C2.CR.1.1"
+  ],
+  "LCL.1.1.C3": [
+   "MAD.EP.LCL.C3.CR.1.1"
+  ],
+  "LCL.1.2.C1": [
+   "MAD.EP.LCL.C1.CR.1.2"
+  ],
+  "LCL.1.2.C2": [
+   "MAD.EP.LCL.C2.CR.1.2"
+  ],
+  "LCL.1.2.C3": [
+   "MAD.EP.LCL.C3.CR.1.2"
+  ],
+  "LCL.1.3.C2": [
+   "MAD.EP.LCL.C2.CR.1.3"
+  ],
+  "LCL.1.3.C3": [
+   "MAD.EP.LCL.C3.CR.1.3"
+  ],
+  "LCL.1.4.C3": [
+   "MAD.EP.LCL.C3.CR.1.4"
+  ],
+  "LCL.10.1.C1": [
+   "MAD.EP.LCL.C1.CR.10.1"
+  ],
+  "LCL.10.1.C2": [
+   "MAD.EP.LCL.C2.CR.10.1"
+  ],
+  "LCL.10.1.C3": [
+   "MAD.EP.LCL.C3.CR.10.1"
+  ],
+  "LCL.10.2.C1": [
+   "MAD.EP.LCL.C1.CR.10.2"
+  ],
+  "LCL.10.2.C2": [
+   "MAD.EP.LCL.C2.CR.10.2"
+  ],
+  "LCL.10.2.C3": [
+   "MAD.EP.LCL.C3.CR.10.2"
+  ],
+  "LCL.2.1.C1": [
+   "MAD.EP.LCL.C1.CR.2.1"
+  ],
+  "LCL.2.1.C2": [
+   "MAD.EP.LCL.C2.CR.2.1"
+  ],
+  "LCL.2.1.C3": [
+   "MAD.EP.LCL.C3.CR.2.1"
+  ],
+  "LCL.3.1.C1": [
+   "MAD.EP.LCL.C1.CR.3.1"
+  ],
+  "LCL.3.1.C2": [
+   "MAD.EP.LCL.C2.CR.3.1"
+  ],
+  "LCL.3.1.C3": [
+   "MAD.EP.LCL.C3.CR.3.1"
+  ],
+  "LCL.3.2.C1": [
+   "MAD.EP.LCL.C1.CR.3.2"
+  ],
+  "LCL.3.2.C2": [
+   "MAD.EP.LCL.C2.CR.3.2"
+  ],
+  "LCL.3.2.C3": [
+   "MAD.EP.LCL.C3.CR.3.2"
+  ],
+  "LCL.4.1.C1": [
+   "MAD.EP.LCL.C1.CR.4.1"
+  ],
+  "LCL.4.1.C2": [
+   "MAD.EP.LCL.C2.CR.4.1"
+  ],
+  "LCL.4.1.C3": [
+   "MAD.EP.LCL.C3.CR.4.1"
+  ],
+  "LCL.4.2.C1": [
+   "MAD.EP.LCL.C1.CR.4.2"
+  ],
+  "LCL.4.2.C2": [
+   "MAD.EP.LCL.C2.CR.4.2"
+  ],
+  "LCL.4.2.C3": [
+   "MAD.EP.LCL.C3.CR.4.2"
+  ],
+  "LCL.5.1.C1": [
+   "MAD.EP.LCL.C1.CR.5.1"
+  ],
+  "LCL.5.1.C2": [
+   "MAD.EP.LCL.C2.CR.5.1"
+  ],
+  "LCL.5.1.C3": [
+   "MAD.EP.LCL.C3.CR.5.1"
+  ],
+  "LCL.6.1.C1": [
+   "MAD.EP.LCL.C1.CR.6.1"
+  ],
+  "LCL.6.1.C2": [
+   "MAD.EP.LCL.C2.CR.6.1"
+  ],
+  "LCL.6.1.C3": [
+   "MAD.EP.LCL.C3.CR.6.1"
+  ],
+  "LCL.6.2.C1": [
+   "MAD.EP.LCL.C1.CR.6.2"
+  ],
+  "LCL.6.2.C2": [
+   "MAD.EP.LCL.C2.CR.6.2"
+  ],
+  "LCL.6.2.C3": [
+   "MAD.EP.LCL.C3.CR.6.2"
+  ],
+  "LCL.6.3.C1": [
+   "MAD.EP.LCL.C1.CR.6.3"
+  ],
+  "LCL.6.3.C2": [
+   "MAD.EP.LCL.C2.CR.6.3"
+  ],
+  "LCL.6.3.C3": [
+   "MAD.EP.LCL.C3.CR.6.3"
+  ],
+  "LCL.7.1.C1": [
+   "MAD.EP.LCL.C1.CR.7.1"
+  ],
+  "LCL.7.1.C2": [
+   "MAD.EP.LCL.C2.CR.7.1"
+  ],
+  "LCL.7.1.C3": [
+   "MAD.EP.LCL.C3.CR.7.1"
+  ],
+  "LCL.7.2.C1": [
+   "MAD.EP.LCL.C1.CR.7.2"
+  ],
+  "LCL.7.2.C2": [
+   "MAD.EP.LCL.C2.CR.7.2"
+  ],
+  "LCL.7.2.C3": [
+   "MAD.EP.LCL.C3.CR.7.2"
+  ],
+  "LCL.8.1.C1": [
+   "MAD.EP.LCL.C1.CR.8.1"
+  ],
+  "LCL.8.1.C2": [
+   "MAD.EP.LCL.C2.CR.8.1"
+  ],
+  "LCL.8.1.C3": [
+   "MAD.EP.LCL.C3.CR.8.1"
+  ],
+  "LCL.8.2.C1": [
+   "MAD.EP.LCL.C1.CR.8.2"
+  ],
+  "LCL.8.2.C2": [
+   "MAD.EP.LCL.C2.CR.8.2"
+  ],
+  "LCL.8.2.C3": [
+   "MAD.EP.LCL.C3.CR.8.2"
+  ],
+  "LCL.9.1.C1": [
+   "MAD.EP.LCL.C1.CR.9.1"
+  ],
+  "LCL.9.1.C2": [
+   "MAD.EP.LCL.C2.CR.9.1"
+  ],
+  "LCL.9.1.C3": [
+   "MAD.EP.LCL.C3.CR.9.1"
+  ],
+  "LCL.9.2.C1": [
+   "MAD.EP.LCL.C1.CR.9.2"
+  ],
+  "LCL.9.2.C2": [
+   "MAD.EP.LCL.C2.CR.9.2"
+  ],
+  "LCL.9.2.C3": [
+   "MAD.EP.LCL.C3.CR.9.2"
+  ],
+  "LCL.CE1": [
+   "MAD.EP.LCL.C1.CE.1"
+  ],
+  "LCL.CE10": [
+   "MAD.EP.LCL.C1.CE.10"
+  ],
+  "LCL.CE2": [
+   "MAD.EP.LCL.C1.CE.2"
+  ],
+  "LCL.CE3": [
+   "MAD.EP.LCL.C1.CE.3"
+  ],
+  "LCL.CE4": [
+   "MAD.EP.LCL.C1.CE.4"
+  ],
+  "LCL.CE5": [
+   "MAD.EP.LCL.C1.CE.5"
+  ],
+  "LCL.CE6": [
+   "MAD.EP.LCL.C1.CE.6"
+  ],
+  "LCL.CE7": [
+   "MAD.EP.LCL.C1.CE.7"
+  ],
+  "LCL.CE8": [
+   "MAD.EP.LCL.C1.CE.8"
+  ],
+  "LCL.CE9": [
+   "MAD.EP.LCL.C1.CE.9"
+  ],
+  "MAT.1.1.C1": [
+   "MAD.EP.MAT.C1.CR.1.1"
+  ],
+  "MAT.1.1.C2": [
+   "MAD.EP.MAT.C2.CR.1.1"
+  ],
+  "MAT.1.1.C3": [
+   "MAD.EP.MAT.C3.CR.1.1"
+  ],
+  "MAT.1.2.C1": [
+   "MAD.EP.MAT.C1.CR.1.2"
+  ],
+  "MAT.1.2.C2": [
+   "MAD.EP.MAT.C2.CR.1.2"
+  ],
+  "MAT.1.2.C3": [
+   "MAD.EP.MAT.C3.CR.1.2"
+  ],
+  "MAT.2.1.C1": [
+   "MAD.EP.MAT.C1.CR.2.1"
+  ],
+  "MAT.2.1.C2": [
+   "MAD.EP.MAT.C2.CR.2.1"
+  ],
+  "MAT.2.1.C3": [
+   "MAD.EP.MAT.C3.CR.2.1"
+  ],
+  "MAT.2.2.C1": [
+   "MAD.EP.MAT.C1.CR.2.2"
+  ],
+  "MAT.2.2.C2": [
+   "MAD.EP.MAT.C2.CR.2.2"
+  ],
+  "MAT.2.2.C3": [
+   "MAD.EP.MAT.C3.CR.2.2"
+  ],
+  "MAT.2.3.C1": [
+   "MAD.EP.MAT.C1.CR.2.3"
+  ],
+  "MAT.2.3.C2": [
+   "MAD.EP.MAT.C2.CR.2.3"
+  ],
+  "MAT.2.3.C3": [
+   "MAD.EP.MAT.C3.CR.2.3"
+  ],
+  "MAT.3.1.C1": [
+   "MAD.EP.MAT.C1.CR.3.1"
+  ],
+  "MAT.3.1.C2": [
+   "MAD.EP.MAT.C2.CR.3.1"
+  ],
+  "MAT.3.1.C3": [
+   "MAD.EP.MAT.C3.CR.3.1"
+  ],
+  "MAT.3.2.C1": [
+   "MAD.EP.MAT.C1.CR.3.2"
+  ],
+  "MAT.3.2.C2": [
+   "MAD.EP.MAT.C2.CR.3.2"
+  ],
+  "MAT.3.2.C3": [
+   "MAD.EP.MAT.C3.CR.3.2"
+  ],
+  "MAT.4.1.C1": [
+   "MAD.EP.MAT.C1.CR.4.1"
+  ],
+  "MAT.4.1.C2": [
+   "MAD.EP.MAT.C2.CR.4.1"
+  ],
+  "MAT.4.1.C3": [
+   "MAD.EP.MAT.C3.CR.4.1"
+  ],
+  "MAT.4.2.C1": [
+   "MAD.EP.MAT.C1.CR.4.2"
+  ],
+  "MAT.4.2.C2": [
+   "MAD.EP.MAT.C2.CR.4.2"
+  ],
+  "MAT.4.2.C3": [
+   "MAD.EP.MAT.C3.CR.4.2"
+  ],
+  "MAT.5.1.C1": [
+   "MAD.EP.MAT.C1.CR.5.1"
+  ],
+  "MAT.5.1.C2": [
+   "MAD.EP.MAT.C2.CR.5.1"
+  ],
+  "MAT.5.1.C3": [
+   "MAD.EP.MAT.C3.CR.5.1"
+  ],
+  "MAT.5.2.C1": [
+   "MAD.EP.MAT.C1.CR.5.2"
+  ],
+  "MAT.5.2.C2": [
+   "MAD.EP.MAT.C2.CR.5.2"
+  ],
+  "MAT.5.2.C3": [
+   "MAD.EP.MAT.C3.CR.5.2"
+  ],
+  "MAT.6.1.C1": [
+   "MAD.EP.MAT.C1.CR.6.1"
+  ],
+  "MAT.6.1.C2": [
+   "MAD.EP.MAT.C2.CR.6.1"
+  ],
+  "MAT.6.1.C3": [
+   "MAD.EP.MAT.C3.CR.6.1"
+  ],
+  "MAT.6.2.C1": [
+   "MAD.EP.MAT.C1.CR.6.2"
+  ],
+  "MAT.6.2.C2": [
+   "MAD.EP.MAT.C2.CR.6.2"
+  ],
+  "MAT.6.2.C3": [
+   "MAD.EP.MAT.C3.CR.6.2"
+  ],
+  "MAT.7.1.C1": [
+   "MAD.EP.MAT.C1.CR.7.1"
+  ],
+  "MAT.7.1.C2": [
+   "MAD.EP.MAT.C2.CR.7.1"
+  ],
+  "MAT.7.1.C3": [
+   "MAD.EP.MAT.C3.CR.7.1"
+  ],
+  "MAT.7.2.C1": [
+   "MAD.EP.MAT.C1.CR.7.2"
+  ],
+  "MAT.7.2.C2": [
+   "MAD.EP.MAT.C2.CR.7.2"
+  ],
+  "MAT.7.2.C3": [
+   "MAD.EP.MAT.C3.CR.7.2"
+  ],
+  "MAT.8.1.C1": [
+   "MAD.EP.MAT.C1.CR.8.1"
+  ],
+  "MAT.8.1.C2": [
+   "MAD.EP.MAT.C2.CR.8.1"
+  ],
+  "MAT.8.1.C3": [
+   "MAD.EP.MAT.C3.CR.8.1"
+  ],
+  "MAT.8.2.C1": [
+   "MAD.EP.MAT.C1.CR.8.2"
+  ],
+  "MAT.8.2.C2": [
+   "MAD.EP.MAT.C2.CR.8.2"
+  ],
+  "MAT.8.2.C3": [
+   "MAD.EP.MAT.C3.CR.8.2"
+  ],
+  "MAT.CE1": [
+   "MAD.EP.MAT.C1.CE.1"
+  ],
+  "MAT.CE2": [
+   "MAD.EP.MAT.C1.CE.2"
+  ],
+  "MAT.CE3": [
+   "MAD.EP.MAT.C1.CE.3"
+  ],
+  "MAT.CE4": [
+   "MAD.EP.MAT.C1.CE.4"
+  ],
+  "MAT.CE5": [
+   "MAD.EP.MAT.C1.CE.5"
+  ],
+  "MAT.CE6": [
+   "MAD.EP.MAT.C1.CE.6"
+  ],
+  "MAT.CE7": [
+   "MAD.EP.MAT.C1.CE.7"
+  ],
+  "MAT.CE8": [
+   "MAD.EP.MAT.C1.CE.8"
+  ],
+  "SLE.1.1.E": [
+   "MAD.EP.SLE.CR.1.1"
+  ],
+  "SLE.1.2.E": [
+   "MAD.EP.SLE.CR.1.2"
+  ],
+  "SLE.2.1.E": [
+   "MAD.EP.SLE.CR.2.1"
+  ],
+  "SLE.2.2.E": [
+   "MAD.EP.SLE.CR.2.2"
+  ],
+  "SLE.2.3.E": [
+   "MAD.EP.SLE.CR.2.3"
+  ],
+  "SLE.3.1.E": [
+   "MAD.EP.SLE.CR.3.1"
+  ],
+  "SLE.3.2.E": [
+   "MAD.EP.SLE.CR.3.2"
+  ],
+  "SLE.4.1.E": [
+   "MAD.EP.SLE.CR.4.1"
+  ],
+  "SLE.4.2.E": [
+   "MAD.EP.SLE.CR.4.2"
+  ],
+  "SLE.5.1.E": [
+   "MAD.EP.SLE.CR.5.1"
+  ],
+  "SLE.5.2.E": [
+   "MAD.EP.SLE.CR.5.2"
+  ],
+  "SLE.5.3.E": [
+   "MAD.EP.SLE.CR.5.3"
+  ],
+  "SLE.5.4.E": [
+   "MAD.EP.SLE.CR.5.4"
+  ],
+  "SLE.6.1.E": [
+   "MAD.EP.SLE.CR.6.1"
+  ],
+  "SLE.6.2.E": [
+   "MAD.EP.SLE.CR.6.2"
+  ],
+  "SLE.6.3.E": [
+   "MAD.EP.SLE.CR.6.3"
+  ],
+  "SLE.CE1": [
+   "MAD.EP.SLE.CE.1"
+  ],
+  "SLE.CE2": [
+   "MAD.EP.SLE.CE.2"
+  ],
+  "SLE.CE3": [
+   "MAD.EP.SLE.CE.3"
+  ],
+  "SLE.CE4": [
+   "MAD.EP.SLE.CE.4"
+  ],
+  "SLE.CE5": [
+   "MAD.EP.SLE.CE.5"
+  ],
+  "SLE.CE6": [
+   "MAD.EP.SLE.CE.6"
+  ],
+  "TYR.1.1.E": [
+   "MAD.EP.TYR.CR.1.1"
+  ],
+  "TYR.1.2.E": [
+   "MAD.EP.TYR.CR.1.2"
+  ],
+  "TYR.1.3.E": [
+   "MAD.EP.TYR.CR.1.3"
+  ],
+  "TYR.2.1.E": [
+   "MAD.EP.TYR.CR.2.1"
+  ],
+  "TYR.2.2.E": [
+   "MAD.EP.TYR.CR.2.2"
+  ],
+  "TYR.2.3.E": [
+   "MAD.EP.TYR.CR.2.3"
+  ],
+  "TYR.2.4.E": [
+   "MAD.EP.TYR.CR.2.4"
+  ],
+  "TYR.3.1.E": [
+   "MAD.EP.TYR.CR.3.1"
+  ],
+  "TYR.3.2.E": [
+   "MAD.EP.TYR.CR.3.2"
+  ],
+  "TYR.4.1.E": [
+   "MAD.EP.TYR.CR.4.1"
+  ],
+  "TYR.4.2.E": [
+   "MAD.EP.TYR.CR.4.2"
+  ],
+  "TYR.5.1.E": [
+   "MAD.EP.TYR.CR.5.1"
+  ],
+  "TYR.5.2.E": [
+   "MAD.EP.TYR.CR.5.2"
+  ],
+  "TYR.6.1.E": [
+   "MAD.EP.TYR.CR.6.1"
+  ],
+  "TYR.6.2.E": [
+   "MAD.EP.TYR.CR.6.2"
+  ],
+  "TYR.CE1": [
+   "MAD.EP.TYR.CE.1"
+  ],
+  "TYR.CE2": [
+   "MAD.EP.TYR.CE.2"
+  ],
+  "TYR.CE3": [
+   "MAD.EP.TYR.CE.3"
+  ],
+  "TYR.CE4": [
+   "MAD.EP.TYR.CE.4"
+  ],
+  "TYR.CE5": [
+   "MAD.EP.TYR.CE.5"
+  ],
+  "TYR.CE6": [
+   "MAD.EP.TYR.CE.6"
+  ],
+  "VCE.1.1.C3": [
+   "MAD.EP.VCE.CR.1.1"
+  ],
+  "VCE.1.2.C3": [
+   "MAD.EP.VCE.CR.1.2"
+  ],
+  "VCE.1.3.C3": [
+   "MAD.EP.VCE.CR.1.3"
+  ],
+  "VCE.2.1.C3": [
+   "MAD.EP.VCE.CR.2.1"
+  ],
+  "VCE.2.2.C3": [
+   "MAD.EP.VCE.CR.2.2"
+  ],
+  "VCE.2.3.C3": [
+   "MAD.EP.VCE.CR.2.3"
+  ],
+  "VCE.2.4.C3": [
+   "MAD.EP.VCE.CR.2.4"
+  ],
+  "VCE.2.5.C3": [
+   "MAD.EP.VCE.CR.2.5"
+  ],
+  "VCE.3.1.C3": [
+   "MAD.EP.VCE.CR.3.1"
+  ],
+  "VCE.3.2.C3": [
+   "MAD.EP.VCE.CR.3.2"
+  ],
+  "VCE.4.1.C3": [
+   "MAD.EP.VCE.CR.4.1"
+  ],
+  "VCE.CE1": [
+   "MAD.EP.VCE.CE.1"
+  ],
+  "VCE.CE2": [
+   "MAD.EP.VCE.CE.2"
+  ],
+  "VCE.CE3": [
+   "MAD.EP.VCE.CE.3"
+  ],
+  "VCE.CE4": [
+   "MAD.EP.VCE.CE.4"
+  ]
  }
 }

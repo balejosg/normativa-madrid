@@ -24,18 +24,27 @@ REFERENCIA = RAIZ / "tests" / "referencia" / "primaria-madrid-bd89f26.json"
 DESTINO = RAIZ / "src" / "normativa_madrid" / "datos" / "equivalencias-primaria-2026.json"
 
 
-def equivalencias(referencia: dict) -> dict[str, str]:
-    """Código antiguo -> código nuevo, ordenado por código antiguo."""
-    tabla: dict[str, str] = {}
+def equivalencias(referencia: dict) -> dict[str, list[str]]:
+    """Código antiguo -> códigos nuevos, ordenado por código antiguo.
+
+    Casi siempre hay uno, pero el código del real decreto (``CMNSC.CE5``) lo comparten dos
+    competencias de Madrid (Ciencias de la Naturaleza y Ciencias Sociales): se guardan todas.
+    """
+    tabla: dict[str, list[str]] = {}
+
+    def anadir(antiguo: str, nuevo: str) -> None:
+        if nuevo not in tabla.setdefault(antiguo, []):
+            tabla[antiguo].append(nuevo)
+
     for area in referencia["areas"]:
         for criterio in area["criterios"]:
-            tabla[criterio["codigo"]] = codigo_nuevo(criterio["codigo"])
+            anadir(criterio["codigo"], codigo_nuevo(criterio["codigo"]))
         for competencia in area["competencias"]:
             nuevo = codigo_nuevo(competencia["codigo"])
-            tabla[competencia["codigo"]] = nuevo
+            anadir(competencia["codigo"], nuevo)
             if competencia.get("equivalencia_rd"):
-                tabla[competencia["equivalencia_rd"]] = nuevo
-    return dict(sorted(tabla.items()))
+                anadir(competencia["equivalencia_rd"], nuevo)
+    return {antiguo: sorted(nuevos) for antiguo, nuevos in sorted(tabla.items())}
 
 
 def main(argv: list[str] | None = None) -> int:
