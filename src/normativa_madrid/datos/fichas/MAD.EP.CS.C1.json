@@ -1,0 +1,626 @@
+{
+  "codigo": "MAD.EP.CS.C1",
+  "nombre": "Ciencias Sociales, primer ciclo",
+  "etapa": "primaria",
+  "ciclo": "C1",
+  "curso": null,
+  "cursos_academicos": [
+    "2026-27"
+  ],
+  "normas": [
+    "bocm-20220718-1",
+    "boe-a-2022-3296"
+  ],
+  "elementos": [
+    {
+      "codigo": "MAD.EP.CS.C1.CE.1",
+      "tipo": "competencia_especifica",
+      "texto": "Identificar las características de los diferentes elementos o sistemas del medio, analizando su organización y propiedades y estableciendo relaciones entre los mismos, para reconocer el valor del patrimonio cultural y natural, conservarlo y mejorarlo.",
+      "codigo_oficial": "1",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias Sociales, primer ciclo, competencias específicas",
+        "pagina": 42
+      },
+      "orden": 1,
+      "relaciones": {
+        "descriptores": [
+          "MAD.EP.DESC.STEM1",
+          "MAD.EP.DESC.STEM2",
+          "MAD.EP.DESC.STEM4",
+          "MAD.EP.DESC.STEM5",
+          "MAD.EP.DESC.CD1",
+          "MAD.EP.DESC.CC4",
+          "MAD.EP.DESC.CE1",
+          "MAD.EP.DESC.CCEC1"
+        ]
+      },
+      "datos": {
+        "equivalencia_rd": "CMNSC.CE5"
+      }
+    },
+    {
+      "codigo": "MAD.EP.CS.C1.CR.1.1",
+      "tipo": "criterio",
+      "texto": "Reconocer las características, la organización y las propiedades de los elementos del medio a través de la indagación, utilizando las herramientas y procesos adecuados de forma pautada.",
+      "codigo_oficial": "1.1",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias Sociales, primer ciclo, criterios",
+        "pagina": 42
+      },
+      "orden": 2,
+      "padre": "MAD.EP.CS.C1.CE.1"
+    },
+    {
+      "codigo": "MAD.EP.CS.C1.CR.1.2",
+      "tipo": "criterio",
+      "texto": "Reconocer conexiones sencillas y directas entre diferentes elementos del medio a través de la observación, la manipulación y la experimentación.",
+      "codigo_oficial": "1.2",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias Sociales, primer ciclo, criterios",
+        "pagina": 42
+      },
+      "orden": 3,
+      "padre": "MAD.EP.CS.C1.CE.1"
+    },
+    {
+      "codigo": "MAD.EP.CS.C1.CR.1.3",
+      "tipo": "criterio",
+      "texto": "Mostrar actitudes de respeto ante el patrimonio natural y cultural.",
+      "codigo_oficial": "1.3",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias Sociales, primer ciclo, criterios",
+        "pagina": 42
+      },
+      "orden": 4,
+      "padre": "MAD.EP.CS.C1.CE.1"
+    },
+    {
+      "codigo": "MAD.EP.CS.C1.CE.2",
+      "tipo": "competencia_especifica",
+      "texto": "Identificar las causas y consecuencias de la intervención humana en el entorno, desde los puntos de vista social, económico, cultural, tecnológico y ambiental, para mejorar la capacidad de afrontar problemas, buscar soluciones y actuar en su resolución fomentando el respeto, el cuidado y la protección de las personas y del planeta.",
+      "codigo_oficial": "2",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias Sociales, primer ciclo, competencias específicas",
+        "pagina": 42
+      },
+      "orden": 5,
+      "relaciones": {
+        "descriptores": [
+          "MAD.EP.DESC.CCL5",
+          "MAD.EP.DESC.STEM2",
+          "MAD.EP.DESC.STEM5",
+          "MAD.EP.DESC.CPSAA4",
+          "MAD.EP.DESC.CC1",
+          "MAD.EP.DESC.CC3",
+          "MAD.EP.DESC.CC4",
+          "MAD.EP.DESC.CE1"
+        ]
+      },
+      "datos": {
+        "equivalencia_rd": "CMNSC.CE6"
+      }
+    },
+    {
+      "codigo": "MAD.EP.CS.C1.CR.2.1",
+      "tipo": "criterio",
+      "texto": "Mostrar estilos de vida adecuados y valorar la importancia del respeto, los cuidados, y la protección de los elementos y seres del planeta, identificando la relación de la vida de las personas con sus acciones sobre los elementos y recursos del medio, como el suelo y el agua.",
+      "codigo_oficial": "2.1",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias Sociales, primer ciclo, criterios",
+        "pagina": 42
+      },
+      "orden": 6,
+      "padre": "MAD.EP.CS.C1.CE.2"
+    },
+    {
+      "codigo": "MAD.EP.CS.C1.CE.3",
+      "tipo": "competencia_especifica",
+      "texto": "Observar, comprender e interpretar continuidades y cambios del medio, analizando relaciones de causalidad, simultaneidad y sucesión, para explicar y valorar las relaciones entre diferentes elementos y acontecimientos.",
+      "codigo_oficial": "3",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias Sociales, primer ciclo, competencias específicas",
+        "pagina": 42
+      },
+      "orden": 7,
+      "relaciones": {
+        "descriptores": [
+          "MAD.EP.DESC.CCL3",
+          "MAD.EP.DESC.STEM4",
+          "MAD.EP.DESC.CPSAA4",
+          "MAD.EP.DESC.CC1",
+          "MAD.EP.DESC.CC3",
+          "MAD.EP.DESC.CE2",
+          "MAD.EP.DESC.CCEC1"
+        ]
+      },
+      "datos": {
+        "equivalencia_rd": "CMNSC.CE7"
+      }
+    },
+    {
+      "codigo": "MAD.EP.CS.C1.CR.3.1",
+      "tipo": "criterio",
+      "texto": "Ordenar temporalmente hechos del entorno cercano, empleando nociones básicas de medida y sucesión.",
+      "codigo_oficial": "3.1",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias Sociales, primer ciclo, criterios",
+        "pagina": 42
+      },
+      "orden": 8,
+      "padre": "MAD.EP.CS.C1.CE.3"
+    },
+    {
+      "codigo": "MAD.EP.CS.C1.CR.3.2",
+      "tipo": "criterio",
+      "texto": "Conocer personas y grupos sociales relevantes de la historia, así como formas de vida del pasado y sus creencias, incorporando referentes de igualdad entre hombres y mujeres.",
+      "codigo_oficial": "3.2",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias Sociales, primer ciclo, criterios",
+        "pagina": 42
+      },
+      "orden": 9,
+      "padre": "MAD.EP.CS.C1.CE.3"
+    },
+    {
+      "codigo": "MAD.EP.CS.C1.CE.4",
+      "tipo": "competencia_especifica",
+      "texto": "Reconocer y valorar la pluralidad mostrando empatía y respeto por otras culturas para contribuir a la mejora de una sociedad en continua transformación y al logro de los valores de integración europea.",
+      "codigo_oficial": "4",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias Sociales, primer ciclo, competencias específicas",
+        "pagina": 43
+      },
+      "orden": 10,
+      "relaciones": {
+        "descriptores": [
+          "MAD.EP.DESC.CP3",
+          "MAD.EP.DESC.CPSAA3",
+          "MAD.EP.DESC.CC1",
+          "MAD.EP.DESC.CC2",
+          "MAD.EP.DESC.CC3",
+          "MAD.EP.DESC.CCEC1"
+        ]
+      },
+      "datos": {
+        "equivalencia_rd": "CMNSC.CE8"
+      }
+    },
+    {
+      "codigo": "MAD.EP.CS.C1.CR.4.1",
+      "tipo": "criterio",
+      "texto": "Recoger información acerca de manifestaciones culturales del entorno, mostrando respeto, valorando su diversidad y riqueza, y apreciándolas como fuente de aprendizaje.",
+      "codigo_oficial": "4.1",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias Sociales, primer ciclo, criterios",
+        "pagina": 43
+      },
+      "orden": 11,
+      "padre": "MAD.EP.CS.C1.CE.4"
+    },
+    {
+      "codigo": "MAD.EP.CS.C1.CR.4.2",
+      "tipo": "criterio",
+      "texto": "Mostrar actitudes que fomenten la igualdad, el respeto, la libertad y todas las conductas no discriminatorias, reconociendo modelos positivos en el entorno cercano e identificar las cualidades individuales adecuadas para vivir en sociedad.",
+      "codigo_oficial": "4.2",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias Sociales, primer ciclo, criterios",
+        "pagina": 43
+      },
+      "orden": 12,
+      "padre": "MAD.EP.CS.C1.CE.4"
+    },
+    {
+      "codigo": "MAD.EP.CS.C1.CE.5",
+      "tipo": "competencia_especifica",
+      "texto": "Participar en el entorno y la vida social de forma eficaz y constructiva desde el respeto a los valores democráticos, los derechos humanos y de la infancia y los principios y valores de la Constitución española y la Unión Europea, valorando la función del Estado y sus instituciones en el mantenimiento de la paz y la seguridad ciudadana.",
+      "codigo_oficial": "5",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias Sociales, primer ciclo, competencias específicas",
+        "pagina": 43
+      },
+      "orden": 13,
+      "relaciones": {
+        "descriptores": [
+          "MAD.EP.DESC.CCL5",
+          "MAD.EP.DESC.CPSAA1",
+          "MAD.EP.DESC.CC1",
+          "MAD.EP.DESC.CC2",
+          "MAD.EP.DESC.CC3",
+          "MAD.EP.DESC.CCEC1"
+        ]
+      },
+      "datos": {
+        "equivalencia_rd": "CMNSC.CE9"
+      }
+    },
+    {
+      "codigo": "MAD.EP.CS.C1.CR.5.1",
+      "tipo": "criterio",
+      "texto": "Establecer acuerdos de forma democrática como parte de la sociedad, identificando las responsabilidades individuales y empleando un lenguaje respetuoso.",
+      "codigo_oficial": "5.1",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias Sociales, primer ciclo, criterios",
+        "pagina": 43
+      },
+      "orden": 14,
+      "padre": "MAD.EP.CS.C1.CE.5"
+    },
+    {
+      "codigo": "MAD.EP.CS.C1.CR.5.2",
+      "tipo": "criterio",
+      "texto": "Identificar instituciones cercanas, señalando y valorando las funciones que realizan en pro de una buena convivencia.",
+      "codigo_oficial": "5.2",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias Sociales, primer ciclo, criterios",
+        "pagina": 43
+      },
+      "orden": 15,
+      "padre": "MAD.EP.CS.C1.CE.5"
+    },
+    {
+      "codigo": "MAD.EP.CS.C1.CR.5.3",
+      "tipo": "criterio",
+      "texto": "Conocer e interiorizar normas básicas para la convivencia en el uso de los espacios públicos, especialmente como peatones o como usuarios de los medios de locomoción, tomando conciencia de la importancia de la movilidad segura y saludable tanto para las personas como para el planeta.",
+      "codigo_oficial": "5.3",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias Sociales, primer ciclo, criterios",
+        "pagina": 43
+      },
+      "orden": 16,
+      "padre": "MAD.EP.CS.C1.CE.5"
+    },
+    {
+      "codigo": "MAD.EP.CS.C1.CO.A",
+      "tipo": "bloque_contenidos",
+      "texto": "Sociedades y territorios",
+      "codigo_oficial": "A",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias Sociales, primer ciclo, contenidos",
+        "pagina": 43
+      },
+      "orden": 17
+    },
+    {
+      "codigo": "MAD.EP.CS.C1.CO.A.1",
+      "tipo": "bloque_contenidos",
+      "texto": "Retos del mundo actual",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias Sociales, primer ciclo, contenidos",
+        "pagina": 43
+      },
+      "orden": 18,
+      "padre": "MAD.EP.CS.C1.CO.A"
+    },
+    {
+      "codigo": "MAD.EP.CS.C1.CO.A.1.1",
+      "tipo": "contenido",
+      "texto": "La Tierra en el universo. Elementos, movimientos y dinámicas relacionados con la Tierra y el universo y sus consecuencias en la vida diaria y en el entorno. Secuencias temporales y cambios estacionales.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias Sociales, primer ciclo, contenidos",
+        "pagina": 43
+      },
+      "orden": 19,
+      "padre": "MAD.EP.CS.C1.CO.A.1"
+    },
+    {
+      "codigo": "MAD.EP.CS.C1.CO.A.1.2",
+      "tipo": "contenido",
+      "texto": "La vida en la Tierra. Fenómenos atmosféricos y su repercusión en los ciclos biológicos y en la vida diaria. Observación y registro de datos atmosféricos.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias Sociales, primer ciclo, contenidos",
+        "pagina": 43
+      },
+      "orden": 20,
+      "padre": "MAD.EP.CS.C1.CO.A.1"
+    },
+    {
+      "codigo": "MAD.EP.CS.C1.CO.A.1.3",
+      "tipo": "contenido",
+      "texto": "Existencia y distribución del agua en la Tierra: océanos, mares, ríos y lagos.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias Sociales, primer ciclo, contenidos",
+        "pagina": 43
+      },
+      "orden": 21,
+      "padre": "MAD.EP.CS.C1.CO.A.1"
+    },
+    {
+      "codigo": "MAD.EP.CS.C1.CO.A.1.4",
+      "tipo": "contenido",
+      "texto": "Identificación de las principales unidades del relieve: isla, archipiélago, península, montaña, cordillera, llanura, meseta, valle, río…",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias Sociales, primer ciclo, contenidos",
+        "pagina": 43
+      },
+      "orden": 22,
+      "padre": "MAD.EP.CS.C1.CO.A.1"
+    },
+    {
+      "codigo": "MAD.EP.CS.C1.CO.A.1.5",
+      "tipo": "contenido",
+      "texto": "La Comunidad de Madrid: situación, relieve, ríos…",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias Sociales, primer ciclo, contenidos",
+        "pagina": 43
+      },
+      "orden": 23,
+      "padre": "MAD.EP.CS.C1.CO.A.1"
+    },
+    {
+      "codigo": "MAD.EP.CS.C1.CO.A.1.6",
+      "tipo": "contenido",
+      "texto": "Retos sobre situaciones cotidianas. Funciones básicas del pensamiento espacial y temporal para la interacción con el medio y la resolución de situaciones de la vida cotidiana. Itinerarios y trayectos, puntos cardinales, desplazamientos y viajes.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias Sociales, primer ciclo, contenidos",
+        "pagina": 43
+      },
+      "orden": 24,
+      "padre": "MAD.EP.CS.C1.CO.A.1"
+    },
+    {
+      "codigo": "MAD.EP.CS.C1.CO.A.2",
+      "tipo": "bloque_contenidos",
+      "texto": "Sociedades en el tiempo",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias Sociales, primer ciclo, contenidos",
+        "pagina": 43
+      },
+      "orden": 25,
+      "padre": "MAD.EP.CS.C1.CO.A"
+    },
+    {
+      "codigo": "MAD.EP.CS.C1.CO.A.2.1",
+      "tipo": "contenido",
+      "texto": "La percepción del tiempo. Medida del tiempo en la vida cotidiana: año, mes, semana, día y hora. El ciclo vital y las relaciones intergeneracionales.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias Sociales, primer ciclo, contenidos",
+        "pagina": 43
+      },
+      "orden": 26,
+      "padre": "MAD.EP.CS.C1.CO.A.2"
+    },
+    {
+      "codigo": "MAD.EP.CS.C1.CO.A.2.2",
+      "tipo": "contenido",
+      "texto": "Uso de objetos y artefactos de la vida cotidiana como fuentes para reflexionar sobre el cambio y la continuidad, las causas y consecuencias.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias Sociales, primer ciclo, contenidos",
+        "pagina": 43
+      },
+      "orden": 27,
+      "padre": "MAD.EP.CS.C1.CO.A.2"
+    },
+    {
+      "codigo": "MAD.EP.CS.C1.CO.A.2.3",
+      "tipo": "contenido",
+      "texto": "Recursos y medios analógicos y digitales. Las fuentes orales. La historia local y la biografía familiar; mujeres y hombres como sujetos de la historia.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias Sociales, primer ciclo, contenidos",
+        "pagina": 43
+      },
+      "orden": 28,
+      "padre": "MAD.EP.CS.C1.CO.A.2"
+    },
+    {
+      "codigo": "MAD.EP.CS.C1.CO.A.2.4",
+      "tipo": "contenido",
+      "texto": "Las expresiones y producciones artísticas a través del tiempo. El patrimonio material e inmaterial local. Principales monumentos de la Comunidad de Madrid.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias Sociales, primer ciclo, contenidos",
+        "pagina": 43
+      },
+      "orden": 29,
+      "padre": "MAD.EP.CS.C1.CO.A.2"
+    },
+    {
+      "codigo": "MAD.EP.CS.C1.CO.A.2.5",
+      "tipo": "contenido",
+      "texto": "Acercamiento a los hitos históricos, costumbres y tradiciones de la Comunidad de Madrid.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias Sociales, primer ciclo, contenidos",
+        "pagina": 43
+      },
+      "orden": 30,
+      "padre": "MAD.EP.CS.C1.CO.A.2"
+    },
+    {
+      "codigo": "MAD.EP.CS.C1.CO.A.3",
+      "tipo": "bloque_contenidos",
+      "texto": "Alfabetización cívica",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias Sociales, primer ciclo, contenidos",
+        "pagina": 43
+      },
+      "orden": 31,
+      "padre": "MAD.EP.CS.C1.CO.A"
+    },
+    {
+      "codigo": "MAD.EP.CS.C1.CO.A.3.1",
+      "tipo": "contenido",
+      "texto": "La vida en sociedad. La familia. Compromisos, participación y normas en el entorno familiar, vecinal y escolar. Prevención, gestión y resolución dialogada de conflictos.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias Sociales, primer ciclo, contenidos",
+        "pagina": 43
+      },
+      "orden": 32,
+      "padre": "MAD.EP.CS.C1.CO.A.3"
+    },
+    {
+      "codigo": "MAD.EP.CS.C1.CO.A.3.2",
+      "tipo": "contenido",
+      "texto": "La vida en sociedad. Espacios, recursos y servicios del entorno. Formas y modos de interacción social en espacios públicos con referentes de igualdad entre hombres y mujeres. Relaciones humanas.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias Sociales, primer ciclo, contenidos",
+        "pagina": 43
+      },
+      "orden": 33,
+      "padre": "MAD.EP.CS.C1.CO.A.3"
+    },
+    {
+      "codigo": "MAD.EP.CS.C1.CO.A.3.3",
+      "tipo": "contenido",
+      "texto": "Ciudades y pueblos más importantes de la Comunidad de Madrid.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias Sociales, primer ciclo, contenidos",
+        "pagina": 43
+      },
+      "orden": 34,
+      "padre": "MAD.EP.CS.C1.CO.A.3"
+    },
+    {
+      "codigo": "MAD.EP.CS.C1.CO.A.3.4",
+      "tipo": "contenido",
+      "texto": "Identidad y cultura: existencia de realidades diferentes y aproximación a las distintas etnoculturas presentes en el entorno. La convivencia con los demás y el rechazo a las actitudes discriminatorias. Cultura de paz y no violencia en libertad.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias Sociales, primer ciclo, contenidos",
+        "pagina": 44
+      },
+      "orden": 35,
+      "padre": "MAD.EP.CS.C1.CO.A.3"
+    },
+    {
+      "codigo": "MAD.EP.CS.C1.CO.A.3.5",
+      "tipo": "contenido",
+      "texto": "Ocupación y trabajo. Identificación de las principales actividades profesionales y laborales en el entorno y, de manera específica, en la Comunidad de Madrid.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias Sociales, primer ciclo, contenidos",
+        "pagina": 44
+      },
+      "orden": 36,
+      "padre": "MAD.EP.CS.C1.CO.A.3"
+    },
+    {
+      "codigo": "MAD.EP.CS.C1.CO.A.3.6",
+      "tipo": "contenido",
+      "texto": "Igualdad y conducta no discriminatoria. Igualdad entre hombres y mujeres y empatía entre personas.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias Sociales, primer ciclo, contenidos",
+        "pagina": 44
+      },
+      "orden": 37,
+      "padre": "MAD.EP.CS.C1.CO.A.3"
+    },
+    {
+      "codigo": "MAD.EP.CS.C1.CO.A.3.7",
+      "tipo": "contenido",
+      "texto": "Seguridad vial. La ciudad como espacio de convivencia. Normas básicas en los desplazamientos como peatones o como usuarios de los medios de locomoción. Significado de algunas señales de tráfico.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias Sociales, primer ciclo, contenidos",
+        "pagina": 44
+      },
+      "orden": 38,
+      "padre": "MAD.EP.CS.C1.CO.A.3"
+    },
+    {
+      "codigo": "MAD.EP.CS.C1.CO.A.4",
+      "tipo": "bloque_contenidos",
+      "texto": "Conciencia social y medioambiental",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias Sociales, primer ciclo, contenidos",
+        "pagina": 44
+      },
+      "orden": 39,
+      "padre": "MAD.EP.CS.C1.CO.A"
+    },
+    {
+      "codigo": "MAD.EP.CS.C1.CO.A.4.1",
+      "tipo": "contenido",
+      "texto": "Conocimiento de nuestro entorno. Paisajes naturales y paisajes humanizados, y sus elementos. La acción humana sobre el medio y sus consecuencias.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias Sociales, primer ciclo, contenidos",
+        "pagina": 44
+      },
+      "orden": 40,
+      "padre": "MAD.EP.CS.C1.CO.A.4"
+    },
+    {
+      "codigo": "MAD.EP.CS.C1.CO.A.4.2",
+      "tipo": "contenido",
+      "texto": "Responsabilidad social y medioambiental. Acciones para la conservación, mejora y uso de los bienes comunes. El maltrato animal y su prevención. Prácticas de respeto hacia el entorno más cercano.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias Sociales, primer ciclo, contenidos",
+        "pagina": 44
+      },
+      "orden": 41,
+      "padre": "MAD.EP.CS.C1.CO.A.4"
+    },
+    {
+      "codigo": "MAD.EP.CS.C1.CO.A.4.3",
+      "tipo": "contenido",
+      "texto": "Estilos de vida adecuados. El uso responsable del agua, la movilidad segura y saludable, y la prevención y la gestión de los residuos.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias Sociales, primer ciclo, contenidos",
+        "pagina": 44
+      },
+      "orden": 42,
+      "padre": "MAD.EP.CS.C1.CO.A.4"
+    }
+  ]
+}

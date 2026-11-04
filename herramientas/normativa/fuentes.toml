@@ -108,7 +108,7 @@ boletin = "BOCM"
 url_pdf = "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/13/BOCM-20240613-2.PDF"
 sha256 = "b77c3e24041b2e310c6079d895911c1f9e590c9cf42ede621203568ef43d734a"
 correcciones = ["bocm-20240619-1"]
-modifica = ["bocm-20220726-2", "bocm-20220726-1"]
+modifica = ["bocm-20220718-1", "bocm-20220726-2", "bocm-20220726-1"]
 estado = "vigente"
 
 [[norma]]
@@ -120,6 +120,189 @@ titulo = "Corrección de errores del Decreto 59/2024, de 12 de junio, del Consej
 boletin = "BOCM"
 url_pdf = "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/19/BOCM-20240619-1.PDF"
 sha256 = "c51bc48073a3ef6bda28ec94015840aad06d283da7a6f17bd5cac305763197d1"
+estado = "vigente"
+
+# --- Primaria: currículo de Madrid ---------------------------------------------------------
+
+[[norma]]
+id = "bocm-20220718-1"
+rango = "decreto"
+numero = "61/2022"
+fecha = "2022-07-13"
+titulo = "Decreto 61/2022, de 13 de julio, del Consejo de Gobierno, por el que se establece para la Comunidad de Madrid la ordenación y el currículo de la etapa de Educación Primaria"
+boletin = "BOCM"
+url_pdf = "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/18/BOCM-20220718-1.PDF"
+sha256 = "7087c7d8cdd5a172ecb620a8742acb43864b17563984c407b5f4d498e6399343"
+# El Decreto 59/2024 solo cambia el art. 9.1 (Matemáticas, Lengua y los contenidos de Historia
+# de España de Ciencias Sociales no se imparten en lengua extranjera): ningún anexo.
+modificada_por = ["bocm-20240613-2"]
+estado = "vigente"
+# El anexo II son tablas a dos y tres columnas (competencias | criterios; bloque | sub-bloque
+# | contenidos) que `pdftotext` mezcla línea a línea, así que el extractor de Primaria las lee
+# con pdfplumber. `comprobar` no puede comparar ese texto con el de `pdftotext`: lo compara con
+# el texto de pdfplumber de la misma página, por columnas (`lector = "pdfplumber"`; el código
+# está en `extraer_primaria.columnas_de_pdf`). Un texto puede seguir en la misma columna de la
+# página siguiente, no saltar de columna. Consecuencia: el extractor y `comprobar` leen el PDF
+# con la misma biblioteca, así que un carácter que pdfplumber leyera mal saldría igual en los
+# dos (la salvaguarda es la revisión con la imagen de la página). Diferencia conocida con
+# `pdftotext`: en «el judaísmo, el cristianismo y el islam» (pág. 49, Ciencias Sociales) el PDF
+# deja un hueco tras la primera letra de cada palabra, que `pdftotext` lee como espacio
+# («j udaísmo») y pdfplumber no; se guarda la palabra entera.
+lector = "pdfplumber"
+
+# Recuentos del anexo I (34 descriptores) y del anexo II por área y ciclo, contados en la
+# revisión de la extracción, área por área, contra el PDF: competencias, criterios del ciclo y
+# contenidos (viñetas de todos los niveles: «-», «•» y «–»). VCE es solo de 5.º y SLE y TYR,
+# de toda la etapa.
+[norma.recuentos."MAD.EP.DESC"]
+descriptores = 34
+
+[norma.recuentos."MAD.EP.CN.C1"]
+competencias = 6
+criterios = 17
+contenidos = 42
+
+[norma.recuentos."MAD.EP.CN.C2"]
+competencias = 6
+criterios = 18
+contenidos = 37
+
+[norma.recuentos."MAD.EP.CN.C3"]
+competencias = 6
+criterios = 17
+contenidos = 34
+
+[norma.recuentos."MAD.EP.CS.C1"]
+competencias = 5
+criterios = 11
+contenidos = 21
+
+[norma.recuentos."MAD.EP.CS.C2"]
+competencias = 5
+criterios = 11
+contenidos = 32
+
+[norma.recuentos."MAD.EP.CS.C3"]
+competencias = 5
+criterios = 11
+contenidos = 38
+
+[norma.recuentos."MAD.EP.EA.C1"]
+competencias = 4
+criterios = 11
+contenidos = 33
+
+[norma.recuentos."MAD.EP.EA.C2"]
+competencias = 4
+criterios = 11
+contenidos = 41
+
+[norma.recuentos."MAD.EP.EA.C3"]
+competencias = 4
+criterios = 12
+contenidos = 45
+
+[norma.recuentos."MAD.EP.EF.C1"]
+competencias = 5
+criterios = 14
+contenidos = 28
+
+[norma.recuentos."MAD.EP.EF.C2"]
+competencias = 5
+criterios = 16
+contenidos = 28
+
+[norma.recuentos."MAD.EP.EF.C3"]
+competencias = 5
+criterios = 16
+contenidos = 31
+
+[norma.recuentos."MAD.EP.LCL.C1"]
+competencias = 10
+criterios = 19
+contenidos = 29
+
+[norma.recuentos."MAD.EP.LCL.C2"]
+competencias = 10
+criterios = 20
+contenidos = 36
+
+[norma.recuentos."MAD.EP.LCL.C3"]
+competencias = 10
+criterios = 21
+contenidos = 34
+
+[norma.recuentos."MAD.EP.ING.C1"]
+competencias = 6
+criterios = 13
+contenidos = 31
+
+[norma.recuentos."MAD.EP.ING.C2"]
+competencias = 6
+criterios = 15
+contenidos = 36
+
+[norma.recuentos."MAD.EP.ING.C3"]
+competencias = 6
+criterios = 15
+contenidos = 39
+
+[norma.recuentos."MAD.EP.MAT.C1"]
+competencias = 8
+criterios = 17
+contenidos = 38
+
+[norma.recuentos."MAD.EP.MAT.C2"]
+competencias = 8
+criterios = 17
+contenidos = 63
+
+[norma.recuentos."MAD.EP.MAT.C3"]
+competencias = 8
+criterios = 17
+contenidos = 57
+
+[norma.recuentos."MAD.EP.VCE"]
+competencias = 4
+criterios = 11
+contenidos = 25
+
+[norma.recuentos."MAD.EP.SLE"]
+competencias = 6
+criterios = 16
+contenidos = 75
+
+[norma.recuentos."MAD.EP.TYR"]
+competencias = 6
+criterios = 15
+contenidos = 27
+
+[[norma]]
+id = "bocm-20230130-23"
+rango = "orden"
+numero = "130/2023"
+fecha = "2023-01-23"
+titulo = "Orden 130/2023, de 23 de enero, de la Vicepresidencia, Consejería de Educación y Universidades, por la que se regulan aspectos de organización y funcionamiento, evaluación y autonomía pedagógica en la etapa de Educación Primaria en la Comunidad de Madrid"
+boletin = "BOCM"
+url_pdf = "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/01/30/BOCM-20230130-23.PDF"
+sha256 = "19a649d580692fbd4b187c2c8c93d45925e86e45e77f65dd6219970eb32f6d97"
+# Programación didáctica por área y ciclo (art. 6) y evaluación: ninguna ficha la cita aún.
+estado = "vigente"
+
+[[norma]]
+id = "boe-a-2022-3296"
+rango = "real_decreto"
+numero = "157/2022"
+fecha = "2022-03-01"
+titulo = "Real Decreto 157/2022, de 1 de marzo, por el que se establecen la ordenación y las enseñanzas mínimas de la Educación Primaria"
+boletin = "BOE"
+url_pdf = "https://www.boe.es/boe/dias/2022/03/02/pdfs/BOE-A-2022-3296.pdf"
+url_api = "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2022-3296"
+sha256 = "21f344161eebd0a298808221c2622074c7e736a76f4bac4e2d695bd080e6750c"
+# Solo se lee su anexo II: los descriptores que conecta cada competencia (la frase «se conecta
+# con los siguientes descriptores del Perfil de salida»). Conocimiento del Medio es aquí un área
+# única: sus competencias 1-6 son las de Ciencias de la Naturaleza y las 5-9, las 1-5 de
+# Ciencias Sociales. Segunda Lengua Extranjera y Tecnología y Robótica no están en el RD.
 estado = "vigente"
 
 # --- Optativas de ESO y Bachillerato (Ciencias de la Computación) ----------------------

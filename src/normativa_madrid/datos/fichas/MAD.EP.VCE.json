@@ -1,0 +1,616 @@
+{
+  "codigo": "MAD.EP.VCE",
+  "nombre": "Educación en Valores Cívicos y Éticos, quinto curso",
+  "etapa": "primaria",
+  "curso": "5",
+  "cursos_academicos": [
+    "2026-27"
+  ],
+  "normas": [
+    "bocm-20220718-1",
+    "boe-a-2022-3296"
+  ],
+  "elementos": [
+    {
+      "codigo": "MAD.EP.VCE.CE.1",
+      "tipo": "competencia_especifica",
+      "texto": "Deliberar y argumentar sobre problemas referidos a sí mismo y su entorno, buscando y analizando información fiable y generando una actitud reflexiva al respecto, para promover el conocimiento de uno mismo y la autonomía moral.",
+      "codigo_oficial": "1",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación en Valores Cívicos y Éticos, competencias específicas",
+        "pagina": 110
+      },
+      "orden": 1,
+      "relaciones": {
+        "descriptores": [
+          "MAD.EP.DESC.CCL1",
+          "MAD.EP.DESC.CCL3",
+          "MAD.EP.DESC.CD4",
+          "MAD.EP.DESC.CPSAA4",
+          "MAD.EP.DESC.CPSAA5",
+          "MAD.EP.DESC.CC1",
+          "MAD.EP.DESC.CC2",
+          "MAD.EP.DESC.CC3"
+        ]
+      }
+    },
+    {
+      "codigo": "MAD.EP.VCE.CR.1.1",
+      "tipo": "criterio",
+      "texto": "Construir un adecuado concepto de sí mismo en relación con los demás y la naturaleza, organizando y generando, información analógica y digital acerca de los rasgos relativos a la identidad, diferencia y dignidad de las personas.",
+      "codigo_oficial": "1.1",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación en Valores Cívicos y Éticos, criterios",
+        "pagina": 110
+      },
+      "orden": 2,
+      "padre": "MAD.EP.VCE.CE.1"
+    },
+    {
+      "codigo": "MAD.EP.VCE.CR.1.2",
+      "tipo": "criterio",
+      "texto": "Identificar y expresar emociones, afectos y deseos, mostrando confianza en las propias capacidades al servicio de la consecución motivada de fines personales y de grupo.",
+      "codigo_oficial": "1.2",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación en Valores Cívicos y Éticos, criterios",
+        "pagina": 110
+      },
+      "orden": 3,
+      "padre": "MAD.EP.VCE.CE.1"
+    },
+    {
+      "codigo": "MAD.EP.VCE.CR.1.3",
+      "tipo": "criterio",
+      "texto": "Generar una posición autónoma mediante el ejercicio de la toma de decisiones, el uso de conceptos positivos y el diálogo respetuoso con otros, en torno a distintos valores y modos de vida, así como a problemas relacionados con el uso seguro de las redes y medios de comunicación, las conductas adictivas, la prevención del abuso y el acoso escolar, y el respeto a la intimidad personal.",
+      "codigo_oficial": "1.3",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación en Valores Cívicos y Éticos, criterios",
+        "pagina": 110
+      },
+      "orden": 4,
+      "padre": "MAD.EP.VCE.CE.1"
+    },
+    {
+      "codigo": "MAD.EP.VCE.CE.2",
+      "tipo": "competencia_especifica",
+      "texto": "Actuar e interactuar de acuerdo con normas y valores, reconociendo su importancia para la vida y aplicándolos de manera efectiva y argumentada en distintos contextos, para promover una convivencia, justa, respetuosa y pacífica.",
+      "codigo_oficial": "2",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación en Valores Cívicos y Éticos, competencias específicas",
+        "pagina": 111
+      },
+      "orden": 5,
+      "relaciones": {
+        "descriptores": [
+          "MAD.EP.DESC.CCL5",
+          "MAD.EP.DESC.CP3",
+          "MAD.EP.DESC.CPSAA3",
+          "MAD.EP.DESC.CPSAA4",
+          "MAD.EP.DESC.CC1",
+          "MAD.EP.DESC.CC2",
+          "MAD.EP.DESC.CC3",
+          "MAD.EP.DESC.CCEC1"
+        ]
+      }
+    },
+    {
+      "codigo": "MAD.EP.VCE.CR.2.1",
+      "tipo": "criterio",
+      "texto": "Promover y demostrar un modo de convivencia justa, respetuosa y pacífica a partir de la investigación y comprensión de las relaciones del ser humano, mediante el uso de los conceptos de ley, civismo, respeto, democracia, justicia, paz y libertad.",
+      "codigo_oficial": "2.1",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación en Valores Cívicos y Éticos, criterios",
+        "pagina": 111
+      },
+      "orden": 6,
+      "padre": "MAD.EP.VCE.CE.2"
+    },
+    {
+      "codigo": "MAD.EP.VCE.CR.2.2",
+      "tipo": "criterio",
+      "texto": "Interactuar con otros adoptando, de forma motivada y autónoma, conductas orientadas por valores comunes, a partir del conocimiento de los derechos humanos y los principios constitucionales fundamentales, en relación con contextos y problemas concretos, así como por una consideración de diálogo acerca de cómo debemos relacionarnos con los demás.",
+      "codigo_oficial": "2.2",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación en Valores Cívicos y Éticos, criterios",
+        "pagina": 111
+      },
+      "orden": 7,
+      "padre": "MAD.EP.VCE.CE.2"
+    },
+    {
+      "codigo": "MAD.EP.VCE.CR.2.3",
+      "tipo": "criterio",
+      "texto": "Reflexionar y asumir un compromiso activo y crítico con valores relativos a la solidaridad y el respeto a los demás, analizando cuestiones relacionadas con la desigualdad y la pobreza, el hecho multicultural, la diversidad humana y los fenómenos migratorios.",
+      "codigo_oficial": "2.3",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación en Valores Cívicos y Éticos, criterios",
+        "pagina": 111
+      },
+      "orden": 8,
+      "padre": "MAD.EP.VCE.CE.2"
+    },
+    {
+      "codigo": "MAD.EP.VCE.CR.2.4",
+      "tipo": "criterio",
+      "texto": "Contribuir a generar una convivencia respetuosa, no discriminatoria, libre y comprometida con el logro de la igualdad, y con la erradicación de todo tipo de violencia, a partir del conocimiento y análisis crítico de la sociedad, mostrando referentes de igualdad.",
+      "codigo_oficial": "2.4",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación en Valores Cívicos y Éticos, criterios",
+        "pagina": 111
+      },
+      "orden": 9,
+      "padre": "MAD.EP.VCE.CE.2"
+    },
+    {
+      "codigo": "MAD.EP.VCE.CR.2.5",
+      "tipo": "criterio",
+      "texto": "Comprender y valorar los principios de justicia, solidaridad, seguridad y paz, a la vez que el respeto a las libertades básicas, a partir del análisis y la ponderación de las políticas y acciones de ayuda y colaboración internacional, de defensa para la paz y de seguridad ciudadana, ejercidas por el Estado y sus instituciones, los organismos internaciones, las ONG y ONGD y la propia ciudadanía.",
+      "codigo_oficial": "2.5",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación en Valores Cívicos y Éticos, criterios",
+        "pagina": 111
+      },
+      "orden": 10,
+      "padre": "MAD.EP.VCE.CE.2"
+    },
+    {
+      "codigo": "MAD.EP.VCE.CE.3",
+      "tipo": "competencia_especifica",
+      "texto": "Comprender las relaciones entre el individuo, la sociedad y la naturaleza, a través del conocimiento y la reflexión sobre los problemas sociales y medioambientales, para comprometerse con el respeto, cuidado y protección de las personas y el planeta.",
+      "codigo_oficial": "3",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación en Valores Cívicos y Éticos, competencias específicas",
+        "pagina": 111
+      },
+      "orden": 11,
+      "relaciones": {
+        "descriptores": [
+          "MAD.EP.DESC.CCL2",
+          "MAD.EP.DESC.CCL5",
+          "MAD.EP.DESC.STEM1",
+          "MAD.EP.DESC.STEM5",
+          "MAD.EP.DESC.CPSAA2",
+          "MAD.EP.DESC.CC3",
+          "MAD.EP.DESC.CC4",
+          "MAD.EP.DESC.CE1"
+        ]
+      }
+    },
+    {
+      "codigo": "MAD.EP.VCE.CR.3.1",
+      "tipo": "criterio",
+      "texto": "Evaluar diferentes alternativas con que frenar el cambio climático y lograr los Objetivos de Desarrollo Sostenible, identificando causas y problemas sociales y medioambientales, y justificando argumentalmente el deber de proteger y cuidar la naturaleza.",
+      "codigo_oficial": "3.1",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación en Valores Cívicos y Éticos, criterios",
+        "pagina": 111
+      },
+      "orden": 12,
+      "padre": "MAD.EP.VCE.CE.3"
+    },
+    {
+      "codigo": "MAD.EP.VCE.CR.3.2",
+      "tipo": "criterio",
+      "texto": "Comprometerse activamente con valores, prácticas y actitudes afectivas consecuentes con el respeto, cuidado y protección de las personas, en especial los mayores, también con los animales y el planeta, a través de la participación en actividades que promuevan un consumo adecuado y un uso adecuado del suelo, el aire, el agua, la energía, la movilidad segura, saludable, y la prevención y gestión de residuos, reconociendo el papel de las personas, colectivos y entidades comprometidas con la protección del entorno.",
+      "codigo_oficial": "3.2",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación en Valores Cívicos y Éticos, criterios",
+        "pagina": 111
+      },
+      "orden": 13,
+      "padre": "MAD.EP.VCE.CE.3"
+    },
+    {
+      "codigo": "MAD.EP.VCE.CE.4",
+      "tipo": "competencia_especifica",
+      "texto": "Desarrollar destrezas personales y sociales con las personas y con el entorno, para apreciarlos, cuidarlos y respetarlos.",
+      "codigo_oficial": "4",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación en Valores Cívicos y Éticos, competencias específicas",
+        "pagina": 111
+      },
+      "orden": 14,
+      "relaciones": {
+        "descriptores": [
+          "MAD.EP.DESC.CCL1",
+          "MAD.EP.DESC.CCL5",
+          "MAD.EP.DESC.CPSAA1",
+          "MAD.EP.DESC.CPSAA2",
+          "MAD.EP.DESC.CPSAA3",
+          "MAD.EP.DESC.CC2",
+          "MAD.EP.DESC.CC3",
+          "MAD.EP.DESC.CC4",
+          "MAD.EP.DESC.CE3"
+        ]
+      }
+    },
+    {
+      "codigo": "MAD.EP.VCE.CR.4.1",
+      "tipo": "criterio",
+      "texto": "Gestionar equilibradamente las destrezas personales y sociales para desarrollar una actitud de estima y cuidado de sí mismo, de los demás y del entorno, identificando, analizando y expresando las propias emociones y reconociendo y valorando los de otras personas, en distintos contextos y en relación con actividades de reflexión individual o grupal dialogada sobre cuestiones sociales.",
+      "codigo_oficial": "4.1",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación en Valores Cívicos y Éticos, criterios",
+        "pagina": 111
+      },
+      "orden": 15,
+      "padre": "MAD.EP.VCE.CE.4"
+    },
+    {
+      "codigo": "MAD.EP.VCE.CO.A",
+      "tipo": "bloque_contenidos",
+      "texto": "Conocimiento y autonomía personal",
+      "codigo_oficial": "A",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación en Valores Cívicos y Éticos, contenidos",
+        "pagina": 112
+      },
+      "orden": 16
+    },
+    {
+      "codigo": "MAD.EP.VCE.CO.A.1",
+      "tipo": "contenido",
+      "texto": "El pensamiento crítico. El conocimiento de sí mismo. La reflexión y la expresión de los pensamientos.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación en Valores Cívicos y Éticos, contenidos",
+        "pagina": 112
+      },
+      "orden": 17,
+      "padre": "MAD.EP.VCE.CO.A"
+    },
+    {
+      "codigo": "MAD.EP.VCE.CO.A.2",
+      "tipo": "contenido",
+      "texto": "La naturaleza humana y la identidad personal. Igualdad y diferencia entre las personas.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación en Valores Cívicos y Éticos, contenidos",
+        "pagina": 112
+      },
+      "orden": 18,
+      "padre": "MAD.EP.VCE.CO.A"
+    },
+    {
+      "codigo": "MAD.EP.VCE.CO.A.3",
+      "tipo": "contenido",
+      "texto": "La libertad y el determinismo.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación en Valores Cívicos y Éticos, contenidos",
+        "pagina": 112
+      },
+      "orden": 19,
+      "padre": "MAD.EP.VCE.CO.A"
+    },
+    {
+      "codigo": "MAD.EP.VCE.CO.A.4",
+      "tipo": "contenido",
+      "texto": "Emociones y sentimientos. La autoestima.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación en Valores Cívicos y Éticos, contenidos",
+        "pagina": 112
+      },
+      "orden": 20,
+      "padre": "MAD.EP.VCE.CO.A"
+    },
+    {
+      "codigo": "MAD.EP.VCE.CO.A.5",
+      "tipo": "contenido",
+      "texto": "La educación afectivo-sexual.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación en Valores Cívicos y Éticos, contenidos",
+        "pagina": 112
+      },
+      "orden": 21,
+      "padre": "MAD.EP.VCE.CO.A"
+    },
+    {
+      "codigo": "MAD.EP.VCE.CO.A.6",
+      "tipo": "contenido",
+      "texto": "Deseos y razones. La voluntad y el juicio moral. Autonomía y responsabilidad. Capacidades y talento. La motivación. El esfuerzo y afán de superación. La responsabilidad. El trabajo en equipo. El deseo de colaboración.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación en Valores Cívicos y Éticos, contenidos",
+        "pagina": 112
+      },
+      "orden": 22,
+      "padre": "MAD.EP.VCE.CO.A"
+    },
+    {
+      "codigo": "MAD.EP.VCE.CO.A.7",
+      "tipo": "contenido",
+      "texto": "La ética como guía de nuestras acciones. El debate en torno a lo valioso y a los valores. Capacidad de expresar opiniones escuchando y respetando a los demás. Las normas, las virtudes y los sentimientos morales.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación en Valores Cívicos y Éticos, contenidos",
+        "pagina": 112
+      },
+      "orden": 23,
+      "padre": "MAD.EP.VCE.CO.A"
+    },
+    {
+      "codigo": "MAD.EP.VCE.CO.A.8",
+      "tipo": "contenido",
+      "texto": "La dimensión trascendente del ser humano. El hecho religioso o su ausencia. El sentido de la vida y reflexión sobre la muerte. El bien y el mal. La belleza y la felicidad. La búsqueda de la verdad; la mentira. La salud, la enfermedad y la ética científica. Acercamiento a las raíces morales de Occidente y de otras culturas.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación en Valores Cívicos y Éticos, contenidos",
+        "pagina": 112
+      },
+      "orden": 24,
+      "padre": "MAD.EP.VCE.CO.A"
+    },
+    {
+      "codigo": "MAD.EP.VCE.CO.A.9",
+      "tipo": "contenido",
+      "texto": "El propio proyecto personal: la diversidad de valores, fines y modelos de vida. Independencia de criterio en la toma de decisiones. Actitud positiva y capacidad de diálogo en la búsqueda de soluciones a situaciones conflictivas.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación en Valores Cívicos y Éticos, contenidos",
+        "pagina": 112
+      },
+      "orden": 25,
+      "padre": "MAD.EP.VCE.CO.A"
+    },
+    {
+      "codigo": "MAD.EP.VCE.CO.A.10",
+      "tipo": "contenido",
+      "texto": "La influencia y el uso crítico y responsable de los medios y las redes de comunicación. La prevención del abuso y el ciberacoso. El respeto a la intimidad. Los límites a la libertad de expresión. Las conductas adictivas.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación en Valores Cívicos y Éticos, contenidos",
+        "pagina": 112
+      },
+      "orden": 26,
+      "padre": "MAD.EP.VCE.CO.A"
+    },
+    {
+      "codigo": "MAD.EP.VCE.CO.B",
+      "tipo": "bloque_contenidos",
+      "texto": "Sociedad, justicia y democracia",
+      "codigo_oficial": "B",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación en Valores Cívicos y Éticos, contenidos",
+        "pagina": 112
+      },
+      "orden": 27
+    },
+    {
+      "codigo": "MAD.EP.VCE.CO.B.1",
+      "tipo": "contenido",
+      "texto": "Las virtudes del diálogo y las normas de la argumentación. La toma democrática de decisiones.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación en Valores Cívicos y Éticos, contenidos",
+        "pagina": 112
+      },
+      "orden": 28,
+      "padre": "MAD.EP.VCE.CO.B"
+    },
+    {
+      "codigo": "MAD.EP.VCE.CO.B.2",
+      "tipo": "contenido",
+      "texto": "Fundamentos de la vida en sociedad. La empatía con los demás. Los afectos. La familia. La amistad y el amor. El cuidado a las personas mayores.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación en Valores Cívicos y Éticos, contenidos",
+        "pagina": 112
+      },
+      "orden": 29,
+      "padre": "MAD.EP.VCE.CO.B"
+    },
+    {
+      "codigo": "MAD.EP.VCE.CO.B.3",
+      "tipo": "contenido",
+      "texto": "Las reglas de convivencia. Moralidad, legalidad y conducta cívica. El papel de las fuerzas y agentes de seguridad.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación en Valores Cívicos y Éticos, contenidos",
+        "pagina": 112
+      },
+      "orden": 30,
+      "padre": "MAD.EP.VCE.CO.B"
+    },
+    {
+      "codigo": "MAD.EP.VCE.CO.B.4",
+      "tipo": "contenido",
+      "texto": "Principios y valores constitucionales y democráticos. El problema de la justicia. La toma democrática de decisiones. La Constitución española de 1978. Derechos y deberes reconocidos a los españoles. El terrorismo. El Estado de Bienestar. El respeto a los bienes públicos. Los impuestos.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación en Valores Cívicos y Éticos, contenidos",
+        "pagina": 112
+      },
+      "orden": 31,
+      "padre": "MAD.EP.VCE.CO.B"
+    },
+    {
+      "codigo": "MAD.EP.VCE.CO.B.5",
+      "tipo": "contenido",
+      "texto": "El Estado de Derecho como garantía para la democracia y la libertad.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación en Valores Cívicos y Éticos, contenidos",
+        "pagina": 112
+      },
+      "orden": 32,
+      "padre": "MAD.EP.VCE.CO.B"
+    },
+    {
+      "codigo": "MAD.EP.VCE.CO.B.6",
+      "tipo": "contenido",
+      "texto": "Los derechos humanos y de la infancia y su relevancia ética.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación en Valores Cívicos y Éticos, contenidos",
+        "pagina": 112
+      },
+      "orden": 33,
+      "padre": "MAD.EP.VCE.CO.B"
+    },
+    {
+      "codigo": "MAD.EP.VCE.CO.B.7",
+      "tipo": "contenido",
+      "texto": "La desigualdad económica. La pobreza y la explotación. Espíritu de trabajo y colaboración.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación en Valores Cívicos y Éticos, contenidos",
+        "pagina": 112
+      },
+      "orden": 34,
+      "padre": "MAD.EP.VCE.CO.B"
+    },
+    {
+      "codigo": "MAD.EP.VCE.CO.B.8",
+      "tipo": "contenido",
+      "texto": "La igualdad entre mujeres y hombres. La prevención de los abusos y la violencia. Impulso de la conducta no discriminatoria, igualitaria y libre.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación en Valores Cívicos y Éticos, contenidos",
+        "pagina": 112
+      },
+      "orden": 35,
+      "padre": "MAD.EP.VCE.CO.B"
+    },
+    {
+      "codigo": "MAD.EP.VCE.CO.B.9",
+      "tipo": "contenido",
+      "texto": "El respeto por las minorías y las identidades de diferentes culturas. Interculturalidad y migraciones. Relación con los demás. Tolerancia. Aceptación del otro. Desarrollo de habilidades sociales. El respeto a la libertad individual. La libertad de pensamiento, de conciencia, de religión, de opinión y de expresión. La superación de los prejuicios sociales.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación en Valores Cívicos y Éticos, contenidos",
+        "pagina": 112
+      },
+      "orden": 36,
+      "padre": "MAD.EP.VCE.CO.B"
+    },
+    {
+      "codigo": "MAD.EP.VCE.CO.B.10",
+      "tipo": "contenido",
+      "texto": "La paz y no violencia. La contribución del Estado y sus instituciones a la paz, la seguridad y la cooperación internacional. La seguridad del ciudadano. Valoración de la defensa como un compromiso cívico y solidario al servicio de la paz. La protección civil y la colaboración ciudadana frente a los desastres. El papel de las ONG y ONGD. La resolución pacífica de los conflictos.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación en Valores Cívicos y Éticos, contenidos",
+        "pagina": 112
+      },
+      "orden": 37,
+      "padre": "MAD.EP.VCE.CO.B"
+    },
+    {
+      "codigo": "MAD.EP.VCE.CO.C",
+      "tipo": "bloque_contenidos",
+      "texto": "Cuidado del medio ambiente",
+      "codigo_oficial": "C",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación en Valores Cívicos y Éticos, contenidos",
+        "pagina": 112
+      },
+      "orden": 38
+    },
+    {
+      "codigo": "MAD.EP.VCE.CO.C.1",
+      "tipo": "contenido",
+      "texto": "La empatía, el cuidado y el aprecio hacia los seres vivos y el medio natural. El maltrato animal y su prevención. El respeto a los bienes de la naturaleza. El respeto y protección a los animales en general y particularmente los que viven en entornos domésticos.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación en Valores Cívicos y Éticos, contenidos",
+        "pagina": 112
+      },
+      "orden": 39,
+      "padre": "MAD.EP.VCE.CO.C"
+    },
+    {
+      "codigo": "MAD.EP.VCE.CO.C.2",
+      "tipo": "contenido",
+      "texto": "La acción humana en la naturaleza. Ecosistemas y sociedades: interdependencia, relación entre seres vivos y ecosistemas e interrelación.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación en Valores Cívicos y Éticos, contenidos",
+        "pagina": 112
+      },
+      "orden": 40,
+      "padre": "MAD.EP.VCE.CO.C"
+    },
+    {
+      "codigo": "MAD.EP.VCE.CO.C.3",
+      "tipo": "contenido",
+      "texto": "Los límites del planeta y el cambio climático.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación en Valores Cívicos y Éticos, contenidos",
+        "pagina": 112
+      },
+      "orden": 41,
+      "padre": "MAD.EP.VCE.CO.C"
+    },
+    {
+      "codigo": "MAD.EP.VCE.CO.C.4",
+      "tipo": "contenido",
+      "texto": "El deber y la obligación legal de proteger y cuidar del planeta.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación en Valores Cívicos y Éticos, contenidos",
+        "pagina": 112
+      },
+      "orden": 42,
+      "padre": "MAD.EP.VCE.CO.C"
+    },
+    {
+      "codigo": "MAD.EP.VCE.CO.C.5",
+      "tipo": "contenido",
+      "texto": "Hábitos y actividades para el logro de los Objetivos de Desarrollo Sostenible. El consumo adecuado. El uso del suelo, del aire, del agua y de la energía. La movilidad segura, saludable y responsable con el medio ambiente. La prevención y la gestión de los residuos.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación en Valores Cívicos y Éticos, contenidos",
+        "pagina": 112
+      },
+      "orden": 43,
+      "padre": "MAD.EP.VCE.CO.C"
+    }
+  ]
+}

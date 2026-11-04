@@ -1,0 +1,778 @@
+{
+  "codigo": "MAD.EP.ING.C1",
+  "nombre": "Lengua Extranjera: Inglés, primer ciclo",
+  "etapa": "primaria",
+  "ciclo": "C1",
+  "curso": null,
+  "cursos_academicos": [
+    "2026-27"
+  ],
+  "normas": [
+    "bocm-20220718-1",
+    "boe-a-2022-3296"
+  ],
+  "elementos": [
+    {
+      "codigo": "MAD.EP.ING.C1.CE.1",
+      "tipo": "competencia_especifica",
+      "texto": "Comprender el sentido general e información específica y predecible de textos breves y sencillos, expresados de forma clara y en la lengua estándar, haciendo uso de diversas estrategias y recurriendo, cuando sea necesario, al uso de distintos tipos de apoyo, para desarrollar el repertorio del lenguaje y para responder a necesidades comunicativas cotidianas.",
+      "codigo_oficial": "1",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Extranjera: Inglés, primer ciclo, competencias específicas",
+        "pagina": 84
+      },
+      "orden": 1,
+      "relaciones": {
+        "descriptores": [
+          "MAD.EP.DESC.CCL2",
+          "MAD.EP.DESC.CCL3",
+          "MAD.EP.DESC.CP1",
+          "MAD.EP.DESC.CP2",
+          "MAD.EP.DESC.STEM1",
+          "MAD.EP.DESC.CD1",
+          "MAD.EP.DESC.CPSAA5",
+          "MAD.EP.DESC.CCEC2"
+        ]
+      }
+    },
+    {
+      "codigo": "MAD.EP.ING.C1.CR.1.1",
+      "tipo": "criterio",
+      "texto": "Reconocer e interpretar palabras y expresiones habituales en textos orales, escritos y multimodales breves y sencillos sobre temas frecuentes y cotidianos de relevancia personal y próximos a su experiencia, expresados de forma comprensible, clara, sencilla y directa y en lengua estándar.",
+      "codigo_oficial": "1.1",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Extranjera: Inglés, primer ciclo, criterios",
+        "pagina": 84
+      },
+      "orden": 2,
+      "padre": "MAD.EP.ING.C1.CE.1"
+    },
+    {
+      "codigo": "MAD.EP.ING.C1.CR.1.2",
+      "tipo": "criterio",
+      "texto": "Seleccionar y aplicar de forma guiada estrategias elementales en situaciones comunicativas cotidianas y de relevancia para el alumnado con el fin de captar la idea global e identificar elementos específicos con ayuda de elementos de la lengua y del contexto y el cotexto.",
+      "codigo_oficial": "1.2",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Extranjera: Inglés, primer ciclo, criterios",
+        "pagina": 84
+      },
+      "orden": 3,
+      "padre": "MAD.EP.ING.C1.CE.1"
+    },
+    {
+      "codigo": "MAD.EP.ING.C1.CE.2",
+      "tipo": "competencia_especifica",
+      "texto": "Producir textos sencillos de manera comprensible y estructurada, mediante el empleo de estrategias como la planificación o la compensación, para expresar mensajes breves relacionados con necesidades inmediatas y responder a propósitos comunicativos cotidianos.",
+      "codigo_oficial": "2",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Extranjera: Inglés, primer ciclo, competencias específicas",
+        "pagina": 85
+      },
+      "orden": 4,
+      "relaciones": {
+        "descriptores": [
+          "MAD.EP.DESC.CCL1",
+          "MAD.EP.DESC.CP1",
+          "MAD.EP.DESC.CP2",
+          "MAD.EP.DESC.STEM1",
+          "MAD.EP.DESC.CD2",
+          "MAD.EP.DESC.CPSAA5",
+          "MAD.EP.DESC.CE1",
+          "MAD.EP.DESC.CCEC4"
+        ]
+      }
+    },
+    {
+      "codigo": "MAD.EP.ING.C1.CR.2.1",
+      "tipo": "criterio",
+      "texto": "Expresar oralmente frases cortas y sencillas con información básica sobre asuntos cotidianos y de relevancia para el alumnado, utilizando de forma guiada recursos verbales y no verbales, recurriendo a modelos y estructuras previamente presentados y prestando atención al ritmo, la acentuación y la entonación en lengua inglesa.",
+      "codigo_oficial": "2.1",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Extranjera: Inglés, primer ciclo, criterios",
+        "pagina": 85
+      },
+      "orden": 5,
+      "padre": "MAD.EP.ING.C1.CE.2"
+    },
+    {
+      "codigo": "MAD.EP.ING.C1.CR.2.2",
+      "tipo": "criterio",
+      "texto": "Escribir palabras, expresiones conocidas y frases a partir de modelos y con una finalidad específica, a través de herramientas analógicas y digitales, usando léxico y estructuras elementales de la lengua inglesa sobre asuntos cotidianos y de relevancia personal para el alumnado.",
+      "codigo_oficial": "2.2",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Extranjera: Inglés, primer ciclo, criterios",
+        "pagina": 85
+      },
+      "orden": 6,
+      "padre": "MAD.EP.ING.C1.CE.2"
+    },
+    {
+      "codigo": "MAD.EP.ING.C1.CR.2.3",
+      "tipo": "criterio",
+      "texto": "Seleccionar y aplicar de forma guiada, estrategias básicas para producir mensajes breves y sencillos en inglés, adecuados a las intenciones comunicativas usando, con ayuda, recursos y apoyos físicos o digitales en función de las necesidades de cada momento.",
+      "codigo_oficial": "2.3",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Extranjera: Inglés, primer ciclo, criterios",
+        "pagina": 85
+      },
+      "orden": 7,
+      "padre": "MAD.EP.ING.C1.CE.2"
+    },
+    {
+      "codigo": "MAD.EP.ING.C1.CE.3",
+      "tipo": "competencia_especifica",
+      "texto": "Interactuar con otras personas usando expresiones cotidianas, recurriendo a estrategias de colaboración y empleando recursos analógicos y digitales, para responder a necesidades inmediatas de su interés en intercambios comunicativos respetuosos con las normas de cortesía.",
+      "codigo_oficial": "3",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Extranjera: Inglés, primer ciclo, competencias específicas",
+        "pagina": 85
+      },
+      "orden": 8,
+      "relaciones": {
+        "descriptores": [
+          "MAD.EP.DESC.CCL5",
+          "MAD.EP.DESC.CP1",
+          "MAD.EP.DESC.CP2",
+          "MAD.EP.DESC.STEM1",
+          "MAD.EP.DESC.CPSAA3",
+          "MAD.EP.DESC.CC3",
+          "MAD.EP.DESC.CE1",
+          "MAD.EP.DESC.CE3"
+        ]
+      }
+    },
+    {
+      "codigo": "MAD.EP.ING.C1.CR.3.1",
+      "tipo": "criterio",
+      "texto": "Participar, de forma guiada, en situaciones interactivas elementales sobre temas cotidianos, preparadas previamente, a través de diversos soportes, apoyándose en recursos tales como la repetición, el ritmo pausado o el lenguaje no verbal, y mostrando empatía.",
+      "codigo_oficial": "3.1",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Extranjera: Inglés, primer ciclo, criterios",
+        "pagina": 85
+      },
+      "orden": 9,
+      "padre": "MAD.EP.ING.C1.CE.3"
+    },
+    {
+      "codigo": "MAD.EP.ING.C1.CR.3.2",
+      "tipo": "criterio",
+      "texto": "Seleccionar y utilizar, de forma guiada y en entornos próximos, estrategias elementales para saludar, despedirse y presentarse; expresar mensajes sencillos y breves; y formular y contestar preguntas básicas para la comunicación en lengua inglesa.",
+      "codigo_oficial": "3.2",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Extranjera: Inglés, primer ciclo, criterios",
+        "pagina": 85
+      },
+      "orden": 10,
+      "padre": "MAD.EP.ING.C1.CE.3"
+    },
+    {
+      "codigo": "MAD.EP.ING.C1.CE.4",
+      "tipo": "competencia_especifica",
+      "texto": "Participar en situaciones predecibles, usando estrategias y conocimientos para procesar y transmitir información básica y sencilla, con el fin de facilitar la comunicación.",
+      "codigo_oficial": "4",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Extranjera: Inglés, primer ciclo, competencias específicas",
+        "pagina": 85
+      },
+      "orden": 11,
+      "relaciones": {
+        "descriptores": [
+          "MAD.EP.DESC.CCL5",
+          "MAD.EP.DESC.CP1",
+          "MAD.EP.DESC.CP2",
+          "MAD.EP.DESC.CP3",
+          "MAD.EP.DESC.STEM1",
+          "MAD.EP.DESC.CPSAA1",
+          "MAD.EP.DESC.CPSAA3",
+          "MAD.EP.DESC.CCEC1"
+        ]
+      }
+    },
+    {
+      "codigo": "MAD.EP.ING.C1.CR.4.1",
+      "tipo": "criterio",
+      "texto": "Interpretar y explicar, de forma guiada, información básica de conceptos, comunicaciones y textos breves y sencillos en situaciones en las que atender a la diversidad, mostrando empatía e interés por los interlocutores e interlocutoras y por los problemas de entendimiento en su entorno inmediato, apoyándose en diversos recursos y soportes.",
+      "codigo_oficial": "4.1",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Extranjera: Inglés, primer ciclo, criterios",
+        "pagina": 85
+      },
+      "orden": 12,
+      "padre": "MAD.EP.ING.C1.CE.4"
+    },
+    {
+      "codigo": "MAD.EP.ING.C1.CE.5",
+      "tipo": "competencia_especifica",
+      "texto": "Reconocer y usar los repertorios lingüísticos personales entre distintas lenguas, reflexionando sobre su funcionamiento e identificando las estrategias y conocimientos propios, para mejorar la respuesta a necesidades comunicativas concretas en situaciones conocidas.",
+      "codigo_oficial": "5",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Extranjera: Inglés, primer ciclo, competencias específicas",
+        "pagina": 85
+      },
+      "orden": 13,
+      "relaciones": {
+        "descriptores": [
+          "MAD.EP.DESC.CP2",
+          "MAD.EP.DESC.STEM1",
+          "MAD.EP.DESC.CD2",
+          "MAD.EP.DESC.CPSAA1",
+          "MAD.EP.DESC.CPSAA4",
+          "MAD.EP.DESC.CPSAA5",
+          "MAD.EP.DESC.CE3"
+        ]
+      }
+    },
+    {
+      "codigo": "MAD.EP.ING.C1.CR.5.1",
+      "tipo": "criterio",
+      "texto": "Comparar y contrastar similitudes y diferencias evidentes entre distintas lenguas reflexionando, de forma guiada, sobre aspectos elementales de su funcionamiento.",
+      "codigo_oficial": "5.1",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Extranjera: Inglés, primer ciclo, criterios",
+        "pagina": 85
+      },
+      "orden": 14,
+      "padre": "MAD.EP.ING.C1.CE.5"
+    },
+    {
+      "codigo": "MAD.EP.ING.C1.CR.5.2",
+      "tipo": "criterio",
+      "texto": "Identificar y aplicar, de forma guiada, conocimientos y estrategias de mejora de su capacidad de comunicar y de aprender la lengua extranjera, con apoyo de otros participantes y de soportes analógicos y digitales.",
+      "codigo_oficial": "5.2",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Extranjera: Inglés, primer ciclo, criterios",
+        "pagina": 85
+      },
+      "orden": 15,
+      "padre": "MAD.EP.ING.C1.CE.5"
+    },
+    {
+      "codigo": "MAD.EP.ING.C1.CR.5.3",
+      "tipo": "criterio",
+      "texto": "Identificar y explicar, de manera guiada, avances y dificultades elementales en el proceso de aprendizaje de la lengua extranjera.",
+      "codigo_oficial": "5.3",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Extranjera: Inglés, primer ciclo, criterios",
+        "pagina": 85
+      },
+      "orden": 16,
+      "padre": "MAD.EP.ING.C1.CE.5"
+    },
+    {
+      "codigo": "MAD.EP.ING.C1.CE.6",
+      "tipo": "competencia_especifica",
+      "texto": "Apreciar y respetar la diversidad de otros contextos a partir de la lengua extranjera, identificando y valorando las diferencias y semejanzas entre lenguas y culturas, para aprender a gestionar situaciones entre diferentes culturas.",
+      "codigo_oficial": "6",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Extranjera: Inglés, primer ciclo, competencias específicas",
+        "pagina": 85
+      },
+      "orden": 17,
+      "relaciones": {
+        "descriptores": [
+          "MAD.EP.DESC.CCL5",
+          "MAD.EP.DESC.CP3",
+          "MAD.EP.DESC.CPSAA1",
+          "MAD.EP.DESC.CPSAA3",
+          "MAD.EP.DESC.CC2",
+          "MAD.EP.DESC.CC3",
+          "MAD.EP.DESC.CCEC1"
+        ]
+      }
+    },
+    {
+      "codigo": "MAD.EP.ING.C1.CR.6.1",
+      "tipo": "criterio",
+      "texto": "Mostrar interés por la comunicación entre diferentes culturas, identificando y analizando, de forma guiada, las discriminaciones y los prejuicios más comunes, en situaciones cotidianas y habituales.",
+      "codigo_oficial": "6.1",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Extranjera: Inglés, primer ciclo, criterios",
+        "pagina": 85
+      },
+      "orden": 18,
+      "padre": "MAD.EP.ING.C1.CE.6"
+    },
+    {
+      "codigo": "MAD.EP.ING.C1.CR.6.2",
+      "tipo": "criterio",
+      "texto": "Reconocer y apreciar la diversidad de otros contextos relacionados con la lengua extranjera, mostrando interés por conocer los elementos fundamentales de la lengua y su cultura.",
+      "codigo_oficial": "6.2",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Extranjera: Inglés, primer ciclo, criterios",
+        "pagina": 85
+      },
+      "orden": 19,
+      "padre": "MAD.EP.ING.C1.CE.6"
+    },
+    {
+      "codigo": "MAD.EP.ING.C1.CO.A",
+      "tipo": "bloque_contenidos",
+      "texto": "Comunicación",
+      "codigo_oficial": "A",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Extranjera: Inglés, primer ciclo, contenidos",
+        "pagina": 86
+      },
+      "orden": 20
+    },
+    {
+      "codigo": "MAD.EP.ING.C1.CO.A.1",
+      "tipo": "contenido",
+      "texto": "Autoconfianza en el uso de la lengua extranjera. El error como parte del proceso de aprendizaje y como instrumento de mejora.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Extranjera: Inglés, primer ciclo, contenidos",
+        "pagina": 86
+      },
+      "orden": 21,
+      "padre": "MAD.EP.ING.C1.CO.A"
+    },
+    {
+      "codigo": "MAD.EP.ING.C1.CO.A.2",
+      "tipo": "contenido",
+      "texto": "Iniciación en las estrategias elementales para la comprensión y la producción (vuelve a leer el texto, usa su conocimiento previo, lee entre líneas, usa las pistas del contexto, piensa en voz alta, resume, ubica las palabras clave, hace predicciones, visualiza, imita, repite…) de textos orales, escritos y multimodales breves, sencillos y contextualizados en lengua inglesa.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Extranjera: Inglés, primer ciclo, contenidos",
+        "pagina": 86
+      },
+      "orden": 22,
+      "padre": "MAD.EP.ING.C1.CO.A"
+    },
+    {
+      "codigo": "MAD.EP.ING.C1.CO.A.3",
+      "tipo": "contenido",
+      "texto": "Funciones comunicativas elementales adecuadas al ámbito y al contexto: saludar, despedirse, presentar y presentarse, dar las gracias, pedir permiso o ayuda...; identificar las características de personas, objetos y lugares; responder a preguntas concretas sobre cuestiones cotidianas en inglés; expresar el tiempo, la cantidad y el espacio.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Extranjera: Inglés, primer ciclo, contenidos",
+        "pagina": 86
+      },
+      "orden": 23,
+      "padre": "MAD.EP.ING.C1.CO.A"
+    },
+    {
+      "codigo": "MAD.EP.ING.C1.CO.A.4",
+      "tipo": "contenido",
+      "texto": "Modelos contextuales elementales en la comprensión y producción de textos orales, escritos y multimodales, breves y sencillos, tales como felicitaciones, notas, listas o avisos, cuentos, comics… con alto contenido visual, siguiendo modelos y cuidando su presentación. Identificación y comprensión de palabras clave e ideas principales. Estrategias interactivas, un intercambio verbal y colectivo de ideas.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Extranjera: Inglés, primer ciclo, contenidos",
+        "pagina": 86
+      },
+      "orden": 24,
+      "padre": "MAD.EP.ING.C1.CO.A"
+    },
+    {
+      "codigo": "MAD.EP.ING.C1.CO.A.5",
+      "tipo": "contenido",
+      "texto": "Unidades del lenguaje elementales y significados asociados a dichas estructuras tales como expresión de la entidad y sus propiedades, cantidad y número, afirmación, exclamación, negación, interrogación en lengua inglesa.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Extranjera: Inglés, primer ciclo, contenidos",
+        "pagina": 86
+      },
+      "orden": 25,
+      "padre": "MAD.EP.ING.C1.CO.A"
+    },
+    {
+      "codigo": "MAD.EP.ING.C1.CO.A.6",
+      "tipo": "contenido",
+      "texto": "Léxico elemental de alta frecuencia y de interés para el alumnado relativo a relaciones personales básicas, vivienda, lugares y entornos cercanos. Emisión de palabras y mensajes breves y sencillos con una pronunciación, entonación, acentuación y ritmo correcto. Participación en conversaciones de aula. Estrategias para la comprensión de palabras clave y mensajes sencillos producidos con distintos acentos en la lengua inglesa.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Extranjera: Inglés, primer ciclo, contenidos",
+        "pagina": 86
+      },
+      "orden": 26,
+      "padre": "MAD.EP.ING.C1.CO.A"
+    },
+    {
+      "codigo": "MAD.EP.ING.C1.CO.A.7",
+      "tipo": "contenido",
+      "texto": "Iniciación en patrones sonoros y acentuales elementales. Diferencias fonéticas básicas de la lengua inglesa a través de grupos de sonidos, palabras y oraciones sencillas. Palabras que comparten un patrón común, que rimen y fonemas finales. Canciones, rimas, retahílas, trabalenguas, chistes básicos, poesías, acompañadas de gestos faciales, corporales y mímica.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Extranjera: Inglés, primer ciclo, contenidos",
+        "pagina": 86
+      },
+      "orden": 27,
+      "padre": "MAD.EP.ING.C1.CO.A"
+    },
+    {
+      "codigo": "MAD.EP.ING.C1.CO.A.8",
+      "tipo": "contenido",
+      "texto": "Iniciación en convenciones ortográficas elementales. El sonido y nombre de las letras del alfabeto. Uso de mayúsculas, punto y otros signos de puntuación.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Extranjera: Inglés, primer ciclo, contenidos",
+        "pagina": 86
+      },
+      "orden": 28,
+      "padre": "MAD.EP.ING.C1.CO.A"
+    },
+    {
+      "codigo": "MAD.EP.ING.C1.CO.A.9",
+      "tipo": "contenido",
+      "texto": "Convenciones y estrategias conversacionales elementales verbales o no verbales (gestos, expresiones faciales, posturas corporales...) de uso común en formato síncrono (cara a cara, por teléfono, video llamada, videoconferencia) o asíncrono, en las que se establece contacto social (plataformas, apps, redes sociales) para iniciar, mantener y terminar la comunicación, tomar y ceder la palabra, preguntar y responder, etc.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Extranjera: Inglés, primer ciclo, contenidos",
+        "pagina": 86
+      },
+      "orden": 29,
+      "padre": "MAD.EP.ING.C1.CO.A"
+    },
+    {
+      "codigo": "MAD.EP.ING.C1.CO.A.10",
+      "tipo": "contenido",
+      "texto": "Herramientas analógicas y digitales elementales para la comprensión y producción oral, escrita y multimodal. Uso guiado, limitado y responsable de las herramientas digitales.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Extranjera: Inglés, primer ciclo, contenidos",
+        "pagina": 86
+      },
+      "orden": 30,
+      "padre": "MAD.EP.ING.C1.CO.A"
+    },
+    {
+      "codigo": "MAD.EP.ING.C1.CO.B",
+      "tipo": "bloque_contenidos",
+      "texto": "Plurilingüismo",
+      "codigo_oficial": "B",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Extranjera: Inglés, primer ciclo, contenidos",
+        "pagina": 86
+      },
+      "orden": 31
+    },
+    {
+      "codigo": "MAD.EP.ING.C1.CO.B.1",
+      "tipo": "contenido",
+      "texto": "Estrategias y técnicas elementales de detección de las carencias comunicativas y las limitaciones derivadas del nivel de competencia en la lengua extranjera y en las demás lenguas del repertorio del lenguaje propio, tales como la repetición, imitación, la solicitud de aclaraciones, la búsqueda de recursos para entender el discurso, la comunicación no verbal…",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Extranjera: Inglés, primer ciclo, contenidos",
+        "pagina": 86
+      },
+      "orden": 32,
+      "padre": "MAD.EP.ING.C1.CO.B"
+    },
+    {
+      "codigo": "MAD.EP.ING.C1.CO.B.2",
+      "tipo": "contenido",
+      "texto": "Iniciación a las estrategias elementales para identificar y utilizar unidades del lenguaje (léxico, morfosintaxis, patrones sonoros, etc.) tales como la transferencia y aplicación de estrategias de la lengua materna, uso de imágenes, vocabulario, diagramas, mapas mentales básicos, pósteres, diccionarios personales con imágenes, canciones… a partir de la comparación de las lenguas y variedades que conforman el repertorio del lenguaje personal.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Extranjera: Inglés, primer ciclo, contenidos",
+        "pagina": 86
+      },
+      "orden": 33,
+      "padre": "MAD.EP.ING.C1.CO.B"
+    },
+    {
+      "codigo": "MAD.EP.ING.C1.CO.C",
+      "tipo": "bloque_contenidos",
+      "texto": "Interculturalidad",
+      "codigo_oficial": "C",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Extranjera: Inglés, primer ciclo, contenidos",
+        "pagina": 87
+      },
+      "orden": 34
+    },
+    {
+      "codigo": "MAD.EP.ING.C1.CO.C.1",
+      "tipo": "contenido",
+      "texto": "La lengua extranjera como medio de comunicación y relación con personas de otros países. Realidades sociales y culturales de otras lenguas, respeto y tolerancia por el interlocutor, sus costumbres, tradiciones y su cultura.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Extranjera: Inglés, primer ciclo, contenidos",
+        "pagina": 87
+      },
+      "orden": 35,
+      "padre": "MAD.EP.ING.C1.CO.C"
+    },
+    {
+      "codigo": "MAD.EP.ING.C1.CO.C.2",
+      "tipo": "contenido",
+      "texto": "Aspectos del lenguaje, de la cultura y de la sociedad, elementales y más significativos relativos a las costumbres y la vida cotidiana en países donde se habla la lengua extranjera.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Extranjera: Inglés, primer ciclo, contenidos",
+        "pagina": 87
+      },
+      "orden": 36,
+      "padre": "MAD.EP.ING.C1.CO.C"
+    },
+    {
+      "codigo": "MAD.EP.ING.C1.CO.C.3",
+      "tipo": "contenido",
+      "texto": "Iniciación en las estrategias básicas de uso común para entender y apreciar la diversidad de la lengua, la cultura y el arte, a partir de valores sociales y medioambientales y democráticos. La realidad de las lenguas del aula como fuente de riqueza cultural.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Extranjera: Inglés, primer ciclo, contenidos",
+        "pagina": 87
+      },
+      "orden": 37,
+      "padre": "MAD.EP.ING.C1.CO.C"
+    },
+    {
+      "codigo": "MAD.EP.ING.C1.CO.C.4",
+      "tipo": "contenido",
+      "texto": "Iniciación en las estrategias básicas de detección de usos discriminatorios del lenguaje verbal y no verbal.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Extranjera: Inglés, primer ciclo, contenidos",
+        "pagina": 87
+      },
+      "orden": 38,
+      "padre": "MAD.EP.ING.C1.CO.C"
+    },
+    {
+      "codigo": "MAD.EP.ING.C1.CO.D",
+      "tipo": "bloque_contenidos",
+      "texto": "Contenidos sintáctico-discursivos",
+      "codigo_oficial": "D",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Extranjera: Inglés, primer ciclo, contenidos",
+        "pagina": 87
+      },
+      "orden": 39
+    },
+    {
+      "codigo": "MAD.EP.ING.C1.CO.D.1",
+      "tipo": "contenido",
+      "texto": "Expresión de relaciones lógicas: conjunción (and); disyunción (or).",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Extranjera: Inglés, primer ciclo, contenidos",
+        "pagina": 87
+      },
+      "orden": 40,
+      "padre": "MAD.EP.ING.C1.CO.D"
+    },
+    {
+      "codigo": "MAD.EP.ING.C1.CO.D.2",
+      "tipo": "contenido",
+      "texto": "Afirmación: affirmative sentences; Yes (+tag).",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Extranjera: Inglés, primer ciclo, contenidos",
+        "pagina": 87
+      },
+      "orden": 41,
+      "padre": "MAD.EP.ING.C1.CO.D"
+    },
+    {
+      "codigo": "MAD.EP.ING.C1.CO.D.3",
+      "tipo": "contenido",
+      "texto": "Negación: negative sentences with not, no (Adj.).",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Extranjera: Inglés, primer ciclo, contenidos",
+        "pagina": 87
+      },
+      "orden": 42,
+      "padre": "MAD.EP.ING.C1.CO.D"
+    },
+    {
+      "codigo": "MAD.EP.ING.C1.CO.D.4",
+      "tipo": "contenido",
+      "texto": "Exclamación: exclamatory sentences (e.g. I love bananas!); How + Adjective (e.g. How beautiful!).",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Extranjera: Inglés, primer ciclo, contenidos",
+        "pagina": 87
+      },
+      "orden": 43,
+      "padre": "MAD.EP.ING.C1.CO.D"
+    },
+    {
+      "codigo": "MAD.EP.ING.C1.CO.D.5",
+      "tipo": "contenido",
+      "texto": "Interrogación: Wh- questions (What; Where; How many; who). Auxiliary verbs in questions: to be; to do.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Extranjera: Inglés, primer ciclo, contenidos",
+        "pagina": 87
+      },
+      "orden": 44,
+      "padre": "MAD.EP.ING.C1.CO.D"
+    },
+    {
+      "codigo": "MAD.EP.ING.C1.CO.D.6",
+      "tipo": "contenido",
+      "texto": "Expresión del tiempo: presente (simple present).",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Extranjera: Inglés, primer ciclo, contenidos",
+        "pagina": 87
+      },
+      "orden": 45,
+      "padre": "MAD.EP.ING.C1.CO.D"
+    },
+    {
+      "codigo": "MAD.EP.ING.C1.CO.D.7",
+      "tipo": "contenido",
+      "texto": "Expresión del aspecto: puntual (simple tenses); durativo (present continuous); habitual (simple tenses [+Adverb eg. always, everyday]).",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Extranjera: Inglés, primer ciclo, contenidos",
+        "pagina": 87
+      },
+      "orden": 46,
+      "padre": "MAD.EP.ING.C1.CO.D"
+    },
+    {
+      "codigo": "MAD.EP.ING.C1.CO.D.8",
+      "tipo": "contenido",
+      "texto": "Expresión de la modalidad: permiso (can), capacidad (can), obligación (have (got) to); imperative.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Extranjera: Inglés, primer ciclo, contenidos",
+        "pagina": 87
+      },
+      "orden": 47,
+      "padre": "MAD.EP.ING.C1.CO.D"
+    },
+    {
+      "codigo": "MAD.EP.ING.C1.CO.D.9",
+      "tipo": "contenido",
+      "texto": "Expresión de la existencia (to be; there is/are); la entidad (nouns, pronouns, articles, demonstratives); la cualidad ([very]+) Adj.).",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Extranjera: Inglés, primer ciclo, contenidos",
+        "pagina": 87
+      },
+      "orden": 48,
+      "padre": "MAD.EP.ING.C1.CO.D"
+    },
+    {
+      "codigo": "MAD.EP.ING.C1.CO.D.10",
+      "tipo": "contenido",
+      "texto": "Expresión de la cantidad: (singular/plural; cardinal numbers up to two digits; ordinal numbers up to one digit; quantity: many, some, more, (a) little, more. Degree: very.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Extranjera: Inglés, primer ciclo, contenidos",
+        "pagina": 87
+      },
+      "orden": 49,
+      "padre": "MAD.EP.ING.C1.CO.D"
+    },
+    {
+      "codigo": "MAD.EP.ING.C1.CO.D.11",
+      "tipo": "contenido",
+      "texto": "Expresión del espacio: prepositions and adverbs of location, position.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Extranjera: Inglés, primer ciclo, contenidos",
+        "pagina": 87
+      },
+      "orden": 50,
+      "padre": "MAD.EP.ING.C1.CO.D"
+    },
+    {
+      "codigo": "MAD.EP.ING.C1.CO.D.12",
+      "tipo": "contenido",
+      "texto": "Expresiones temporales: divisions (e.g. summer) indications of time (e.g. now, tomorrow); frequency (e.g. sometimes, on Saturdays); prepositions and adverbs of time.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Extranjera: Inglés, primer ciclo, contenidos",
+        "pagina": 87
+      },
+      "orden": 51,
+      "padre": "MAD.EP.ING.C1.CO.D"
+    },
+    {
+      "codigo": "MAD.EP.ING.C1.CO.D.13",
+      "tipo": "contenido",
+      "texto": "Expresión del modo: Adv. of manner (e.g. slowly, well).",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Extranjera: Inglés, primer ciclo, contenidos",
+        "pagina": 87
+      },
+      "orden": 52,
+      "padre": "MAD.EP.ING.C1.CO.D"
+    },
+    {
+      "codigo": "MAD.EP.ING.C1.CO.D.14",
+      "tipo": "contenido",
+      "texto": "Expresión de la posesión: I have got (I’ve got); preposición of.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Extranjera: Inglés, primer ciclo, contenidos",
+        "pagina": 87
+      },
+      "orden": 53,
+      "padre": "MAD.EP.ING.C1.CO.D"
+    },
+    {
+      "codigo": "MAD.EP.ING.C1.CO.D.15",
+      "tipo": "contenido",
+      "texto": "Expresión de gustos y preferencias: I like/I don’t like; I like verb- ing.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Extranjera: Inglés, primer ciclo, contenidos",
+        "pagina": 87
+      },
+      "orden": 54,
+      "padre": "MAD.EP.ING.C1.CO.D"
+    }
+  ]
+}

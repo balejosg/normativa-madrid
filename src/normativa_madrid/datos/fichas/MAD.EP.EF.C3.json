@@ -1,0 +1,804 @@
+{
+  "codigo": "MAD.EP.EF.C3",
+  "nombre": "Educación Física, tercer ciclo",
+  "etapa": "primaria",
+  "ciclo": "C3",
+  "curso": null,
+  "cursos_academicos": [
+    "2026-27"
+  ],
+  "normas": [
+    "bocm-20220718-1",
+    "boe-a-2022-3296"
+  ],
+  "elementos": [
+    {
+      "codigo": "MAD.EP.EF.C3.CE.1",
+      "tipo": "competencia_especifica",
+      "texto": "Adoptar un estilo de vida activo y adecuado practicando regularmente actividades físicas, lúdicas y deportivas, adoptando comportamientos que potencien la salud, así como medidas que fomenten la responsabilidad durante la práctica motriz.",
+      "codigo_oficial": "1",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, tercer ciclo, competencias específicas",
+        "pagina": 66
+      },
+      "orden": 1,
+      "relaciones": {
+        "descriptores": [
+          "MAD.EP.DESC.STEM2",
+          "MAD.EP.DESC.STEM5",
+          "MAD.EP.DESC.CPSAA2",
+          "MAD.EP.DESC.CPSAA5",
+          "MAD.EP.DESC.CE3"
+        ]
+      }
+    },
+    {
+      "codigo": "MAD.EP.EF.C3.CR.1.1",
+      "tipo": "criterio",
+      "texto": "Reconocer los efectos beneficiosos a nivel físico, social y mental de la actividad física como paso previo para su integración en la vida diaria.",
+      "codigo_oficial": "1.1",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, tercer ciclo, criterios",
+        "pagina": 66
+      },
+      "orden": 2,
+      "padre": "MAD.EP.EF.C3.CE.1"
+    },
+    {
+      "codigo": "MAD.EP.EF.C3.CR.1.2",
+      "tipo": "criterio",
+      "texto": "Integrar los procesos de activación corporal, dosificación del esfuerzo, relajación e higiene en la práctica de actividades motrices, interiorizando las rutinas propias de una práctica motriz saludable y responsable.",
+      "codigo_oficial": "1.2",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, tercer ciclo, criterios",
+        "pagina": 66
+      },
+      "orden": 3,
+      "padre": "MAD.EP.EF.C3.CE.1"
+    },
+    {
+      "codigo": "MAD.EP.EF.C3.CR.1.3",
+      "tipo": "criterio",
+      "texto": "Adoptar medidas de seguridad antes, durante y después de la práctica de actividad física, conocer los primeros auxilios fundamentales, reconocimiento básico y el protocolo PAS (proteger, avisar, socorrer) reconociendo los contextos de riesgo y actuando con precaución ante ellos.",
+      "codigo_oficial": "1.3",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, tercer ciclo, criterios",
+        "pagina": 66
+      },
+      "orden": 4,
+      "padre": "MAD.EP.EF.C3.CE.1"
+    },
+    {
+      "codigo": "MAD.EP.EF.C3.CR.1.4",
+      "tipo": "criterio",
+      "texto": "Identificar y abordar conductas vinculadas al ámbito corporal, la actividad física y el deporte que resultan perjudiciales para la salud o afectan negativamente a la convivencia, adoptando posturas de rechazo a la violencia, a la discriminación y a la desigualdad, en los entornos sociales, tanto reales como virtuales, y evitando activamente su reproducción.",
+      "codigo_oficial": "1.4",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, tercer ciclo, criterios",
+        "pagina": 66
+      },
+      "orden": 5,
+      "padre": "MAD.EP.EF.C3.CE.1"
+    },
+    {
+      "codigo": "MAD.EP.EF.C3.CE.2",
+      "tipo": "competencia_especifica",
+      "texto": "Adaptar los elementos propios del esquema corporal, las capacidades físicas, perceptivo-motrices y coordinativas, así como las habilidades y destrezas motrices, aplicando procesos de percepción, decisión y ejecución, para dar respuesta a las demandas de proyectos motores y de prácticas motrices con distintas finalidades en contextos de la vida diaria.",
+      "codigo_oficial": "2",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, tercer ciclo, competencias específicas",
+        "pagina": 67
+      },
+      "orden": 6,
+      "relaciones": {
+        "descriptores": [
+          "MAD.EP.DESC.STEM1",
+          "MAD.EP.DESC.CPSAA4",
+          "MAD.EP.DESC.CPSAA5"
+        ]
+      }
+    },
+    {
+      "codigo": "MAD.EP.EF.C3.CR.2.1",
+      "tipo": "criterio",
+      "texto": "Desarrollar proyectos motores de carácter individual o grupal, definiendo metas, secuenciando acciones, introduciendo cambios, si es preciso, durante el proceso, y generando producciones motrices de calidad, valorando el grado de ajuste al proceso seguido y al resultado obtenido.",
+      "codigo_oficial": "2.1",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, tercer ciclo, criterios",
+        "pagina": 67
+      },
+      "orden": 7,
+      "padre": "MAD.EP.EF.C3.CE.2"
+    },
+    {
+      "codigo": "MAD.EP.EF.C3.CR.2.2",
+      "tipo": "criterio",
+      "texto": "Aplicar principios básicos de toma de decisiones en situaciones lúdicas, juegos modificados y actividades deportivas a partir de la anticipación, ajustándolos a las demandas derivadas de los objetivos motores y a la lógica interna de situaciones individuales, de colaboración, de oposición y de colaboración-oposición, en contextos reales o simulados de actuación, reflexionando sobre las soluciones obtenidas.",
+      "codigo_oficial": "2.2",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, tercer ciclo, criterios",
+        "pagina": 67
+      },
+      "orden": 8,
+      "padre": "MAD.EP.EF.C3.CE.2"
+    },
+    {
+      "codigo": "MAD.EP.EF.C3.CR.2.3",
+      "tipo": "criterio",
+      "texto": "Adquirir un control y dominio corporal, empleando los componentes cualitativos y cuantitativos de la motricidad de manera eficiente y creativa y haciendo frente a las demandas de resolución de problemas en situaciones motrices transferibles a su espacio vivencial. Tomar conciencia de la importancia de la atención selectiva y la anticipación perceptiva en situaciones de juego regladas y su transferencia a situaciones cotidianas.",
+      "codigo_oficial": "2.3",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, tercer ciclo, criterios",
+        "pagina": 67
+      },
+      "orden": 9,
+      "padre": "MAD.EP.EF.C3.CE.2"
+    },
+    {
+      "codigo": "MAD.EP.EF.C3.CE.3",
+      "tipo": "competencia_especifica",
+      "texto": "Desarrollar procesos de regulación e interacción en el marco de la práctica motriz, haciendo uso de habilidades sociales y actitudes de, respeto, trabajo en equipo y deportividad, con independencia de las diferencias de habilidad de los participantes, para contribuir a la convivencia.",
+      "codigo_oficial": "3",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, tercer ciclo, competencias específicas",
+        "pagina": 67
+      },
+      "orden": 10,
+      "relaciones": {
+        "descriptores": [
+          "MAD.EP.DESC.CCL1",
+          "MAD.EP.DESC.CCL5",
+          "MAD.EP.DESC.CPSAA1",
+          "MAD.EP.DESC.CPSAA3",
+          "MAD.EP.DESC.CPSAA5",
+          "MAD.EP.DESC.CC2",
+          "MAD.EP.DESC.CC3"
+        ]
+      }
+    },
+    {
+      "codigo": "MAD.EP.EF.C3.CR.3.1",
+      "tipo": "criterio",
+      "texto": "Participar en actividades motrices, desde la regulación de su actuación, con predisposición, esfuerzo, perseverancia y mentalidad de crecimiento, controlando la impulsividad, gestionando las emociones (introspección, motivación) y expresándolas de forma asertiva. Gestionar estrategias para superar las diferencias individuales en una práctica lúdica.",
+      "codigo_oficial": "3.1",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, tercer ciclo, criterios",
+        "pagina": 67
+      },
+      "orden": 11,
+      "padre": "MAD.EP.EF.C3.CE.3"
+    },
+    {
+      "codigo": "MAD.EP.EF.C3.CR.3.2",
+      "tipo": "criterio",
+      "texto": "Respetar las normas consensuadas, así como las reglas de juego, y actuar desde los parámetros de la deportividad y el juego limpio, reconociendo la derrota como parte del mismo y las actuaciones de compañeros y rivales.",
+      "codigo_oficial": "3.2",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, tercer ciclo, criterios",
+        "pagina": 67
+      },
+      "orden": 12,
+      "padre": "MAD.EP.EF.C3.CE.3"
+    },
+    {
+      "codigo": "MAD.EP.EF.C3.CR.3.3",
+      "tipo": "criterio",
+      "texto": "Poner en marcha actuaciones que se opongan a acciones contrarias a la buena práctica deportiva, aquellas que muestren una amenaza a la misma (hábitos no adecuados, conductas violentas y manipulación del juego).",
+      "codigo_oficial": "3.3",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, tercer ciclo, criterios",
+        "pagina": 67
+      },
+      "orden": 13,
+      "padre": "MAD.EP.EF.C3.CE.3"
+    },
+    {
+      "codigo": "MAD.EP.EF.C3.CR.3.4",
+      "tipo": "criterio",
+      "texto": "Convivir mostrando en el contexto de las prácticas motrices habilidades sociales, de diálogo en la resolución de conflictos y respeto ante cualquier tipo de diversidad, haciendo especial hincapié en el fomento de la igualdad.",
+      "codigo_oficial": "3.4",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, tercer ciclo, criterios",
+        "pagina": 67
+      },
+      "orden": 14,
+      "padre": "MAD.EP.EF.C3.CE.3"
+    },
+    {
+      "codigo": "MAD.EP.EF.C3.CE.4",
+      "tipo": "competencia_especifica",
+      "texto": "Reconocer y practicar diferentes manifestaciones lúdicas, físico-deportivas y artístico-expresivas propias de la cultura motriz, valorando su influencia y sus aportaciones a la cultura, para integrarlas en las situaciones motrices que se utilizan regularmente en la vida cotidiana.",
+      "codigo_oficial": "4",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, tercer ciclo, competencias específicas",
+        "pagina": 67
+      },
+      "orden": 15,
+      "relaciones": {
+        "descriptores": [
+          "MAD.EP.DESC.CC3",
+          "MAD.EP.DESC.CCEC1",
+          "MAD.EP.DESC.CCEC2",
+          "MAD.EP.DESC.CCEC3",
+          "MAD.EP.DESC.CCEC4"
+        ]
+      }
+    },
+    {
+      "codigo": "MAD.EP.EF.C3.CR.4.1",
+      "tipo": "criterio",
+      "texto": "Participar activamente en juegos motores y otras manifestaciones artístico-expresivas con arraigo en la cultura, tradicional o actual, así como otros procedentes de diversas culturas, reconociendo y transmitiendo su valor cultural y su potencial como espacio generador de buenas relaciones entre personas con orígenes diferentes y entendiendo las ventajas de su conservación.",
+      "codigo_oficial": "4.1",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, tercer ciclo, criterios",
+        "pagina": 67
+      },
+      "orden": 16,
+      "padre": "MAD.EP.EF.C3.CE.4"
+    },
+    {
+      "codigo": "MAD.EP.EF.C3.CR.4.2",
+      "tipo": "criterio",
+      "texto": "Valorar el deporte como fenómeno cultural y los comportamientos discriminatorios que a veces suceden en su contexto, rechazándolos y adoptando actitudes que eviten su reproducción en el futuro y que persigan la equidad.",
+      "codigo_oficial": "4.2",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, tercer ciclo, criterios",
+        "pagina": 67
+      },
+      "orden": 17,
+      "padre": "MAD.EP.EF.C3.CE.4"
+    },
+    {
+      "codigo": "MAD.EP.EF.C3.CR.4.3",
+      "tipo": "criterio",
+      "texto": "Reconocer el esfuerzo, la dedicación y los sacrificios de personas y colectivos referentes del deporte, necesarios para alcanzar un rendimiento deportivo ejemplar, su respuesta y su actitud ante la competición, el éxito o la derrota.",
+      "codigo_oficial": "4.3",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, tercer ciclo, criterios",
+        "pagina": 67
+      },
+      "orden": 18,
+      "padre": "MAD.EP.EF.C3.CE.4"
+    },
+    {
+      "codigo": "MAD.EP.EF.C3.CR.4.4",
+      "tipo": "criterio",
+      "texto": "Reproducir y crear composiciones con o sin soporte musical, y comunicar diferentes sensaciones, emociones e ideas, de forma estética y creativa, desde el uso de los recursos rítmicos y expresivos de la motricidad.",
+      "codigo_oficial": "4.4",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, tercer ciclo, criterios",
+        "pagina": 67
+      },
+      "orden": 19,
+      "padre": "MAD.EP.EF.C3.CE.4"
+    },
+    {
+      "codigo": "MAD.EP.EF.C3.CE.5",
+      "tipo": "competencia_especifica",
+      "texto": "Valorar diferentes medios naturales y urbanos como contextos de práctica motriz, interactuando con ellos y comprendiendo la importancia de su conservación, adoptando medidas de responsabilidad durante la práctica de juegos y actividades físico-deportivas, para realizar una práctica eficiente y respetuosa con el entorno y participar en su cuidado y mejora.",
+      "codigo_oficial": "5",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, tercer ciclo, competencias específicas",
+        "pagina": 68
+      },
+      "orden": 20,
+      "relaciones": {
+        "descriptores": [
+          "MAD.EP.DESC.STEM5",
+          "MAD.EP.DESC.CC2",
+          "MAD.EP.DESC.CC4",
+          "MAD.EP.DESC.CE1",
+          "MAD.EP.DESC.CE3"
+        ]
+      }
+    },
+    {
+      "codigo": "MAD.EP.EF.C3.CR.5.1",
+      "tipo": "criterio",
+      "texto": "Adaptar las acciones motrices a la incertidumbre propia del medio natural y urbano en contextos terrestres o acuáticos de forma eficiente y segura, valorando sus posibilidades para la práctica de actividad física y actuando desde una visión cuidadosa del entorno y comunitaria.",
+      "codigo_oficial": "5.1",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, tercer ciclo, criterios",
+        "pagina": 68
+      },
+      "orden": 21,
+      "padre": "MAD.EP.EF.C3.CE.5"
+    },
+    {
+      "codigo": "MAD.EP.EF.C3.CO.A",
+      "tipo": "bloque_contenidos",
+      "texto": "Vida activa y saludable",
+      "codigo_oficial": "A",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, tercer ciclo, contenidos",
+        "pagina": 68
+      },
+      "orden": 22
+    },
+    {
+      "codigo": "MAD.EP.EF.C3.CO.A.1",
+      "tipo": "contenido",
+      "texto": "Salud física: efectos físicos, psicológicos y sociales beneficiosos del estilo de vida activo. Impacto de alimentos ultra procesados y bebidas energéticas o azucaradas. Educación higiénico postural en acciones motrices específicas. Responsabilidad personal en el cuidado del cuerpo.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, tercer ciclo, contenidos",
+        "pagina": 68
+      },
+      "orden": 23,
+      "padre": "MAD.EP.EF.C3.CO.A"
+    },
+    {
+      "codigo": "MAD.EP.EF.C3.CO.A.2",
+      "tipo": "contenido",
+      "texto": "Salud mental: Consolidación y ajuste realista del concepto de uno mismo, teniendo en cuenta la igualdad. Respeto y aceptación del propio cuerpo y del aspecto corporal de los demás. Visión crítica de las imágenes ajustadas o distorsionadas ofrecidas en los entornos sociales, tanto reales como virtuales, que ayudan o entorpecen el mantenimiento o la mejora de un equilibrio social, físico y mental.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, tercer ciclo, contenidos",
+        "pagina": 68
+      },
+      "orden": 24,
+      "padre": "MAD.EP.EF.C3.CO.A"
+    },
+    {
+      "codigo": "MAD.EP.EF.C3.CO.A.3",
+      "tipo": "contenido",
+      "texto": "Vida saludable: aproximación a los efectos de los malos hábitos relacionados con la salud e influencia en la práctica de actividad física. La exigencia del deporte profesional. Aceptación de distintas tipologías corporales para practicar en igualdad, actividades físico-deportivas según la competencia motriz.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, tercer ciclo, contenidos",
+        "pagina": 68
+      },
+      "orden": 25,
+      "padre": "MAD.EP.EF.C3.CO.A"
+    },
+    {
+      "codigo": "MAD.EP.EF.C3.CO.B",
+      "tipo": "bloque_contenidos",
+      "texto": "Organización y gestión de la actividad física",
+      "codigo_oficial": "B",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, tercer ciclo, contenidos",
+        "pagina": 68
+      },
+      "orden": 26
+    },
+    {
+      "codigo": "MAD.EP.EF.C3.CO.B.1",
+      "tipo": "contenido",
+      "texto": "Usos y finalidades: catárticos, lúdico-recreativos, competitivos y agonísticos.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, tercer ciclo, contenidos",
+        "pagina": 68
+      },
+      "orden": 27,
+      "padre": "MAD.EP.EF.C3.CO.B"
+    },
+    {
+      "codigo": "MAD.EP.EF.C3.CO.B.2",
+      "tipo": "contenido",
+      "texto": "Actitudes consumistas en torno al equipamiento. Análisis de la adquisición de material para la práctica físico-deportiva.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, tercer ciclo, contenidos",
+        "pagina": 68
+      },
+      "orden": 28,
+      "padre": "MAD.EP.EF.C3.CO.B"
+    },
+    {
+      "codigo": "MAD.EP.EF.C3.CO.B.3",
+      "tipo": "contenido",
+      "texto": "Hábitos autónomos de higiene corporal en acciones cotidianas.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, tercer ciclo, contenidos",
+        "pagina": 68
+      },
+      "orden": 29,
+      "padre": "MAD.EP.EF.C3.CO.B"
+    },
+    {
+      "codigo": "MAD.EP.EF.C3.CO.B.4",
+      "tipo": "contenido",
+      "texto": "Planificación y regulación de proyectos motores: seguimiento y valoración durante el proceso y evaluación del resultado.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, tercer ciclo, contenidos",
+        "pagina": 68
+      },
+      "orden": 30,
+      "padre": "MAD.EP.EF.C3.CO.B"
+    },
+    {
+      "codigo": "MAD.EP.EF.C3.CO.B.5",
+      "tipo": "contenido",
+      "texto": "Toma de medidas (previas y durante) de prevención de accidentes en las prácticas motrices: calentamiento general, conciencia y responsabilidad en función de los requerimientos de la tarea y vuelta a la calma. Importancia de respetar las normas de seguridad. Compromiso de responsabilidad hacia la seguridad de uno mismo y de los demás. Correcta utilización de materiales.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, tercer ciclo, contenidos",
+        "pagina": 68
+      },
+      "orden": 31,
+      "padre": "MAD.EP.EF.C3.CO.B"
+    },
+    {
+      "codigo": "MAD.EP.EF.C3.CO.B.6",
+      "tipo": "contenido",
+      "texto": "Actuaciones básicas ante accidentes durante la práctica de actividades físicas. Posición lateral de seguridad. Primeros auxilios básicos: mantener la calma, conductas PAS (proteger, avisar, socorrer).",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, tercer ciclo, contenidos",
+        "pagina": 68
+      },
+      "orden": 32,
+      "padre": "MAD.EP.EF.C3.CO.B"
+    },
+    {
+      "codigo": "MAD.EP.EF.C3.CO.C",
+      "tipo": "bloque_contenidos",
+      "texto": "Resolución de problemas en situaciones motrices",
+      "codigo_oficial": "C",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, tercer ciclo, contenidos",
+        "pagina": 69
+      },
+      "orden": 33
+    },
+    {
+      "codigo": "MAD.EP.EF.C3.CO.C.1",
+      "tipo": "contenido",
+      "texto": "Toma de decisiones: selección de acciones en función del entorno en situaciones motrices individuales. Selección de acciones para el ajuste espacio-temporal en la interacción con los compañeros. Selección de zonas de envío del móvil desde donde sea difícil devolverlo, en situaciones motrices de persecución y de interacción con un móvil. Selección adecuada de las habilidades motrices en situaciones de oposición de contacto. Desmarque y ubicación en un lugar desde el que se constituya un apoyo para los demás en situaciones motrices de colaboración-oposición de persecución y de interacción con un móvil.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, tercer ciclo, contenidos",
+        "pagina": 69
+      },
+      "orden": 34,
+      "padre": "MAD.EP.EF.C3.CO.C"
+    },
+    {
+      "codigo": "MAD.EP.EF.C3.CO.C.2",
+      "tipo": "contenido",
+      "texto": "Capacidades perceptivo-motrices en contexto de práctica: integración del esquema corporal; equilibrio estático y dinámico en situaciones complejas crecientes; organización espacial del propio cuerpo y de sus compañeros (percepción de distancias y trayectorias, orientación en el espacio), temporal (simultaneidad y sucesión de acciones) y espacio-temporal (ritmo, ajuste perceptivo en el envío y en la intercepción de trayectorias de móviles).",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, tercer ciclo, contenidos",
+        "pagina": 69
+      },
+      "orden": 35,
+      "padre": "MAD.EP.EF.C3.CO.C"
+    },
+    {
+      "codigo": "MAD.EP.EF.C3.CO.C.3",
+      "tipo": "contenido",
+      "texto": "Capacidades condicionales: capacidades físicas básicas y resultantes (coordinación, equilibrio y agilidad).",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, tercer ciclo, contenidos",
+        "pagina": 69
+      },
+      "orden": 36,
+      "padre": "MAD.EP.EF.C3.CO.C"
+    },
+    {
+      "codigo": "MAD.EP.EF.C3.CO.C.4",
+      "tipo": "contenido",
+      "texto": "Iniciación de las habilidades motrices específicas asociadas a la técnica y táctica en actividades físico-deportivas: aspectos principales. Iniciación a la práctica deportiva, gestos técnicos básicos.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, tercer ciclo, contenidos",
+        "pagina": 69
+      },
+      "orden": 37,
+      "padre": "MAD.EP.EF.C3.CO.C"
+    },
+    {
+      "codigo": "MAD.EP.EF.C3.CO.C.5",
+      "tipo": "contenido",
+      "texto": "Creatividad motriz: identificación de estímulos internos o externos que exijan un reajuste instantáneo de la acción motriz. Adaptación del movimiento a diferentes entornos y situaciones de colaboración y oposición.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, tercer ciclo, contenidos",
+        "pagina": 69
+      },
+      "orden": 38,
+      "padre": "MAD.EP.EF.C3.CO.C"
+    },
+    {
+      "codigo": "MAD.EP.EF.C3.CO.D",
+      "tipo": "bloque_contenidos",
+      "texto": "Regulación emocional e interacción social en situaciones motrices",
+      "codigo_oficial": "D",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, tercer ciclo, contenidos",
+        "pagina": 69
+      },
+      "orden": 39
+    },
+    {
+      "codigo": "MAD.EP.EF.C3.CO.D.1",
+      "tipo": "contenido",
+      "texto": "Gestión emocional que pueda desencadenar actitudes, conductas y estados que dificultan el desarrollo personal y escolar: ansiedad, estrés, ira, tristeza y situaciones motrices. Estrategias de afrontamiento y gestión: Introspección, motivación, capacidad de expresión, (asertividad), como medio para superar las diferencias individuales en una práctica, lúdica o deportiva de todos y para todos.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, tercer ciclo, contenidos",
+        "pagina": 69
+      },
+      "orden": 40,
+      "padre": "MAD.EP.EF.C3.CO.D"
+    },
+    {
+      "codigo": "MAD.EP.EF.C3.CO.D.2",
+      "tipo": "contenido",
+      "texto": "Habilidades sociales: estrategias de trabajo en equipo para la resolución de conflictos en situaciones motrices colectivas. Respeto y tolerancia a las diferencias individuales, adjudicación de roles, liderazgo, aceptación de responsabilidades.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, tercer ciclo, contenidos",
+        "pagina": 69
+      },
+      "orden": 41,
+      "padre": "MAD.EP.EF.C3.CO.D"
+    },
+    {
+      "codigo": "MAD.EP.EF.C3.CO.D.3",
+      "tipo": "contenido",
+      "texto": "Concepto de fairplay o <<juego limpio>>. Aceptación y entendimiento de las normas de juego, de la derrota como parte del mismo, respeto a todos los agentes del ámbito deportivo.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, tercer ciclo, contenidos",
+        "pagina": 69
+      },
+      "orden": 42,
+      "padre": "MAD.EP.EF.C3.CO.D"
+    },
+    {
+      "codigo": "MAD.EP.EF.C3.CO.D.4",
+      "tipo": "contenido",
+      "texto": "Acciones que muestren una amenaza a la práctica deportiva. Hábitos no adecuados, conductas violentas, manipulación del juego.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, tercer ciclo, contenidos",
+        "pagina": 69
+      },
+      "orden": 43,
+      "padre": "MAD.EP.EF.C3.CO.D"
+    },
+    {
+      "codigo": "MAD.EP.EF.C3.CO.D.5",
+      "tipo": "contenido",
+      "texto": "Identificación, abordaje y rechazo de conductas discriminatorias y contrarias a la convivencia en situaciones motrices.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, tercer ciclo, contenidos",
+        "pagina": 69
+      },
+      "orden": 44,
+      "padre": "MAD.EP.EF.C3.CO.D"
+    },
+    {
+      "codigo": "MAD.EP.EF.C3.CO.E",
+      "tipo": "bloque_contenidos",
+      "texto": "Manifestaciones de la cultura motriz",
+      "codigo_oficial": "E",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, tercer ciclo, contenidos",
+        "pagina": 69
+      },
+      "orden": 45
+    },
+    {
+      "codigo": "MAD.EP.EF.C3.CO.E.1",
+      "tipo": "contenido",
+      "texto": "Aportaciones de la cultura motriz, los juegos, a la herencia cultural de cada país y al conjunto global del planeta. Los deportes como seña de identidad cultural. Juegos populares de diferentes etnias y culturas: Coger tu cola (Nigeria), Bokwele (Zaire), El conejo a la pata coja (Tailandia), Tirar seis (México),…",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, tercer ciclo, contenidos",
+        "pagina": 69
+      },
+      "orden": 46,
+      "padre": "MAD.EP.EF.C3.CO.E"
+    },
+    {
+      "codigo": "MAD.EP.EF.C3.CO.E.2",
+      "tipo": "contenido",
+      "texto": "Usos comunicativos de la corporalidad: comunicación de sensaciones, sentimientos, emociones e ideas complejas. El significado de diferentes movimientos, posturas. Lenguaje corporal.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, tercer ciclo, contenidos",
+        "pagina": 69
+      },
+      "orden": 47,
+      "padre": "MAD.EP.EF.C3.CO.E"
+    },
+    {
+      "codigo": "MAD.EP.EF.C3.CO.E.3",
+      "tipo": "contenido",
+      "texto": "Práctica de actividades rítmico-musicales con carácter expresivo. Danzas y bailes del mundo: Minoesika, Big Jhon, Promoroaca, Polka,…",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, tercer ciclo, contenidos",
+        "pagina": 69
+      },
+      "orden": 48,
+      "padre": "MAD.EP.EF.C3.CO.E"
+    },
+    {
+      "codigo": "MAD.EP.EF.C3.CO.E.4",
+      "tipo": "contenido",
+      "texto": "Deporte e igualdad en el deporte amateur y profesional. Deportes asociados a hombres y mujeres.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, tercer ciclo, contenidos",
+        "pagina": 69
+      },
+      "orden": 49,
+      "padre": "MAD.EP.EF.C3.CO.E"
+    },
+    {
+      "codigo": "MAD.EP.EF.C3.CO.E.5",
+      "tipo": "contenido",
+      "texto": "Deportes olímpicos y paralímpicos, historia e instituciones asociadas a los Juegos Olímpicos y Paralímpicos. Categorías, deportes, diversidad funcional y su capacidad para desarrollar cualquier disciplina deportiva.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, tercer ciclo, contenidos",
+        "pagina": 69
+      },
+      "orden": 50,
+      "padre": "MAD.EP.EF.C3.CO.E"
+    },
+    {
+      "codigo": "MAD.EP.EF.C3.CO.E.6",
+      "tipo": "contenido",
+      "texto": "La cultura del esfuerzo para conseguir una meta.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, tercer ciclo, contenidos",
+        "pagina": 69
+      },
+      "orden": 51,
+      "padre": "MAD.EP.EF.C3.CO.E"
+    },
+    {
+      "codigo": "MAD.EP.EF.C3.CO.F",
+      "tipo": "bloque_contenidos",
+      "texto": "Interacción eficiente y cuidadosa con el entorno",
+      "codigo_oficial": "F",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, tercer ciclo, contenidos",
+        "pagina": 70
+      },
+      "orden": 52
+    },
+    {
+      "codigo": "MAD.EP.EF.C3.CO.F.1",
+      "tipo": "contenido",
+      "texto": "Normas de uso: la educación vial desde la actividad física y deportiva. Movilidad segura y saludable Convivencia armoniosa y pacífica entre los distintos medios de locomoción y el peatón. Puesta en práctica de las normas básicas de circulación.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, tercer ciclo, contenidos",
+        "pagina": 70
+      },
+      "orden": 53,
+      "padre": "MAD.EP.EF.C3.CO.F"
+    },
+    {
+      "codigo": "MAD.EP.EF.C3.CO.F.2",
+      "tipo": "contenido",
+      "texto": "Transporte activo seguro y no contaminante: bicicletas, patines, patinetes. Normas de uso responsable y seguro del material y el entorno, conocimientos de mecánica básica, (pinchazos, ajuste de sillín…).",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, tercer ciclo, contenidos",
+        "pagina": 70
+      },
+      "orden": 54,
+      "padre": "MAD.EP.EF.C3.CO.F"
+    },
+    {
+      "codigo": "MAD.EP.EF.C3.CO.F.3",
+      "tipo": "contenido",
+      "texto": "Previsión de riesgos de accidente durante la práctica en el medio natural y urbano: valoración previa y actuación. Preparación y evaluación de los posibles riesgos que pueden darse en la actividad física en el medio natural y conocimiento de una correcta gestión de los mismos. Previsión de riesgos y actuaciones en caso de accidente (evaluación de riesgos y maniobras básicas de primeros auxilios, técnica PAS (proteger, avisar, socorrer).",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, tercer ciclo, contenidos",
+        "pagina": 70
+      },
+      "orden": 55,
+      "padre": "MAD.EP.EF.C3.CO.F"
+    },
+    {
+      "codigo": "MAD.EP.EF.C3.CO.F.4",
+      "tipo": "contenido",
+      "texto": "Consumo adecuado: Búsqueda, construcción, reparación y reutilización de elementos y materiales para la práctica motriz.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, tercer ciclo, contenidos",
+        "pagina": 70
+      },
+      "orden": 56,
+      "padre": "MAD.EP.EF.C3.CO.F"
+    },
+    {
+      "codigo": "MAD.EP.EF.C3.CO.F.5",
+      "tipo": "contenido",
+      "texto": "Práctica de actividades físicas con cierto grado de autonomía en el medio natural y urbano: senderismo, escalada, piragüismo, barranquismo, parques de aventura, bicicleta.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, tercer ciclo, contenidos",
+        "pagina": 70
+      },
+      "orden": 57,
+      "padre": "MAD.EP.EF.C3.CO.F"
+    },
+    {
+      "codigo": "MAD.EP.EF.C3.CO.F.6",
+      "tipo": "contenido",
+      "texto": "Cuidado del entorno próximo y de los animales y plantas que en él conviven, durante la práctica de actividad física en diferentes contextos e instalaciones en el medio natural u urbano. Prácticas esenciales de cuidado del medio natural (recogida del material y desperdicios utilizados).",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, tercer ciclo, contenidos",
+        "pagina": 70
+      },
+      "orden": 58,
+      "padre": "MAD.EP.EF.C3.CO.F"
+    }
+  ]
+}

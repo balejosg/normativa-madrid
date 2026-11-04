@@ -1,0 +1,993 @@
+{
+  "codigo": "MAD.EP.CN.C2",
+  "nombre": "Ciencias de la Naturaleza, segundo ciclo",
+  "etapa": "primaria",
+  "ciclo": "C2",
+  "curso": null,
+  "cursos_academicos": [
+    "2026-27"
+  ],
+  "normas": [
+    "bocm-20220718-1",
+    "boe-a-2022-3296"
+  ],
+  "elementos": [
+    {
+      "codigo": "MAD.EP.CN.C2.CE.1",
+      "tipo": "competencia_especifica",
+      "texto": "Utilizar dispositivos y recursos digitales de forma segura, responsable y eficiente, para buscar información, comunicarse y trabajar de manera individual, en equipo y en red, para reelaborar y crear contenido digital.",
+      "codigo_oficial": "1",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias de la Naturaleza, segundo ciclo, competencias específicas",
+        "pagina": 36
+      },
+      "orden": 1,
+      "relaciones": {
+        "descriptores": [
+          "MAD.EP.DESC.CCL3",
+          "MAD.EP.DESC.STEM4",
+          "MAD.EP.DESC.CD1",
+          "MAD.EP.DESC.CD2",
+          "MAD.EP.DESC.CD3",
+          "MAD.EP.DESC.CD4",
+          "MAD.EP.DESC.CD5",
+          "MAD.EP.DESC.CCEC4"
+        ]
+      },
+      "datos": {
+        "equivalencia_rd": "CMNSC.CE1"
+      }
+    },
+    {
+      "codigo": "MAD.EP.CN.C2.CR.1.1",
+      "tipo": "criterio",
+      "texto": "Utilizar dispositivos y recursos digitales, de acuerdo con las necesidades del contexto educativo de forma segura y responsable, buscando información, comunicándose y trabajando de forma individual y en equipo, reelaborando y creando contenidos digitales sencillos.",
+      "codigo_oficial": "1.1",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias de la Naturaleza, segundo ciclo, criterios",
+        "pagina": 36
+      },
+      "orden": 2,
+      "padre": "MAD.EP.CN.C2.CE.1"
+    },
+    {
+      "codigo": "MAD.EP.CN.C2.CE.2",
+      "tipo": "competencia_especifica",
+      "texto": "Plantear y dar respuesta a cuestiones científicas sencillas, utilizando diferentes técnicas, instrumentos y modelos propios del pensamiento científico, para interpretar y explicar hechos y fenómenos que ocurren en el medio.",
+      "codigo_oficial": "2",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias de la Naturaleza, segundo ciclo, competencias específicas",
+        "pagina": 36
+      },
+      "orden": 3,
+      "relaciones": {
+        "descriptores": [
+          "MAD.EP.DESC.CCL1",
+          "MAD.EP.DESC.CCL2",
+          "MAD.EP.DESC.CCL3",
+          "MAD.EP.DESC.STEM2",
+          "MAD.EP.DESC.STEM4",
+          "MAD.EP.DESC.CD1",
+          "MAD.EP.DESC.CD2",
+          "MAD.EP.DESC.CC4"
+        ]
+      },
+      "datos": {
+        "equivalencia_rd": "CMNSC.CE2"
+      }
+    },
+    {
+      "codigo": "MAD.EP.CN.C2.CR.2.1",
+      "tipo": "criterio",
+      "texto": "Formular preguntas y realizar predicciones razonadas, demostrando curiosidad por el medio cercano, basándose en la observación sistemática y la formulación de hipótesis propias del método experimental.",
+      "codigo_oficial": "2.1",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias de la Naturaleza, segundo ciclo, criterios",
+        "pagina": 36
+      },
+      "orden": 4,
+      "padre": "MAD.EP.CN.C2.CE.2"
+    },
+    {
+      "codigo": "MAD.EP.CN.C2.CR.2.2",
+      "tipo": "criterio",
+      "texto": "Buscar y seleccionar información de diferentes fuentes seguras y fiables, utilizándola en investigaciones relacionadas con el medio y adquiriendo léxico científico básico.",
+      "codigo_oficial": "2.2",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias de la Naturaleza, segundo ciclo, criterios",
+        "pagina": 36
+      },
+      "orden": 5,
+      "padre": "MAD.EP.CN.C2.CE.2"
+    },
+    {
+      "codigo": "MAD.EP.CN.C2.CR.2.3",
+      "tipo": "criterio",
+      "texto": "Realizar experimentos guiados, cuando la investigación lo requiera, utilizando diferentes técnicas de indagación, inducción y modelos, empleando de forma segura instrumentos y dispositivos, realizando observaciones objetivas y mediciones precisas y registrándolas correctamente.",
+      "codigo_oficial": "2.3",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias de la Naturaleza, segundo ciclo, criterios",
+        "pagina": 36
+      },
+      "orden": 6,
+      "padre": "MAD.EP.CN.C2.CE.2"
+    },
+    {
+      "codigo": "MAD.EP.CN.C2.CR.2.4",
+      "tipo": "criterio",
+      "texto": "Proponer posibles respuestas a las preguntas planteadas, a través de la interpretación de la información y los resultados obtenidos, comparándolos con las predicciones realizadas.",
+      "codigo_oficial": "2.4",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias de la Naturaleza, segundo ciclo, criterios",
+        "pagina": 36
+      },
+      "orden": 7,
+      "padre": "MAD.EP.CN.C2.CE.2"
+    },
+    {
+      "codigo": "MAD.EP.CN.C2.CR.2.5",
+      "tipo": "criterio",
+      "texto": "Presentar los resultados de las investigaciones en diferentes formatos, utilizando lenguaje científico básico o aplicado, explicando los pasos generales seguidos, aportando argumentos para defender los resultados de la investigación.",
+      "codigo_oficial": "2.5",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias de la Naturaleza, segundo ciclo, criterios",
+        "pagina": 36
+      },
+      "orden": 8,
+      "padre": "MAD.EP.CN.C2.CE.2"
+    },
+    {
+      "codigo": "MAD.EP.CN.C2.CE.3",
+      "tipo": "competencia_especifica",
+      "texto": "Resolver problemas a través de proyectos de diseño y de la aplicación del pensamiento computacional, generando nuevos productos según necesidades.",
+      "codigo_oficial": "3",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias de la Naturaleza, segundo ciclo, competencias específicas",
+        "pagina": 36
+      },
+      "orden": 9,
+      "relaciones": {
+        "descriptores": [
+          "MAD.EP.DESC.STEM3",
+          "MAD.EP.DESC.STEM4",
+          "MAD.EP.DESC.CD5",
+          "MAD.EP.DESC.CPSAA3",
+          "MAD.EP.DESC.CPSAA4",
+          "MAD.EP.DESC.CPSAA5",
+          "MAD.EP.DESC.CE1",
+          "MAD.EP.DESC.CE3",
+          "MAD.EP.DESC.CCEC4"
+        ]
+      },
+      "datos": {
+        "equivalencia_rd": "CMNSC.CE3"
+      }
+    },
+    {
+      "codigo": "MAD.EP.CN.C2.CR.3.1",
+      "tipo": "criterio",
+      "texto": "Construir en equipo un producto final sencillo que dé solución a un problema de necesidad, uso y diseño, proponiendo posibles soluciones, probando diferentes prototipos y utilizando de forma segura las herramientas, técnicas y materiales adecuados.",
+      "codigo_oficial": "3.1",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias de la Naturaleza, segundo ciclo, criterios",
+        "pagina": 36
+      },
+      "orden": 10,
+      "padre": "MAD.EP.CN.C2.CE.3"
+    },
+    {
+      "codigo": "MAD.EP.CN.C2.CR.3.2",
+      "tipo": "criterio",
+      "texto": "Presentar el producto final de los proyectos de diseño en diferentes formatos (oral, escrito, esquemas, mapas conceptuales, PowerPoint…) y explicando los pasos seguidos.",
+      "codigo_oficial": "3.2",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias de la Naturaleza, segundo ciclo, criterios",
+        "pagina": 36
+      },
+      "orden": 11,
+      "padre": "MAD.EP.CN.C2.CE.3"
+    },
+    {
+      "codigo": "MAD.EP.CN.C2.CR.3.3",
+      "tipo": "criterio",
+      "texto": "Resolver, de forma guiada, problemas sencillos de programación, comprobando si la respuesta se ajusta al propósito, modificando algoritmos de acuerdo con los principios básicos del pensamiento computacional.",
+      "codigo_oficial": "3.3",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias de la Naturaleza, segundo ciclo, criterios",
+        "pagina": 36
+      },
+      "orden": 12,
+      "padre": "MAD.EP.CN.C2.CE.3"
+    },
+    {
+      "codigo": "MAD.EP.CN.C2.CE.4",
+      "tipo": "competencia_especifica",
+      "texto": "Conocer y tomar conciencia del cuerpo, así como de las emociones y sentimientos propios y ajenos, aplicando el conocimiento científico para favorecer la salud física y mental.",
+      "codigo_oficial": "4",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias de la Naturaleza, segundo ciclo, competencias específicas",
+        "pagina": 36
+      },
+      "orden": 13,
+      "relaciones": {
+        "descriptores": [
+          "MAD.EP.DESC.STEM5",
+          "MAD.EP.DESC.CPSAA1",
+          "MAD.EP.DESC.CPSAA2",
+          "MAD.EP.DESC.CPSAA3",
+          "MAD.EP.DESC.CC3"
+        ]
+      },
+      "datos": {
+        "equivalencia_rd": "CMNSC.CE4"
+      }
+    },
+    {
+      "codigo": "MAD.EP.CN.C2.CR.4.1",
+      "tipo": "criterio",
+      "texto": "Mostrar actitudes que fomenten la seguridad emocional y afectiva, identificando las emociones propias y las de los demás, mostrando empatía y estableciendo relaciones adecuadas.",
+      "codigo_oficial": "4.1",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias de la Naturaleza, segundo ciclo, criterios",
+        "pagina": 36
+      },
+      "orden": 14,
+      "padre": "MAD.EP.CN.C2.CE.4"
+    },
+    {
+      "codigo": "MAD.EP.CN.C2.CR.4.2",
+      "tipo": "criterio",
+      "texto": "Identificar de forma consciente algunos indicios derivados de las relaciones entre las emociones y los principales sistemas y aparatos del cuerpo.",
+      "codigo_oficial": "4.2",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias de la Naturaleza, segundo ciclo, criterios",
+        "pagina": 36
+      },
+      "orden": 15,
+      "padre": "MAD.EP.CN.C2.CE.4"
+    },
+    {
+      "codigo": "MAD.EP.CN.C2.CR.4.3",
+      "tipo": "criterio",
+      "texto": "Identificar hábitos de vida saludables valorando la importancia de la higiene, una alimentación variada y equilibrada, el ejercicio físico, el ocio activo y el descanso.",
+      "codigo_oficial": "4.3",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias de la Naturaleza, segundo ciclo, criterios",
+        "pagina": 36
+      },
+      "orden": 16,
+      "padre": "MAD.EP.CN.C2.CE.4"
+    },
+    {
+      "codigo": "MAD.EP.CN.C2.CE.5",
+      "tipo": "competencia_especifica",
+      "texto": "Identificar las características de los diferentes elementos o sistemas del medio natural, analizando su organización y propiedades, y estableciendo relaciones entre los mismos, para reconocer el valor del patrimonio natural, conservarlo y mejorarlo.",
+      "codigo_oficial": "5",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias de la Naturaleza, segundo ciclo, competencias específicas",
+        "pagina": 36
+      },
+      "orden": 17,
+      "relaciones": {
+        "descriptores": [
+          "MAD.EP.DESC.STEM1",
+          "MAD.EP.DESC.STEM2",
+          "MAD.EP.DESC.STEM4",
+          "MAD.EP.DESC.STEM5",
+          "MAD.EP.DESC.CD1",
+          "MAD.EP.DESC.CC4",
+          "MAD.EP.DESC.CE1",
+          "MAD.EP.DESC.CCEC1"
+        ]
+      },
+      "datos": {
+        "equivalencia_rd": "CMNSC.CE5"
+      }
+    },
+    {
+      "codigo": "MAD.EP.CN.C2.CR.5.1",
+      "tipo": "criterio",
+      "texto": "Identificar las características, la organización y las propiedades de los elementos del medio natural, a través de la indagación y utilizando las herramientas y procesos adecuados.",
+      "codigo_oficial": "5.1",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias de la Naturaleza, segundo ciclo, criterios",
+        "pagina": 36
+      },
+      "orden": 18,
+      "padre": "MAD.EP.CN.C2.CE.5"
+    },
+    {
+      "codigo": "MAD.EP.CN.C2.CR.5.2",
+      "tipo": "criterio",
+      "texto": "Identificar conexiones sencillas entre diferentes elementos del medio natural mostrando comprensión de las relaciones que se establecen.",
+      "codigo_oficial": "5.2",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias de la Naturaleza, segundo ciclo, criterios",
+        "pagina": 36
+      },
+      "orden": 19,
+      "padre": "MAD.EP.CN.C2.CE.5"
+    },
+    {
+      "codigo": "MAD.EP.CN.C2.CR.5.3",
+      "tipo": "criterio",
+      "texto": "Proteger el patrimonio natural y valorarlo, adoptando conductas respetuosas para su disfrute y proponiendo acciones para su conservación y mejora.",
+      "codigo_oficial": "5.3",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias de la Naturaleza, segundo ciclo, criterios",
+        "pagina": 36
+      },
+      "orden": 20,
+      "padre": "MAD.EP.CN.C2.CE.5"
+    },
+    {
+      "codigo": "MAD.EP.CN.C2.CE.6",
+      "tipo": "competencia_especifica",
+      "texto": "Identificar las causas y consecuencias de la intervención humana en el entorno, desde los puntos de vista social, económico, cultural, tecnológico y ambiental, para mejorar la capacidad de afrontar problemas, buscar soluciones y actuar en su resolución fomentando respeto, el cuidado y la protección de las personas y del planeta.",
+      "codigo_oficial": "6",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias de la Naturaleza, segundo ciclo, competencias específicas",
+        "pagina": 37
+      },
+      "orden": 21,
+      "relaciones": {
+        "descriptores": [
+          "MAD.EP.DESC.CCL5",
+          "MAD.EP.DESC.STEM2",
+          "MAD.EP.DESC.STEM5",
+          "MAD.EP.DESC.CPSAA4",
+          "MAD.EP.DESC.CC1",
+          "MAD.EP.DESC.CC3",
+          "MAD.EP.DESC.CC4",
+          "MAD.EP.DESC.CE1"
+        ]
+      },
+      "datos": {
+        "equivalencia_rd": "CMNSC.CE6"
+      }
+    },
+    {
+      "codigo": "MAD.EP.CN.C2.CR.6.1",
+      "tipo": "criterio",
+      "texto": "Identificar problemas sociales y medioambientales, las interrelaciones que existen entre la salud y cuidado del planeta, proponer posibles soluciones y poner en práctica estilos de vida adecuados, reconociendo comportamientos respetuosos de cuidado, protección del entorno cercano y uso responsable de los recursos naturales, expresando los cambios positivos y negativos causados en el medio por la acción humana.",
+      "codigo_oficial": "6.1",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias de la Naturaleza, segundo ciclo, criterios",
+        "pagina": 37
+      },
+      "orden": 22,
+      "padre": "MAD.EP.CN.C2.CE.6"
+    },
+    {
+      "codigo": "MAD.EP.CN.C2.CR.6.2",
+      "tipo": "criterio",
+      "texto": "Conocer y mostrar hábitos de vida adecuados, con respeto, cuidados y protección del planeta, identificando la relación de la vida de las personas con sus acciones sobre los elementos y recursos del medio.",
+      "codigo_oficial": "6.2",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias de la Naturaleza, segundo ciclo, criterios",
+        "pagina": 37
+      },
+      "orden": 23,
+      "padre": "MAD.EP.CN.C2.CE.6"
+    },
+    {
+      "codigo": "MAD.EP.CN.C2.CR.6.3",
+      "tipo": "criterio",
+      "texto": "Conocer algunos hitos tecnológicos y sus consecuencias a lo largo de las etapas de la historia de la humanidad.",
+      "codigo_oficial": "6.3",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias de la Naturaleza, segundo ciclo, criterios",
+        "pagina": 37
+      },
+      "orden": 24,
+      "padre": "MAD.EP.CN.C2.CE.6"
+    },
+    {
+      "codigo": "MAD.EP.CN.C2.CO.A",
+      "tipo": "bloque_contenidos",
+      "texto": "Cultura científica",
+      "codigo_oficial": "A",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias de la Naturaleza, segundo ciclo, contenidos",
+        "pagina": 37
+      },
+      "orden": 25
+    },
+    {
+      "codigo": "MAD.EP.CN.C2.CO.A.1",
+      "tipo": "bloque_contenidos",
+      "texto": "Iniciación en la actividad científica",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias de la Naturaleza, segundo ciclo, contenidos",
+        "pagina": 37
+      },
+      "orden": 26,
+      "padre": "MAD.EP.CN.C2.CO.A"
+    },
+    {
+      "codigo": "MAD.EP.CN.C2.CO.A.1.1",
+      "tipo": "contenido",
+      "texto": "Procedimientos de indagación y formulación de hipótesis adecuados a las necesidades de la investigación (observación en el tiempo y espacio, identificación y clasificación, búsqueda de patrones, creación de modelos, investigación a través de búsqueda de información, experimentos con control de variables...).",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias de la Naturaleza, segundo ciclo, contenidos",
+        "pagina": 37
+      },
+      "orden": 27,
+      "padre": "MAD.EP.CN.C2.CO.A.1"
+    },
+    {
+      "codigo": "MAD.EP.CN.C2.CO.A.1.2",
+      "tipo": "contenido",
+      "texto": "Instrumentos y dispositivos apropiados para realizar observaciones y mediciones precisas, usados con seguridad, de acuerdo con las necesidades de la investigación.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias de la Naturaleza, segundo ciclo, contenidos",
+        "pagina": 37
+      },
+      "orden": 28,
+      "padre": "MAD.EP.CN.C2.CO.A.1"
+    },
+    {
+      "codigo": "MAD.EP.CN.C2.CO.A.1.3",
+      "tipo": "contenido",
+      "texto": "Vocabulario científico básico y adecuado a su edad, de tipo técnico y aplicado, relacionado con las diferentes investigaciones.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias de la Naturaleza, segundo ciclo, contenidos",
+        "pagina": 37
+      },
+      "orden": 29,
+      "padre": "MAD.EP.CN.C2.CO.A.1"
+    },
+    {
+      "codigo": "MAD.EP.CN.C2.CO.A.1.4",
+      "tipo": "contenido",
+      "texto": "Fomento de la curiosidad, la iniciativa y la constancia en la realización de las diferentes investigaciones.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias de la Naturaleza, segundo ciclo, contenidos",
+        "pagina": 37
+      },
+      "orden": 30,
+      "padre": "MAD.EP.CN.C2.CO.A.1"
+    },
+    {
+      "codigo": "MAD.EP.CN.C2.CO.A.1.5",
+      "tipo": "contenido",
+      "texto": "El ensayo y error como parte de los inicios de la actividad científica.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias de la Naturaleza, segundo ciclo, contenidos",
+        "pagina": 37
+      },
+      "orden": 31,
+      "padre": "MAD.EP.CN.C2.CO.A.1"
+    },
+    {
+      "codigo": "MAD.EP.CN.C2.CO.A.1.6",
+      "tipo": "contenido",
+      "texto": "Avances en el pasado relacionados con la ciencia y la tecnología que han contribuido a transformar nuestra sociedad mostrando modelos que incorporen la igualdad entre hombres y mujeres.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias de la Naturaleza, segundo ciclo, contenidos",
+        "pagina": 37
+      },
+      "orden": 32,
+      "padre": "MAD.EP.CN.C2.CO.A.1"
+    },
+    {
+      "codigo": "MAD.EP.CN.C2.CO.A.1.7",
+      "tipo": "contenido",
+      "texto": "La importancia del uso de la ciencia y la tecnología para ayudar a comprender las causas de las propias acciones, tomar decisiones razonadas y realizar tareas de forma más eficiente.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias de la Naturaleza, segundo ciclo, contenidos",
+        "pagina": 37
+      },
+      "orden": 33,
+      "padre": "MAD.EP.CN.C2.CO.A.1"
+    },
+    {
+      "codigo": "MAD.EP.CN.C2.CO.A.2",
+      "tipo": "bloque_contenidos",
+      "texto": "La vida en nuestro planeta",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias de la Naturaleza, segundo ciclo, contenidos",
+        "pagina": 37
+      },
+      "orden": 34,
+      "padre": "MAD.EP.CN.C2.CO.A"
+    },
+    {
+      "codigo": "MAD.EP.CN.C2.CO.A.2.1",
+      "tipo": "contenido",
+      "texto": "Los reinos de la naturaleza desde un punto de vista general, basado en el estudio y análisis de las características de diferentes ecosistemas. Identificación de algunos ecosistemas (pradera, charca, bosque, litoral y ciudad) y los seres vivos que en ellos habitan.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias de la Naturaleza, segundo ciclo, contenidos",
+        "pagina": 37
+      },
+      "orden": 35,
+      "padre": "MAD.EP.CN.C2.CO.A.2"
+    },
+    {
+      "codigo": "MAD.EP.CN.C2.CO.A.2.2",
+      "tipo": "contenido",
+      "texto": "Características propias de los animales que permiten su clasificación y diferenciación en subgrupos relacionados con su capacidad adaptativa al medio: obtención de energía, relación con el entorno y perpetuación de la especie.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias de la Naturaleza, segundo ciclo, contenidos",
+        "pagina": 37
+      },
+      "orden": 36,
+      "padre": "MAD.EP.CN.C2.CO.A.2"
+    },
+    {
+      "codigo": "MAD.EP.CN.C2.CO.A.2.2.1",
+      "tipo": "contenido",
+      "texto": "Clasificación de los animales según el tipo de alimentación y sistemas implicados en la función de nutrición: respiratorio, digestivo, circulatorio y excretor.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias de la Naturaleza, segundo ciclo, contenidos",
+        "pagina": 37
+      },
+      "orden": 37,
+      "padre": "MAD.EP.CN.C2.CO.A.2.2"
+    },
+    {
+      "codigo": "MAD.EP.CN.C2.CO.A.2.2.2",
+      "tipo": "contenido",
+      "texto": "Los animales y su relación con el entorno: órganos de los sentidos, aparato locomotor y sistema nervioso.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias de la Naturaleza, segundo ciclo, contenidos",
+        "pagina": 37
+      },
+      "orden": 38,
+      "padre": "MAD.EP.CN.C2.CO.A.2.2"
+    },
+    {
+      "codigo": "MAD.EP.CN.C2.CO.A.2.2.3",
+      "tipo": "contenido",
+      "texto": "Clasificación de los animales según su tipo de reproducción (sexual y asexual) y forma de reproducción (vivíparos, ovíparos y ovovivíparos).",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias de la Naturaleza, segundo ciclo, contenidos",
+        "pagina": 37
+      },
+      "orden": 39,
+      "padre": "MAD.EP.CN.C2.CO.A.2.2"
+    },
+    {
+      "codigo": "MAD.EP.CN.C2.CO.A.2.3",
+      "tipo": "contenido",
+      "texto": "Características propias de las plantas que permiten su clasificación en relación con su capacidad adaptativa al medio: obtención de energía (fotosíntesis), relación con el entorno y perpetuación de la especie (reproducción sexual y asexual).",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias de la Naturaleza, segundo ciclo, contenidos",
+        "pagina": 37
+      },
+      "orden": 40,
+      "padre": "MAD.EP.CN.C2.CO.A.2"
+    },
+    {
+      "codigo": "MAD.EP.CN.C2.CO.A.2.4",
+      "tipo": "contenido",
+      "texto": "Los ecosistemas como lugar donde intervienen factores bióticos y abióticos, manteniéndose un equilibrio entre los diferentes elementos y recursos. Importancia de la biodiversidad. Factores estresantes y nocivos para el equilibrio de los ecosistemas.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias de la Naturaleza, segundo ciclo, contenidos",
+        "pagina": 37
+      },
+      "orden": 41,
+      "padre": "MAD.EP.CN.C2.CO.A.2"
+    },
+    {
+      "codigo": "MAD.EP.CN.C2.CO.A.2.5",
+      "tipo": "contenido",
+      "texto": "Las funciones y servicios de los ecosistemas.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias de la Naturaleza, segundo ciclo, contenidos",
+        "pagina": 37
+      },
+      "orden": 42,
+      "padre": "MAD.EP.CN.C2.CO.A.2"
+    },
+    {
+      "codigo": "MAD.EP.CN.C2.CO.A.2.6",
+      "tipo": "contenido",
+      "texto": "Ejemplos de buenos y malos usos de los recursos naturales de nuestro planeta y sus consecuencias.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias de la Naturaleza, segundo ciclo, contenidos",
+        "pagina": 38
+      },
+      "orden": 43,
+      "padre": "MAD.EP.CN.C2.CO.A.2"
+    },
+    {
+      "codigo": "MAD.EP.CN.C2.CO.A.2.7",
+      "tipo": "contenido",
+      "texto": "Las formas del relieve más relevantes.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias de la Naturaleza, segundo ciclo, contenidos",
+        "pagina": 38
+      },
+      "orden": 44,
+      "padre": "MAD.EP.CN.C2.CO.A.2"
+    },
+    {
+      "codigo": "MAD.EP.CN.C2.CO.A.2.8",
+      "tipo": "contenido",
+      "texto": "Clasificación elemental de las rocas.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias de la Naturaleza, segundo ciclo, contenidos",
+        "pagina": 38
+      },
+      "orden": 45,
+      "padre": "MAD.EP.CN.C2.CO.A.2"
+    },
+    {
+      "codigo": "MAD.EP.CN.C2.CO.A.2.9",
+      "tipo": "contenido",
+      "texto": "Las funciones vitales del ser humano: características generales de las células, tejidos, órganos, sistemas y aparatos implicados en las funciones de nutrición, relación y reproducción.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias de la Naturaleza, segundo ciclo, contenidos",
+        "pagina": 38
+      },
+      "orden": 46,
+      "padre": "MAD.EP.CN.C2.CO.A.2"
+    },
+    {
+      "codigo": "MAD.EP.CN.C2.CO.A.2.10",
+      "tipo": "contenido",
+      "texto": "La relación entre las emociones y los principales sistemas y aparatos del cuerpo.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias de la Naturaleza, segundo ciclo, contenidos",
+        "pagina": 38
+      },
+      "orden": 47,
+      "padre": "MAD.EP.CN.C2.CO.A.2"
+    },
+    {
+      "codigo": "MAD.EP.CN.C2.CO.A.2.11",
+      "tipo": "contenido",
+      "texto": "Hábitos de vida saludables: la importancia de la higiene, una alimentación variada y equilibrada, el ejercicio físico, el ocio activo y el descanso.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias de la Naturaleza, segundo ciclo, contenidos",
+        "pagina": 38
+      },
+      "orden": 48,
+      "padre": "MAD.EP.CN.C2.CO.A.2"
+    },
+    {
+      "codigo": "MAD.EP.CN.C2.CO.A.2.12",
+      "tipo": "contenido",
+      "texto": "Hábitos saludables: identificación de las propias emociones y respeto por las de los demás. Sensibilidad y aceptación de la diversidad presente en el aula y en la sociedad.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias de la Naturaleza, segundo ciclo, contenidos",
+        "pagina": 38
+      },
+      "orden": 49,
+      "padre": "MAD.EP.CN.C2.CO.A.2"
+    },
+    {
+      "codigo": "MAD.EP.CN.C2.CO.A.3",
+      "tipo": "bloque_contenidos",
+      "texto": "Materia, fuerzas y energía",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias de la Naturaleza, segundo ciclo, contenidos",
+        "pagina": 38
+      },
+      "orden": 50,
+      "padre": "MAD.EP.CN.C2.CO.A"
+    },
+    {
+      "codigo": "MAD.EP.CN.C2.CO.A.3.1",
+      "tipo": "contenido",
+      "texto": "El calor y la temperatura. Cambios de estado, efectos del calor sobre diferentes materiales, materiales conductores y aislantes, instrumentos de medición y aplicaciones en la vida cotidiana.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias de la Naturaleza, segundo ciclo, contenidos",
+        "pagina": 38
+      },
+      "orden": 51,
+      "padre": "MAD.EP.CN.C2.CO.A.3"
+    },
+    {
+      "codigo": "MAD.EP.CN.C2.CO.A.3.2",
+      "tipo": "contenido",
+      "texto": "Los cambios reversibles e irreversibles que experimenta la materia desde un estado inicial a uno final identificando los procesos y transformaciones que experimenta en situaciones de la vida cotidiana.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias de la Naturaleza, segundo ciclo, contenidos",
+        "pagina": 38
+      },
+      "orden": 52,
+      "padre": "MAD.EP.CN.C2.CO.A.3"
+    },
+    {
+      "codigo": "MAD.EP.CN.C2.CO.A.3.3",
+      "tipo": "contenido",
+      "texto": "Fuerzas de contacto y a distancia. Las fuerzas y sus efectos.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias de la Naturaleza, segundo ciclo, contenidos",
+        "pagina": 38
+      },
+      "orden": 53,
+      "padre": "MAD.EP.CN.C2.CO.A.3"
+    },
+    {
+      "codigo": "MAD.EP.CN.C2.CO.A.3.4",
+      "tipo": "contenido",
+      "texto": "Herramientas, máquinas e instrumentos. Propiedades de las máquinas simples y su efecto sobre las fuerzas. Aplicaciones y usos en la vida cotidiana. Diferencias entre las máquinas simples y las compuestas. Importantes descubrimientos e inventos.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias de la Naturaleza, segundo ciclo, contenidos",
+        "pagina": 38
+      },
+      "orden": 54,
+      "padre": "MAD.EP.CN.C2.CO.A.3"
+    },
+    {
+      "codigo": "MAD.EP.CN.C2.CO.A.3.5",
+      "tipo": "contenido",
+      "texto": "Las sustancias puras y las mezclas. Tipos de mezclas. Separación de las mezclas homogéneas mediante distintos métodos.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias de la Naturaleza, segundo ciclo, contenidos",
+        "pagina": 38
+      },
+      "orden": 55,
+      "padre": "MAD.EP.CN.C2.CO.A.3"
+    },
+    {
+      "codigo": "MAD.EP.CN.C2.CO.B",
+      "tipo": "bloque_contenidos",
+      "texto": "Tecnología y digitalización",
+      "codigo_oficial": "B",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias de la Naturaleza, segundo ciclo, contenidos",
+        "pagina": 38
+      },
+      "orden": 56
+    },
+    {
+      "codigo": "MAD.EP.CN.C2.CO.B.1",
+      "tipo": "bloque_contenidos",
+      "texto": "Uso de los recursos digitales con responsabilidad",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias de la Naturaleza, segundo ciclo, contenidos",
+        "pagina": 38
+      },
+      "orden": 57,
+      "padre": "MAD.EP.CN.C2.CO.B"
+    },
+    {
+      "codigo": "MAD.EP.CN.C2.CO.B.1.1",
+      "tipo": "contenido",
+      "texto": "Dispositivos y recursos digitales. Estrategias de búsqueda guiada de información segura y eficiente en internet (valoración, discriminación, selección y organización).",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias de la Naturaleza, segundo ciclo, contenidos",
+        "pagina": 38
+      },
+      "orden": 58,
+      "padre": "MAD.EP.CN.C2.CO.B.1"
+    },
+    {
+      "codigo": "MAD.EP.CN.C2.CO.B.1.2",
+      "tipo": "contenido",
+      "texto": "Reglas básicas de seguridad y privacidad para navegar por internet.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias de la Naturaleza, segundo ciclo, contenidos",
+        "pagina": 38
+      },
+      "orden": 59,
+      "padre": "MAD.EP.CN.C2.CO.B.1"
+    },
+    {
+      "codigo": "MAD.EP.CN.C2.CO.B.1.3",
+      "tipo": "contenido",
+      "texto": "Recursos y plataformas digitales restringidas y seguras para comunicarse con otras personas. Etiqueta digital, reglas básicas de cortesía y respeto y estrategias para resolver problemas en la comunicación digital.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias de la Naturaleza, segundo ciclo, contenidos",
+        "pagina": 38
+      },
+      "orden": 60,
+      "padre": "MAD.EP.CN.C2.CO.B.1"
+    },
+    {
+      "codigo": "MAD.EP.CN.C2.CO.B.1.4",
+      "tipo": "contenido",
+      "texto": "Estrategias para fomentar un buen uso digital. Reconocimiento de los riesgos asociados a un uso inadecuado y poco seguro de las tecnologías digitales (tiempo excesivo de uso, ciberacoso, acceso a contenidos inadecuados, publicidad y correos no deseados, etc.), y estrategias de actuación.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias de la Naturaleza, segundo ciclo, contenidos",
+        "pagina": 38
+      },
+      "orden": 61,
+      "padre": "MAD.EP.CN.C2.CO.B.1"
+    },
+    {
+      "codigo": "MAD.EP.CN.C2.CO.B.2",
+      "tipo": "bloque_contenidos",
+      "texto": "Proyectos de diseño y pensamiento computacional",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias de la Naturaleza, segundo ciclo, contenidos",
+        "pagina": 38
+      },
+      "orden": 62,
+      "padre": "MAD.EP.CN.C2.CO.B"
+    },
+    {
+      "codigo": "MAD.EP.CN.C2.CO.B.2.1",
+      "tipo": "contenido",
+      "texto": "Fases de los proyectos de diseño: diseño, prototipado, prueba y comunicación.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias de la Naturaleza, segundo ciclo, contenidos",
+        "pagina": 38
+      },
+      "orden": 63,
+      "padre": "MAD.EP.CN.C2.CO.B.2"
+    },
+    {
+      "codigo": "MAD.EP.CN.C2.CO.B.2.2",
+      "tipo": "contenido",
+      "texto": "Materiales, herramientas y objetos adecuados a la consecución de un proyecto de diseño.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias de la Naturaleza, segundo ciclo, contenidos",
+        "pagina": 38
+      },
+      "orden": 64,
+      "padre": "MAD.EP.CN.C2.CO.B.2"
+    },
+    {
+      "codigo": "MAD.EP.CN.C2.CO.B.2.3",
+      "tipo": "contenido",
+      "texto": "Técnicas sencillas de trabajo en equipo y estrategias para la gestión de conflictos.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias de la Naturaleza, segundo ciclo, contenidos",
+        "pagina": 38
+      },
+      "orden": 65,
+      "padre": "MAD.EP.CN.C2.CO.B.2"
+    },
+    {
+      "codigo": "MAD.EP.CN.C2.CO.B.2.4",
+      "tipo": "contenido",
+      "texto": "Iniciación en la programación a través de recursos analógicos (actividades desenchufadas) o digitales (plataformas digitales de iniciación en la programación, aplicaciones de programación por bloques, robótica educativa...).",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias de la Naturaleza, segundo ciclo, contenidos",
+        "pagina": 38
+      },
+      "orden": 66,
+      "padre": "MAD.EP.CN.C2.CO.B.2"
+    },
+    {
+      "codigo": "MAD.EP.CN.C2.CO.B.3",
+      "tipo": "bloque_contenidos",
+      "texto": "Evolución de la tecnología y la digitalización en las diversas etapas de la historia de la humanidad",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias de la Naturaleza, segundo ciclo, contenidos",
+        "pagina": 38
+      },
+      "orden": 67,
+      "padre": "MAD.EP.CN.C2.CO.B"
+    },
+    {
+      "codigo": "MAD.EP.CN.C2.CO.B.3.1",
+      "tipo": "contenido",
+      "texto": "Hitos tecnológicos en cada etapa de la historia de la humanidad.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias de la Naturaleza, segundo ciclo, contenidos",
+        "pagina": 38
+      },
+      "orden": 68,
+      "padre": "MAD.EP.CN.C2.CO.B.3"
+    },
+    {
+      "codigo": "MAD.EP.CN.C2.CO.B.3.2",
+      "tipo": "contenido",
+      "texto": "Beneficios y perjuicios de algunas herramientas, máquinas e instrumentos a lo largo de la historia.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias de la Naturaleza, segundo ciclo, contenidos",
+        "pagina": 38
+      },
+      "orden": 69,
+      "padre": "MAD.EP.CN.C2.CO.B.3"
+    }
+  ]
+}

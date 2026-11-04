@@ -1,0 +1,891 @@
+{
+  "codigo": "MAD.EP.EA.C2",
+  "nombre": "Educación Artística, segundo ciclo",
+  "etapa": "primaria",
+  "ciclo": "C2",
+  "curso": null,
+  "cursos_academicos": [
+    "2026-27"
+  ],
+  "normas": [
+    "bocm-20220718-1",
+    "boe-a-2022-3296"
+  ],
+  "elementos": [
+    {
+      "codigo": "MAD.EP.EA.C2.CE.1",
+      "tipo": "competencia_especifica",
+      "texto": "Descubrir propuestas artísticas de diferentes géneros, estilos, épocas y culturas, para desarrollar la curiosidad y el respeto por la diversidad.",
+      "codigo_oficial": "1",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Artística, segundo ciclo, competencias específicas",
+        "pagina": 53
+      },
+      "orden": 1,
+      "relaciones": {
+        "descriptores": [
+          "MAD.EP.DESC.CP3",
+          "MAD.EP.DESC.STEM1",
+          "MAD.EP.DESC.CD1",
+          "MAD.EP.DESC.CPSAA3",
+          "MAD.EP.DESC.CC1",
+          "MAD.EP.DESC.CE2",
+          "MAD.EP.DESC.CCEC1",
+          "MAD.EP.DESC.CCEC2"
+        ]
+      }
+    },
+    {
+      "codigo": "MAD.EP.EA.C2.CR.1.1",
+      "tipo": "criterio",
+      "texto": "Reconocer propuestas artísticas de diferentes géneros, estilos, épocas y culturas, mostrando curiosidad y respeto por las mismas.",
+      "codigo_oficial": "1.1",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Artística, segundo ciclo, criterios",
+        "pagina": 53
+      },
+      "orden": 2,
+      "padre": "MAD.EP.EA.C2.CE.1"
+    },
+    {
+      "codigo": "MAD.EP.EA.C2.CR.1.2",
+      "tipo": "criterio",
+      "texto": "Describir manifestaciones culturales y artísticas, explorando sus características y estableciendo relaciones básicas entre ellas.",
+      "codigo_oficial": "1.2",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Artística, segundo ciclo, criterios",
+        "pagina": 53
+      },
+      "orden": 3,
+      "padre": "MAD.EP.EA.C2.CE.1"
+    },
+    {
+      "codigo": "MAD.EP.EA.C2.CR.1.3",
+      "tipo": "criterio",
+      "texto": "Aproximarse a la lectura y el análisis del arte en su situación histórica comprendiendo su significado y función.",
+      "codigo_oficial": "1.3",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Artística, segundo ciclo, criterios",
+        "pagina": 53
+      },
+      "orden": 4,
+      "padre": "MAD.EP.EA.C2.CE.1"
+    },
+    {
+      "codigo": "MAD.EP.EA.C2.CE.2",
+      "tipo": "competencia_especifica",
+      "texto": "Investigar sobre manifestaciones culturales y artísticas y sus épocas, empleando diversos canales, medios y técnicas, para disfrutar de ellas, entender su valor y empezar a desarrollar una sensibilidad artística propia.",
+      "codigo_oficial": "2",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Artística, segundo ciclo, competencias específicas",
+        "pagina": 53
+      },
+      "orden": 5,
+      "relaciones": {
+        "descriptores": [
+          "MAD.EP.DESC.CCL3",
+          "MAD.EP.DESC.CP3",
+          "MAD.EP.DESC.STEM2",
+          "MAD.EP.DESC.CD1",
+          "MAD.EP.DESC.CPSAA4",
+          "MAD.EP.DESC.CC3",
+          "MAD.EP.DESC.CCEC1",
+          "MAD.EP.DESC.CCEC2"
+        ]
+      }
+    },
+    {
+      "codigo": "MAD.EP.EA.C2.CR.2.1",
+      "tipo": "criterio",
+      "texto": "Seleccionar y aplicar estrategias básicas para la búsqueda guiada de información sobre manifestaciones culturales y artísticas, a través de canales y medios de acceso sencillos, tanto de forma individual como grupal.",
+      "codigo_oficial": "2.1",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Artística, segundo ciclo, criterios",
+        "pagina": 53
+      },
+      "orden": 6,
+      "padre": "MAD.EP.EA.C2.CE.2"
+    },
+    {
+      "codigo": "MAD.EP.EA.C2.CR.2.2",
+      "tipo": "criterio",
+      "texto": "Distinguir elementos característicos básicos de manifestaciones culturales y artísticas que forman parte del patrimonio, indicando los canales, medios y técnicas utilizados, analizando sus diferencias y similitudes y reflexionando sobre las sensaciones producidas, con actitud de interés y respeto.",
+      "codigo_oficial": "2.2",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Artística, segundo ciclo, criterios",
+        "pagina": 53
+      },
+      "orden": 7,
+      "padre": "MAD.EP.EA.C2.CE.2"
+    },
+    {
+      "codigo": "MAD.EP.EA.C2.CE.3",
+      "tipo": "competencia_especifica",
+      "texto": "Expresar y comunicar de manera creativa ideas, sentimientos y emociones, experimentando con las posibilidades del sonido, la imagen, el cuerpo y los medios digitales, para producir obras propias.",
+      "codigo_oficial": "3",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Artística, segundo ciclo, competencias específicas",
+        "pagina": 53
+      },
+      "orden": 8,
+      "relaciones": {
+        "descriptores": [
+          "MAD.EP.DESC.CCL1",
+          "MAD.EP.DESC.CD2",
+          "MAD.EP.DESC.CPSAA1",
+          "MAD.EP.DESC.CPSAA5",
+          "MAD.EP.DESC.CC2",
+          "MAD.EP.DESC.CE1",
+          "MAD.EP.DESC.CCEC3",
+          "MAD.EP.DESC.CCEC4"
+        ]
+      }
+    },
+    {
+      "codigo": "MAD.EP.EA.C2.CR.3.1",
+      "tipo": "criterio",
+      "texto": "Producir obras propias de manera guiada, utilizando algunas de las posibilidades expresivas del cuerpo (gesto y movimiento), el sonido, la imagen y los medios digitales básicos, y mostrando confianza en las capacidades propias, entre ellas danza, teatro, música, pintura…",
+      "codigo_oficial": "3.1",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Artística, segundo ciclo, criterios",
+        "pagina": 53
+      },
+      "orden": 9,
+      "padre": "MAD.EP.EA.C2.CE.3"
+    },
+    {
+      "codigo": "MAD.EP.EA.C2.CR.3.2",
+      "tipo": "criterio",
+      "texto": "Expresar con creatividad ideas, sentimientos y emociones a través de manifestaciones artísticas básicas, experimentando con los diferentes lenguajes e instrumentos a su alcance.",
+      "codigo_oficial": "3.2",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Artística, segundo ciclo, criterios",
+        "pagina": 53
+      },
+      "orden": 10,
+      "padre": "MAD.EP.EA.C2.CE.3"
+    },
+    {
+      "codigo": "MAD.EP.EA.C2.CE.4",
+      "tipo": "competencia_especifica",
+      "texto": "Participar del diseño, la elaboración y la difusión de producciones culturales y artísticas individuales o colectivas, teniendo en cuenta el proceso y asumiendo diferentes funciones en la consecución de un resultado final, para desarrollar la creatividad y la noción de autoría.",
+      "codigo_oficial": "4",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Artística, segundo ciclo, competencias específicas",
+        "pagina": 54
+      },
+      "orden": 11,
+      "relaciones": {
+        "descriptores": [
+          "MAD.EP.DESC.CCL1",
+          "MAD.EP.DESC.CCL5",
+          "MAD.EP.DESC.CP3",
+          "MAD.EP.DESC.STEM3",
+          "MAD.EP.DESC.CC2",
+          "MAD.EP.DESC.CE1",
+          "MAD.EP.DESC.CE3",
+          "MAD.EP.DESC.CCEC3",
+          "MAD.EP.DESC.CCEC4"
+        ]
+      }
+    },
+    {
+      "codigo": "MAD.EP.EA.C2.CR.4.1",
+      "tipo": "criterio",
+      "texto": "Participar de manera guiada en el diseño de producciones culturales y artísticas, trabajando en grupo en la consecución de un resultado final planificado y asumiendo diferentes funciones.",
+      "codigo_oficial": "4.1",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Artística, segundo ciclo, criterios",
+        "pagina": 54
+      },
+      "orden": 12,
+      "padre": "MAD.EP.EA.C2.CE.4"
+    },
+    {
+      "codigo": "MAD.EP.EA.C2.CR.4.2",
+      "tipo": "criterio",
+      "texto": "Participar en el proceso de producciones culturales y artísticas, de forma creativa y respetuosa, utilizando elementos básicos de diferentes lenguajes y técnicas artísticas.",
+      "codigo_oficial": "4.2",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Artística, segundo ciclo, criterios",
+        "pagina": 54
+      },
+      "orden": 13,
+      "padre": "MAD.EP.EA.C2.CE.4"
+    },
+    {
+      "codigo": "MAD.EP.EA.C2.CR.4.3",
+      "tipo": "criterio",
+      "texto": "Compartir los proyectos creativos, empleando estrategias comunicativas básicas, explicando el proceso y el resultado final obtenido, respetando y valorando las experiencias propias y las de los demás.",
+      "codigo_oficial": "4.3",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Artística, segundo ciclo, criterios",
+        "pagina": 54
+      },
+      "orden": 14,
+      "padre": "MAD.EP.EA.C2.CE.4"
+    },
+    {
+      "codigo": "MAD.EP.EA.C2.CR.4.4",
+      "tipo": "criterio",
+      "texto": "Diseñar y elaborar producciones culturales y artísticas propias, de carácter individual y grupal, de acuerdo a su desarrollo evolutivo.",
+      "codigo_oficial": "4.4",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Artística, segundo ciclo, criterios",
+        "pagina": 54
+      },
+      "orden": 15,
+      "padre": "MAD.EP.EA.C2.CE.4"
+    },
+    {
+      "codigo": "MAD.EP.EA.C2.CO.I",
+      "tipo": "bloque_contenidos",
+      "texto": "Música y danza",
+      "codigo_oficial": "I",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Artística, segundo ciclo, contenidos",
+        "pagina": 54
+      },
+      "orden": 16
+    },
+    {
+      "codigo": "MAD.EP.EA.C2.CO.I.1",
+      "tipo": "bloque_contenidos",
+      "texto": "Recepción y análisis",
+      "codigo_oficial": "A",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Artística, segundo ciclo, contenidos",
+        "pagina": 54
+      },
+      "orden": 17,
+      "padre": "MAD.EP.EA.C2.CO.I"
+    },
+    {
+      "codigo": "MAD.EP.EA.C2.CO.I.1.1",
+      "tipo": "contenido",
+      "texto": "Propuestas artísticas de diferentes corrientes estéticas, procedencias y épocas producidas por creadores y creadoras locales, regionales y nacionales.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Artística, segundo ciclo, contenidos",
+        "pagina": 54
+      },
+      "orden": 18,
+      "padre": "MAD.EP.EA.C2.CO.I.1"
+    },
+    {
+      "codigo": "MAD.EP.EA.C2.CO.I.1.2",
+      "tipo": "contenido",
+      "texto": "Recepción y apreciación de obras artísticas.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Artística, segundo ciclo, contenidos",
+        "pagina": 54
+      },
+      "orden": 19,
+      "padre": "MAD.EP.EA.C2.CO.I.1"
+    },
+    {
+      "codigo": "MAD.EP.EA.C2.CO.I.1.3",
+      "tipo": "contenido",
+      "texto": "Normas comunes de comportamiento y actitud positiva en la recepción de propuestas artísticas musicales y escénicas en diferentes lugares. El silencio como elemento y condición indispensable para el mantenimiento de la atención durante la recepción y la práctica musical.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Artística, segundo ciclo, contenidos",
+        "pagina": 54
+      },
+      "orden": 20,
+      "padre": "MAD.EP.EA.C2.CO.I.1"
+    },
+    {
+      "codigo": "MAD.EP.EA.C2.CO.I.1.4",
+      "tipo": "contenido",
+      "texto": "Vocabulario específico de uso común en la música y en las artes escénicas.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Artística, segundo ciclo, contenidos",
+        "pagina": 54
+      },
+      "orden": 21,
+      "padre": "MAD.EP.EA.C2.CO.I.1"
+    },
+    {
+      "codigo": "MAD.EP.EA.C2.CO.I.1.5",
+      "tipo": "contenido",
+      "texto": "Recursos digitales de uso común para la música y las artes escénicas.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Artística, segundo ciclo, contenidos",
+        "pagina": 54
+      },
+      "orden": 22,
+      "padre": "MAD.EP.EA.C2.CO.I.1"
+    },
+    {
+      "codigo": "MAD.EP.EA.C2.CO.I.1.6",
+      "tipo": "contenido",
+      "texto": "Estrategias básicas de análisis de propuestas artísticas musicales y artes escénicas.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Artística, segundo ciclo, contenidos",
+        "pagina": 54
+      },
+      "orden": 23,
+      "padre": "MAD.EP.EA.C2.CO.I.1"
+    },
+    {
+      "codigo": "MAD.EP.EA.C2.CO.I.2",
+      "tipo": "bloque_contenidos",
+      "texto": "Creación e interpretación",
+      "codigo_oficial": "B",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Artística, segundo ciclo, contenidos",
+        "pagina": 54
+      },
+      "orden": 24,
+      "padre": "MAD.EP.EA.C2.CO.I"
+    },
+    {
+      "codigo": "MAD.EP.EA.C2.CO.I.2.1",
+      "tipo": "contenido",
+      "texto": "Fases del proceso creativo: planificación, interpretación y experimentación.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Artística, segundo ciclo, contenidos",
+        "pagina": 54
+      },
+      "orden": 25,
+      "padre": "MAD.EP.EA.C2.CO.I.2"
+    },
+    {
+      "codigo": "MAD.EP.EA.C2.CO.I.2.2",
+      "tipo": "contenido",
+      "texto": "Profesiones vinculadas con la música y las artes escénicas.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Artística, segundo ciclo, contenidos",
+        "pagina": 54
+      },
+      "orden": 26,
+      "padre": "MAD.EP.EA.C2.CO.I.2"
+    },
+    {
+      "codigo": "MAD.EP.EA.C2.CO.I.2.3",
+      "tipo": "contenido",
+      "texto": "Respeto, interés y valoración tanto por el proceso como por el producto final en producciones musicales y escénicas.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Artística, segundo ciclo, contenidos",
+        "pagina": 54
+      },
+      "orden": 27,
+      "padre": "MAD.EP.EA.C2.CO.I.2"
+    },
+    {
+      "codigo": "MAD.EP.EA.C2.CO.I.3",
+      "tipo": "bloque_contenidos",
+      "texto": "Música y artes escénicas",
+      "codigo_oficial": "C",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Artística, segundo ciclo, contenidos",
+        "pagina": 55
+      },
+      "orden": 28,
+      "padre": "MAD.EP.EA.C2.CO.I"
+    },
+    {
+      "codigo": "MAD.EP.EA.C2.CO.I.3.1",
+      "tipo": "contenido",
+      "texto": "El sonido y sus cualidades (tono, duración, timbre e intensidad): identificación visual y auditiva y representación elemental de diversidad de sonidos. Estructuras rítmico-melódicas a través de diferentes grafías.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Artística, segundo ciclo, contenidos",
+        "pagina": 55
+      },
+      "orden": 29,
+      "padre": "MAD.EP.EA.C2.CO.I.3"
+    },
+    {
+      "codigo": "MAD.EP.EA.C2.CO.I.3.2",
+      "tipo": "contenido",
+      "texto": "La voz y los instrumentos musicales. Agrupaciones: (coros, bandas, orquestas) y familias: (viento, cuerda, percusión). Identificación visual y auditiva. Objetos sonoros. Cotidiáfonos.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Artística, segundo ciclo, contenidos",
+        "pagina": 55
+      },
+      "orden": 30,
+      "padre": "MAD.EP.EA.C2.CO.I.3"
+    },
+    {
+      "codigo": "MAD.EP.EA.C2.CO.I.3.3",
+      "tipo": "contenido",
+      "texto": "El carácter, el tempo y el compás, tras la escucha de obras musicales.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Artística, segundo ciclo, contenidos",
+        "pagina": 55
+      },
+      "orden": 31,
+      "padre": "MAD.EP.EA.C2.CO.I.3"
+    },
+    {
+      "codigo": "MAD.EP.EA.C2.CO.I.3.4",
+      "tipo": "contenido",
+      "texto": "Práctica instrumental, vocal y corporal: experimentación, interpretación e improvisación de piezas vocales e instrumentales de diferente época, estilos y culturas a partir de sus posibilidades sonoras y expresivas de forma individual o en distintos agrupamientos.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Artística, segundo ciclo, contenidos",
+        "pagina": 55
+      },
+      "orden": 32,
+      "padre": "MAD.EP.EA.C2.CO.I.3"
+    },
+    {
+      "codigo": "MAD.EP.EA.C2.CO.I.3.5",
+      "tipo": "contenido",
+      "texto": "Construcción guiada de instrumentos. Práctica instrumental.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Artística, segundo ciclo, contenidos",
+        "pagina": 55
+      },
+      "orden": 33,
+      "padre": "MAD.EP.EA.C2.CO.I.3"
+    },
+    {
+      "codigo": "MAD.EP.EA.C2.CO.I.3.6",
+      "tipo": "contenido",
+      "texto": "Lenguajes musicales: conocimiento y aplicación de sus conceptos básicos en la interpretación y en la improvisación de propuestas musicales vocales e instrumentales que contengan procedimientos compositivos: repetición, imitación, variación y desarrollo. El silencio como elemento fundamental de la música.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Artística, segundo ciclo, contenidos",
+        "pagina": 55
+      },
+      "orden": 34,
+      "padre": "MAD.EP.EA.C2.CO.I.3"
+    },
+    {
+      "codigo": "MAD.EP.EA.C2.CO.I.3.7",
+      "tipo": "contenido",
+      "texto": "Aplicaciones informáticas básicas de grabación y edición de audio.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Artística, segundo ciclo, contenidos",
+        "pagina": 55
+      },
+      "orden": 35,
+      "padre": "MAD.EP.EA.C2.CO.I.3"
+    },
+    {
+      "codigo": "MAD.EP.EA.C2.CO.I.3.8",
+      "tipo": "contenido",
+      "texto": "El cuerpo y sus posibilidades motrices y creativas: interés por la experimentación a través de ejecuciones individuales y grupales vinculadas con el movimiento, la danza, la dramatización y la representación teatral como medios de expresión y diversión.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Artística, segundo ciclo, contenidos",
+        "pagina": 55
+      },
+      "orden": 36,
+      "padre": "MAD.EP.EA.C2.CO.I.3"
+    },
+    {
+      "codigo": "MAD.EP.EA.C2.CO.I.3.9",
+      "tipo": "contenido",
+      "texto": "Técnicas dramáticas y dancísticas de uso común. Lenguajes expresivos básicos. Improvisación guiada.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Artística, segundo ciclo, contenidos",
+        "pagina": 55
+      },
+      "orden": 37,
+      "padre": "MAD.EP.EA.C2.CO.I.3"
+    },
+    {
+      "codigo": "MAD.EP.EA.C2.CO.I.3.10",
+      "tipo": "contenido",
+      "texto": "Capacidades expresivas y creativas de uso común de la expresión corporal y dramática.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Artística, segundo ciclo, contenidos",
+        "pagina": 55
+      },
+      "orden": 38,
+      "padre": "MAD.EP.EA.C2.CO.I.3"
+    },
+    {
+      "codigo": "MAD.EP.EA.C2.CO.I.3.11",
+      "tipo": "contenido",
+      "texto": "Elementos básicos de la representación escénica.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Artística, segundo ciclo, contenidos",
+        "pagina": 55
+      },
+      "orden": 39,
+      "padre": "MAD.EP.EA.C2.CO.I.3"
+    },
+    {
+      "codigo": "MAD.EP.EA.C2.CO.II",
+      "tipo": "bloque_contenidos",
+      "texto": "Educación plástica y visual",
+      "codigo_oficial": "II",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Artística, segundo ciclo, contenidos",
+        "pagina": 55
+      },
+      "orden": 40
+    },
+    {
+      "codigo": "MAD.EP.EA.C2.CO.II.1",
+      "tipo": "bloque_contenidos",
+      "texto": "Recepción y análisis",
+      "codigo_oficial": "A",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Artística, segundo ciclo, contenidos",
+        "pagina": 55
+      },
+      "orden": 41,
+      "padre": "MAD.EP.EA.C2.CO.II"
+    },
+    {
+      "codigo": "MAD.EP.EA.C2.CO.II.1.1",
+      "tipo": "contenido",
+      "texto": "Propuestas artísticas de diferentes corrientes estéticas de las artes plásticas, visuales y audiovisuales, procedencias y épocas producidas por creadores y creadoras locales, regionales y nacionales.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Artística, segundo ciclo, contenidos",
+        "pagina": 55
+      },
+      "orden": 42,
+      "padre": "MAD.EP.EA.C2.CO.II.1"
+    },
+    {
+      "codigo": "MAD.EP.EA.C2.CO.II.1.2",
+      "tipo": "contenido",
+      "texto": "Recepción y apreciación de obras artísticas.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Artística, segundo ciclo, contenidos",
+        "pagina": 55
+      },
+      "orden": 43,
+      "padre": "MAD.EP.EA.C2.CO.II.1"
+    },
+    {
+      "codigo": "MAD.EP.EA.C2.CO.II.1.3",
+      "tipo": "contenido",
+      "texto": "Normas comunes de comportamiento y actitud en la recepción de propuestas artísticas plásticas, visuales y audiovisuales en diferentes lugares.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Artística, segundo ciclo, contenidos",
+        "pagina": 55
+      },
+      "orden": 44,
+      "padre": "MAD.EP.EA.C2.CO.II.1"
+    },
+    {
+      "codigo": "MAD.EP.EA.C2.CO.II.1.4",
+      "tipo": "contenido",
+      "texto": "Vocabulario específico de uso común en las artes plásticas, visuales y audiovisuales.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Artística, segundo ciclo, contenidos",
+        "pagina": 55
+      },
+      "orden": 45,
+      "padre": "MAD.EP.EA.C2.CO.II.1"
+    },
+    {
+      "codigo": "MAD.EP.EA.C2.CO.II.1.5",
+      "tipo": "contenido",
+      "texto": "Recursos digitales de uso común para las artes plásticas, visuales y las artes audiovisuales.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Artística, segundo ciclo, contenidos",
+        "pagina": 55
+      },
+      "orden": 46,
+      "padre": "MAD.EP.EA.C2.CO.II.1"
+    },
+    {
+      "codigo": "MAD.EP.EA.C2.CO.II.1.6",
+      "tipo": "contenido",
+      "texto": "Análisis de obras artísticas.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Artística, segundo ciclo, contenidos",
+        "pagina": 55
+      },
+      "orden": 47,
+      "padre": "MAD.EP.EA.C2.CO.II.1"
+    },
+    {
+      "codigo": "MAD.EP.EA.C2.CO.II.2",
+      "tipo": "bloque_contenidos",
+      "texto": "Creación e interpretación",
+      "codigo_oficial": "B",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Artística, segundo ciclo, contenidos",
+        "pagina": 55
+      },
+      "orden": 48,
+      "padre": "MAD.EP.EA.C2.CO.II"
+    },
+    {
+      "codigo": "MAD.EP.EA.C2.CO.II.2.1",
+      "tipo": "contenido",
+      "texto": "Fases del proceso creativo: planificación, interpretación y experimentación.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Artística, segundo ciclo, contenidos",
+        "pagina": 55
+      },
+      "orden": 49,
+      "padre": "MAD.EP.EA.C2.CO.II.2"
+    },
+    {
+      "codigo": "MAD.EP.EA.C2.CO.II.2.2",
+      "tipo": "contenido",
+      "texto": "Profesiones vinculadas con las artes plásticas, visuales y las artes audiovisuales.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Artística, segundo ciclo, contenidos",
+        "pagina": 55
+      },
+      "orden": 50,
+      "padre": "MAD.EP.EA.C2.CO.II.2"
+    },
+    {
+      "codigo": "MAD.EP.EA.C2.CO.II.2.3",
+      "tipo": "contenido",
+      "texto": "Respeto, interés y valoración, tanto por el proceso como por el producto final en producciones plásticas, visuales y audiovisuales.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Artística, segundo ciclo, contenidos",
+        "pagina": 55
+      },
+      "orden": 51,
+      "padre": "MAD.EP.EA.C2.CO.II.2"
+    },
+    {
+      "codigo": "MAD.EP.EA.C2.CO.II.3",
+      "tipo": "bloque_contenidos",
+      "texto": "Artes plásticas, visuales y audiovisuales",
+      "codigo_oficial": "C",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Artística, segundo ciclo, contenidos",
+        "pagina": 56
+      },
+      "orden": 52,
+      "padre": "MAD.EP.EA.C2.CO.II"
+    },
+    {
+      "codigo": "MAD.EP.EA.C2.CO.II.3.1",
+      "tipo": "contenido",
+      "texto": "Las artes visuales. La imagen en el mundo actual: técnicas y estrategias básicas de lectura e interpretación (análisis y realización) de los elementos que la componen.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Artística, segundo ciclo, contenidos",
+        "pagina": 56
+      },
+      "orden": 53,
+      "padre": "MAD.EP.EA.C2.CO.II.3"
+    },
+    {
+      "codigo": "MAD.EP.EA.C2.CO.II.3.2",
+      "tipo": "contenido",
+      "texto": "Elementos configurativos básicos del lenguaje visual y sus posibilidades expresivas y comunicativas: punto, línea, plano, textura, color. Elementos configurativos del lenguaje visual.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Artística, segundo ciclo, contenidos",
+        "pagina": 56
+      },
+      "orden": 54,
+      "padre": "MAD.EP.EA.C2.CO.II.3"
+    },
+    {
+      "codigo": "MAD.EP.EA.C2.CO.II.3.3",
+      "tipo": "contenido",
+      "texto": "Materiales, instrumentos, soportes y técnicas de uso común utilizados en la expresión plástica y visual.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Artística, segundo ciclo, contenidos",
+        "pagina": 56
+      },
+      "orden": 55,
+      "padre": "MAD.EP.EA.C2.CO.II.3"
+    },
+    {
+      "codigo": "MAD.EP.EA.C2.CO.II.3.4",
+      "tipo": "contenido",
+      "texto": "Medios, soportes y materiales de expresión plástica y visual. Técnicas bidimensionales y tridimensionales en dibujos y modelados sencillos utilizando elementos básicos de composición, equilibrio y proporción.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Artística, segundo ciclo, contenidos",
+        "pagina": 56
+      },
+      "orden": 56,
+      "padre": "MAD.EP.EA.C2.CO.II.3"
+    },
+    {
+      "codigo": "MAD.EP.EA.C2.CO.II.3.5",
+      "tipo": "contenido",
+      "texto": "Técnicas, materiales y recursos informáticos y tecnológicos básicos: su aplicación para la captura, creación y manipulación de producciones plásticas y visuales de manera responsable.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Artística, segundo ciclo, contenidos",
+        "pagina": 56
+      },
+      "orden": 57,
+      "padre": "MAD.EP.EA.C2.CO.II.3"
+    },
+    {
+      "codigo": "MAD.EP.EA.C2.CO.II.3.6",
+      "tipo": "contenido",
+      "texto": "Registro y edición básica de elementos audiovisuales: conceptos, tecnologías, técnicas y recursos elementales y de manejo sencillo.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Artística, segundo ciclo, contenidos",
+        "pagina": 56
+      },
+      "orden": 58,
+      "padre": "MAD.EP.EA.C2.CO.II.3"
+    },
+    {
+      "codigo": "MAD.EP.EA.C2.CO.II.3.7",
+      "tipo": "contenido",
+      "texto": "Técnicas de uso común de composición de historias audiovisuales.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Artística, segundo ciclo, contenidos",
+        "pagina": 56
+      },
+      "orden": 59,
+      "padre": "MAD.EP.EA.C2.CO.II.3"
+    },
+    {
+      "codigo": "MAD.EP.EA.C2.CO.II.3.8",
+      "tipo": "contenido",
+      "texto": "El cine como forma de narración. El cine de animación como género.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Artística, segundo ciclo, contenidos",
+        "pagina": 56
+      },
+      "orden": 60,
+      "padre": "MAD.EP.EA.C2.CO.II.3"
+    },
+    {
+      "codigo": "MAD.EP.EA.C2.CO.II.3.9",
+      "tipo": "contenido",
+      "texto": "Géneros y formatos básicos de producciones audiovisuales.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Artística, segundo ciclo, contenidos",
+        "pagina": 56
+      },
+      "orden": 61,
+      "padre": "MAD.EP.EA.C2.CO.II.3"
+    },
+    {
+      "codigo": "MAD.EP.EA.C2.CO.II.3.10",
+      "tipo": "contenido",
+      "texto": "Manifestaciones básicas vinculadas a la expresión plástica, visual y a las artes audiovisuales de diferentes lugares, épocas y estilos, incluidas las contemporáneas. Obras artísticas más relevantes del patrimonio cultural y artístico español.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Artística, segundo ciclo, contenidos",
+        "pagina": 56
+      },
+      "orden": 62,
+      "padre": "MAD.EP.EA.C2.CO.II.3"
+    },
+    {
+      "codigo": "MAD.EP.EA.C2.CO.II.3.11",
+      "tipo": "contenido",
+      "texto": "Producciones multimodales: iniciación en la realización con diversas herramientas. Reconocimiento de características elementales del lenguaje audiovisual multimodal.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Artística, segundo ciclo, contenidos",
+        "pagina": 56
+      },
+      "orden": 63,
+      "padre": "MAD.EP.EA.C2.CO.II.3"
+    },
+    {
+      "codigo": "MAD.EP.EA.C2.CO.II.3.12",
+      "tipo": "contenido",
+      "texto": "Normas básicas de comportamiento y respeto ante las producciones propias y de los demás.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Artística, segundo ciclo, contenidos",
+        "pagina": 56
+      },
+      "orden": 64,
+      "padre": "MAD.EP.EA.C2.CO.II.3"
+    }
+  ]
+}

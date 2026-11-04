@@ -1,0 +1,1583 @@
+{
+  "codigo": "MAD.EP.MAT.C2",
+  "nombre": "Matemáticas, segundo ciclo",
+  "etapa": "primaria",
+  "ciclo": "C2",
+  "curso": null,
+  "cursos_academicos": [
+    "2026-27"
+  ],
+  "normas": [
+    "bocm-20220718-1",
+    "boe-a-2022-3296"
+  ],
+  "elementos": [
+    {
+      "codigo": "MAD.EP.MAT.C2.CE.1",
+      "tipo": "competencia_especifica",
+      "texto": "Interpretar situaciones de la vida cotidiana proporcionando una representación matemática de las mismas mediante conceptos, herramientas y estrategias, para analizar la información más relevante.",
+      "codigo_oficial": "1",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Matemáticas, segundo ciclo, competencias específicas",
+        "pagina": 100
+      },
+      "orden": 1,
+      "relaciones": {
+        "descriptores": [
+          "MAD.EP.DESC.STEM1",
+          "MAD.EP.DESC.STEM2",
+          "MAD.EP.DESC.STEM4",
+          "MAD.EP.DESC.CD2",
+          "MAD.EP.DESC.CPSAA5",
+          "MAD.EP.DESC.CE1",
+          "MAD.EP.DESC.CE3",
+          "MAD.EP.DESC.CCEC4"
+        ]
+      }
+    },
+    {
+      "codigo": "MAD.EP.MAT.C2.CR.1.1",
+      "tipo": "criterio",
+      "texto": "Interpretar, de forma verbal o gráfica, problemas de la vida cotidiana, comprendiendo las preguntas planteadas a través de diferentes estrategias o herramientas, incluidas las tecnologías.",
+      "codigo_oficial": "1.1",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Matemáticas, segundo ciclo, criterios",
+        "pagina": 100
+      },
+      "orden": 2,
+      "padre": "MAD.EP.MAT.C2.CE.1"
+    },
+    {
+      "codigo": "MAD.EP.MAT.C2.CR.1.2",
+      "tipo": "criterio",
+      "texto": "Producir representaciones matemáticas, a través de esquemas o diagramas que ayuden en la resolución de una situación problematizada.",
+      "codigo_oficial": "1.2",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Matemáticas, segundo ciclo, criterios",
+        "pagina": 100
+      },
+      "orden": 3,
+      "padre": "MAD.EP.MAT.C2.CE.1"
+    },
+    {
+      "codigo": "MAD.EP.MAT.C2.CE.2",
+      "tipo": "competencia_especifica",
+      "texto": "Resolver situaciones problematizadas, aplicando diferentes técnicas, estrategias y formas de razonamiento, para explorar distintas maneras de proceder, obtener soluciones y asegurar su validez desde un punto de vista formal y en relación con el contexto planteado.",
+      "codigo_oficial": "2",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Matemáticas, segundo ciclo, competencias específicas",
+        "pagina": 100
+      },
+      "orden": 4,
+      "relaciones": {
+        "descriptores": [
+          "MAD.EP.DESC.STEM1",
+          "MAD.EP.DESC.STEM2",
+          "MAD.EP.DESC.CPSAA4",
+          "MAD.EP.DESC.CPSAA5",
+          "MAD.EP.DESC.CE3"
+        ]
+      }
+    },
+    {
+      "codigo": "MAD.EP.MAT.C2.CR.2.1",
+      "tipo": "criterio",
+      "texto": "Comparar entre diferentes estrategias para resolver un problema de forma pautada.",
+      "codigo_oficial": "2.1",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Matemáticas, segundo ciclo, criterios",
+        "pagina": 100
+      },
+      "orden": 5,
+      "padre": "MAD.EP.MAT.C2.CE.2"
+    },
+    {
+      "codigo": "MAD.EP.MAT.C2.CR.2.2",
+      "tipo": "criterio",
+      "texto": "Obtener posibles soluciones de un problema siguiendo alguna estrategia conocida.",
+      "codigo_oficial": "2.2",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Matemáticas, segundo ciclo, criterios",
+        "pagina": 100
+      },
+      "orden": 6,
+      "padre": "MAD.EP.MAT.C2.CE.2"
+    },
+    {
+      "codigo": "MAD.EP.MAT.C2.CR.2.3",
+      "tipo": "criterio",
+      "texto": "Demostrar la corrección matemática de las soluciones de un problema y su coherencia en el contexto planteado.",
+      "codigo_oficial": "2.3",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Matemáticas, segundo ciclo, criterios",
+        "pagina": 100
+      },
+      "orden": 7,
+      "padre": "MAD.EP.MAT.C2.CE.2"
+    },
+    {
+      "codigo": "MAD.EP.MAT.C2.CE.3",
+      "tipo": "competencia_especifica",
+      "texto": "Explorar, formular y comprobar conjeturas sencillas o plantear problemas de tipo matemático en situaciones basadas en la vida cotidiana, de forma guiada, reconociendo el valor del razonamiento y la argumentación, para contrastar su validez, adquirir e integrar nuevo conocimiento.",
+      "codigo_oficial": "3",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Matemáticas, segundo ciclo, competencias específicas",
+        "pagina": 100
+      },
+      "orden": 8,
+      "relaciones": {
+        "descriptores": [
+          "MAD.EP.DESC.CCL1",
+          "MAD.EP.DESC.STEM1",
+          "MAD.EP.DESC.STEM2",
+          "MAD.EP.DESC.CD1",
+          "MAD.EP.DESC.CD3",
+          "MAD.EP.DESC.CD5",
+          "MAD.EP.DESC.CE3"
+        ]
+      }
+    },
+    {
+      "codigo": "MAD.EP.MAT.C2.CR.3.1",
+      "tipo": "criterio",
+      "texto": "Analizar conjeturas matemáticas sencillas identificando patrones, propiedades y relaciones de forma pautada.",
+      "codigo_oficial": "3.1",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Matemáticas, segundo ciclo, criterios",
+        "pagina": 100
+      },
+      "orden": 9,
+      "padre": "MAD.EP.MAT.C2.CE.3"
+    },
+    {
+      "codigo": "MAD.EP.MAT.C2.CR.3.2",
+      "tipo": "criterio",
+      "texto": "Dar ejemplos de problemas sobre situaciones cotidianas que se resuelven matemáticamente.",
+      "codigo_oficial": "3.2",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Matemáticas, segundo ciclo, criterios",
+        "pagina": 100
+      },
+      "orden": 10,
+      "padre": "MAD.EP.MAT.C2.CE.3"
+    },
+    {
+      "codigo": "MAD.EP.MAT.C2.CE.4",
+      "tipo": "competencia_especifica",
+      "texto": "Utilizar el pensamiento computacional, organizando datos, descomponiendo en partes, reconociendo patrones, generalizando e interpretando, modificando y creando algoritmos de forma guiada, para modelizar y automatizar situaciones de la vida cotidiana.",
+      "codigo_oficial": "4",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Matemáticas, segundo ciclo, competencias específicas",
+        "pagina": 101
+      },
+      "orden": 11,
+      "relaciones": {
+        "descriptores": [
+          "MAD.EP.DESC.STEM1",
+          "MAD.EP.DESC.STEM2",
+          "MAD.EP.DESC.STEM3",
+          "MAD.EP.DESC.CD1",
+          "MAD.EP.DESC.CD3",
+          "MAD.EP.DESC.CD5",
+          "MAD.EP.DESC.CE3"
+        ]
+      }
+    },
+    {
+      "codigo": "MAD.EP.MAT.C2.CR.4.1",
+      "tipo": "criterio",
+      "texto": "Automatizar situaciones sencillas de la vida cotidiana que se realicen paso a paso o sigan una rutina, utilizando de forma pautada principios básicos del pensamiento computacional.",
+      "codigo_oficial": "4.1",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Matemáticas, segundo ciclo, criterios",
+        "pagina": 101
+      },
+      "orden": 12,
+      "padre": "MAD.EP.MAT.C2.CE.4"
+    },
+    {
+      "codigo": "MAD.EP.MAT.C2.CR.4.2",
+      "tipo": "criterio",
+      "texto": "Emplear herramientas tecnológicas adecuadas en el proceso de resolución de problemas.",
+      "codigo_oficial": "4.2",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Matemáticas, segundo ciclo, criterios",
+        "pagina": 101
+      },
+      "orden": 13,
+      "padre": "MAD.EP.MAT.C2.CE.4"
+    },
+    {
+      "codigo": "MAD.EP.MAT.C2.CE.5",
+      "tipo": "competencia_especifica",
+      "texto": "Reconocer y utilizar conexiones entre las diferentes ideas matemáticas, así como identificar las matemáticas implicadas en otras áreas o en la vida cotidiana, relacionando conceptos y procedimientos, para interpretar situaciones y contextos diversos.",
+      "codigo_oficial": "5",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Matemáticas, segundo ciclo, competencias específicas",
+        "pagina": 101
+      },
+      "orden": 14,
+      "relaciones": {
+        "descriptores": [
+          "MAD.EP.DESC.STEM1",
+          "MAD.EP.DESC.STEM3",
+          "MAD.EP.DESC.CD3",
+          "MAD.EP.DESC.CD5",
+          "MAD.EP.DESC.CC4",
+          "MAD.EP.DESC.CCEC1"
+        ]
+      }
+    },
+    {
+      "codigo": "MAD.EP.MAT.C2.CR.5.1",
+      "tipo": "criterio",
+      "texto": "Realizar conexiones entre los diferentes elementos matemáticos, aplicando conocimientos y experiencias propios.",
+      "codigo_oficial": "5.1",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Matemáticas, segundo ciclo, criterios",
+        "pagina": 101
+      },
+      "orden": 15,
+      "padre": "MAD.EP.MAT.C2.CE.5"
+    },
+    {
+      "codigo": "MAD.EP.MAT.C2.CR.5.2",
+      "tipo": "criterio",
+      "texto": "Interpretar situaciones en contextos diversos, reconociendo las conexiones entre las matemáticas y la vida cotidiana.",
+      "codigo_oficial": "5.2",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Matemáticas, segundo ciclo, criterios",
+        "pagina": 101
+      },
+      "orden": 16,
+      "padre": "MAD.EP.MAT.C2.CE.5"
+    },
+    {
+      "codigo": "MAD.EP.MAT.C2.CE.6",
+      "tipo": "competencia_especifica",
+      "texto": "Comunicar y representar, de forma individual y grupal conceptos, procedimientos y resultados matemáticos, utilizando el lenguaje oral, escrito, gráfico, y la terminología apropiados, para dar significado y permanencia a las ideas matemáticas.",
+      "codigo_oficial": "6",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Matemáticas, segundo ciclo, competencias específicas",
+        "pagina": 101
+      },
+      "orden": 17,
+      "relaciones": {
+        "descriptores": [
+          "MAD.EP.DESC.CCL1",
+          "MAD.EP.DESC.CCL3",
+          "MAD.EP.DESC.STEM2",
+          "MAD.EP.DESC.STEM4",
+          "MAD.EP.DESC.CD1",
+          "MAD.EP.DESC.CD5",
+          "MAD.EP.DESC.CE3",
+          "MAD.EP.DESC.CCEC4"
+        ]
+      }
+    },
+    {
+      "codigo": "MAD.EP.MAT.C2.CR.6.1",
+      "tipo": "criterio",
+      "texto": "Reconocer lenguaje matemático sencillo presente en la vida cotidiana en diferentes formatos, adquiriendo vocabulario específico básico y mostrando comprensión del mensaje.",
+      "codigo_oficial": "6.1",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Matemáticas, segundo ciclo, criterios",
+        "pagina": 101
+      },
+      "orden": 18,
+      "padre": "MAD.EP.MAT.C2.CE.6"
+    },
+    {
+      "codigo": "MAD.EP.MAT.C2.CR.6.2",
+      "tipo": "criterio",
+      "texto": "Explicar los procesos e ideas matemáticas, los pasos seguidos en la resolución de un problema o los resultados obtenidos, utilizando lenguaje matemático sencillo en diferentes formatos.",
+      "codigo_oficial": "6.2",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Matemáticas, segundo ciclo, criterios",
+        "pagina": 101
+      },
+      "orden": 19,
+      "padre": "MAD.EP.MAT.C2.CE.6"
+    },
+    {
+      "codigo": "MAD.EP.MAT.C2.CE.7",
+      "tipo": "competencia_especifica",
+      "texto": "Desarrollar destrezas personales que ayuden a enfrentarse a retos matemáticos, fomentando la confianza en las propias posibilidades, aceptando el error como parte del proceso de aprendizaje y adaptándose a las situaciones de incertidumbre, para mejorar la constancia y disfrutar en el aprendizaje de las matemáticas.",
+      "codigo_oficial": "7",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Matemáticas, segundo ciclo, competencias específicas",
+        "pagina": 101
+      },
+      "orden": 20,
+      "relaciones": {
+        "descriptores": [
+          "MAD.EP.DESC.STEM5",
+          "MAD.EP.DESC.CPSAA1",
+          "MAD.EP.DESC.CPSAA4",
+          "MAD.EP.DESC.CPSAA5",
+          "MAD.EP.DESC.CE2",
+          "MAD.EP.DESC.CE3"
+        ]
+      }
+    },
+    {
+      "codigo": "MAD.EP.MAT.C2.CR.7.1",
+      "tipo": "criterio",
+      "texto": "Identificar las destrezas personales al abordar retos matemáticos, pidiendo ayuda solo cuando sea necesario y desarrollando así la autoconfianza.",
+      "codigo_oficial": "7.1",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Matemáticas, segundo ciclo, criterios",
+        "pagina": 101
+      },
+      "orden": 21,
+      "padre": "MAD.EP.MAT.C2.CE.7"
+    },
+    {
+      "codigo": "MAD.EP.MAT.C2.CR.7.2",
+      "tipo": "criterio",
+      "texto": "Mostrar actitudes positivas ante retos matemáticos tales como el esfuerzo y la flexibilidad, valorando el error como una oportunidad de aprendizaje.",
+      "codigo_oficial": "7.2",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Matemáticas, segundo ciclo, criterios",
+        "pagina": 101
+      },
+      "orden": 22,
+      "padre": "MAD.EP.MAT.C2.CE.7"
+    },
+    {
+      "codigo": "MAD.EP.MAT.C2.CE.8",
+      "tipo": "competencia_especifica",
+      "texto": "Desarrollar destrezas sociales, reconociendo y respetando a los compañeros y participar en equipos de trabajo para fomentar un adecuado desarrollo personal y social.",
+      "codigo_oficial": "8",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Matemáticas, segundo ciclo, competencias específicas",
+        "pagina": 101
+      },
+      "orden": 23,
+      "relaciones": {
+        "descriptores": [
+          "MAD.EP.DESC.CCL5",
+          "MAD.EP.DESC.CP3",
+          "MAD.EP.DESC.STEM3",
+          "MAD.EP.DESC.CPSAA1",
+          "MAD.EP.DESC.CPSAA3",
+          "MAD.EP.DESC.CC2",
+          "MAD.EP.DESC.CC3"
+        ]
+      }
+    },
+    {
+      "codigo": "MAD.EP.MAT.C2.CR.8.1",
+      "tipo": "criterio",
+      "texto": "Trabajar en equipo activa y respetuosamente, comunicándose adecuadamente y estableciendo relaciones basadas en la igualdad, la libertad y la resolución pacífica de conflictos.",
+      "codigo_oficial": "8.1",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Matemáticas, segundo ciclo, criterios",
+        "pagina": 101
+      },
+      "orden": 24,
+      "padre": "MAD.EP.MAT.C2.CE.8"
+    },
+    {
+      "codigo": "MAD.EP.MAT.C2.CR.8.2",
+      "tipo": "criterio",
+      "texto": "Participar en el reparto de tareas, asumiendo y respetando las responsabilidades individuales asignadas y empleando estrategias de colaboración y sencillas de trabajo en equipo dirigidas a la consecución de objetivos compartidos.",
+      "codigo_oficial": "8.2",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Matemáticas, segundo ciclo, criterios",
+        "pagina": 101
+      },
+      "orden": 25,
+      "padre": "MAD.EP.MAT.C2.CE.8"
+    },
+    {
+      "codigo": "MAD.EP.MAT.C2.CO.A",
+      "tipo": "bloque_contenidos",
+      "texto": "Números y operaciones",
+      "codigo_oficial": "A",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Matemáticas, segundo ciclo, contenidos",
+        "pagina": 102
+      },
+      "orden": 26
+    },
+    {
+      "codigo": "MAD.EP.MAT.C2.CO.A.1",
+      "tipo": "bloque_contenidos",
+      "texto": "Conteo",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Matemáticas, segundo ciclo, contenidos",
+        "pagina": 102
+      },
+      "orden": 27,
+      "padre": "MAD.EP.MAT.C2.CO.A"
+    },
+    {
+      "codigo": "MAD.EP.MAT.C2.CO.A.1.1",
+      "tipo": "contenido",
+      "texto": "Estrategias variadas de conteo (series ascendentes y descendentes de cadencia 2, 10,100, 1000, 10000, a partir de cualquier número, y de cadencia 5, 25, 50 a partir de un número múltiplo de 5, 25 y 50, recuento sistemático, intercalando números naturales entre otros números dados, ordenando números utilizando los signos “<” y “>” y adaptación del conteo al tamaño de los números en situaciones de la vida cotidiana en cantidades hasta el 99.999.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Matemáticas, segundo ciclo, contenidos",
+        "pagina": 102
+      },
+      "orden": 28,
+      "padre": "MAD.EP.MAT.C2.CO.A.1"
+    },
+    {
+      "codigo": "MAD.EP.MAT.C2.CO.A.1.2",
+      "tipo": "contenido",
+      "texto": "Manejo, en situaciones de la vida cotidiana, de los treinta primeros números ordinales.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Matemáticas, segundo ciclo, contenidos",
+        "pagina": 102
+      },
+      "orden": 29,
+      "padre": "MAD.EP.MAT.C2.CO.A.1"
+    },
+    {
+      "codigo": "MAD.EP.MAT.C2.CO.A.1.3",
+      "tipo": "contenido",
+      "texto": "Numeración romana en situaciones de la vida cotidiana.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Matemáticas, segundo ciclo, contenidos",
+        "pagina": 102
+      },
+      "orden": 30,
+      "padre": "MAD.EP.MAT.C2.CO.A.1"
+    },
+    {
+      "codigo": "MAD.EP.MAT.C2.CO.A.2",
+      "tipo": "bloque_contenidos",
+      "texto": "Cantidad",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Matemáticas, segundo ciclo, contenidos",
+        "pagina": 102
+      },
+      "orden": 31,
+      "padre": "MAD.EP.MAT.C2.CO.A"
+    },
+    {
+      "codigo": "MAD.EP.MAT.C2.CO.A.2.1",
+      "tipo": "contenido",
+      "texto": "Estrategias y técnicas de interpretación y manipulación del orden de magnitud de los números identificando el significado y valor posicional de cada cifra estableciendo equivalencias (milésimas, centésimas, décimas, unidades, decenas, centenas, millares, decenas de millar).",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Matemáticas, segundo ciclo, contenidos",
+        "pagina": 102
+      },
+      "orden": 32,
+      "padre": "MAD.EP.MAT.C2.CO.A.2"
+    },
+    {
+      "codigo": "MAD.EP.MAT.C2.CO.A.2.2",
+      "tipo": "contenido",
+      "texto": "Los números decimales. Tratamiento en contextos cercanos al alumnado.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Matemáticas, segundo ciclo, contenidos",
+        "pagina": 102
+      },
+      "orden": 33,
+      "padre": "MAD.EP.MAT.C2.CO.A.2"
+    },
+    {
+      "codigo": "MAD.EP.MAT.C2.CO.A.2.3",
+      "tipo": "contenido",
+      "texto": "Estimaciones y aproximaciones razonadas de cantidades en contextos de resolución de problemas.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Matemáticas, segundo ciclo, contenidos",
+        "pagina": 102
+      },
+      "orden": 34,
+      "padre": "MAD.EP.MAT.C2.CO.A.2"
+    },
+    {
+      "codigo": "MAD.EP.MAT.C2.CO.A.2.4",
+      "tipo": "contenido",
+      "texto": "Lectura, escritura y representación (incluida la recta numérica y con materiales manipulativos), composición, descomposición aditiva y aditivo-multiplicativa y recomposición de números naturales hasta 99.999.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Matemáticas, segundo ciclo, contenidos",
+        "pagina": 102
+      },
+      "orden": 35,
+      "padre": "MAD.EP.MAT.C2.CO.A.2"
+    },
+    {
+      "codigo": "MAD.EP.MAT.C2.CO.A.2.5",
+      "tipo": "contenido",
+      "texto": "Lectura, escritura y representación de fracciones propias (menor que la unidad) con denominador hasta 12 en contextos de la vida cotidiana e impropias, identificando los términos de las fracciones (numerador y denominador).",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Matemáticas, segundo ciclo, contenidos",
+        "pagina": 102
+      },
+      "orden": 36,
+      "padre": "MAD.EP.MAT.C2.CO.A.2"
+    },
+    {
+      "codigo": "MAD.EP.MAT.C2.CO.A.3",
+      "tipo": "bloque_contenidos",
+      "texto": "Operaciones",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Matemáticas, segundo ciclo, contenidos",
+        "pagina": 102
+      },
+      "orden": 37,
+      "padre": "MAD.EP.MAT.C2.CO.A"
+    },
+    {
+      "codigo": "MAD.EP.MAT.C2.CO.A.3.1",
+      "tipo": "contenido",
+      "texto": "Estrategias de cálculo mental de sumas y restas con números naturales y fracciones.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Matemáticas, segundo ciclo, contenidos",
+        "pagina": 102
+      },
+      "orden": 38,
+      "padre": "MAD.EP.MAT.C2.CO.A.3"
+    },
+    {
+      "codigo": "MAD.EP.MAT.C2.CO.A.3.2",
+      "tipo": "contenido",
+      "texto": "Términos de las operaciones matemáticas.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Matemáticas, segundo ciclo, contenidos",
+        "pagina": 102
+      },
+      "orden": 39,
+      "padre": "MAD.EP.MAT.C2.CO.A.3"
+    },
+    {
+      "codigo": "MAD.EP.MAT.C2.CO.A.3.3",
+      "tipo": "contenido",
+      "texto": "Estrategias de cálculo mental de multiplicación y división de números naturales.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Matemáticas, segundo ciclo, contenidos",
+        "pagina": 102
+      },
+      "orden": 40,
+      "padre": "MAD.EP.MAT.C2.CO.A.3"
+    },
+    {
+      "codigo": "MAD.EP.MAT.C2.CO.A.3.4",
+      "tipo": "contenido",
+      "texto": "Estrategias de reconocimiento de qué operaciones simples (suma, resta, multiplicación, división como reparto y partición) son útiles para resolver situaciones contextualizadas, identificando correctamente los términos propios de las mismas.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Matemáticas, segundo ciclo, contenidos",
+        "pagina": 102
+      },
+      "orden": 41,
+      "padre": "MAD.EP.MAT.C2.CO.A.3"
+    },
+    {
+      "codigo": "MAD.EP.MAT.C2.CO.A.3.5",
+      "tipo": "contenido",
+      "texto": "Construcción de las tablas de multiplicar apoyándose en número de veces, suma repetida o disposición en cuadrículas.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Matemáticas, segundo ciclo, contenidos",
+        "pagina": 102
+      },
+      "orden": 42,
+      "padre": "MAD.EP.MAT.C2.CO.A.3"
+    },
+    {
+      "codigo": "MAD.EP.MAT.C2.CO.A.3.6",
+      "tipo": "contenido",
+      "texto": "Suma, resta, multiplicación y división de números naturales resueltas con flexibilidad y sentido en situaciones contextualizadas: estrategias y herramientas de resolución y propiedades de cada una de ellas (conmutativa, asociativa, distributiva, elemento neutro y nulo).",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Matemáticas, segundo ciclo, contenidos",
+        "pagina": 102
+      },
+      "orden": 43,
+      "padre": "MAD.EP.MAT.C2.CO.A.3"
+    },
+    {
+      "codigo": "MAD.EP.MAT.C2.CO.A.3.7",
+      "tipo": "contenido",
+      "texto": "Sumas y restas sencillas con números decimales.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Matemáticas, segundo ciclo, contenidos",
+        "pagina": 102
+      },
+      "orden": 44,
+      "padre": "MAD.EP.MAT.C2.CO.A.3"
+    },
+    {
+      "codigo": "MAD.EP.MAT.C2.CO.A.3.8",
+      "tipo": "contenido",
+      "texto": "Representación de divisiones como fracciones, calculando mitad, tercera parte, cuarta parte de números pares múltiplos de 3 y 4 respectivamente.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Matemáticas, segundo ciclo, contenidos",
+        "pagina": 102
+      },
+      "orden": 45,
+      "padre": "MAD.EP.MAT.C2.CO.A.3"
+    },
+    {
+      "codigo": "MAD.EP.MAT.C2.CO.A.3.9",
+      "tipo": "contenido",
+      "texto": "Aplicación del orden de operaciones (suma/resta y multiplicación/división) en números naturales",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Matemáticas, segundo ciclo, contenidos",
+        "pagina": 102
+      },
+      "orden": 46,
+      "padre": "MAD.EP.MAT.C2.CO.A.3"
+    },
+    {
+      "codigo": "MAD.EP.MAT.C2.CO.A.4",
+      "tipo": "bloque_contenidos",
+      "texto": "Relaciones",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Matemáticas, segundo ciclo, contenidos",
+        "pagina": 102
+      },
+      "orden": 47,
+      "padre": "MAD.EP.MAT.C2.CO.A"
+    },
+    {
+      "codigo": "MAD.EP.MAT.C2.CO.A.4.1",
+      "tipo": "contenido",
+      "texto": "Sistema de numeración de base diez (hasta el 99.999) identificando el valor posicional de las cifras y estableciendo equivalencias entre decenas de millar, millares, centenas, decenas, unidades, décimas, centésima y milésimas: aplicación de las relaciones que genera en las operaciones.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Matemáticas, segundo ciclo, contenidos",
+        "pagina": 102
+      },
+      "orden": 48,
+      "padre": "MAD.EP.MAT.C2.CO.A.4"
+    },
+    {
+      "codigo": "MAD.EP.MAT.C2.CO.A.4.2",
+      "tipo": "contenido",
+      "texto": "Números naturales y fracciones en contextos de la vida cotidiana: comparación y ordenación, y equivalencias entre fracciones y números decimales exactos y periódicos.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Matemáticas, segundo ciclo, contenidos",
+        "pagina": 102
+      },
+      "orden": 49,
+      "padre": "MAD.EP.MAT.C2.CO.A.4"
+    },
+    {
+      "codigo": "MAD.EP.MAT.C2.CO.A.4.3",
+      "tipo": "contenido",
+      "texto": "Relaciones entre la suma y la resta, y la multiplicación y la división: aplicación en contextos cotidianos.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Matemáticas, segundo ciclo, contenidos",
+        "pagina": 102
+      },
+      "orden": 50,
+      "padre": "MAD.EP.MAT.C2.CO.A.4"
+    },
+    {
+      "codigo": "MAD.EP.MAT.C2.CO.A.5",
+      "tipo": "bloque_contenidos",
+      "texto": "Educación financiera",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Matemáticas, segundo ciclo, contenidos",
+        "pagina": 103
+      },
+      "orden": 51,
+      "padre": "MAD.EP.MAT.C2.CO.A"
+    },
+    {
+      "codigo": "MAD.EP.MAT.C2.CO.A.5.1",
+      "tipo": "contenido",
+      "texto": "Cálculo y estimación de cantidades y cambios (equivalencias entre euros y céntimos de euro) en problemas de la vida cotidiana: ingresos, gastos y ahorro. Decisiones de compra responsable.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Matemáticas, segundo ciclo, contenidos",
+        "pagina": 103
+      },
+      "orden": 52,
+      "padre": "MAD.EP.MAT.C2.CO.A.5"
+    },
+    {
+      "codigo": "MAD.EP.MAT.C2.CO.A.5.2",
+      "tipo": "contenido",
+      "texto": "Presupuesto personal. Planificación de ingresos y gastos.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Matemáticas, segundo ciclo, contenidos",
+        "pagina": 103
+      },
+      "orden": 53,
+      "padre": "MAD.EP.MAT.C2.CO.A.5"
+    },
+    {
+      "codigo": "MAD.EP.MAT.C2.CO.B",
+      "tipo": "bloque_contenidos",
+      "texto": "Medida",
+      "codigo_oficial": "B",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Matemáticas, segundo ciclo, contenidos",
+        "pagina": 103
+      },
+      "orden": 54
+    },
+    {
+      "codigo": "MAD.EP.MAT.C2.CO.B.1",
+      "tipo": "bloque_contenidos",
+      "texto": "Magnitud",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Matemáticas, segundo ciclo, contenidos",
+        "pagina": 103
+      },
+      "orden": 55,
+      "padre": "MAD.EP.MAT.C2.CO.B"
+    },
+    {
+      "codigo": "MAD.EP.MAT.C2.CO.B.1.1",
+      "tipo": "contenido",
+      "texto": "Atributos mensurables de los objetos (longitud, masa, capacidad, superficie, volumen y amplitud del ángulo).",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Matemáticas, segundo ciclo, contenidos",
+        "pagina": 103
+      },
+      "orden": 56,
+      "padre": "MAD.EP.MAT.C2.CO.B.1"
+    },
+    {
+      "codigo": "MAD.EP.MAT.C2.CO.B.1.2",
+      "tipo": "contenido",
+      "texto": "Unidades convencionales (km, hm, dam, m, dm cm, mm; Tn, kg, hg, dag, g, dg, cg, mg; kl, hl, dal, l, dl, cl y ml) y no convencionales en situaciones de la vida cotidiana, utilizando las abreviaturas de las diferentes unidades. Medida del tiempo (año, mes, semana, día, hora, minutos y segundos) y determinación de la duración de periodos de tiempo.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Matemáticas, segundo ciclo, contenidos",
+        "pagina": 103
+      },
+      "orden": 57,
+      "padre": "MAD.EP.MAT.C2.CO.B.1"
+    },
+    {
+      "codigo": "MAD.EP.MAT.C2.CO.B.2",
+      "tipo": "bloque_contenidos",
+      "texto": "Medición",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Matemáticas, segundo ciclo, contenidos",
+        "pagina": 103
+      },
+      "orden": 58,
+      "padre": "MAD.EP.MAT.C2.CO.B"
+    },
+    {
+      "codigo": "MAD.EP.MAT.C2.CO.B.2.1",
+      "tipo": "contenido",
+      "texto": "Estrategias para realizar mediciones con instrumentos y unidades no convencionales (repetición de una unidad, uso de cuadrículas y materiales manipulativos) y convencionales.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Matemáticas, segundo ciclo, contenidos",
+        "pagina": 103
+      },
+      "orden": 59,
+      "padre": "MAD.EP.MAT.C2.CO.B.2"
+    },
+    {
+      "codigo": "MAD.EP.MAT.C2.CO.B.2.2",
+      "tipo": "contenido",
+      "texto": "Procesos de medición mediante instrumentos convencionales (regla, cinta métrica, balanzas, reloj analógico y digital) expresando las mediciones de forma compleja e incompleja.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Matemáticas, segundo ciclo, contenidos",
+        "pagina": 103
+      },
+      "orden": 60,
+      "padre": "MAD.EP.MAT.C2.CO.B.2"
+    },
+    {
+      "codigo": "MAD.EP.MAT.C2.CO.B.3",
+      "tipo": "bloque_contenidos",
+      "texto": "Estimación y relaciones",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Matemáticas, segundo ciclo, contenidos",
+        "pagina": 103
+      },
+      "orden": 61,
+      "padre": "MAD.EP.MAT.C2.CO.B"
+    },
+    {
+      "codigo": "MAD.EP.MAT.C2.CO.B.3.1",
+      "tipo": "contenido",
+      "texto": "Estrategias de comparación y ordenación de medidas de la misma magnitud (km, hm, dam, m, dm cm, mm; Tn, kg, hg, dag, g, dg, cg, mg; kl, hl, dal, l, dl, cl y ml) aplicación de equivalencias entre unidades en problemas de la vida cotidiana que impliquen convertir en unidades más pequeñas.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Matemáticas, segundo ciclo, contenidos",
+        "pagina": 103
+      },
+      "orden": 62,
+      "padre": "MAD.EP.MAT.C2.CO.B.3"
+    },
+    {
+      "codigo": "MAD.EP.MAT.C2.CO.B.3.2",
+      "tipo": "contenido",
+      "texto": "Estimación de medidas de longitud, masa, capacidad y tiempo por comparación y buscando estrategias de equivalencias entre unidades de las mismas magnitudes.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Matemáticas, segundo ciclo, contenidos",
+        "pagina": 103
+      },
+      "orden": 63,
+      "padre": "MAD.EP.MAT.C2.CO.B.3"
+    },
+    {
+      "codigo": "MAD.EP.MAT.C2.CO.B.3.3",
+      "tipo": "contenido",
+      "texto": "Evaluación de resultados de mediciones y estimaciones o cálculos (suma y resta) de medidas.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Matemáticas, segundo ciclo, contenidos",
+        "pagina": 103
+      },
+      "orden": 64,
+      "padre": "MAD.EP.MAT.C2.CO.B.3"
+    },
+    {
+      "codigo": "MAD.EP.MAT.C2.CO.C",
+      "tipo": "bloque_contenidos",
+      "texto": "Geometría",
+      "codigo_oficial": "C",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Matemáticas, segundo ciclo, contenidos",
+        "pagina": 103
+      },
+      "orden": 65
+    },
+    {
+      "codigo": "MAD.EP.MAT.C2.CO.C.1",
+      "tipo": "bloque_contenidos",
+      "texto": "Figuras geométricas de dos y tres dimensiones",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Matemáticas, segundo ciclo, contenidos",
+        "pagina": 103
+      },
+      "orden": 66,
+      "padre": "MAD.EP.MAT.C2.CO.C"
+    },
+    {
+      "codigo": "MAD.EP.MAT.C2.CO.C.1.1",
+      "tipo": "contenido",
+      "texto": "Figuras geométricas de dos o tres dimensiones en objetos de la vida cotidiana: identificación y clasificación atendiendo a sus elementos y a las relaciones entre ellos.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Matemáticas, segundo ciclo, contenidos",
+        "pagina": 103
+      },
+      "orden": 67,
+      "padre": "MAD.EP.MAT.C2.CO.C.1"
+    },
+    {
+      "codigo": "MAD.EP.MAT.C2.CO.C.1.2",
+      "tipo": "contenido",
+      "texto": "Estrategias y técnicas de construcción de figuras geométricas de dos dimensiones por composición y descomposición, mediante materiales manipulables, instrumentos de dibujo (regla, escuadra, cartabón, compás, transportador de ángulos...) y aplicaciones informáticas.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Matemáticas, segundo ciclo, contenidos",
+        "pagina": 103
+      },
+      "orden": 68,
+      "padre": "MAD.EP.MAT.C2.CO.C.1"
+    },
+    {
+      "codigo": "MAD.EP.MAT.C2.CO.C.1.3",
+      "tipo": "contenido",
+      "texto": "Vocabulario: Punto, recta (paralelas, perpendiculares coincidentes y secantes), semirrecta, segmento, ángulo (agudo, recto, obtuso), polígono (regulares, irregulares, sus propiedades y clasificación según lados y ángulos), elementos de los polígonos (lado, vértice, ángulo), circunferencia (diámetro, radio, cuerda, arco) y círculo, poliedros( prismas, cubos, esferas, pirámides, cilindros) y sus elementos (caras, vértices, aristas); simetría, perímetro y área, descripción verbal de los elementos y las propiedades de figuras geométricas sencillas.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Matemáticas, segundo ciclo, contenidos",
+        "pagina": 103
+      },
+      "orden": 69,
+      "padre": "MAD.EP.MAT.C2.CO.C.1"
+    },
+    {
+      "codigo": "MAD.EP.MAT.C2.CO.C.1.4",
+      "tipo": "contenido",
+      "texto": "Propiedades de figuras geométricas de dos y tres dimensiones: exploración mediante materiales manipulables (cuadrículas, geoplanos, policubos, etc.) y el manejo de herramientas digitales (programas de geometría dinámica, realidad aumentada, robótica educativa, etc.).",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Matemáticas, segundo ciclo, contenidos",
+        "pagina": 103
+      },
+      "orden": 70,
+      "padre": "MAD.EP.MAT.C2.CO.C.1"
+    },
+    {
+      "codigo": "MAD.EP.MAT.C2.CO.C.2",
+      "tipo": "bloque_contenidos",
+      "texto": "Localización y sistemas de representación",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Matemáticas, segundo ciclo, contenidos",
+        "pagina": 103
+      },
+      "orden": 71,
+      "padre": "MAD.EP.MAT.C2.CO.C"
+    },
+    {
+      "codigo": "MAD.EP.MAT.C2.CO.C.2.1",
+      "tipo": "contenido",
+      "texto": "Descripción de la posición relativa de objetos en el espacio o de sus representaciones, utilizando vocabulario geométrico adecuado (paralelo, perpendicular, oblicuo, derecha, izquierda, al lado de, encima de, arriba a la derecha, arriba a la izquierda, abajo a la derecha, abajo a la izquierda, subir, bajar, girar a la derecha, girar a la izquierda, etc.).",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Matemáticas, segundo ciclo, contenidos",
+        "pagina": 103
+      },
+      "orden": 72,
+      "padre": "MAD.EP.MAT.C2.CO.C.2"
+    },
+    {
+      "codigo": "MAD.EP.MAT.C2.CO.C.2.2",
+      "tipo": "contenido",
+      "texto": "Descripción verbal e interpretación de movimientos (dirección, sentido, distancia, giros y simetrías), en relación a uno mismo o a otros puntos de referencia, utilizando vocabulario geométrico adecuado.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Matemáticas, segundo ciclo, contenidos",
+        "pagina": 103
+      },
+      "orden": 73,
+      "padre": "MAD.EP.MAT.C2.CO.C.2"
+    },
+    {
+      "codigo": "MAD.EP.MAT.C2.CO.C.2.3",
+      "tipo": "contenido",
+      "texto": "Interpretación de itinerarios en planos, utilizando soportes físicos y virtuales.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Matemáticas, segundo ciclo, contenidos",
+        "pagina": 103
+      },
+      "orden": 74,
+      "padre": "MAD.EP.MAT.C2.CO.C.2"
+    },
+    {
+      "codigo": "MAD.EP.MAT.C2.CO.C.3",
+      "tipo": "bloque_contenidos",
+      "texto": "Movimientos y transformaciones",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Matemáticas, segundo ciclo, contenidos",
+        "pagina": 104
+      },
+      "orden": 75,
+      "padre": "MAD.EP.MAT.C2.CO.C"
+    },
+    {
+      "codigo": "MAD.EP.MAT.C2.CO.C.3.1",
+      "tipo": "contenido",
+      "texto": "Identificación de figuras transformadas mediante traslaciones y simetrías en situaciones de la vida cotidiana.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Matemáticas, segundo ciclo, contenidos",
+        "pagina": 104
+      },
+      "orden": 76,
+      "padre": "MAD.EP.MAT.C2.CO.C.3"
+    },
+    {
+      "codigo": "MAD.EP.MAT.C2.CO.C.3.2",
+      "tipo": "contenido",
+      "texto": "Generación de figuras transformadas a partir de simetrías y traslaciones de un patrón inicial y predicción del resultado.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Matemáticas, segundo ciclo, contenidos",
+        "pagina": 104
+      },
+      "orden": 77,
+      "padre": "MAD.EP.MAT.C2.CO.C.3"
+    },
+    {
+      "codigo": "MAD.EP.MAT.C2.CO.C.4",
+      "tipo": "bloque_contenidos",
+      "texto": "Visualización, razonamiento y modelización geométrica",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Matemáticas, segundo ciclo, contenidos",
+        "pagina": 104
+      },
+      "orden": 78,
+      "padre": "MAD.EP.MAT.C2.CO.C"
+    },
+    {
+      "codigo": "MAD.EP.MAT.C2.CO.C.4.1",
+      "tipo": "contenido",
+      "texto": "Estrategias para el cálculo de perímetros de figuras planas y utilización en la resolución de problemas de la vida cotidiana.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Matemáticas, segundo ciclo, contenidos",
+        "pagina": 104
+      },
+      "orden": 79,
+      "padre": "MAD.EP.MAT.C2.CO.C.4"
+    },
+    {
+      "codigo": "MAD.EP.MAT.C2.CO.C.4.2",
+      "tipo": "contenido",
+      "texto": "Modelos geométricos en la resolución de problemas relacionados con los otros bloques.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Matemáticas, segundo ciclo, contenidos",
+        "pagina": 104
+      },
+      "orden": 80,
+      "padre": "MAD.EP.MAT.C2.CO.C.4"
+    },
+    {
+      "codigo": "MAD.EP.MAT.C2.CO.C.4.3",
+      "tipo": "contenido",
+      "texto": "Reconocimiento de relaciones geométricas en campos ajenos a la clase de matemáticas, como el arte, las ciencias y la vida cotidiana.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Matemáticas, segundo ciclo, contenidos",
+        "pagina": 104
+      },
+      "orden": 81,
+      "padre": "MAD.EP.MAT.C2.CO.C.4"
+    },
+    {
+      "codigo": "MAD.EP.MAT.C2.CO.D",
+      "tipo": "bloque_contenidos",
+      "texto": "Álgebra",
+      "codigo_oficial": "D",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Matemáticas, segundo ciclo, contenidos",
+        "pagina": 104
+      },
+      "orden": 82
+    },
+    {
+      "codigo": "MAD.EP.MAT.C2.CO.D.1",
+      "tipo": "bloque_contenidos",
+      "texto": "Patrones",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Matemáticas, segundo ciclo, contenidos",
+        "pagina": 104
+      },
+      "orden": 83,
+      "padre": "MAD.EP.MAT.C2.CO.D"
+    },
+    {
+      "codigo": "MAD.EP.MAT.C2.CO.D.1.1",
+      "tipo": "contenido",
+      "texto": "Identificación, descripción verbal, representación y predicción razonada de términos a partir de las regularidades en una colección de números, figuras o imágenes.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Matemáticas, segundo ciclo, contenidos",
+        "pagina": 104
+      },
+      "orden": 84,
+      "padre": "MAD.EP.MAT.C2.CO.D.1"
+    },
+    {
+      "codigo": "MAD.EP.MAT.C2.CO.D.2",
+      "tipo": "bloque_contenidos",
+      "texto": "Modelo matemático",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Matemáticas, segundo ciclo, contenidos",
+        "pagina": 104
+      },
+      "orden": 85,
+      "padre": "MAD.EP.MAT.C2.CO.D"
+    },
+    {
+      "codigo": "MAD.EP.MAT.C2.CO.D.2.1",
+      "tipo": "contenido",
+      "texto": "Proceso pautado de modelización usando representaciones matemáticas (gráficas, tablas...) para facilitar la comprensión y la resolución de problemas de la vida cotidiana.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Matemáticas, segundo ciclo, contenidos",
+        "pagina": 104
+      },
+      "orden": 86,
+      "padre": "MAD.EP.MAT.C2.CO.D.2"
+    },
+    {
+      "codigo": "MAD.EP.MAT.C2.CO.D.3",
+      "tipo": "bloque_contenidos",
+      "texto": "Relaciones y funciones",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Matemáticas, segundo ciclo, contenidos",
+        "pagina": 104
+      },
+      "orden": 87,
+      "padre": "MAD.EP.MAT.C2.CO.D"
+    },
+    {
+      "codigo": "MAD.EP.MAT.C2.CO.D.3.1",
+      "tipo": "contenido",
+      "texto": "Relaciones de igualdad y desigualdad y uso de los signos = y ≠ entre expresiones que incluyan operaciones y sus propiedades.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Matemáticas, segundo ciclo, contenidos",
+        "pagina": 104
+      },
+      "orden": 88,
+      "padre": "MAD.EP.MAT.C2.CO.D.3"
+    },
+    {
+      "codigo": "MAD.EP.MAT.C2.CO.D.3.2",
+      "tipo": "contenido",
+      "texto": "La igualdad como expresión de una relación de equivalencia entre dos elementos y obtención de datos sencillos desconocidos (representados por medio de un símbolo) en cualquiera de los dos elementos.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Matemáticas, segundo ciclo, contenidos",
+        "pagina": 104
+      },
+      "orden": 89,
+      "padre": "MAD.EP.MAT.C2.CO.D.3"
+    },
+    {
+      "codigo": "MAD.EP.MAT.C2.CO.D.3.3",
+      "tipo": "contenido",
+      "texto": "Representación de la relación <<mayor que>> y <<menor que>>, y uso de los signos < y > en el campo numérico inferior a 99.999.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Matemáticas, segundo ciclo, contenidos",
+        "pagina": 104
+      },
+      "orden": 90,
+      "padre": "MAD.EP.MAT.C2.CO.D.3"
+    },
+    {
+      "codigo": "MAD.EP.MAT.C2.CO.D.4",
+      "tipo": "bloque_contenidos",
+      "texto": "Pensamiento computacional",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Matemáticas, segundo ciclo, contenidos",
+        "pagina": 104
+      },
+      "orden": 91,
+      "padre": "MAD.EP.MAT.C2.CO.D"
+    },
+    {
+      "codigo": "MAD.EP.MAT.C2.CO.D.4.1",
+      "tipo": "contenido",
+      "texto": "Estrategias para la interpretación y modificación de algoritmos sencillos (reglas de juegos, instrucciones secuenciales, bucles, patrones repetitivos, programación por bloques, robótica educativa...).",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Matemáticas, segundo ciclo, contenidos",
+        "pagina": 104
+      },
+      "orden": 92,
+      "padre": "MAD.EP.MAT.C2.CO.D.4"
+    },
+    {
+      "codigo": "MAD.EP.MAT.C2.CO.E",
+      "tipo": "bloque_contenidos",
+      "texto": "Estadística y probabilidad",
+      "codigo_oficial": "E",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Matemáticas, segundo ciclo, contenidos",
+        "pagina": 104
+      },
+      "orden": 93
+    },
+    {
+      "codigo": "MAD.EP.MAT.C2.CO.E.1",
+      "tipo": "bloque_contenidos",
+      "texto": "Organización y análisis de datos",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Matemáticas, segundo ciclo, contenidos",
+        "pagina": 104
+      },
+      "orden": 94,
+      "padre": "MAD.EP.MAT.C2.CO.E"
+    },
+    {
+      "codigo": "MAD.EP.MAT.C2.CO.E.1.1",
+      "tipo": "contenido",
+      "texto": "Gráficos estadísticos de la vida cotidiana (pictogramas, gráficas de barras, histogramas...): lectura e interpretación.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Matemáticas, segundo ciclo, contenidos",
+        "pagina": 104
+      },
+      "orden": 95,
+      "padre": "MAD.EP.MAT.C2.CO.E.1"
+    },
+    {
+      "codigo": "MAD.EP.MAT.C2.CO.E.1.2",
+      "tipo": "contenido",
+      "texto": "Estrategias sencillas para la recogida, clasificación y organización de datos cualitativos o cuantitativos discretos en muestras pequeñas mediante calculadora y aplicaciones informáticas sencillas. Frecuencia absoluta: interpretación.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Matemáticas, segundo ciclo, contenidos",
+        "pagina": 104
+      },
+      "orden": 96,
+      "padre": "MAD.EP.MAT.C2.CO.E.1"
+    },
+    {
+      "codigo": "MAD.EP.MAT.C2.CO.E.1.3",
+      "tipo": "contenido",
+      "texto": "Gráficos estadísticos sencillos (diagrama de barras y pictogramas) para representar datos, seleccionando el más conveniente mediante recursos tradicionales y aplicaciones informáticas sencillas.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Matemáticas, segundo ciclo, contenidos",
+        "pagina": 104
+      },
+      "orden": 97,
+      "padre": "MAD.EP.MAT.C2.CO.E.1"
+    },
+    {
+      "codigo": "MAD.EP.MAT.C2.CO.E.1.4",
+      "tipo": "contenido",
+      "texto": "La moda: interpretación como el dato más frecuente.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Matemáticas, segundo ciclo, contenidos",
+        "pagina": 104
+      },
+      "orden": 98,
+      "padre": "MAD.EP.MAT.C2.CO.E.1"
+    },
+    {
+      "codigo": "MAD.EP.MAT.C2.CO.E.1.5",
+      "tipo": "contenido",
+      "texto": "Comparación gráfica de dos conjuntos de datos para establecer relaciones y extraer conclusiones.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Matemáticas, segundo ciclo, contenidos",
+        "pagina": 104
+      },
+      "orden": 99,
+      "padre": "MAD.EP.MAT.C2.CO.E.1"
+    },
+    {
+      "codigo": "MAD.EP.MAT.C2.CO.E.2",
+      "tipo": "bloque_contenidos",
+      "texto": "Incertidumbre",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Matemáticas, segundo ciclo, contenidos",
+        "pagina": 104
+      },
+      "orden": 100,
+      "padre": "MAD.EP.MAT.C2.CO.E"
+    },
+    {
+      "codigo": "MAD.EP.MAT.C2.CO.E.2.1",
+      "tipo": "contenido",
+      "texto": "La probabilidad como medida subjetiva de la incertidumbre. Reconocimiento de la incertidumbre en situaciones de la vida cotidiana y mediante la realización de experimentos.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Matemáticas, segundo ciclo, contenidos",
+        "pagina": 104
+      },
+      "orden": 101,
+      "padre": "MAD.EP.MAT.C2.CO.E.2"
+    },
+    {
+      "codigo": "MAD.EP.MAT.C2.CO.E.2.2",
+      "tipo": "contenido",
+      "texto": "Identificación de suceso seguro, suceso posible y suceso imposible.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Matemáticas, segundo ciclo, contenidos",
+        "pagina": 104
+      },
+      "orden": 102,
+      "padre": "MAD.EP.MAT.C2.CO.E.2"
+    },
+    {
+      "codigo": "MAD.EP.MAT.C2.CO.E.2.3",
+      "tipo": "contenido",
+      "texto": "Diferenciación entre posible y probable.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Matemáticas, segundo ciclo, contenidos",
+        "pagina": 104
+      },
+      "orden": 103,
+      "padre": "MAD.EP.MAT.C2.CO.E.2"
+    },
+    {
+      "codigo": "MAD.EP.MAT.C2.CO.E.2.4",
+      "tipo": "contenido",
+      "texto": "Comparación de la probabilidad de dos sucesos de forma intuitiva.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Matemáticas, segundo ciclo, contenidos",
+        "pagina": 104
+      },
+      "orden": 104,
+      "padre": "MAD.EP.MAT.C2.CO.E.2"
+    },
+    {
+      "codigo": "MAD.EP.MAT.C2.CO.E.3",
+      "tipo": "bloque_contenidos",
+      "texto": "Inferencia",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Matemáticas, segundo ciclo, contenidos",
+        "pagina": 104
+      },
+      "orden": 105,
+      "padre": "MAD.EP.MAT.C2.CO.E"
+    },
+    {
+      "codigo": "MAD.EP.MAT.C2.CO.E.3.1",
+      "tipo": "contenido",
+      "texto": "Formulación de conjeturas a partir de los datos recogidos y analizados, dándoles sentido en el contexto de estudio.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Matemáticas, segundo ciclo, contenidos",
+        "pagina": 104
+      },
+      "orden": 106,
+      "padre": "MAD.EP.MAT.C2.CO.E.3"
+    },
+    {
+      "codigo": "MAD.EP.MAT.C2.CO.F",
+      "tipo": "bloque_contenidos",
+      "texto": "Actitudes y aprendizaje",
+      "codigo_oficial": "F",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Matemáticas, segundo ciclo, contenidos",
+        "pagina": 105
+      },
+      "orden": 107
+    },
+    {
+      "codigo": "MAD.EP.MAT.C2.CO.F.1",
+      "tipo": "bloque_contenidos",
+      "texto": "Creencias, actitudes y valoración personal",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Matemáticas, segundo ciclo, contenidos",
+        "pagina": 105
+      },
+      "orden": 108,
+      "padre": "MAD.EP.MAT.C2.CO.F"
+    },
+    {
+      "codigo": "MAD.EP.MAT.C2.CO.F.1.1",
+      "tipo": "contenido",
+      "texto": "Valoración de la superación, del esfuerzo, del triunfo y aceptación del error. Iniciativa y tolerancia ante la frustración en el aprendizaje de las matemáticas.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Matemáticas, segundo ciclo, contenidos",
+        "pagina": 105
+      },
+      "orden": 109,
+      "padre": "MAD.EP.MAT.C2.CO.F.1"
+    },
+    {
+      "codigo": "MAD.EP.MAT.C2.CO.F.1.2",
+      "tipo": "contenido",
+      "texto": "Fomento de la autonomía y estrategias para la toma de decisiones en situaciones de resolución de problemas.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Matemáticas, segundo ciclo, contenidos",
+        "pagina": 105
+      },
+      "orden": 110,
+      "padre": "MAD.EP.MAT.C2.CO.F.1"
+    },
+    {
+      "codigo": "MAD.EP.MAT.C2.CO.F.2",
+      "tipo": "bloque_contenidos",
+      "texto": "Trabajo en equipo, inclusión, respeto y diversidad",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Matemáticas, segundo ciclo, contenidos",
+        "pagina": 105
+      },
+      "orden": 111,
+      "padre": "MAD.EP.MAT.C2.CO.F"
+    },
+    {
+      "codigo": "MAD.EP.MAT.C2.CO.F.2.1",
+      "tipo": "contenido",
+      "texto": "Sensibilidad y respeto ante las diferencias individuales presentes en el aula: identificación y rechazo de actitudes discriminatorias.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Matemáticas, segundo ciclo, contenidos",
+        "pagina": 105
+      },
+      "orden": 112,
+      "padre": "MAD.EP.MAT.C2.CO.F.2"
+    },
+    {
+      "codigo": "MAD.EP.MAT.C2.CO.F.2.2",
+      "tipo": "contenido",
+      "texto": "Participación activa en el trabajo en equipo, escucha activa y respeto por el trabajo de los demás.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Matemáticas, segundo ciclo, contenidos",
+        "pagina": 105
+      },
+      "orden": 113,
+      "padre": "MAD.EP.MAT.C2.CO.F.2"
+    },
+    {
+      "codigo": "MAD.EP.MAT.C2.CO.F.2.3",
+      "tipo": "contenido",
+      "texto": "Reconocimiento y comprensión de las experiencias de los demás ante las matemáticas.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Matemáticas, segundo ciclo, contenidos",
+        "pagina": 105
+      },
+      "orden": 114,
+      "padre": "MAD.EP.MAT.C2.CO.F.2"
+    },
+    {
+      "codigo": "MAD.EP.MAT.C2.CO.F.2.4",
+      "tipo": "contenido",
+      "texto": "Valoración de la contribución de las matemáticas a los distintos ámbitos del conocimiento humano.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Matemáticas, segundo ciclo, contenidos",
+        "pagina": 105
+      },
+      "orden": 115,
+      "padre": "MAD.EP.MAT.C2.CO.F.2"
+    }
+  ]
+}

@@ -1,0 +1,941 @@
+{
+  "codigo": "MAD.EP.CN.C3",
+  "nombre": "Ciencias de la Naturaleza, tercer ciclo",
+  "etapa": "primaria",
+  "ciclo": "C3",
+  "curso": null,
+  "cursos_academicos": [
+    "2026-27"
+  ],
+  "normas": [
+    "bocm-20220718-1",
+    "boe-a-2022-3296"
+  ],
+  "elementos": [
+    {
+      "codigo": "MAD.EP.CN.C3.CE.1",
+      "tipo": "competencia_especifica",
+      "texto": "Utilizar dispositivos y recursos digitales de forma segura, responsable y eficiente, para buscar información, comunicarse y trabajar de manera individual, en equipo y en red, y para reelaborar y crear contenido digital.",
+      "codigo_oficial": "1",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias de la Naturaleza, tercer ciclo, competencias específicas",
+        "pagina": 39
+      },
+      "orden": 1,
+      "relaciones": {
+        "descriptores": [
+          "MAD.EP.DESC.CCL3",
+          "MAD.EP.DESC.STEM4",
+          "MAD.EP.DESC.CD1",
+          "MAD.EP.DESC.CD2",
+          "MAD.EP.DESC.CD3",
+          "MAD.EP.DESC.CD4",
+          "MAD.EP.DESC.CD5",
+          "MAD.EP.DESC.CCEC4"
+        ]
+      },
+      "datos": {
+        "equivalencia_rd": "CMNSC.CE1"
+      }
+    },
+    {
+      "codigo": "MAD.EP.CN.C3.CR.1.1",
+      "tipo": "criterio",
+      "texto": "Utilizar recursos digitales de acuerdo con las necesidades del contexto educativo de forma responsable, segura, eficiente y autónoma, buscando información, comunicándose y trabajando de forma individual, en equipo y en red, reelaborando y creando contenidos digitales sencillos.",
+      "codigo_oficial": "1.1",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias de la Naturaleza, tercer ciclo, criterios",
+        "pagina": 39
+      },
+      "orden": 2,
+      "padre": "MAD.EP.CN.C3.CE.1"
+    },
+    {
+      "codigo": "MAD.EP.CN.C3.CE.2",
+      "tipo": "competencia_especifica",
+      "texto": "Plantear y dar respuesta a cuestiones científicas sencillas, utilizando diferentes técnicas, instrumentos y modelos propios del pensamiento científico, para interpretar y explicar hechos y fenómenos que ocurren en el medio.",
+      "codigo_oficial": "2",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias de la Naturaleza, tercer ciclo, competencias específicas",
+        "pagina": 39
+      },
+      "orden": 3,
+      "relaciones": {
+        "descriptores": [
+          "MAD.EP.DESC.CCL1",
+          "MAD.EP.DESC.CCL2",
+          "MAD.EP.DESC.CCL3",
+          "MAD.EP.DESC.STEM2",
+          "MAD.EP.DESC.STEM4",
+          "MAD.EP.DESC.CD1",
+          "MAD.EP.DESC.CD2",
+          "MAD.EP.DESC.CC4"
+        ]
+      },
+      "datos": {
+        "equivalencia_rd": "CMNSC.CE2"
+      }
+    },
+    {
+      "codigo": "MAD.EP.CN.C3.CR.2.1",
+      "tipo": "criterio",
+      "texto": "Formular preguntas y realizar predicciones razonadas sobre el medio mostrando y manteniendo la curiosidad, aplicando una metodología hipotético-inductiva.",
+      "codigo_oficial": "2.1",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias de la Naturaleza, tercer ciclo, criterios",
+        "pagina": 39
+      },
+      "orden": 4,
+      "padre": "MAD.EP.CN.C3.CE.2"
+    },
+    {
+      "codigo": "MAD.EP.CN.C3.CR.2.2",
+      "tipo": "criterio",
+      "texto": "Buscar, seleccionar y contrastar información, de diferentes fuentes seguras y fiables, usando los criterios de fiabilidad de fuentes, adquiriendo léxico científico básico, y utilizándola en investigaciones relacionadas con el medio.",
+      "codigo_oficial": "2.2",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias de la Naturaleza, tercer ciclo, criterios",
+        "pagina": 39
+      },
+      "orden": 5,
+      "padre": "MAD.EP.CN.C3.CE.2"
+    },
+    {
+      "codigo": "MAD.EP.CN.C3.CR.2.3",
+      "tipo": "criterio",
+      "texto": "Diseñar y realizar experimentos guiados, cuando la investigación lo requiera, utilizando diferentes técnicas de indagación y modelos, empleando de forma segura los instrumentos y dispositivos apropiados, realizando observaciones objetivas y estructuradas y mediciones precisas y registrándolas correctamente.",
+      "codigo_oficial": "2.3",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias de la Naturaleza, tercer ciclo, criterios",
+        "pagina": 39
+      },
+      "orden": 6,
+      "padre": "MAD.EP.CN.C3.CE.2"
+    },
+    {
+      "codigo": "MAD.EP.CN.C3.CR.2.4",
+      "tipo": "criterio",
+      "texto": "Proponer posibles respuestas a las preguntas planteadas, a través del análisis y la interpretación de la información y los resultados obtenidos, valorando la coherencia de las posibles soluciones y comparándolas con las predicciones realizadas.",
+      "codigo_oficial": "2.4",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias de la Naturaleza, tercer ciclo, criterios",
+        "pagina": 39
+      },
+      "orden": 7,
+      "padre": "MAD.EP.CN.C3.CE.2"
+    },
+    {
+      "codigo": "MAD.EP.CN.C3.CR.2.5",
+      "tipo": "criterio",
+      "texto": "Comunicar los resultados de las investigaciones adaptando el mensaje y el formato a la audiencia a la que va dirigido, utilizando lenguaje científico o aplicado y explicando los pasos seguidos de forma pormenorizada y aportando argumentos para defender las propuestas que considere veraces.",
+      "codigo_oficial": "2.5",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias de la Naturaleza, tercer ciclo, criterios",
+        "pagina": 39
+      },
+      "orden": 8,
+      "padre": "MAD.EP.CN.C3.CE.2"
+    },
+    {
+      "codigo": "MAD.EP.CN.C3.CE.3",
+      "tipo": "competencia_especifica",
+      "texto": "Resolver problemas a través de proyectos de diseño y de la aplicación del pensamiento computacional, generando nuevos productos según necesidades.",
+      "codigo_oficial": "3",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias de la Naturaleza, tercer ciclo, competencias específicas",
+        "pagina": 39
+      },
+      "orden": 9,
+      "relaciones": {
+        "descriptores": [
+          "MAD.EP.DESC.STEM3",
+          "MAD.EP.DESC.STEM4",
+          "MAD.EP.DESC.CD5",
+          "MAD.EP.DESC.CPSAA3",
+          "MAD.EP.DESC.CPSAA4",
+          "MAD.EP.DESC.CPSAA5",
+          "MAD.EP.DESC.CE1",
+          "MAD.EP.DESC.CE3",
+          "MAD.EP.DESC.CCEC4"
+        ]
+      },
+      "datos": {
+        "equivalencia_rd": "CMNSC.CE3"
+      }
+    },
+    {
+      "codigo": "MAD.EP.CN.C3.CR.3.1",
+      "tipo": "criterio",
+      "texto": "Plantear problemas de necesidad, uso y diseño que se resuelvan con la creación de un prototipo o solución digital, evaluando necesidades del entorno y estableciendo objetivos concretos.",
+      "codigo_oficial": "3.1",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias de la Naturaleza, tercer ciclo, criterios",
+        "pagina": 39
+      },
+      "orden": 10,
+      "padre": "MAD.EP.CN.C3.CE.3"
+    },
+    {
+      "codigo": "MAD.EP.CN.C3.CR.3.2",
+      "tipo": "criterio",
+      "texto": "Diseñar posibles soluciones a los problemas planteados de acuerdo con técnicas sencillas de los proyectos de diseño y pensamiento computacional, mediante estrategias básicas de gestión de proyectos conjuntos, teniendo en cuenta los recursos necesarios y estableciendo criterios concretos para evaluar el proyecto, verificando si la solución cumple los criterios objetivos de validez y calidad establecidos.",
+      "codigo_oficial": "3.2",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias de la Naturaleza, tercer ciclo, criterios",
+        "pagina": 39
+      },
+      "orden": 11,
+      "padre": "MAD.EP.CN.C3.CE.3"
+    },
+    {
+      "codigo": "MAD.EP.CN.C3.CR.3.3",
+      "tipo": "criterio",
+      "texto": "Desarrollar un producto final que dé solución a un problema de diseño, probando en equipo diferentes prototipos o soluciones digitales y utilizando de forma segura las herramientas, dispositivos, técnicas y materiales adecuados.",
+      "codigo_oficial": "3.3",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias de la Naturaleza, tercer ciclo, criterios",
+        "pagina": 39
+      },
+      "orden": 12,
+      "padre": "MAD.EP.CN.C3.CE.3"
+    },
+    {
+      "codigo": "MAD.EP.CN.C3.CR.3.4",
+      "tipo": "criterio",
+      "texto": "Comunicar el diseño de un producto final, adaptando el mensaje y el formato a la audiencia, explicando los pasos seguidos, justificando por qué ese prototipo o solución digital cumple con los requisitos del proyecto y proponiendo posibles retos para futuros proyectos.",
+      "codigo_oficial": "3.4",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias de la Naturaleza, tercer ciclo, criterios",
+        "pagina": 39
+      },
+      "orden": 13,
+      "padre": "MAD.EP.CN.C3.CE.3"
+    },
+    {
+      "codigo": "MAD.EP.CN.C3.CE.4",
+      "tipo": "competencia_especifica",
+      "texto": "Conocer y tomar conciencia del cuerpo, así como de las emociones y sentimientos propios y ajenos, aplicando el conocimiento científico para favorecer la salud física y mental.",
+      "codigo_oficial": "4",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias de la Naturaleza, tercer ciclo, competencias específicas",
+        "pagina": 39
+      },
+      "orden": 14,
+      "relaciones": {
+        "descriptores": [
+          "MAD.EP.DESC.STEM5",
+          "MAD.EP.DESC.CPSAA1",
+          "MAD.EP.DESC.CPSAA2",
+          "MAD.EP.DESC.CPSAA3",
+          "MAD.EP.DESC.CC3"
+        ]
+      },
+      "datos": {
+        "equivalencia_rd": "CMNSC.CE4"
+      }
+    },
+    {
+      "codigo": "MAD.EP.CN.C3.CR.4.1",
+      "tipo": "criterio",
+      "texto": "Promover actitudes que fomenten la seguridad emocional, gestionando las emociones propias y respetando las de los demás, reflexionando ante los usos de la tecnología y la gestión del tiempo libre.",
+      "codigo_oficial": "4.1",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias de la Naturaleza, tercer ciclo, criterios",
+        "pagina": 39
+      },
+      "orden": 15,
+      "padre": "MAD.EP.CN.C3.CE.4"
+    },
+    {
+      "codigo": "MAD.EP.CN.C3.CR.4.2",
+      "tipo": "criterio",
+      "texto": "Adoptar estilos de vida saludables valorando la importancia de una alimentación variada y equilibrada, el ejercicio físico, el contacto con la naturaleza, el descanso, el ocio, la higiene, la prevención de enfermedades y el uso adecuado de nuevas tecnologías.",
+      "codigo_oficial": "4.2",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias de la Naturaleza, tercer ciclo, criterios",
+        "pagina": 39
+      },
+      "orden": 16,
+      "padre": "MAD.EP.CN.C3.CE.4"
+    },
+    {
+      "codigo": "MAD.EP.CN.C3.CE.5",
+      "tipo": "competencia_especifica",
+      "texto": "Identificar las características de los diferentes elementos o sistemas del medio natural, analizando su organización y propiedades, y estableciendo relaciones entre los mismos, para reconocer el valor del patrimonio natural, conservarlo y mejorarlo.",
+      "codigo_oficial": "5",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias de la Naturaleza, tercer ciclo, competencias específicas",
+        "pagina": 40
+      },
+      "orden": 17,
+      "relaciones": {
+        "descriptores": [
+          "MAD.EP.DESC.STEM1",
+          "MAD.EP.DESC.STEM2",
+          "MAD.EP.DESC.STEM4",
+          "MAD.EP.DESC.STEM5",
+          "MAD.EP.DESC.CD1",
+          "MAD.EP.DESC.CC4",
+          "MAD.EP.DESC.CE1",
+          "MAD.EP.DESC.CCEC1"
+        ]
+      },
+      "datos": {
+        "equivalencia_rd": "CMNSC.CE5"
+      }
+    },
+    {
+      "codigo": "MAD.EP.CN.C3.CR.5.1",
+      "tipo": "criterio",
+      "texto": "Identificar y analizar las características, la organización y las propiedades de los elementos del medio natural, a través de la indagación, utilizando las herramientas y procesos adecuados.",
+      "codigo_oficial": "5.1",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias de la Naturaleza, tercer ciclo, criterios",
+        "pagina": 40
+      },
+      "orden": 18,
+      "padre": "MAD.EP.CN.C3.CE.5"
+    },
+    {
+      "codigo": "MAD.EP.CN.C3.CR.5.2",
+      "tipo": "criterio",
+      "texto": "Establecer conexiones sencillas mediante hipótesis e inducción entre diferentes elementos del medio natural mostrando comprensión de las relaciones que se establecen e iniciando razonamiento hipotético-deductivo.",
+      "codigo_oficial": "5.2",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias de la Naturaleza, tercer ciclo, criterios",
+        "pagina": 40
+      },
+      "orden": 19,
+      "padre": "MAD.EP.CN.C3.CE.5"
+    },
+    {
+      "codigo": "MAD.EP.CN.C3.CR.5.3",
+      "tipo": "criterio",
+      "texto": "Valorar, proteger y mostrar actitudes de conservación y mejora del patrimonio natural y cultural.",
+      "codigo_oficial": "5.3",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias de la Naturaleza, tercer ciclo, criterios",
+        "pagina": 40
+      },
+      "orden": 20,
+      "padre": "MAD.EP.CN.C3.CE.5"
+    },
+    {
+      "codigo": "MAD.EP.CN.C3.CE.6",
+      "tipo": "competencia_especifica",
+      "texto": "Identificar las causas y consecuencias de la intervención humana en el entorno, desde los puntos de vista social, económico, cultural, tecnológico y ambiental, para mejorar la capacidad de afrontar problemas, buscar soluciones y actuar en su resolución fomentando el respeto, el cuidado y la protección de las personas y del planeta.",
+      "codigo_oficial": "6",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias de la Naturaleza, tercer ciclo, competencias específicas",
+        "pagina": 40
+      },
+      "orden": 21,
+      "relaciones": {
+        "descriptores": [
+          "MAD.EP.DESC.CCL5",
+          "MAD.EP.DESC.STEM2",
+          "MAD.EP.DESC.STEM5",
+          "MAD.EP.DESC.CPSAA4",
+          "MAD.EP.DESC.CC1",
+          "MAD.EP.DESC.CC3",
+          "MAD.EP.DESC.CC4",
+          "MAD.EP.DESC.CE1"
+        ]
+      },
+      "datos": {
+        "equivalencia_rd": "CMNSC.CE6"
+      }
+    },
+    {
+      "codigo": "MAD.EP.CN.C3.CR.6.1",
+      "tipo": "criterio",
+      "texto": "Promover estilos de vida adecuados y consecuentes con el respeto, los cuidados, y la protección de las personas y del planeta, a partir del análisis de la intervención humana en el entorno.",
+      "codigo_oficial": "6.1",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias de la Naturaleza, tercer ciclo, criterios",
+        "pagina": 40
+      },
+      "orden": 22,
+      "padre": "MAD.EP.CN.C3.CE.6"
+    },
+    {
+      "codigo": "MAD.EP.CN.C3.CR.6.2",
+      "tipo": "criterio",
+      "texto": "Participar en la búsqueda, contraste y evaluación de propuestas para afrontar problemas, buscar soluciones y actuar para su resolución. Conocer algunos hitos tecnológicos y digitales, y sus consecuencias, a lo largo de las etapas de la historia de la humanidad.",
+      "codigo_oficial": "6.2",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias de la Naturaleza, tercer ciclo, criterios",
+        "pagina": 40
+      },
+      "orden": 23,
+      "padre": "MAD.EP.CN.C3.CE.6"
+    },
+    {
+      "codigo": "MAD.EP.CN.C3.CO.A",
+      "tipo": "bloque_contenidos",
+      "texto": "Cultura científica",
+      "codigo_oficial": "A",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias de la Naturaleza, tercer ciclo, contenidos",
+        "pagina": 40
+      },
+      "orden": 24
+    },
+    {
+      "codigo": "MAD.EP.CN.C3.CO.A.1",
+      "tipo": "bloque_contenidos",
+      "texto": "Iniciación en la actividad científica",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias de la Naturaleza, tercer ciclo, contenidos",
+        "pagina": 40
+      },
+      "orden": 25,
+      "padre": "MAD.EP.CN.C3.CO.A"
+    },
+    {
+      "codigo": "MAD.EP.CN.C3.CO.A.1.1",
+      "tipo": "contenido",
+      "texto": "Fases de la investigación científica (observación sistemática, formulación de preguntas, hipótesis y predicciones, planificación y realización de experimentos y modelos, control de variables y muestras, recogida y análisis de información y datos, comunicación y presentación de resultados...).",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias de la Naturaleza, tercer ciclo, contenidos",
+        "pagina": 40
+      },
+      "orden": 26,
+      "padre": "MAD.EP.CN.C3.CO.A.1"
+    },
+    {
+      "codigo": "MAD.EP.CN.C3.CO.A.1.2",
+      "tipo": "contenido",
+      "texto": "Instrumentos y dispositivos apropiados para realizar observaciones y mediciones precisas, usados en condiciones de seguridad, de acuerdo con las necesidades de la investigación.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias de la Naturaleza, tercer ciclo, contenidos",
+        "pagina": 40
+      },
+      "orden": 27,
+      "padre": "MAD.EP.CN.C3.CO.A.1"
+    },
+    {
+      "codigo": "MAD.EP.CN.C3.CO.A.1.3",
+      "tipo": "contenido",
+      "texto": "Vocabulario científico, técnico y aplicado básico, adecuado a su edad, relacionado con las diferentes investigaciones.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias de la Naturaleza, tercer ciclo, contenidos",
+        "pagina": 40
+      },
+      "orden": 28,
+      "padre": "MAD.EP.CN.C3.CO.A.1"
+    },
+    {
+      "codigo": "MAD.EP.CN.C3.CO.A.1.4",
+      "tipo": "contenido",
+      "texto": "Fomento de la curiosidad, la iniciativa, la constancia y el sentido de la responsabilidad en la realización de las diferentes investigaciones.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias de la Naturaleza, tercer ciclo, contenidos",
+        "pagina": 40
+      },
+      "orden": 29,
+      "padre": "MAD.EP.CN.C3.CO.A.1"
+    },
+    {
+      "codigo": "MAD.EP.CN.C3.CO.A.1.5",
+      "tipo": "contenido",
+      "texto": "El ensayo y error en el método científico.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias de la Naturaleza, tercer ciclo, contenidos",
+        "pagina": 40
+      },
+      "orden": 30,
+      "padre": "MAD.EP.CN.C3.CO.A.1"
+    },
+    {
+      "codigo": "MAD.EP.CN.C3.CO.A.1.6",
+      "tipo": "contenido",
+      "texto": "La ciencia, la tecnología y la ingeniería. Profesiones actuales relacionadas.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias de la Naturaleza, tercer ciclo, contenidos",
+        "pagina": 40
+      },
+      "orden": 31,
+      "padre": "MAD.EP.CN.C3.CO.A.1"
+    },
+    {
+      "codigo": "MAD.EP.CN.C3.CO.A.1.7",
+      "tipo": "contenido",
+      "texto": "La relación entre los avances en matemáticas, ciencia, ingeniería y tecnología para comprender la evolución de la sociedad en el ámbito científico-tecnológico.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias de la Naturaleza, tercer ciclo, contenidos",
+        "pagina": 40
+      },
+      "orden": 32,
+      "padre": "MAD.EP.CN.C3.CO.A.1"
+    },
+    {
+      "codigo": "MAD.EP.CN.C3.CO.A.2",
+      "tipo": "bloque_contenidos",
+      "texto": "La vida en nuestro planeta",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias de la Naturaleza, tercer ciclo, contenidos",
+        "pagina": 40
+      },
+      "orden": 33,
+      "padre": "MAD.EP.CN.C3.CO.A"
+    },
+    {
+      "codigo": "MAD.EP.CN.C3.CO.A.2.1",
+      "tipo": "contenido",
+      "texto": "El ser humano y sus necesidades vitales: obtención de energía (procesos metabólicos), interacción con el entorno y reproducción.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias de la Naturaleza, tercer ciclo, contenidos",
+        "pagina": 40
+      },
+      "orden": 34,
+      "padre": "MAD.EP.CN.C3.CO.A.2"
+    },
+    {
+      "codigo": "MAD.EP.CN.C3.CO.A.2.1.1",
+      "tipo": "contenido",
+      "texto": "Identificación y localización de los órganos, aparatos y sistemas implicados en la función de nutrición: respiratorio, digestivo, circulatorio y excretor.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias de la Naturaleza, tercer ciclo, contenidos",
+        "pagina": 40
+      },
+      "orden": 35,
+      "padre": "MAD.EP.CN.C3.CO.A.2.1"
+    },
+    {
+      "codigo": "MAD.EP.CN.C3.CO.A.2.1.2",
+      "tipo": "contenido",
+      "texto": "Identificación y localización de los órganos implicados en la función de relación: órganos de los sentidos, sistema nervioso (nervios, neuronas y cerebro) y aparato locomotor (esqueleto y musculatura).",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias de la Naturaleza, tercer ciclo, contenidos",
+        "pagina": 40
+      },
+      "orden": 36,
+      "padre": "MAD.EP.CN.C3.CO.A.2.1"
+    },
+    {
+      "codigo": "MAD.EP.CN.C3.CO.A.2.1.3",
+      "tipo": "contenido",
+      "texto": "Identificación y localización de los órganos implicados en la función de reproducción: aparatos reproductores masculino y femenino. Fecundación, desarrollo embrionario y parto.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias de la Naturaleza, tercer ciclo, contenidos",
+        "pagina": 40
+      },
+      "orden": 37,
+      "padre": "MAD.EP.CN.C3.CO.A.2.1"
+    },
+    {
+      "codigo": "MAD.EP.CN.C3.CO.A.2.2",
+      "tipo": "contenido",
+      "texto": "Los cambios que conllevan la pubertad y la adolescencia para aceptarlos de forma positiva tanto en uno mismo como en los demás. Educación afectiva.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias de la Naturaleza, tercer ciclo, contenidos",
+        "pagina": 40
+      },
+      "orden": 38,
+      "padre": "MAD.EP.CN.C3.CO.A.2"
+    },
+    {
+      "codigo": "MAD.EP.CN.C3.CO.A.2.3",
+      "tipo": "contenido",
+      "texto": "Pautas para una alimentación saludable: menús saludables y equilibrados, la importancia de la cesta de la compra y del etiquetado de los productos alimenticios para conocer sus nutrientes y su aporte energético.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias de la Naturaleza, tercer ciclo, contenidos",
+        "pagina": 40
+      },
+      "orden": 39,
+      "padre": "MAD.EP.CN.C3.CO.A.2"
+    },
+    {
+      "codigo": "MAD.EP.CN.C3.CO.A.2.4",
+      "tipo": "contenido",
+      "texto": "Otros aspectos que favorecen la salud: hábitos y rutinas de sueño, prevención y consecuencias del consumo de drogas, aprovechamiento del tiempo libre o de ocio, uso responsable de dispositivos electrónicos, relaciones sociales adecuadas y fomento de los cuidados a personas, con especial hincapié en las personas mayores.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias de la Naturaleza, tercer ciclo, contenidos",
+        "pagina": 41
+      },
+      "orden": 40,
+      "padre": "MAD.EP.CN.C3.CO.A.2"
+    },
+    {
+      "codigo": "MAD.EP.CN.C3.CO.A.2.5",
+      "tipo": "contenido",
+      "texto": "Pautas para la prevención de riesgos y accidentes. Conocimiento de actuaciones básicas de primeros auxilios.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias de la Naturaleza, tercer ciclo, contenidos",
+        "pagina": 41
+      },
+      "orden": 41,
+      "padre": "MAD.EP.CN.C3.CO.A.2"
+    },
+    {
+      "codigo": "MAD.EP.CN.C3.CO.A.2.6",
+      "tipo": "contenido",
+      "texto": "Clasificación básica de rocas y minerales. Usos y explotación de los recursos geológicos.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias de la Naturaleza, tercer ciclo, contenidos",
+        "pagina": 41
+      },
+      "orden": 42,
+      "padre": "MAD.EP.CN.C3.CO.A.2"
+    },
+    {
+      "codigo": "MAD.EP.CN.C3.CO.A.2.7",
+      "tipo": "contenido",
+      "texto": "Procesos geológicos básicos de formación y modelado del relieve.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias de la Naturaleza, tercer ciclo, contenidos",
+        "pagina": 41
+      },
+      "orden": 43,
+      "padre": "MAD.EP.CN.C3.CO.A.2"
+    },
+    {
+      "codigo": "MAD.EP.CN.C3.CO.A.3",
+      "tipo": "bloque_contenidos",
+      "texto": "Materia, fuerzas y energía",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias de la Naturaleza, tercer ciclo, contenidos",
+        "pagina": 41
+      },
+      "orden": 44,
+      "padre": "MAD.EP.CN.C3.CO.A"
+    },
+    {
+      "codigo": "MAD.EP.CN.C3.CO.A.3.1",
+      "tipo": "contenido",
+      "texto": "Propiedades de la materia: generales (masa, volumen…) y específicas (color, dureza, densidad…).",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias de la Naturaleza, tercer ciclo, contenidos",
+        "pagina": 41
+      },
+      "orden": 45,
+      "padre": "MAD.EP.CN.C3.CO.A.3"
+    },
+    {
+      "codigo": "MAD.EP.CN.C3.CO.A.3.2",
+      "tipo": "contenido",
+      "texto": "Masa y volumen. Instrumentos para calcular la masa y la capacidad de un objeto. Concepto de densidad y su relación con la flotabilidad de un objeto en un líquido.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias de la Naturaleza, tercer ciclo, contenidos",
+        "pagina": 41
+      },
+      "orden": 46,
+      "padre": "MAD.EP.CN.C3.CO.A.3"
+    },
+    {
+      "codigo": "MAD.EP.CN.C3.CO.A.3.3",
+      "tipo": "contenido",
+      "texto": "La energía eléctrica. Fuentes, transformaciones, transferencia y uso en la vida cotidiana. Los circuitos eléctricos y las estructuras robotizadas.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias de la Naturaleza, tercer ciclo, contenidos",
+        "pagina": 41
+      },
+      "orden": 47,
+      "padre": "MAD.EP.CN.C3.CO.A.3"
+    },
+    {
+      "codigo": "MAD.EP.CN.C3.CO.A.3.4",
+      "tipo": "contenido",
+      "texto": "Las formas de energía, las fuentes y las transformaciones. Las fuentes de energías renovables y no renovables y su influencia en la contribución al desarrollo de la sociedad.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias de la Naturaleza, tercer ciclo, contenidos",
+        "pagina": 41
+      },
+      "orden": 48,
+      "padre": "MAD.EP.CN.C3.CO.A.3"
+    },
+    {
+      "codigo": "MAD.EP.CN.C3.CO.A.3.5",
+      "tipo": "contenido",
+      "texto": "Artefactos voladores. Principios básicos del vuelo.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias de la Naturaleza, tercer ciclo, contenidos",
+        "pagina": 41
+      },
+      "orden": 49,
+      "padre": "MAD.EP.CN.C3.CO.A.3"
+    },
+    {
+      "codigo": "MAD.EP.CN.C3.CO.A.3.6",
+      "tipo": "contenido",
+      "texto": "Artefactos marinos. Principios básicos de flotabilidad e inmersión.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias de la Naturaleza, tercer ciclo, contenidos",
+        "pagina": 41
+      },
+      "orden": 50,
+      "padre": "MAD.EP.CN.C3.CO.A.3"
+    },
+    {
+      "codigo": "MAD.EP.CN.C3.CO.A.3.7",
+      "tipo": "contenido",
+      "texto": "Artefactos terrestres. Principios básicos del movimiento a través del rozamiento y de la rodadura.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias de la Naturaleza, tercer ciclo, contenidos",
+        "pagina": 41
+      },
+      "orden": 51,
+      "padre": "MAD.EP.CN.C3.CO.A.3"
+    },
+    {
+      "codigo": "MAD.EP.CN.C3.CO.B",
+      "tipo": "bloque_contenidos",
+      "texto": "Tecnología y digitalización",
+      "codigo_oficial": "B",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias de la Naturaleza, tercer ciclo, contenidos",
+        "pagina": 41
+      },
+      "orden": 52
+    },
+    {
+      "codigo": "MAD.EP.CN.C3.CO.B.1",
+      "tipo": "bloque_contenidos",
+      "texto": "Uso de los recursos digitales con responsabilidad",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias de la Naturaleza, tercer ciclo, contenidos",
+        "pagina": 41
+      },
+      "orden": 53,
+      "padre": "MAD.EP.CN.C3.CO.B"
+    },
+    {
+      "codigo": "MAD.EP.CN.C3.CO.B.1.1",
+      "tipo": "contenido",
+      "texto": "Dispositivos y recursos digitales. Estrategias de búsquedas de información seguras y eficientes en internet (valoración, discriminación, selección, organización y propiedad intelectual).",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias de la Naturaleza, tercer ciclo, contenidos",
+        "pagina": 41
+      },
+      "orden": 54,
+      "padre": "MAD.EP.CN.C3.CO.B.1"
+    },
+    {
+      "codigo": "MAD.EP.CN.C3.CO.B.1.2",
+      "tipo": "contenido",
+      "texto": "Estrategias de recogida, almacenamiento y representación de datos para facilitar su comprensión y análisis.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias de la Naturaleza, tercer ciclo, contenidos",
+        "pagina": 41
+      },
+      "orden": 55,
+      "padre": "MAD.EP.CN.C3.CO.B.1"
+    },
+    {
+      "codigo": "MAD.EP.CN.C3.CO.B.1.3",
+      "tipo": "contenido",
+      "texto": "Reglas básicas de seguridad, privacidad y buen uso de la tecnología para navegar por internet y para proteger el entorno digital personal de aprendizaje.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias de la Naturaleza, tercer ciclo, contenidos",
+        "pagina": 41
+      },
+      "orden": 56,
+      "padre": "MAD.EP.CN.C3.CO.B.1"
+    },
+    {
+      "codigo": "MAD.EP.CN.C3.CO.B.1.4",
+      "tipo": "contenido",
+      "texto": "Recursos y plataformas digitales restringidas y seguras para comunicarse con otras personas. Etiqueta digital, reglas básicas de cortesía y respeto y estrategias para resolver problemas en la comunicación digital.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias de la Naturaleza, tercer ciclo, contenidos",
+        "pagina": 41
+      },
+      "orden": 57,
+      "padre": "MAD.EP.CN.C3.CO.B.1"
+    },
+    {
+      "codigo": "MAD.EP.CN.C3.CO.B.1.5",
+      "tipo": "contenido",
+      "texto": "Estrategias para fomentar un buen uso. Reconocimiento de los riesgos asociados a un uso inadecuado y poco seguro de las tecnologías digitales (tiempo excesivo de uso, ciberacoso, dependencia tecnológica, acceso a contenidos inadecuados, etc.), y estrategias de actuación.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias de la Naturaleza, tercer ciclo, contenidos",
+        "pagina": 41
+      },
+      "orden": 58,
+      "padre": "MAD.EP.CN.C3.CO.B.1"
+    },
+    {
+      "codigo": "MAD.EP.CN.C3.CO.B.2",
+      "tipo": "bloque_contenidos",
+      "texto": "Proyectos de diseño y pensamiento computacional",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias de la Naturaleza, tercer ciclo, contenidos",
+        "pagina": 41
+      },
+      "orden": 59,
+      "padre": "MAD.EP.CN.C3.CO.B"
+    },
+    {
+      "codigo": "MAD.EP.CN.C3.CO.B.2.1",
+      "tipo": "contenido",
+      "texto": "Fases de los proyectos de diseño: identificación de necesidades, diseño, prototipado, prueba, evaluación y comunicación.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias de la Naturaleza, tercer ciclo, contenidos",
+        "pagina": 41
+      },
+      "orden": 60,
+      "padre": "MAD.EP.CN.C3.CO.B.2"
+    },
+    {
+      "codigo": "MAD.EP.CN.C3.CO.B.2.2",
+      "tipo": "contenido",
+      "texto": "Fases del pensamiento computacional (descomposición de una tarea en partes más sencillas, reconocimiento de patrones y creación de algoritmos sencillos para la resolución del problema...).",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias de la Naturaleza, tercer ciclo, contenidos",
+        "pagina": 41
+      },
+      "orden": 61,
+      "padre": "MAD.EP.CN.C3.CO.B.2"
+    },
+    {
+      "codigo": "MAD.EP.CN.C3.CO.B.2.3",
+      "tipo": "contenido",
+      "texto": "Materiales, herramientas, objetos, dispositivos y recursos digitales (programación por bloques, sensores, motores, simuladores, impresoras 3D) seguros y adecuados a la consecución del proyecto.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias de la Naturaleza, tercer ciclo, contenidos",
+        "pagina": 41
+      },
+      "orden": 62,
+      "padre": "MAD.EP.CN.C3.CO.B.2"
+    },
+    {
+      "codigo": "MAD.EP.CN.C3.CO.B.2.4",
+      "tipo": "contenido",
+      "texto": "Estrategias de aprendizaje: ensayo-error.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias de la Naturaleza, tercer ciclo, contenidos",
+        "pagina": 41
+      },
+      "orden": 63,
+      "padre": "MAD.EP.CN.C3.CO.B.2"
+    },
+    {
+      "codigo": "MAD.EP.CN.C3.CO.B.3",
+      "tipo": "bloque_contenidos",
+      "texto": "Evolución de la tecnología y la digitalización en las diversas etapas de la historia de la humanidad",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias de la Naturaleza, tercer ciclo, contenidos",
+        "pagina": 41
+      },
+      "orden": 64,
+      "padre": "MAD.EP.CN.C3.CO.B"
+    },
+    {
+      "codigo": "MAD.EP.CN.C3.CO.B.3.1",
+      "tipo": "contenido",
+      "texto": "Cronología de los principales hitos de la revolución digital: el chip, el circuito electrónico, los programas informáticos, los ordenadores personales, internet, el correo electrónico, los teléfonos inteligentes, los robots y la cibernética.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias de la Naturaleza, tercer ciclo, contenidos",
+        "pagina": 41
+      },
+      "orden": 65,
+      "padre": "MAD.EP.CN.C3.CO.B.3"
+    }
+  ]
+}

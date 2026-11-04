@@ -3,10 +3,12 @@
 # byte a byte). `regenerar.py` lo lee; para preparar un curso nuevo se cambian aquí las normas,
 # los cursos académicos y la fecha de revisión, y después `comprobar`.
 #
-# extractor: descriptores | lomloe | titulo | modulo | transversal | optativo | requisitos
+# extractor: descriptores | lomloe | titulo | modulo | transversal | optativo | primaria |
+# requisitos
 # `argumentos` son los del extractor sin los comunes (--ficha en los de FP, --cursos-academicos,
 # --cache y --salida), que pone `regenerar`. Los tres de requisitos salen de una sola ejecución
-# (el detalle está en requisitos.toml).
+# (el detalle está en requisitos.toml), y las 25 de Primaria, de otra (las del mismo extractor
+# llevan los mismos argumentos).
 
 revisada = "2026-10-18"
 cursos_academicos = ["2026-27"]
@@ -220,6 +222,131 @@ argumentos = ["--modulo", "CMO-002A", "--madrid", "bocm-20250827-5", "--catalogo
 codigo = "MAD.CMO.003"
 extractor = "optativo"
 argumentos = ["--modulo", "CMO-003", "--madrid", "bocm-20250827-5", "--catalogo", "bocm-20260925-20"]
+
+[[ficha]]
+codigo = "MAD.EP.DESC"
+extractor = "primaria"
+argumentos = ["--norma", "bocm-20220718-1", "--rd", "boe-a-2022-3296"]
+
+[[ficha]]
+codigo = "MAD.EP.CN.C1"
+extractor = "primaria"
+argumentos = ["--norma", "bocm-20220718-1", "--rd", "boe-a-2022-3296"]
+
+[[ficha]]
+codigo = "MAD.EP.CN.C2"
+extractor = "primaria"
+argumentos = ["--norma", "bocm-20220718-1", "--rd", "boe-a-2022-3296"]
+
+[[ficha]]
+codigo = "MAD.EP.CN.C3"
+extractor = "primaria"
+argumentos = ["--norma", "bocm-20220718-1", "--rd", "boe-a-2022-3296"]
+
+[[ficha]]
+codigo = "MAD.EP.CS.C1"
+extractor = "primaria"
+argumentos = ["--norma", "bocm-20220718-1", "--rd", "boe-a-2022-3296"]
+
+[[ficha]]
+codigo = "MAD.EP.CS.C2"
+extractor = "primaria"
+argumentos = ["--norma", "bocm-20220718-1", "--rd", "boe-a-2022-3296"]
+
+[[ficha]]
+codigo = "MAD.EP.CS.C3"
+extractor = "primaria"
+argumentos = ["--norma", "bocm-20220718-1", "--rd", "boe-a-2022-3296"]
+
+[[ficha]]
+codigo = "MAD.EP.EA.C1"
+extractor = "primaria"
+argumentos = ["--norma", "bocm-20220718-1", "--rd", "boe-a-2022-3296"]
+
+[[ficha]]
+codigo = "MAD.EP.EA.C2"
+extractor = "primaria"
+argumentos = ["--norma", "bocm-20220718-1", "--rd", "boe-a-2022-3296"]
+
+[[ficha]]
+codigo = "MAD.EP.EA.C3"
+extractor = "primaria"
+argumentos = ["--norma", "bocm-20220718-1", "--rd", "boe-a-2022-3296"]
+
+[[ficha]]
+codigo = "MAD.EP.EF.C1"
+extractor = "primaria"
+argumentos = ["--norma", "bocm-20220718-1", "--rd", "boe-a-2022-3296"]
+
+[[ficha]]
+codigo = "MAD.EP.EF.C2"
+extractor = "primaria"
+argumentos = ["--norma", "bocm-20220718-1", "--rd", "boe-a-2022-3296"]
+
+[[ficha]]
+codigo = "MAD.EP.EF.C3"
+extractor = "primaria"
+argumentos = ["--norma", "bocm-20220718-1", "--rd", "boe-a-2022-3296"]
+
+[[ficha]]
+codigo = "MAD.EP.LCL.C1"
+extractor = "primaria"
+argumentos = ["--norma", "bocm-20220718-1", "--rd", "boe-a-2022-3296"]
+
+[[ficha]]
+codigo = "MAD.EP.LCL.C2"
+extractor = "primaria"
+argumentos = ["--norma", "bocm-20220718-1", "--rd", "boe-a-2022-3296"]
+
+[[ficha]]
+codigo = "MAD.EP.LCL.C3"
+extractor = "primaria"
+argumentos = ["--norma", "bocm-20220718-1", "--rd", "boe-a-2022-3296"]
+
+[[ficha]]
+codigo = "MAD.EP.ING.C1"
+extractor = "primaria"
+argumentos = ["--norma", "bocm-20220718-1", "--rd", "boe-a-2022-3296"]
+
+[[ficha]]
+codigo = "MAD.EP.ING.C2"
+extractor = "primaria"
+argumentos = ["--norma", "bocm-20220718-1", "--rd", "boe-a-2022-3296"]
+
+[[ficha]]
+codigo = "MAD.EP.ING.C3"
+extractor = "primaria"
+argumentos = ["--norma", "bocm-20220718-1", "--rd", "boe-a-2022-3296"]
+
+[[ficha]]
+codigo = "MAD.EP.MAT.C1"
+extractor = "primaria"
+argumentos = ["--norma", "bocm-20220718-1", "--rd", "boe-a-2022-3296"]
+
+[[ficha]]
+codigo = "MAD.EP.MAT.C2"
+extractor = "primaria"
+argumentos = ["--norma", "bocm-20220718-1", "--rd", "boe-a-2022-3296"]
+
+[[ficha]]
+codigo = "MAD.EP.MAT.C3"
+extractor = "primaria"
+argumentos = ["--norma", "bocm-20220718-1", "--rd", "boe-a-2022-3296"]
+
+[[ficha]]
+codigo = "MAD.EP.VCE"
+extractor = "primaria"
+argumentos = ["--norma", "bocm-20220718-1", "--rd", "boe-a-2022-3296"]
+
+[[ficha]]
+codigo = "MAD.EP.SLE"
+extractor = "primaria"
+argumentos = ["--norma", "bocm-20220718-1", "--rd", "boe-a-2022-3296"]
+
+[[ficha]]
+codigo = "MAD.EP.TYR"
+extractor = "primaria"
+argumentos = ["--norma", "bocm-20220718-1", "--rd", "boe-a-2022-3296"]
 
 [[ficha]]
 codigo = "MAD.ESO.PROG"

@@ -47,6 +47,9 @@ TIPOS_DE_DISCREPANCIA = (
 
 _VINETA = re.compile(rf"^(?:[{comun.GUIONES_DE_VINETA}•·▪●\x02]|x)\s+")
 _PARTICION = re.compile(r"(?<=\w)-\n(?=\w)")
+# La raya corta (–) a final de línea entre dos letras no parte palabras: une un compuesto
+# («Mecánica–» «Ingeniería», en Tecnología y Robótica de Primaria) y se junta sin espacio.
+_COMPUESTO_CON_RAYA = re.compile(r"(?<=\w)–\n(?=\w)")
 # Marca que deja el lugar de una viñeta del PDF: una línea que empieza por viñeta es
 # siempre el principio de otra unidad, aunque su texto empiece en minúscula.
 _MARCA = "\x01"
@@ -79,10 +82,16 @@ class Discrepancia:
 
 @dataclass
 class Documento:
-    """El texto de una norma en la caché: páginas del PDF y, si la hay, el XML del BOE."""
+    """El texto de una norma en la caché: páginas del PDF y, si la hay, el XML del BOE.
+
+    ``columnas``: en una norma que se lee con pdfplumber (``lector`` en ``fuentes.toml``), el
+    texto de cada página por columnas; un texto se busca en una columna y puede seguir en una
+    columna de la página siguiente.
+    """
 
     paginas: dict[int, str] = field(default_factory=dict)
     xml: str | None = None
+    columnas: dict[int, list[str]] = field(default_factory=dict)
 
 
 # --- comparación literal ---------------------------------------------------------------
@@ -100,7 +109,7 @@ def _variantes(crudo: str) -> tuple[str, str]:
         linea = _MARCA + _VINETA.sub("", linea) if _VINETA.match(linea) else linea
         if linea:
             lineas.append(linea)
-    unido = "\n".join(lineas)
+    unido = _COMPUESTO_CON_RAYA.sub("–", "\n".join(lineas))
     return _PARTICION.sub("", unido), _PARTICION.sub("-", unido)
 
 
@@ -208,9 +217,20 @@ def comprobar_elemento(
         lineas = documento.paginas[pagina].split("\n")
         return comun.nombre_de_catalogo(lineas, f"CMO-{cmo[1]}") == elemento.texto
 
+    def en_columnas() -> bool:
+        assert pagina is not None
+        siguientes = documento.columnas.get(pagina + 1) or [""]
+        return any(
+            aparece(elemento.texto, columna, siguiente, sustituciones, completo=True)
+            for columna in documento.columnas[pagina]
+            for siguiente in siguientes
+        )
+
     def en_pdf() -> bool:
         if en_catalogo():
             return True
+        if documento.columnas and pagina is not None:
+            return en_columnas()
         if pagina is None:
             return aparece(
                 elemento.texto,
@@ -507,16 +527,29 @@ def _tipo_de_error(detalle: str) -> str:
 
 
 def cargar_documentos(
-    cache: Path, ids: list[str], cifrados: Mapping[str, str | None] | None = None
+    cache: Path,
+    ids: list[str],
+    cifrados: Mapping[str, str | None] | None = None,
+    lectores: Mapping[str, str | None] | None = None,
 ) -> dict[str, Documento]:
-    """Lee de la caché el texto de cada norma que esté (``<id>.txt`` o ``.pdf``, y ``<id>.xml``)."""
+    """Lee de la caché el texto de cada norma que esté (``<id>.txt`` o ``.pdf``, y ``<id>.xml``).
+
+    Una norma con ``lector = "pdfplumber"`` se lee por columnas (``<id>.columnas.json``, que se
+    saca del PDF la primera vez y necesita el grupo ``mantenimiento``).
+    """
     documentos: dict[str, Documento] = {}
     for id_ in ids:
         documento = Documento()
         try:
-            documento.paginas = comun.paginas_limpias(
-                comun.texto_de_norma(cache, id_, (cifrados or {}).get(id_))
-            )
+            if (lectores or {}).get(id_) == "pdfplumber":
+                from .extraer_primaria import columnas_de_norma
+
+                documento.columnas = columnas_de_norma(cache, id_)
+                documento.paginas = {n: "\n".join(c) for n, c in documento.columnas.items()}
+            else:
+                documento.paginas = comun.paginas_limpias(
+                    comun.texto_de_norma(cache, id_, (cifrados or {}).get(id_))
+                )
         except FileNotFoundError:
             pass
         xml = cache / f"{id_}.xml"
@@ -538,7 +571,8 @@ def main(argv: list[str] | None = None) -> int:
     fuentes = comun.leer_fuentes(args.fuentes)
     raiz = args.datos or files("normativa_madrid").joinpath("datos")
     cifrados = {id_: r.get("cifrado") for id_, r in fuentes.items()}
-    documentos = cargar_documentos(args.cache, list(fuentes), cifrados)
+    lectores = {id_: r.get("lector") for id_, r in fuentes.items()}
+    documentos = cargar_documentos(args.cache, list(fuentes), cifrados, lectores)
     problemas = comprobar_datos(raiz, documentos, fuentes)
     for problema in problemas:
         print(problema)

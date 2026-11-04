@@ -1,0 +1,1053 @@
+{
+  "codigo": "MAD.EP.LCL.C3",
+  "nombre": "Lengua Castellana y Literatura, tercer ciclo",
+  "etapa": "primaria",
+  "ciclo": "C3",
+  "curso": null,
+  "cursos_academicos": [
+    "2026-27"
+  ],
+  "normas": [
+    "bocm-20220718-1",
+    "boe-a-2022-3296"
+  ],
+  "elementos": [
+    {
+      "codigo": "MAD.EP.LCL.C3.CE.1",
+      "tipo": "competencia_especifica",
+      "texto": "Reconocer la diversidad de las lenguas del mundo a partir de las propias y de las existentes en España, para favorecer la reflexión, identificar y rechazar prejuicios sobre ellas y para valorar dicha diversidad como fuente de riqueza cultural.",
+      "codigo_oficial": "1",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Castellana y Literatura, tercer ciclo, competencias específicas",
+        "pagina": 79
+      },
+      "orden": 1,
+      "relaciones": {
+        "descriptores": [
+          "MAD.EP.DESC.CCL1",
+          "MAD.EP.DESC.CCL5",
+          "MAD.EP.DESC.CP2",
+          "MAD.EP.DESC.CP3",
+          "MAD.EP.DESC.CC1",
+          "MAD.EP.DESC.CC2",
+          "MAD.EP.DESC.CCEC1",
+          "MAD.EP.DESC.CCEC3"
+        ]
+      }
+    },
+    {
+      "codigo": "MAD.EP.LCL.C3.CR.1.1",
+      "tipo": "criterio",
+      "texto": "Mostrar interés y respeto a las distintas lenguas y variedades dialectales, identificando las características fundamentales de las de su entorno geográfico, así como algunos rasgos de los dialectos y lenguas familiares del alumnado.",
+      "codigo_oficial": "1.1",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Castellana y Literatura, tercer ciclo, criterios",
+        "pagina": 79
+      },
+      "orden": 2,
+      "padre": "MAD.EP.LCL.C3.CE.1"
+    },
+    {
+      "codigo": "MAD.EP.LCL.C3.CR.1.2",
+      "tipo": "criterio",
+      "texto": "Conocer y valorar la importancia del español como lengua universal, sus orígenes e historia.",
+      "codigo_oficial": "1.2",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Castellana y Literatura, tercer ciclo, criterios",
+        "pagina": 79
+      },
+      "orden": 3,
+      "padre": "MAD.EP.LCL.C3.CE.1"
+    },
+    {
+      "codigo": "MAD.EP.LCL.C3.CR.1.3",
+      "tipo": "criterio",
+      "texto": "Detectar, con autonomía creciente y en contextos próximos, prejuicios del lenguaje frecuentes, aportando alternativas, reconociendo modelos positivos y valorando la diversidad de las lenguas del mundo como una fuente de riqueza cultural.",
+      "codigo_oficial": "1.3",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Castellana y Literatura, tercer ciclo, criterios",
+        "pagina": 79
+      },
+      "orden": 4,
+      "padre": "MAD.EP.LCL.C3.CE.1"
+    },
+    {
+      "codigo": "MAD.EP.LCL.C3.CR.1.4",
+      "tipo": "criterio",
+      "texto": "Conocer la historia del español como lengua universal, del latín a las lenguas romances y su expansión desde la Península Ibérica hacia América y otros continentes.",
+      "codigo_oficial": "1.4",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Castellana y Literatura, tercer ciclo, criterios",
+        "pagina": 79
+      },
+      "orden": 5,
+      "padre": "MAD.EP.LCL.C3.CE.1"
+    },
+    {
+      "codigo": "MAD.EP.LCL.C3.CE.2",
+      "tipo": "competencia_especifica",
+      "texto": "Comprender e interpretar textos orales y multimodales, identificando el sentido general y la información más relevante y valorando con ayuda aspectos formales y de contenido básicos, para construir conocimiento y responder a diferentes necesidades comunicativas.",
+      "codigo_oficial": "2",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Castellana y Literatura, tercer ciclo, competencias específicas",
+        "pagina": 79
+      },
+      "orden": 6,
+      "relaciones": {
+        "descriptores": [
+          "MAD.EP.DESC.CCL2",
+          "MAD.EP.DESC.CP2",
+          "MAD.EP.DESC.STEM1",
+          "MAD.EP.DESC.CD3",
+          "MAD.EP.DESC.CPSAA3",
+          "MAD.EP.DESC.CC3"
+        ]
+      }
+    },
+    {
+      "codigo": "MAD.EP.LCL.C3.CR.2.1",
+      "tipo": "criterio",
+      "texto": "Comprender el sentido de textos orales y multimodales sencillos, reconociendo las ideas principales y los mensajes explícitos e implícitos, valorando su contenido y los elementos no verbales elementales y, algunos elementos formales elementales.",
+      "codigo_oficial": "2.1",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Castellana y Literatura, tercer ciclo, criterios",
+        "pagina": 79
+      },
+      "orden": 7,
+      "padre": "MAD.EP.LCL.C3.CE.2"
+    },
+    {
+      "codigo": "MAD.EP.LCL.C3.CE.3",
+      "tipo": "competencia_especifica",
+      "texto": "Producir textos orales y multimodales, con coherencia, claridad y registro adecuados, para expresar ideas, sentimientos y conceptos; construir conocimiento; establecer vínculos personales; y participar con autonomía en interacciones orales variadas.",
+      "codigo_oficial": "3",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Castellana y Literatura, tercer ciclo, competencias específicas",
+        "pagina": 79
+      },
+      "orden": 8,
+      "relaciones": {
+        "descriptores": [
+          "MAD.EP.DESC.CCL1",
+          "MAD.EP.DESC.CCL3",
+          "MAD.EP.DESC.CCL5",
+          "MAD.EP.DESC.CP2",
+          "MAD.EP.DESC.STEM1",
+          "MAD.EP.DESC.CD2",
+          "MAD.EP.DESC.CD3",
+          "MAD.EP.DESC.CC2",
+          "MAD.EP.DESC.CE1"
+        ]
+      }
+    },
+    {
+      "codigo": "MAD.EP.LCL.C3.CR.3.1",
+      "tipo": "criterio",
+      "texto": "Producir textos orales y multimodales, de manera autónoma, coherente y fluida, en contextos formales sencillos y utilizando correctamente recursos verbales y no verbales básicos.",
+      "codigo_oficial": "3.1",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Castellana y Literatura, tercer ciclo, criterios",
+        "pagina": 79
+      },
+      "orden": 9,
+      "padre": "MAD.EP.LCL.C3.CE.3"
+    },
+    {
+      "codigo": "MAD.EP.LCL.C3.CR.3.2",
+      "tipo": "criterio",
+      "texto": "Participar en interacciones orales espontáneas o regladas, incorporando estrategias sencillas de escucha activa, de cortesía y de cooperación conversacional.",
+      "codigo_oficial": "3.2",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Castellana y Literatura, tercer ciclo, criterios",
+        "pagina": 79
+      },
+      "orden": 10,
+      "padre": "MAD.EP.LCL.C3.CE.3"
+    },
+    {
+      "codigo": "MAD.EP.LCL.C3.CE.4",
+      "tipo": "competencia_especifica",
+      "texto": "Comprender e interpretar textos escritos y multimodales, reconociendo el sentido global, las ideas principales y la información explícita e implícita, y realizando con ayuda reflexiones elementales sobre aspectos formales y de contenido, para adquirir y construir conocimiento y para responder a necesidades e intereses comunicativos diversos.",
+      "codigo_oficial": "4",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Castellana y Literatura, tercer ciclo, competencias específicas",
+        "pagina": 80
+      },
+      "orden": 11,
+      "relaciones": {
+        "descriptores": [
+          "MAD.EP.DESC.CCL2",
+          "MAD.EP.DESC.CCL3",
+          "MAD.EP.DESC.CCL5",
+          "MAD.EP.DESC.CP2",
+          "MAD.EP.DESC.STEM1",
+          "MAD.EP.DESC.CD1",
+          "MAD.EP.DESC.CPSAA4",
+          "MAD.EP.DESC.CPSAA5"
+        ]
+      }
+    },
+    {
+      "codigo": "MAD.EP.LCL.C3.CR.4.1",
+      "tipo": "criterio",
+      "texto": "Comprender el sentido global y la información relevante de textos escritos y multimodales, realizando inferencias, a partir de estrategias básicas de comprensión antes, durante y después de la lectura.",
+      "codigo_oficial": "4.1",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Castellana y Literatura, tercer ciclo, criterios",
+        "pagina": 80
+      },
+      "orden": 12,
+      "padre": "MAD.EP.LCL.C3.CE.4"
+    },
+    {
+      "codigo": "MAD.EP.LCL.C3.CR.4.2",
+      "tipo": "criterio",
+      "texto": "Analizar, de manera acompañada, el contenido y aspectos formales y no formales elementales de textos escritos y multimodales, valorando su contenido y estructura y evaluando su calidad, fiabilidad e idoneidad en función del propósito de lectura.",
+      "codigo_oficial": "4.2",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Castellana y Literatura, tercer ciclo, criterios",
+        "pagina": 80
+      },
+      "orden": 13,
+      "padre": "MAD.EP.LCL.C3.CE.4"
+    },
+    {
+      "codigo": "MAD.EP.LCL.C3.CE.5",
+      "tipo": "competencia_especifica",
+      "texto": "Producir textos escritos y multimodales, con corrección gramatical y ortográfica básicas, secuenciando correctamente los contenidos y aplicando estrategias elementales de planificación, textualización, revisión y edición, para construir conocimiento y para dar respuesta a demandas comunicativas concretas.",
+      "codigo_oficial": "5",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Castellana y Literatura, tercer ciclo, competencias específicas",
+        "pagina": 80
+      },
+      "orden": 14,
+      "relaciones": {
+        "descriptores": [
+          "MAD.EP.DESC.CCL1",
+          "MAD.EP.DESC.CCL3",
+          "MAD.EP.DESC.CCL5",
+          "MAD.EP.DESC.STEM1",
+          "MAD.EP.DESC.CD2",
+          "MAD.EP.DESC.CD3",
+          "MAD.EP.DESC.CPSAA5",
+          "MAD.EP.DESC.CC2"
+        ]
+      }
+    },
+    {
+      "codigo": "MAD.EP.LCL.C3.CR.5.1",
+      "tipo": "criterio",
+      "texto": "Producir textos escritos y multimodales de relativa complejidad, con coherencia y adecuación, en distintos soportes, progresando en el uso de las normas gramaticales y ortográficas básicas al servicio de la cohesión textual y movilizando estrategias sencillas, individuales o grupales, de planificación, textualización, revisión y edición.",
+      "codigo_oficial": "5.1",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Castellana y Literatura, tercer ciclo, criterios",
+        "pagina": 80
+      },
+      "orden": 15,
+      "padre": "MAD.EP.LCL.C3.CE.5"
+    },
+    {
+      "codigo": "MAD.EP.LCL.C3.CE.6",
+      "tipo": "competencia_especifica",
+      "texto": "Buscar, seleccionar y contrastar información procedente de dos o más fuentes, de forma planificada, evaluando su fiabilidad y reconociendo algunos riesgos de manipulación y desinformación, para transformarla en conocimiento y para comunicarla de manera creativa, adoptando un punto de vista personal y respetuoso con la propiedad intelectual.",
+      "codigo_oficial": "6",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Castellana y Literatura, tercer ciclo, competencias específicas",
+        "pagina": 80
+      },
+      "orden": 16,
+      "relaciones": {
+        "descriptores": [
+          "MAD.EP.DESC.CCL3",
+          "MAD.EP.DESC.CD1",
+          "MAD.EP.DESC.CD2",
+          "MAD.EP.DESC.CD3",
+          "MAD.EP.DESC.CD4",
+          "MAD.EP.DESC.CPSAA5",
+          "MAD.EP.DESC.CC2",
+          "MAD.EP.DESC.CE3"
+        ]
+      }
+    },
+    {
+      "codigo": "MAD.EP.LCL.C3.CR.6.1",
+      "tipo": "criterio",
+      "texto": "Localizar, seleccionar y contrastar información de distintas fuentes, incluidas las digitales, citándolas y recreándolas mediante la adaptación creativa de modelos dados.",
+      "codigo_oficial": "6.1",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Castellana y Literatura, tercer ciclo, criterios",
+        "pagina": 80
+      },
+      "orden": 17,
+      "padre": "MAD.EP.LCL.C3.CE.6"
+    },
+    {
+      "codigo": "MAD.EP.LCL.C3.CR.6.2",
+      "tipo": "criterio",
+      "texto": "Compartir los resultados de un proceso de investigación sencillo, individual o grupal, sobre algún tema de interés personal o social y medioambiental.",
+      "codigo_oficial": "6.2",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Castellana y Literatura, tercer ciclo, criterios",
+        "pagina": 80
+      },
+      "orden": 18,
+      "padre": "MAD.EP.LCL.C3.CE.6"
+    },
+    {
+      "codigo": "MAD.EP.LCL.C3.CR.6.3",
+      "tipo": "criterio",
+      "texto": "Adoptar hábitos de uso crítico, seguro y adecuado de las tecnologías digitales en relación con la búsqueda y la comunicación de la información.",
+      "codigo_oficial": "6.3",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Castellana y Literatura, tercer ciclo, criterios",
+        "pagina": 80
+      },
+      "orden": 19,
+      "padre": "MAD.EP.LCL.C3.CE.6"
+    },
+    {
+      "codigo": "MAD.EP.LCL.C3.CE.7",
+      "tipo": "competencia_especifica",
+      "texto": "Leer de manera autónoma obras diversas seleccionadas atendiendo a sus gustos e intereses, compartiendo las experiencias de lectura, para iniciar la construcción de la identidad lectora, para fomentar el gusto por la lectura como fuente de placer.",
+      "codigo_oficial": "7",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Castellana y Literatura, tercer ciclo, competencias específicas",
+        "pagina": 80
+      },
+      "orden": 20,
+      "relaciones": {
+        "descriptores": [
+          "MAD.EP.DESC.CCL1",
+          "MAD.EP.DESC.CCL4",
+          "MAD.EP.DESC.CD3",
+          "MAD.EP.DESC.CPSAA1",
+          "MAD.EP.DESC.CCEC1",
+          "MAD.EP.DESC.CCEC2",
+          "MAD.EP.DESC.CCEC3"
+        ]
+      }
+    },
+    {
+      "codigo": "MAD.EP.LCL.C3.CR.7.1",
+      "tipo": "criterio",
+      "texto": "Leer de manera autónoma textos de diversos autores ajustados a sus gustos e intereses, avanzando en la construcción de su identidad lectora.",
+      "codigo_oficial": "7.1",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Castellana y Literatura, tercer ciclo, criterios",
+        "pagina": 80
+      },
+      "orden": 21,
+      "padre": "MAD.EP.LCL.C3.CE.7"
+    },
+    {
+      "codigo": "MAD.EP.LCL.C3.CR.7.2",
+      "tipo": "criterio",
+      "texto": "Compartir la experiencia de lectura, en soportes diversos, participando en comunidades lectoras en el ámbito escolar o social.",
+      "codigo_oficial": "7.2",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Castellana y Literatura, tercer ciclo, criterios",
+        "pagina": 80
+      },
+      "orden": 22,
+      "padre": "MAD.EP.LCL.C3.CE.7"
+    },
+    {
+      "codigo": "MAD.EP.LCL.C3.CE.8",
+      "tipo": "competencia_especifica",
+      "texto": "Leer, interpretar y analizar, de manera acompañada, obras o fragmentos literarios adecuados a su desarrollo, estableciendo relaciones entre ellos e identificando el género literario y sus convenciones fundamentales, para iniciarse en el reconocimiento de la literatura como manifestación artística y fuente de placer, conocimiento e inspiración para crear textos de intención literaria.",
+      "codigo_oficial": "8",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Castellana y Literatura, tercer ciclo, competencias específicas",
+        "pagina": 80
+      },
+      "orden": 23,
+      "relaciones": {
+        "descriptores": [
+          "MAD.EP.DESC.CCL1",
+          "MAD.EP.DESC.CCL2",
+          "MAD.EP.DESC.CCL4",
+          "MAD.EP.DESC.CCEC1",
+          "MAD.EP.DESC.CCEC2",
+          "MAD.EP.DESC.CCEC3",
+          "MAD.EP.DESC.CCEC4"
+        ]
+      }
+    },
+    {
+      "codigo": "MAD.EP.LCL.C3.CR.8.1",
+      "tipo": "criterio",
+      "texto": "Escuchar y leer textos literarios adecuados a su edad, que recojan diversidad de autores y autoras, relacionándolos en función de los temas y de aspectos elementales de cada género literario, e interpretándolos, valorándolos y relacionándolos con otras manifestaciones artísticas o culturales de manera progresivamente autónoma.",
+      "codigo_oficial": "8.1",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Castellana y Literatura, tercer ciclo, criterios",
+        "pagina": 80
+      },
+      "orden": 24,
+      "padre": "MAD.EP.LCL.C3.CE.8"
+    },
+    {
+      "codigo": "MAD.EP.LCL.C3.CR.8.2",
+      "tipo": "criterio",
+      "texto": "Producir, de manera autónoma, textos sencillos individuales o grupales con intención literaria, reelaborando con creatividad los modelos dados, en distintos soportes y complementándolos con otros lenguajes artísticos.",
+      "codigo_oficial": "8.2",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Castellana y Literatura, tercer ciclo, criterios",
+        "pagina": 80
+      },
+      "orden": 25,
+      "padre": "MAD.EP.LCL.C3.CE.8"
+    },
+    {
+      "codigo": "MAD.EP.LCL.C3.CE.9",
+      "tipo": "competencia_especifica",
+      "texto": "Reflexionar sobre el lenguaje a partir de procesos de producción y comprensión de textos en contextos significativos, utilizando la terminología elemental adecuada, para iniciarse en el desarrollo de la conciencia de la lengua y para mejorar las destrezas de producción y comprensión oral y escrita.",
+      "codigo_oficial": "9",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Castellana y Literatura, tercer ciclo, competencias específicas",
+        "pagina": 81
+      },
+      "orden": 26,
+      "relaciones": {
+        "descriptores": [
+          "MAD.EP.DESC.CCL1",
+          "MAD.EP.DESC.CCL2",
+          "MAD.EP.DESC.CP2",
+          "MAD.EP.DESC.STEM1",
+          "MAD.EP.DESC.STEM2",
+          "MAD.EP.DESC.CPSAA5"
+        ]
+      }
+    },
+    {
+      "codigo": "MAD.EP.LCL.C3.CR.9.1",
+      "tipo": "criterio",
+      "texto": "Establecer generalizaciones sobre aspectos básicos del funcionamiento de la lengua de manera acompañada, formulando hipótesis y buscando contraejemplos, a partir de la observación, comparación y transformación de palabras, enunciados y textos, en un proceso de producción o comprensión de textos en contextos significativos.",
+      "codigo_oficial": "9.1",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Castellana y Literatura, tercer ciclo, criterios",
+        "pagina": 81
+      },
+      "orden": 27,
+      "padre": "MAD.EP.LCL.C3.CE.9"
+    },
+    {
+      "codigo": "MAD.EP.LCL.C3.CR.9.2",
+      "tipo": "criterio",
+      "texto": "Revisar y mejorar los textos propios y ajenos y subsanar algunos problemas de comprensión lectora, de manera autónoma, a partir de la reflexión metalingüística e interlingüística y usando la terminología básica adecuada.",
+      "codigo_oficial": "9.2",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Castellana y Literatura, tercer ciclo, criterios",
+        "pagina": 81
+      },
+      "orden": 28,
+      "padre": "MAD.EP.LCL.C3.CE.9"
+    },
+    {
+      "codigo": "MAD.EP.LCL.C3.CE.10",
+      "tipo": "competencia_especifica",
+      "texto": "Poner las propias prácticas comunicativas al servicio de la convivencia utilizando un lenguaje adecuado y eficaz.",
+      "codigo_oficial": "10",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Castellana y Literatura, tercer ciclo, competencias específicas",
+        "pagina": 81
+      },
+      "orden": 29,
+      "relaciones": {
+        "descriptores": [
+          "MAD.EP.DESC.CCL1",
+          "MAD.EP.DESC.CCL5",
+          "MAD.EP.DESC.CP3",
+          "MAD.EP.DESC.CD3",
+          "MAD.EP.DESC.CPSAA3",
+          "MAD.EP.DESC.CC1",
+          "MAD.EP.DESC.CC2",
+          "MAD.EP.DESC.CC3"
+        ]
+      }
+    },
+    {
+      "codigo": "MAD.EP.LCL.C3.CR.10.1",
+      "tipo": "criterio",
+      "texto": "Rechazar los usos del lenguaje discriminatorio a través de la palabra, identificados mediante la reflexión grupal acompañada, sobre distintos aspectos, verbales y no verbales, de la comunicación, teniendo en cuenta referentes de igualdad entre hombres y mujeres.",
+      "codigo_oficial": "10.1",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Castellana y Literatura, tercer ciclo, criterios",
+        "pagina": 81
+      },
+      "orden": 30,
+      "padre": "MAD.EP.LCL.C3.CE.10"
+    },
+    {
+      "codigo": "MAD.EP.LCL.C3.CR.10.2",
+      "tipo": "criterio",
+      "texto": "Movilizar con planificación, estrategias básicas para la escucha activa, la comunicación asertiva y la deliberación argumentada mediante el diálogo.",
+      "codigo_oficial": "10.2",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Castellana y Literatura, tercer ciclo, criterios",
+        "pagina": 81
+      },
+      "orden": 31,
+      "padre": "MAD.EP.LCL.C3.CE.10"
+    },
+    {
+      "codigo": "MAD.EP.LCL.C3.CO.A",
+      "tipo": "bloque_contenidos",
+      "texto": "Las lenguas y sus hablantes",
+      "codigo_oficial": "A",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Castellana y Literatura, tercer ciclo, contenidos",
+        "pagina": 81
+      },
+      "orden": 32
+    },
+    {
+      "codigo": "MAD.EP.LCL.C3.CO.A.1",
+      "tipo": "contenido",
+      "texto": "Biografía de la lengua personal y reflexión sobre el mapa de las lenguas del entorno y la pluralidad de las existentes.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Castellana y Literatura, tercer ciclo, contenidos",
+        "pagina": 81
+      },
+      "orden": 33,
+      "padre": "MAD.EP.LCL.C3.CO.A"
+    },
+    {
+      "codigo": "MAD.EP.LCL.C3.CO.A.2",
+      "tipo": "contenido",
+      "texto": "Mapa del español en el mundo. El español como lengua universal. La Real Academia Española de la lengua. Orígenes e historia de la lengua española. Lenguas muertas en España: griego y latín.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Castellana y Literatura, tercer ciclo, contenidos",
+        "pagina": 81
+      },
+      "orden": 34,
+      "padre": "MAD.EP.LCL.C3.CO.A"
+    },
+    {
+      "codigo": "MAD.EP.LCL.C3.CO.A.3",
+      "tipo": "contenido",
+      "texto": "La diversidad cultural y el lenguaje como riqueza y herramienta de reflexión interlingüística. Aproximación a las lenguas de signos. Actitudes de respeto hacia las diferentes lenguas y sus interlocutores.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Castellana y Literatura, tercer ciclo, contenidos",
+        "pagina": 81
+      },
+      "orden": 35,
+      "padre": "MAD.EP.LCL.C3.CO.A"
+    },
+    {
+      "codigo": "MAD.EP.LCL.C3.CO.A.4",
+      "tipo": "contenido",
+      "texto": "Estrategias de identificación de prejuicios del lenguaje. Identificación de modelos positivos.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Castellana y Literatura, tercer ciclo, contenidos",
+        "pagina": 81
+      },
+      "orden": 36,
+      "padre": "MAD.EP.LCL.C3.CO.A"
+    },
+    {
+      "codigo": "MAD.EP.LCL.C3.CO.A.5",
+      "tipo": "contenido",
+      "texto": "Uso de un lenguaje no discriminatorio y respetuoso con las diferencias. Conocimiento sobre las distintas formas de comunicación utilizadas por las personas con discapacidad.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Castellana y Literatura, tercer ciclo, contenidos",
+        "pagina": 81
+      },
+      "orden": 37,
+      "padre": "MAD.EP.LCL.C3.CO.A"
+    },
+    {
+      "codigo": "MAD.EP.LCL.C3.CO.B",
+      "tipo": "bloque_contenidos",
+      "texto": "Comunicación",
+      "codigo_oficial": "B",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Castellana y Literatura, tercer ciclo, contenidos",
+        "pagina": 81
+      },
+      "orden": 38
+    },
+    {
+      "codigo": "MAD.EP.LCL.C3.CO.B.1",
+      "tipo": "bloque_contenidos",
+      "texto": "Contexto",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Castellana y Literatura, tercer ciclo, contenidos",
+        "pagina": 81
+      },
+      "orden": 39,
+      "padre": "MAD.EP.LCL.C3.CO.B"
+    },
+    {
+      "codigo": "MAD.EP.LCL.C3.CO.B.1.1",
+      "tipo": "contenido",
+      "texto": "Interacciones entre los componentes del hecho comunicativo (situación, participantes, propósito comunicativo, canal, registro), respeto a las estrategias de cortesía lingüística.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Castellana y Literatura, tercer ciclo, contenidos",
+        "pagina": 81
+      },
+      "orden": 40,
+      "padre": "MAD.EP.LCL.C3.CO.B.1"
+    },
+    {
+      "codigo": "MAD.EP.LCL.C3.CO.B.2",
+      "tipo": "bloque_contenidos",
+      "texto": "Géneros discursivos",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Castellana y Literatura, tercer ciclo, contenidos",
+        "pagina": 81
+      },
+      "orden": 41,
+      "padre": "MAD.EP.LCL.C3.CO.B"
+    },
+    {
+      "codigo": "MAD.EP.LCL.C3.CO.B.2.1",
+      "tipo": "contenido",
+      "texto": "Tipologías textuales: la narración, la descripción, el diálogo, la exposición y la argumentación.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Castellana y Literatura, tercer ciclo, contenidos",
+        "pagina": 81
+      },
+      "orden": 42,
+      "padre": "MAD.EP.LCL.C3.CO.B.2"
+    },
+    {
+      "codigo": "MAD.EP.LCL.C3.CO.B.2.2",
+      "tipo": "contenido",
+      "texto": "Propiedades textuales: estrategias básicas para la coherencia, cohesión y adecuación.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Castellana y Literatura, tercer ciclo, contenidos",
+        "pagina": 81
+      },
+      "orden": 43,
+      "padre": "MAD.EP.LCL.C3.CO.B.2"
+    },
+    {
+      "codigo": "MAD.EP.LCL.C3.CO.B.2.3",
+      "tipo": "contenido",
+      "texto": "Géneros discursivos propios del ámbito personal, social y educativo. Contenido y forma. Estrategias para la selección del género discursivo adecuado a la intención comunicativa, modelos orientados al desarrollo de la capacidad creativa en la escritura. Redes sociales y sus riesgos.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Castellana y Literatura, tercer ciclo, contenidos",
+        "pagina": 81
+      },
+      "orden": 44,
+      "padre": "MAD.EP.LCL.C3.CO.B.2"
+    },
+    {
+      "codigo": "MAD.EP.LCL.C3.CO.B.3",
+      "tipo": "bloque_contenidos",
+      "texto": "Procesos",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Castellana y Literatura, tercer ciclo, contenidos",
+        "pagina": 81
+      },
+      "orden": 45,
+      "padre": "MAD.EP.LCL.C3.CO.B"
+    },
+    {
+      "codigo": "MAD.EP.LCL.C3.CO.B.3.1",
+      "tipo": "contenido",
+      "texto": "Interacción oral: interacción oral y adecuada en contextos formales e informales, transmitiendo ideas con claridad, participando en debates e intercambios de manera constructiva, confrontando las propias opiniones o aportando argumentos mediante la escucha activa, la asertividad, el diálogo y la cortesía. La expresión y escucha empática de necesidades, vivencias y emociones propias y ajenas, mostrando actitudes de respeto hacia los diferentes interlocutores.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Castellana y Literatura, tercer ciclo, contenidos",
+        "pagina": 81
+      },
+      "orden": 46,
+      "padre": "MAD.EP.LCL.C3.CO.B.3"
+    },
+    {
+      "codigo": "MAD.EP.LCL.C3.CO.B.3.2",
+      "tipo": "contenido",
+      "texto": "Comprensión oral: identificación de las ideas más relevantes e interpretación del sentido global realizando las inferencias necesarias en narraciones, descripciones, informaciones, instrucciones, argumentaciones. Respuesta a preguntas concernientes a la comprensión literal, interpretativa y crítica. Valoración crítica. Detección de usos discriminatorios del lenguaje verbal y no verbal. Identificación de modelos positivos.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Castellana y Literatura, tercer ciclo, contenidos",
+        "pagina": 82
+      },
+      "orden": 47,
+      "padre": "MAD.EP.LCL.C3.CO.B.3"
+    },
+    {
+      "codigo": "MAD.EP.LCL.C3.CO.B.3.3",
+      "tipo": "contenido",
+      "texto": "Producción oral: elementos de la prosodia (entonación, dicción: articulación, ritmo, volumen…) y de la comunicación no verbal. Construcción, comunicación y valoración crítica de conocimiento mediante la planificación y producción de textos orales y multimodales con autonomía. Adecuación del uso de la lengua a las distintas finalidades y a las diferentes necesidades comunicativas.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Castellana y Literatura, tercer ciclo, contenidos",
+        "pagina": 82
+      },
+      "orden": 48,
+      "padre": "MAD.EP.LCL.C3.CO.B.3"
+    },
+    {
+      "codigo": "MAD.EP.LCL.C3.CO.B.3.4",
+      "tipo": "contenido",
+      "texto": "Comprensión lectora: estrategias de comprensión lectora antes, durante y después de la lectura. Identificación de las ideas más relevantes e interpretación del sentido global, activación de conocimientos previos, relectura, parafraseo, visión general del texto, identificación de términos, conceptos confusos o palabras clave, formulación de preguntas, deducción del significado de palabras y expresiones con ayuda del contexto, realizando las inferencias necesarias. Valoración crítica. Identificación de elementos gráficos y paratextuales al servicio de la comprensión. Lectura compartida y expresiva. Detección de usos discriminatorios del lenguaje verbal y no verbal.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Castellana y Literatura, tercer ciclo, contenidos",
+        "pagina": 82
+      },
+      "orden": 49,
+      "padre": "MAD.EP.LCL.C3.CO.B.3"
+    },
+    {
+      "codigo": "MAD.EP.LCL.C3.CO.B.3.5",
+      "tipo": "contenido",
+      "texto": "Estrategias de uso gradualmente autónomo de recursos lingüísticos diversos, en diferentes soportes, incluidos los digitales, para mejorar la comprensión de textos.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Castellana y Literatura, tercer ciclo, contenidos",
+        "pagina": 82
+      },
+      "orden": 50,
+      "padre": "MAD.EP.LCL.C3.CO.B.3"
+    },
+    {
+      "codigo": "MAD.EP.LCL.C3.CO.B.3.6",
+      "tipo": "contenido",
+      "texto": "Producción escrita: ortografía reglada en la textualización y la autocorrección de textos escritos y multimodales de relativa complejidad, con distintos propósitos comunicativos tales como diarios, cartas, correos electrónicos, biografías, informes, pequeños poemas, descripciones... Coherencia, cohesión y adecuación textual en copias, dictados o textos de creación autónoma. Estrategias básicas, individuales o grupales, de planificación, textualización, revisión y autocorrección. Comentarios de texto (tema, resumen, estructura…). Presentación cuidada con limpieza, claridad, precisión y orden en los escritos. Uso de elementos gráficos y paratextuales al servicio de la comprensión. Escritura en soporte digital.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Castellana y Literatura, tercer ciclo, contenidos",
+        "pagina": 82
+      },
+      "orden": 51,
+      "padre": "MAD.EP.LCL.C3.CO.B.3"
+    },
+    {
+      "codigo": "MAD.EP.LCL.C3.CO.B.3.7",
+      "tipo": "contenido",
+      "texto": "Alfabetización mediática e informacional: estrategias para la búsqueda y selección de información (toma notas, elabora esquemas, guiones, mapas conceptuales, sigue un plan de trabajo, expresa conclusiones con claridad etc.) en distintas fuentes documentales y con distintos soportes y formatos, entre ellos el periódico. Reconocimiento de autoría y respeto por las producciones ajenas. Comparación, organización y valoración crítica de la información. Uso autónomo de la biblioteca, así como de recursos digitales del aula.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Castellana y Literatura, tercer ciclo, contenidos",
+        "pagina": 82
+      },
+      "orden": 52,
+      "padre": "MAD.EP.LCL.C3.CO.B.3"
+    },
+    {
+      "codigo": "MAD.EP.LCL.C3.CO.C",
+      "tipo": "bloque_contenidos",
+      "texto": "Educación literaria",
+      "codigo_oficial": "C",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Castellana y Literatura, tercer ciclo, contenidos",
+        "pagina": 82
+      },
+      "orden": 53
+    },
+    {
+      "codigo": "MAD.EP.LCL.C3.CO.C.1",
+      "tipo": "contenido",
+      "texto": "Lectura autónoma de obras o fragmentos variados y diversos de la literatura adecuados a su edad y organizados en itinerarios lectores.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Castellana y Literatura, tercer ciclo, contenidos",
+        "pagina": 82
+      },
+      "orden": 54,
+      "padre": "MAD.EP.LCL.C3.CO.C"
+    },
+    {
+      "codigo": "MAD.EP.LCL.C3.CO.C.2",
+      "tipo": "contenido",
+      "texto": "Estrategia para la interpretación de las obras a través de conversaciones literarias.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Castellana y Literatura, tercer ciclo, contenidos",
+        "pagina": 82
+      },
+      "orden": 55,
+      "padre": "MAD.EP.LCL.C3.CO.C"
+    },
+    {
+      "codigo": "MAD.EP.LCL.C3.CO.C.3",
+      "tipo": "contenido",
+      "texto": "Relación, entre los elementos constitutivos de la obra literaria (tema, protagonistas, personajes secundarios, argumento, espacio) y la construcción del sentido de la obra.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Castellana y Literatura, tercer ciclo, contenidos",
+        "pagina": 82
+      },
+      "orden": 56,
+      "padre": "MAD.EP.LCL.C3.CO.C"
+    },
+    {
+      "codigo": "MAD.EP.LCL.C3.CO.C.4",
+      "tipo": "contenido",
+      "texto": "Análisis de la relación entre los elementos básicos del género literario y la construcción del sentido de la obra. Características fundamentales de textos literarios narrativos, poéticos y dramáticos.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Castellana y Literatura, tercer ciclo, contenidos",
+        "pagina": 82
+      },
+      "orden": 57,
+      "padre": "MAD.EP.LCL.C3.CO.C"
+    },
+    {
+      "codigo": "MAD.EP.LCL.C3.CO.C.5",
+      "tipo": "contenido",
+      "texto": "Estrategias básicas para la interpretación autónoma de los textos literarios. El lenguaje figurado (símiles y metáforas), las personificaciones, las hipérboles y los juegos de palabras. Refranes, aforismos y greguerías para profundizar en el sentido y posibilidades del lenguaje El uso de comparaciones, metáforas, aumentativos, diminutivos y sinónimos en textos literarios.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Castellana y Literatura, tercer ciclo, contenidos",
+        "pagina": 82
+      },
+      "orden": 58,
+      "padre": "MAD.EP.LCL.C3.CO.C"
+    },
+    {
+      "codigo": "MAD.EP.LCL.C3.CO.C.6",
+      "tipo": "contenido",
+      "texto": "Relación entre los textos leídos y otras manifestaciones artísticas y culturales. Los libros ilustrados como fuente de disfrute y de aprendizaje de la lectura y su conexión con la realidad, con la fantasía y con las demás artes.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Castellana y Literatura, tercer ciclo, contenidos",
+        "pagina": 82
+      },
+      "orden": 59,
+      "padre": "MAD.EP.LCL.C3.CO.C"
+    },
+    {
+      "codigo": "MAD.EP.LCL.C3.CO.C.7",
+      "tipo": "contenido",
+      "texto": "Avance en la construcción de la identidad lectora. Estrategias para la expresión de gustos e intereses y para la valoración crítica elemental de las obras.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Castellana y Literatura, tercer ciclo, contenidos",
+        "pagina": 83
+      },
+      "orden": 60,
+      "padre": "MAD.EP.LCL.C3.CO.C"
+    },
+    {
+      "codigo": "MAD.EP.LCL.C3.CO.C.8",
+      "tipo": "contenido",
+      "texto": "Lectura expresiva, dramatización o interpretación de fragmentos atendiendo a los procesos de comprensión y al nivel de desarrollo.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Castellana y Literatura, tercer ciclo, contenidos",
+        "pagina": 83
+      },
+      "orden": 61,
+      "padre": "MAD.EP.LCL.C3.CO.C"
+    },
+    {
+      "codigo": "MAD.EP.LCL.C3.CO.C.9",
+      "tipo": "contenido",
+      "texto": "Creación de textos de intención literaria (cuentos, poemas, canciones, pequeñas obras teatrales) de manera libre y a partir de la recreación y apropiación de los modelos dados utilizando recursos léxicos, sintácticos, fónicos y rítmicos en dichas producciones.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Castellana y Literatura, tercer ciclo, contenidos",
+        "pagina": 83
+      },
+      "orden": 62,
+      "padre": "MAD.EP.LCL.C3.CO.C"
+    },
+    {
+      "codigo": "MAD.EP.LCL.C3.CO.C.10",
+      "tipo": "contenido",
+      "texto": "Uso autónomo de la biblioteca de aula o de centro como escenario de actividades literarias compartidas.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Castellana y Literatura, tercer ciclo, contenidos",
+        "pagina": 83
+      },
+      "orden": 63,
+      "padre": "MAD.EP.LCL.C3.CO.C"
+    },
+    {
+      "codigo": "MAD.EP.LCL.C3.CO.C.11",
+      "tipo": "contenido",
+      "texto": "Principales autores de la literatura española y universal en las distintas épocas. Obras más relevantes.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Castellana y Literatura, tercer ciclo, contenidos",
+        "pagina": 83
+      },
+      "orden": 64,
+      "padre": "MAD.EP.LCL.C3.CO.C"
+    },
+    {
+      "codigo": "MAD.EP.LCL.C3.CO.D",
+      "tipo": "bloque_contenidos",
+      "texto": "Reflexión sobre la lengua y sus usos en el marco de propuestas de producción y comprensión de textos orales, escritos o multimodales.",
+      "codigo_oficial": "D",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Castellana y Literatura, tercer ciclo, contenidos",
+        "pagina": 83
+      },
+      "orden": 65
+    },
+    {
+      "codigo": "MAD.EP.LCL.C3.CO.D.1",
+      "tipo": "contenido",
+      "texto": "Establecimiento de generalizaciones sobre aspectos lingüísticos elementales a partir de la observación, comparación y transformación de palabras y enunciados (sustitución, inserción, supresión, cambio de orden, manipulación), formulación y comprobación de hipótesis y contrastes con otras lenguas.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Castellana y Literatura, tercer ciclo, contenidos",
+        "pagina": 83
+      },
+      "orden": 66,
+      "padre": "MAD.EP.LCL.C3.CO.D"
+    },
+    {
+      "codigo": "MAD.EP.LCL.C3.CO.D.2",
+      "tipo": "contenido",
+      "texto": "Aproximación a la lengua como sistema con distintos niveles: sonidos y letras, palabras (sustantivos, determinantes artículos: demostrativos, posesivos, indefinidos, numerales, interrogativos y exclamativos; pronombres, adverbios, locuciones adverbiales, preposiciones, conjunciones, interjecciones, verbos y adjetivos) oraciones (tipos) y textos. Observación y comparación de unidades comunicativas básicas. Relaciones fundamentales entre los esquemas semánticos y sintácticos de la oración. Uso de la sintaxis correcta en los escritos propios. Reconocimiento de sintagmas sencillos.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Castellana y Literatura, tercer ciclo, contenidos",
+        "pagina": 83
+      },
+      "orden": 67,
+      "padre": "MAD.EP.LCL.C3.CO.D"
+    },
+    {
+      "codigo": "MAD.EP.LCL.C3.CO.D.3",
+      "tipo": "contenido",
+      "texto": "Procedimientos básicos de adquisición de vocabulario. Mecanismos léxicos básicos para la formación de palabras. Familias de palabras, palabras derivadas, homónimas.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Castellana y Literatura, tercer ciclo, contenidos",
+        "pagina": 83
+      },
+      "orden": 68,
+      "padre": "MAD.EP.LCL.C3.CO.D"
+    },
+    {
+      "codigo": "MAD.EP.LCL.C3.CO.D.4",
+      "tipo": "contenido",
+      "texto": "Relación entre intención comunicativa y modalidad oracional (enunciativas, exclamativas, interrogativas…).",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Castellana y Literatura, tercer ciclo, contenidos",
+        "pagina": 83
+      },
+      "orden": 69,
+      "padre": "MAD.EP.LCL.C3.CO.D"
+    },
+    {
+      "codigo": "MAD.EP.LCL.C3.CO.D.5",
+      "tipo": "contenido",
+      "texto": "Mecanismos básicos de coherencia y cohesión, con especial atención a las sustituciones pronominales y a la correlación temporal establecida mediante los distintos tiempos verbales. Conjugación de los verbos. La voz pasiva.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Castellana y Literatura, tercer ciclo, contenidos",
+        "pagina": 83
+      },
+      "orden": 70,
+      "padre": "MAD.EP.LCL.C3.CO.D"
+    },
+    {
+      "codigo": "MAD.EP.LCL.C3.CO.D.6",
+      "tipo": "contenido",
+      "texto": "Estrategias de observación y formulación de generalizaciones sobre la acentuación. Sílabas tónicas y átonas, diptongos, triptongos e hiatos. Palabras agudas, llanas, esdrújulas y sobresdrújulas. Reglas de acentuación de los interrogativos, exclamativos y las palabras compuestas.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Castellana y Literatura, tercer ciclo, contenidos",
+        "pagina": 83
+      },
+      "orden": 71,
+      "padre": "MAD.EP.LCL.C3.CO.D"
+    },
+    {
+      "codigo": "MAD.EP.LCL.C3.CO.D.7",
+      "tipo": "contenido",
+      "texto": "Los signos de puntuación ( el punto y seguido, el punto y aparte, el punto final, el punto después de las abreviaturas y detrás de paréntesis o comillas cuando cierran períodos; la coma; los dos puntos y los puntos suspensivos en todos sus usos; los signos de interrogación y de exclamación; la raya para señalar cada una de las intervenciones de un dialogo; el guion para separar una palabra que no cabe completa en una línea o renglón y las comillas para reproducir citas textuales) como mecanismos para organizar el texto y expresar intención comunicativa.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Castellana y Literatura, tercer ciclo, contenidos",
+        "pagina": 83
+      },
+      "orden": 72,
+      "padre": "MAD.EP.LCL.C3.CO.D"
+    }
+  ]
+}

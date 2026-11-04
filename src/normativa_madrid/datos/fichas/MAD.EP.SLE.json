@@ -1,0 +1,1435 @@
+{
+  "codigo": "MAD.EP.SLE",
+  "nombre": "Segunda Lengua Extranjera",
+  "etapa": "primaria",
+  "curso": null,
+  "cursos_academicos": [
+    "2026-27"
+  ],
+  "normas": [
+    "bocm-20220718-1"
+  ],
+  "elementos": [
+    {
+      "codigo": "MAD.EP.SLE.CE.1",
+      "tipo": "competencia_especifica",
+      "texto": "Adquirir estrategias que faciliten la comprensión del sentido general e información concreta y previsible de pequeños textos sencillos, expresados de forma clara y en lengua estándar como medio para comunicar necesidades habituales y desarrollar el repertorio del lenguaje personal.",
+      "codigo_oficial": "1",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Segunda Lengua Extranjera, competencias específicas",
+        "pagina": 115
+      },
+      "orden": 1,
+      "relaciones": {
+        "descriptores": [
+          "MAD.EP.DESC.CCL2",
+          "MAD.EP.DESC.CCL3",
+          "MAD.EP.DESC.CP1",
+          "MAD.EP.DESC.CP2",
+          "MAD.EP.DESC.STEM1",
+          "MAD.EP.DESC.CD1",
+          "MAD.EP.DESC.CPSAA5",
+          "MAD.EP.DESC.CCEC2"
+        ]
+      }
+    },
+    {
+      "codigo": "MAD.EP.SLE.CR.1.1",
+      "tipo": "criterio",
+      "texto": "Comprender e interpretar el sentido global, así como palabras de uso frecuente y frases previamente indicadas en textos orales, escritos y multimodales breves y sencillos sobre temas habituales, de relevancia personal y próximos a su experiencia, adecuados al nivel de desarrollo del alumnado, expresados de manera comprensible, clara y en lengua estándar a través de distintos soportes, incluidos los audiovisuales e informáticos.",
+      "codigo_oficial": "1.1",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Segunda Lengua Extranjera, criterios",
+        "pagina": 115
+      },
+      "orden": 2,
+      "padre": "MAD.EP.SLE.CE.1"
+    },
+    {
+      "codigo": "MAD.EP.SLE.CR.1.2",
+      "tipo": "criterio",
+      "texto": "Aplicar de forma guiada estrategias adecuadas para captar el sentido global y procesar informaciones explícitas en textos breves y sencillos sobre temas familiares, en situaciones comunicativas cotidianas y de relevancia para el alumnado.",
+      "codigo_oficial": "1.2",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Segunda Lengua Extranjera, criterios",
+        "pagina": 115
+      },
+      "orden": 3,
+      "padre": "MAD.EP.SLE.CE.1"
+    },
+    {
+      "codigo": "MAD.EP.SLE.CE.2",
+      "tipo": "competencia_especifica",
+      "texto": "Desarrollar la producción oral, escrita y multimodal de textos breves, sencillos, comprensibles y estructurados sobre temas cotidianos y de relevancia personal para el alumnado, utilizando estrategias como la planificación o la compensación a través del lenguaje verbal y no verbal.",
+      "codigo_oficial": "2",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Segunda Lengua Extranjera, competencias específicas",
+        "pagina": 115
+      },
+      "orden": 4,
+      "relaciones": {
+        "descriptores": [
+          "MAD.EP.DESC.CCL1",
+          "MAD.EP.DESC.CP1",
+          "MAD.EP.DESC.CP2",
+          "MAD.EP.DESC.STEM1",
+          "MAD.EP.DESC.CD2",
+          "MAD.EP.DESC.CPSAA5",
+          "MAD.EP.DESC.CE1",
+          "MAD.EP.DESC.CCEC4"
+        ]
+      }
+    },
+    {
+      "codigo": "MAD.EP.SLE.CR.2.1",
+      "tipo": "criterio",
+      "texto": "Atender al ritmo, la acentuación y la entonación durante la expresión oral de frases cortas con información básica sobre asuntos cotidianos y de relevancia para el alumnado, utilizando de forma guiada recursos verbales y no verbales.",
+      "codigo_oficial": "2.1",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Segunda Lengua Extranjera, criterios",
+        "pagina": 115
+      },
+      "orden": 5,
+      "padre": "MAD.EP.SLE.CE.2"
+    },
+    {
+      "codigo": "MAD.EP.SLE.CR.2.2",
+      "tipo": "criterio",
+      "texto": "Producir textos muy breves y sencillos, adecuados a la situación comunicativa propuesta, a partir de modelos y a través de herramientas analógicas y digitales, usando estructuras y léxico elemental sobre asuntos cotidianos y de relevancia personal para el alumnado.",
+      "codigo_oficial": "2.2",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Segunda Lengua Extranjera, criterios",
+        "pagina": 115
+      },
+      "orden": 6,
+      "padre": "MAD.EP.SLE.CE.2"
+    },
+    {
+      "codigo": "MAD.EP.SLE.CR.2.3",
+      "tipo": "criterio",
+      "texto": "Utilizar de forma guiada estrategias que faciliten la producción de mensajes breves y sencillos adecuados a las intenciones comunicativas usando, con ayuda, recursos y apoyos físicos o digitales en función de las necesidades de cada momento.",
+      "codigo_oficial": "2.3",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Segunda Lengua Extranjera, criterios",
+        "pagina": 115
+      },
+      "orden": 7,
+      "padre": "MAD.EP.SLE.CE.2"
+    },
+    {
+      "codigo": "MAD.EP.SLE.CE.3",
+      "tipo": "competencia_especifica",
+      "texto": "Participar en intercambios comunicativos para expresar o responder a necesidades inmediatas en situaciones de interés para el alumnado, mediante el uso de expresiones habituales, estrategias de colaboración mutua y recursos analógicos y digitales, mostrando respeto por las normas de cortesía establecidas.",
+      "codigo_oficial": "3",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Segunda Lengua Extranjera, competencias específicas",
+        "pagina": 115
+      },
+      "orden": 8,
+      "relaciones": {
+        "descriptores": [
+          "MAD.EP.DESC.CCL5",
+          "MAD.EP.DESC.CP1",
+          "MAD.EP.DESC.CP2",
+          "MAD.EP.DESC.STEM1",
+          "MAD.EP.DESC.CPSAA3",
+          "MAD.EP.DESC.CC3",
+          "MAD.EP.DESC.CE1"
+        ]
+      }
+    },
+    {
+      "codigo": "MAD.EP.SLE.CR.3.1",
+      "tipo": "criterio",
+      "texto": "Participar en situaciones interactivas breves y sencillas sobre temas cotidianos, de relevancia personal y próxima a su experiencia, preparadas previamente, a través de diversos soportes, apoyándose en recursos tales como la repetición, el ritmo pausado o el lenguaje no verbal, y mostrando respeto por la cortesía del lenguaje y la etiqueta digital.",
+      "codigo_oficial": "3.1",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Segunda Lengua Extranjera, criterios",
+        "pagina": 115
+      },
+      "orden": 9,
+      "padre": "MAD.EP.SLE.CE.3"
+    },
+    {
+      "codigo": "MAD.EP.SLE.CR.3.2",
+      "tipo": "criterio",
+      "texto": "Seleccionar y utilizar, de forma guiada y en situaciones cotidianas, estrategias elementales para saludar, despedirse y presentarse; expresar mensajes breves; y formular y contestar preguntas sencillas.",
+      "codigo_oficial": "3.2",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Segunda Lengua Extranjera, criterios",
+        "pagina": 115
+      },
+      "orden": 10,
+      "padre": "MAD.EP.SLE.CE.3"
+    },
+    {
+      "codigo": "MAD.EP.SLE.CE.4",
+      "tipo": "competencia_especifica",
+      "texto": "Actuar como intermediario en contextos predecibles y cotidianos, para procesar y transmitir información básica y sencilla, utilizando estrategias y conocimientos que faciliten la comunicación.",
+      "codigo_oficial": "4",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Segunda Lengua Extranjera, competencias específicas",
+        "pagina": 115
+      },
+      "orden": 11,
+      "relaciones": {
+        "descriptores": [
+          "MAD.EP.DESC.CCL5",
+          "MAD.EP.DESC.CP1",
+          "MAD.EP.DESC.CP2",
+          "MAD.EP.DESC.CP3",
+          "MAD.EP.DESC.STEM1",
+          "MAD.EP.DESC.CPSAA1",
+          "MAD.EP.DESC.CPSAA3",
+          "MAD.EP.DESC.CCEC1"
+        ]
+      }
+    },
+    {
+      "codigo": "MAD.EP.SLE.CR.4.1",
+      "tipo": "criterio",
+      "texto": "Mostrar empatía e interés por los interlocutores y por los problemas de entendimiento en su entorno más próximo, apoyándose en diversos recursos y soportes para interpretar y explicar textos, conceptos y comunicaciones breves y sencillas, de forma guiada, en situaciones en las que atender a la diversidad.",
+      "codigo_oficial": "4.1",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Segunda Lengua Extranjera, criterios",
+        "pagina": 115
+      },
+      "orden": 12,
+      "padre": "MAD.EP.SLE.CE.4"
+    },
+    {
+      "codigo": "MAD.EP.SLE.CR.4.2",
+      "tipo": "criterio",
+      "texto": "Adquirir estrategias elementales que ayuden a crear puentes y faciliten la comprensión y producción de información y la comunicación, usando, con ayuda, recursos y apoyos físicos o digitales en función de las necesidades de cada momento.",
+      "codigo_oficial": "4.2",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Segunda Lengua Extranjera, criterios",
+        "pagina": 115
+      },
+      "orden": 13,
+      "padre": "MAD.EP.SLE.CE.4"
+    },
+    {
+      "codigo": "MAD.EP.SLE.CE.5",
+      "tipo": "competencia_especifica",
+      "texto": "Reflexionar sobre el funcionamiento de las distintas lenguas, reconociendo, utilizando y enriqueciendo los repertorios del lenguaje personal, usando los conocimientos previos y desarrollando las estrategias necesarias que faciliten la comunicación en situaciones cotidianas.",
+      "codigo_oficial": "5",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Segunda Lengua Extranjera, competencias específicas",
+        "pagina": 116
+      },
+      "orden": 14,
+      "relaciones": {
+        "descriptores": [
+          "MAD.EP.DESC.CP2",
+          "MAD.EP.DESC.STEM1",
+          "MAD.EP.DESC.CD2",
+          "MAD.EP.DESC.CPSAA1",
+          "MAD.EP.DESC.CPSAA5"
+        ]
+      }
+    },
+    {
+      "codigo": "MAD.EP.SLE.CR.5.1",
+      "tipo": "criterio",
+      "texto": "Desarrollar destrezas personales que ayuden a enfrentarse al aprendizaje de otra lengua, fomentando la confianza en las propias posibilidades, aceptando el error como parte del proceso de aprendizaje y adaptándose ante situaciones de incertidumbre, para disfrutar en el aprendizaje de una segunda lengua.",
+      "codigo_oficial": "5.1",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Segunda Lengua Extranjera, criterios",
+        "pagina": 116
+      },
+      "orden": 15,
+      "padre": "MAD.EP.SLE.CE.5"
+    },
+    {
+      "codigo": "MAD.EP.SLE.CR.5.2",
+      "tipo": "criterio",
+      "texto": "Analizar las similitudes y diferencias entre distintas lenguas reflexionando, de forma guiada, sobre aspectos básicos de su funcionamiento.",
+      "codigo_oficial": "5.2",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Segunda Lengua Extranjera, criterios",
+        "pagina": 116
+      },
+      "orden": 16,
+      "padre": "MAD.EP.SLE.CE.5"
+    },
+    {
+      "codigo": "MAD.EP.SLE.CR.5.3",
+      "tipo": "criterio",
+      "texto": "Utilizar y diferenciar, de forma guiada, los conocimientos y estrategias de mejora de su capacidad de comunicar y de aprender una segunda extranjera, con apoyo de otros participantes y de soportes analógicos y digitales.",
+      "codigo_oficial": "5.3",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Segunda Lengua Extranjera, criterios",
+        "pagina": 116
+      },
+      "orden": 17,
+      "padre": "MAD.EP.SLE.CE.5"
+    },
+    {
+      "codigo": "MAD.EP.SLE.CR.5.4",
+      "tipo": "criterio",
+      "texto": "Registrar y aplicar, de manera guiada, los avances y dificultades elementales del aprendizaje de la lengua extranjera, reconociendo los aspectos que ayudan a mejorar, participando en actividades de autoevaluación y evaluación, como las propuestas en el Portfolio Europeo de las Lenguas (PEL).",
+      "codigo_oficial": "5.4",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Segunda Lengua Extranjera, criterios",
+        "pagina": 116
+      },
+      "orden": 18,
+      "padre": "MAD.EP.SLE.CE.5"
+    },
+    {
+      "codigo": "MAD.EP.SLE.CE.6",
+      "tipo": "competencia_especifica",
+      "texto": "Identificar las diferencias y semejanzas entre las diferentes lenguas, valorando y respetando su diversidad como medio para gestionar situaciones interculturales.",
+      "codigo_oficial": "6",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Segunda Lengua Extranjera, competencias específicas",
+        "pagina": 116
+      },
+      "orden": 19,
+      "relaciones": {
+        "descriptores": [
+          "MAD.EP.DESC.CCL5",
+          "MAD.EP.DESC.CP3",
+          "MAD.EP.DESC.CPSAA1",
+          "MAD.EP.DESC.CPSAA3",
+          "MAD.EP.DESC.CC3",
+          "MAD.EP.DESC.CCEC1"
+        ]
+      }
+    },
+    {
+      "codigo": "MAD.EP.SLE.CR.6.1",
+      "tipo": "criterio",
+      "texto": "Mostrar respeto en diversas situaciones, identificando y comparando semejanzas y diferencias elementales entre lenguas y culturas en diferentes contextos comunicativos cotidianos y habituales.",
+      "codigo_oficial": "6.1",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Segunda Lengua Extranjera, criterios",
+        "pagina": 116
+      },
+      "orden": 20,
+      "padre": "MAD.EP.SLE.CE.6"
+    },
+    {
+      "codigo": "MAD.EP.SLE.CR.6.2",
+      "tipo": "criterio",
+      "texto": "Reconocer y apreciar la diversidad de países donde se habla la segunda lengua extranjera como fuente de enriquecimiento personal, mostrando interés por comprender elementos culturales y del lenguaje elemental y habitual que fomenten el respeto por los demás.",
+      "codigo_oficial": "6.2",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Segunda Lengua Extranjera, criterios",
+        "pagina": 116
+      },
+      "orden": 21,
+      "padre": "MAD.EP.SLE.CE.6"
+    },
+    {
+      "codigo": "MAD.EP.SLE.CR.6.3",
+      "tipo": "criterio",
+      "texto": "Reconocer y aplicar estrategias básicas para entender y apreciar los aspectos más relevantes de la diversidad del lenguaje, de la cultura y del arte.",
+      "codigo_oficial": "6.3",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Segunda Lengua Extranjera, criterios",
+        "pagina": 116
+      },
+      "orden": 22,
+      "padre": "MAD.EP.SLE.CE.6"
+    },
+    {
+      "codigo": "MAD.EP.SLE.CO.A",
+      "tipo": "bloque_contenidos",
+      "texto": "Comunicación",
+      "codigo_oficial": "A",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Segunda Lengua Extranjera, contenidos",
+        "pagina": 116
+      },
+      "orden": 23
+    },
+    {
+      "codigo": "MAD.EP.SLE.CO.A.1",
+      "tipo": "contenido",
+      "texto": "El error como parte integrante del proceso y como instrumento de mejora. Confianza y reflexión sobre el aprendizaje, las propias posibilidades y la prioridad de la intención comunicativa.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Segunda Lengua Extranjera, contenidos",
+        "pagina": 116
+      },
+      "orden": 24,
+      "padre": "MAD.EP.SLE.CO.A"
+    },
+    {
+      "codigo": "MAD.EP.SLE.CO.A.2",
+      "tipo": "contenido",
+      "texto": "Estrategias básicas de uso común (contexto visual, conocimiento previo del tema, identificación de información básica, deducción del significado de palabras y frases nuevas por el contexto…) para la comprensión y la producción de textos orales, escritos y multimodales breves, sencillos y contextualizados.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Segunda Lengua Extranjera, contenidos",
+        "pagina": 116
+      },
+      "orden": 25,
+      "padre": "MAD.EP.SLE.CO.A"
+    },
+    {
+      "codigo": "MAD.EP.SLE.CO.A.3",
+      "tipo": "contenido",
+      "texto": "Conocimientos, destrezas y actitudes elementales que permiten iniciarse en actividades de comunicación en situaciones cotidianas básicas, en las que se utilicen gradualmente estrategias que ayuden a resolver conflictos, mejorar la comunicación o servir de enlace entre varios interlocutores en la misma o en diferentes lenguas, crear relaciones y llegar a acuerdos, fomentando actitudes de colaboración mutua.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Segunda Lengua Extranjera, contenidos",
+        "pagina": 116
+      },
+      "orden": 26,
+      "padre": "MAD.EP.SLE.CO.A"
+    },
+    {
+      "codigo": "MAD.EP.SLE.CO.A.4",
+      "tipo": "contenido",
+      "texto": "Funciones comunicativas básicas de uso común adecuadas al ámbito y al contexto: saludar, despedirse, presentar y presentarse; describir personas, objetos y lugares; pedir e intercambiar información sobre cuestiones cotidianas; describir rutinas; dar indicaciones e instrucciones; expresar el tiempo, la cantidad y el espacio.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Segunda Lengua Extranjera, contenidos",
+        "pagina": 116
+      },
+      "orden": 27,
+      "padre": "MAD.EP.SLE.CO.A"
+    },
+    {
+      "codigo": "MAD.EP.SLE.CO.A.5",
+      "tipo": "contenido",
+      "texto": "Modelos contextuales y géneros discursivos básicos de uso común en la comprensión, producción y coproducción de textos orales, escritos y multimodales, breves y sencillos, literarios y no literarios, tales como cuentos, leyendas, artículos, noticias, cartas, emails, folletos, instrucciones, normas, avisos o conversaciones reguladoras de la convivencia.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Segunda Lengua Extranjera, contenidos",
+        "pagina": 116
+      },
+      "orden": 28,
+      "padre": "MAD.EP.SLE.CO.A"
+    },
+    {
+      "codigo": "MAD.EP.SLE.CO.A.6",
+      "tipo": "contenido",
+      "texto": "Unidades lingüísticas básicas de uso común y significados asociados a dichas estructuras, tales como expresión de la entidad y sus propiedades, cantidad y número, espacio y las relaciones espaciales, afirmación, exclamación, negación, interrogación.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Segunda Lengua Extranjera, contenidos",
+        "pagina": 117
+      },
+      "orden": 29,
+      "padre": "MAD.EP.SLE.CO.A"
+    },
+    {
+      "codigo": "MAD.EP.SLE.CO.A.7",
+      "tipo": "contenido",
+      "texto": "Léxico elemental, de alta frecuencia y de interés para el alumnado relativo a situaciones cotidianas, temas habituales, relaciones personales próximas (familiares, de amistad, escolares…) vivienda, lugares y entornos cercanos, aplicando los conocimientos adquiridos sobre los mismos a una comprensión adecuada del texto.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Segunda Lengua Extranjera, contenidos",
+        "pagina": 117
+      },
+      "orden": 30,
+      "padre": "MAD.EP.SLE.CO.A"
+    },
+    {
+      "codigo": "MAD.EP.SLE.CO.A.8",
+      "tipo": "contenido",
+      "texto": "Patrones sonoros, acentuales y de entonación básicos de uso común, y funciones comunicativas generales asociadas a dichos patrones. Aspectos fonológicos: sonidos, ritmo, entonación y acentuación de palabras en frases de uso frecuente en el aula, a través de rimas, retahílas, trabalenguas, canciones, adivinanzas… acompañados de gestos y mímica. Lectura, deletreo y reconocimiento de palabras que comparten un patrón común, palabras que rimen y fonemas finales.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Segunda Lengua Extranjera, contenidos",
+        "pagina": 117
+      },
+      "orden": 31,
+      "padre": "MAD.EP.SLE.CO.A"
+    },
+    {
+      "codigo": "MAD.EP.SLE.CO.A.9",
+      "tipo": "contenido",
+      "texto": "Convenciones ortográficas básicas de uso común y significados asociados a los formatos y elementos gráficos.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Segunda Lengua Extranjera, contenidos",
+        "pagina": 117
+      },
+      "orden": 32,
+      "padre": "MAD.EP.SLE.CO.A"
+    },
+    {
+      "codigo": "MAD.EP.SLE.CO.A.10",
+      "tipo": "contenido",
+      "texto": "Convenciones y estrategias conversacionales básicas verbales o no verbales (gestos, contacto físico…) de uso común, en formato síncrono (cara a cara, teléfono, videollamada.) o asíncrono en las que se establece contacto social, para iniciar, mantener y terminar la comunicación, tomar y ceder la palabra, pedir y dar indicaciones.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Segunda Lengua Extranjera, contenidos",
+        "pagina": 117
+      },
+      "orden": 33,
+      "padre": "MAD.EP.SLE.CO.A"
+    },
+    {
+      "codigo": "MAD.EP.SLE.CO.A.11",
+      "tipo": "contenido",
+      "texto": "Recursos para el aprendizaje y estrategias elementales de búsqueda guiada de información en medios analógicos y digitales (filtrar resultados, elegir los términos precisos y utilizar la búsqueda avanzada, completar y contrastar los datos, valorar y seleccionar la información...).",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Segunda Lengua Extranjera, contenidos",
+        "pagina": 117
+      },
+      "orden": 34,
+      "padre": "MAD.EP.SLE.CO.A"
+    },
+    {
+      "codigo": "MAD.EP.SLE.CO.A.12",
+      "tipo": "contenido",
+      "texto": "Herramientas analógicas y digitales básicas de uso común para la comprensión, producción y coproducción oral, escrita y multimodal; y plataformas virtuales de interacción y colaboración educativa.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Segunda Lengua Extranjera, contenidos",
+        "pagina": 117
+      },
+      "orden": 35,
+      "padre": "MAD.EP.SLE.CO.A"
+    },
+    {
+      "codigo": "MAD.EP.SLE.CO.B",
+      "tipo": "bloque_contenidos",
+      "texto": "Plurilingüismo",
+      "codigo_oficial": "B",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Segunda Lengua Extranjera, contenidos",
+        "pagina": 117
+      },
+      "orden": 36
+    },
+    {
+      "codigo": "MAD.EP.SLE.CO.B.1",
+      "tipo": "contenido",
+      "texto": "Estrategias y técnicas de compensación de las carencias comunicativas (petición de repetición, aclaración o discurso más lento, descripciones, utilización de comunicación no verbal: gestos, dibujos…) para responder a una necesidad elemental, a pesar de las limitaciones derivadas del nivel de competencia en la lengua extranjera y en las lenguas familiares.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Segunda Lengua Extranjera, contenidos",
+        "pagina": 117
+      },
+      "orden": 37,
+      "padre": "MAD.EP.SLE.CO.B"
+    },
+    {
+      "codigo": "MAD.EP.SLE.CO.B.2",
+      "tipo": "contenido",
+      "texto": "Estrategias básicas de uso común para identificar, retener, recuperar y utilizar unidades del lenguaje (léxico, morfosintaxis, patrones sonoros, etc.) uso de imágenes visuales, diagramas, fichas de vocabulario, mapas semánticos, diccionarios personales, a partir de su repertorio lingüístico.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Segunda Lengua Extranjera, contenidos",
+        "pagina": 117
+      },
+      "orden": 38,
+      "padre": "MAD.EP.SLE.CO.B"
+    },
+    {
+      "codigo": "MAD.EP.SLE.CO.B.3",
+      "tipo": "contenido",
+      "texto": "Iniciación al uso de estrategias y herramientas básicas de uso común de evaluación, analógicas y digitales, individuales y grupales. Rúbricas, diarios de clase, porfolios, escalas de estimación, bloc de autoevaluación, listas de cotejo...",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Segunda Lengua Extranjera, contenidos",
+        "pagina": 117
+      },
+      "orden": 39,
+      "padre": "MAD.EP.SLE.CO.B"
+    },
+    {
+      "codigo": "MAD.EP.SLE.CO.B.4",
+      "tipo": "contenido",
+      "texto": "Léxico y expresiones elementales para comprender enunciados sobre la comunicación, la lengua y el aprendizaje (metalenguaje). La enseñanza de estrategias metalingüísticas de inferencia a partir de las pistas contextuales, tales como el tema general; otras palabras del discurso (redundancias, anáforas, paralelismos); la estructura gramatical; la morfología (análisis de los prefijos, sufijos, composición, etc.); la entonación (habla) y la puntuación (escritura).",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Segunda Lengua Extranjera, contenidos",
+        "pagina": 117
+      },
+      "orden": 40,
+      "padre": "MAD.EP.SLE.CO.B"
+    },
+    {
+      "codigo": "MAD.EP.SLE.CO.C",
+      "tipo": "bloque_contenidos",
+      "texto": "Diferentes culturas",
+      "codigo_oficial": "C",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Segunda Lengua Extranjera, contenidos",
+        "pagina": 117
+      },
+      "orden": 41
+    },
+    {
+      "codigo": "MAD.EP.SLE.CO.C.1",
+      "tipo": "contenido",
+      "texto": "La segunda lengua extranjera como medio de comunicación y relación con personas de otros países, como medio para conocer culturas y modos de vida diferentes. Comprensión de mensajes emitidos por hablantes de otras lenguas, con distintos acentos.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Segunda Lengua Extranjera, contenidos",
+        "pagina": 117
+      },
+      "orden": 42,
+      "padre": "MAD.EP.SLE.CO.C"
+    },
+    {
+      "codigo": "MAD.EP.SLE.CO.C.2",
+      "tipo": "contenido",
+      "texto": "Interés en la participación en intercambios comunicativos planificados, a través de diferentes medios (soporte papel o medios digitales), con estudiantes de la segunda lengua extranjera. Valoración del enriquecimiento personal que supone la relación con personas de otras culturas.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Segunda Lengua Extranjera, contenidos",
+        "pagina": 117
+      },
+      "orden": 43,
+      "padre": "MAD.EP.SLE.CO.C"
+    },
+    {
+      "codigo": "MAD.EP.SLE.CO.C.3",
+      "tipo": "contenido",
+      "texto": "Iniciación a patrones culturales elementales propios de la segunda lengua extranjera. Fórmulas de cortesía adecuadas en los intercambios sociales.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Segunda Lengua Extranjera, contenidos",
+        "pagina": 117
+      },
+      "orden": 44,
+      "padre": "MAD.EP.SLE.CO.C"
+    },
+    {
+      "codigo": "MAD.EP.SLE.CO.C.4",
+      "tipo": "contenido",
+      "texto": "Aspectos de la lengua, de la cultura y de la sociedad elementales, relativos a las costumbres, la vida cotidiana y las relaciones interpersonales básicas en países donde se habla esta segunda lengua extranjera.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Segunda Lengua Extranjera, contenidos",
+        "pagina": 118
+      },
+      "orden": 45,
+      "padre": "MAD.EP.SLE.CO.C"
+    },
+    {
+      "codigo": "MAD.EP.SLE.CO.C.5",
+      "tipo": "contenido",
+      "texto": "Estrategias básicas de uso común para entender y apreciar la diversidad del lenguaje, de la cultura y del arte.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Segunda Lengua Extranjera, contenidos",
+        "pagina": 118
+      },
+      "orden": 46,
+      "padre": "MAD.EP.SLE.CO.C"
+    },
+    {
+      "codigo": "MAD.EP.SLE.CO.D",
+      "tipo": "bloque_contenidos",
+      "texto": "Contenidos sintáctico-discursivos",
+      "codigo_oficial": "D",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Segunda Lengua Extranjera, contenidos",
+        "pagina": 118
+      },
+      "orden": 47
+    },
+    {
+      "codigo": "MAD.EP.SLE.CO.D.1",
+      "tipo": "bloque_contenidos",
+      "texto": "Francés",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Segunda Lengua Extranjera, contenidos",
+        "pagina": 118
+      },
+      "orden": 48,
+      "padre": "MAD.EP.SLE.CO.D"
+    },
+    {
+      "codigo": "MAD.EP.SLE.CO.D.1.1",
+      "tipo": "contenido",
+      "texto": "Expresión de relaciones lógicas: conjunción (et); disyunción (ou); oposición (mais); causa (parce que); finalidad (pour + Inf.); comparación (aussi/plus/moins que).",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Segunda Lengua Extranjera, contenidos",
+        "pagina": 118
+      },
+      "orden": 49,
+      "padre": "MAD.EP.SLE.CO.D.1"
+    },
+    {
+      "codigo": "MAD.EP.SLE.CO.D.1.2",
+      "tipo": "contenido",
+      "texto": "Relaciones temporales (quand, d ´abord, ensuite, après).",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Segunda Lengua Extranjera, contenidos",
+        "pagina": 118
+      },
+      "orden": 50,
+      "padre": "MAD.EP.SLE.CO.D.1"
+    },
+    {
+      "codigo": "MAD.EP.SLE.CO.D.1.3",
+      "tipo": "contenido",
+      "texto": "Exclamación (ortografía, curva entonativa).",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Segunda Lengua Extranjera, contenidos",
+        "pagina": 118
+      },
+      "orden": 51,
+      "padre": "MAD.EP.SLE.CO.D.1"
+    },
+    {
+      "codigo": "MAD.EP.SLE.CO.D.1.4",
+      "tipo": "contenido",
+      "texto": "Negación (ne...pas, ne...jamais).",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Segunda Lengua Extranjera, contenidos",
+        "pagina": 118
+      },
+      "orden": 52,
+      "padre": "MAD.EP.SLE.CO.D.1"
+    },
+    {
+      "codigo": "MAD.EP.SLE.CO.D.1.5",
+      "tipo": "contenido",
+      "texto": "Interrogación: ortografía; curva entonativa; mots interrogatifs (qu ´est-ce que, qui, quand, comment, pourquoi, combien de, où, comment, est-ce que); réponse: oui, non.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Segunda Lengua Extranjera, contenidos",
+        "pagina": 118
+      },
+      "orden": 53,
+      "padre": "MAD.EP.SLE.CO.D.1"
+    },
+    {
+      "codigo": "MAD.EP.SLE.CO.D.1.6",
+      "tipo": "contenido",
+      "texto": "Expresión del tiempo: presente; pasado (passé composé, passé récent: venir de + Inf.); futuro: futur proche (aller + Inf.).",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Segunda Lengua Extranjera, contenidos",
+        "pagina": 118
+      },
+      "orden": 54,
+      "padre": "MAD.EP.SLE.CO.D.1"
+    },
+    {
+      "codigo": "MAD.EP.SLE.CO.D.1.7",
+      "tipo": "contenido",
+      "texto": "Expresión del aspecto: puntual (phrases simples); durativo (être en train de + Inf.).",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Segunda Lengua Extranjera, contenidos",
+        "pagina": 118
+      },
+      "orden": 55,
+      "padre": "MAD.EP.SLE.CO.D.1"
+    },
+    {
+      "codigo": "MAD.EP.SLE.CO.D.1.8",
+      "tipo": "contenido",
+      "texto": "Expresión de la modalidad: factualidad (phrases déclaratives); capacidad (pouvoir, ne pas pouvoir); posibilidad/propabilidad ((ne pas) pouvoir, peut-être); necesidad (avoir besoin de qqch., avoir besoin de + Inf.); obligación / prohibición (on doit/on ne peut pas + Inf.); permiso (est-ce quon peut? Je peux?); intención/deseo (futur proche, verbe vouloir).",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Segunda Lengua Extranjera, contenidos",
+        "pagina": 118
+      },
+      "orden": 56,
+      "padre": "MAD.EP.SLE.CO.D.1"
+    },
+    {
+      "codigo": "MAD.EP.SLE.CO.D.1.9",
+      "tipo": "contenido",
+      "texto": "Expresión de la existencia (presentativos (cest, ce sont), il y a); la entidad (articles (un, une, des; le, la, l, les), noms, pronoms sujets, pronoms toniques, adjectifs démonstratifs; la cualidad ((très +) Adj.); la posesión (cest à / ce sont à + pron. tóniques)).",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Segunda Lengua Extranjera, contenidos",
+        "pagina": 118
+      },
+      "orden": 57,
+      "padre": "MAD.EP.SLE.CO.D.1"
+    },
+    {
+      "codigo": "MAD.EP.SLE.CO.D.1.10",
+      "tipo": "contenido",
+      "texto": "Expresión de la cantidad: (singulier/pluriel; numéros cardinaux jusqu´à 100; articles partitifs (du, de la, de l´, des); empleo de «de» en oraciones negativas (ex: je n´ai pas de pain); Adv. de cantidad y medidas: tout(-e), tous, beaucoup, (un) peu de, la moitié de, une bouteille/un verre/une pièce/une assiette de; le degré: très, beaucoup, trop, assez.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Segunda Lengua Extranjera, contenidos",
+        "pagina": 118
+      },
+      "orden": 58,
+      "padre": "MAD.EP.SLE.CO.D.1"
+    },
+    {
+      "codigo": "MAD.EP.SLE.CO.D.1.11",
+      "tipo": "contenido",
+      "texto": "Expresión del espacio (prépositions et adverbes de lieu, position, distance, mouvement, direction, provenance, destination).",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Segunda Lengua Extranjera, contenidos",
+        "pagina": 118
+      },
+      "orden": 59,
+      "padre": "MAD.EP.SLE.CO.D.1"
+    },
+    {
+      "codigo": "MAD.EP.SLE.CO.D.1.12",
+      "tipo": "contenido",
+      "texto": "Expresión del tiempo: puntual (jours de la semaine, en + mois de lannée, au mois de, en / au + saisons, la date); indicaciones de tiempo (maintenant, après, aujourd ´hui, demain, tôt, tard); duración (pendant + expression de temps); anterioridad (avant); posterioridad (après); secuenciación (d´abord, ensuite); simultaneidad (quand); frecuencia (le(s) + jour de la semaine).",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Segunda Lengua Extranjera, contenidos",
+        "pagina": 118
+      },
+      "orden": 60,
+      "padre": "MAD.EP.SLE.CO.D.1"
+    },
+    {
+      "codigo": "MAD.EP.SLE.CO.D.1.13",
+      "tipo": "contenido",
+      "texto": "Expresión del modo: adverbes de manière ((très) bien, mal; avec + nom).",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Segunda Lengua Extranjera, contenidos",
+        "pagina": 118
+      },
+      "orden": 61,
+      "padre": "MAD.EP.SLE.CO.D.1"
+    },
+    {
+      "codigo": "MAD.EP.SLE.CO.D.2",
+      "tipo": "bloque_contenidos",
+      "texto": "Alemán",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Segunda Lengua Extranjera, contenidos",
+        "pagina": 118
+      },
+      "orden": 62,
+      "padre": "MAD.EP.SLE.CO.D"
+    },
+    {
+      "codigo": "MAD.EP.SLE.CO.D.2.1",
+      "tipo": "contenido",
+      "texto": "Expresión de relaciones lógicas: conjunción (und); disyunción (oder); oposición (aber); causa (weil); finalidad (um- Infinitiv, z. b. Ich habe es gemacht um ihr zu helfen); comparación (so Adj. wie; kleiner (als); der größte)",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Segunda Lengua Extranjera, contenidos",
+        "pagina": 118
+      },
+      "orden": 63,
+      "padre": "MAD.EP.SLE.CO.D.2"
+    },
+    {
+      "codigo": "MAD.EP.SLE.CO.D.2.2",
+      "tipo": "contenido",
+      "texto": "Relaciones temporales (wenn; bevor; nachdem).",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Segunda Lengua Extranjera, contenidos",
+        "pagina": 118
+      },
+      "orden": 64,
+      "padre": "MAD.EP.SLE.CO.D.2"
+    },
+    {
+      "codigo": "MAD.EP.SLE.CO.D.2.3",
+      "tipo": "contenido",
+      "texto": "Afirmación (affirmativen Sätzen; Ja (+affirmative Zeichen)",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Segunda Lengua Extranjera, contenidos",
+        "pagina": 118
+      },
+      "orden": 65,
+      "padre": "MAD.EP.SLE.CO.D.2"
+    },
+    {
+      "codigo": "MAD.EP.SLE.CO.D.2.4",
+      "tipo": "contenido",
+      "texto": "Exclamación (Welch + Nomen, z. b. Welch unerwartete Überraschung!; Wie + Adj., z. b. Wie gut!; Ausrufe Sätzen, e.g. Das ist teuer! ).",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Segunda Lengua Extranjera, contenidos",
+        "pagina": 118
+      },
+      "orden": 66,
+      "padre": "MAD.EP.SLE.CO.D.2"
+    },
+    {
+      "codigo": "MAD.EP.SLE.CO.D.2.5",
+      "tipo": "contenido",
+      "texto": "Negación (negative Sätze mit nicht, nie, nicht (Adjektiv), niemand, nichts; Nein (+ negative Zeichen)",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Segunda Lengua Extranjera, contenidos",
+        "pagina": 118
+      },
+      "orden": 67,
+      "padre": "MAD.EP.SLE.CO.D.2"
+    },
+    {
+      "codigo": "MAD.EP.SLE.CO.D.2.6",
+      "tipo": "contenido",
+      "texto": "Interrogación (Fragesätze und einfache Fragewörter)",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Segunda Lengua Extranjera, contenidos",
+        "pagina": 118
+      },
+      "orden": 68,
+      "padre": "MAD.EP.SLE.CO.D.2"
+    },
+    {
+      "codigo": "MAD.EP.SLE.CO.D.2.7",
+      "tipo": "contenido",
+      "texto": "Expresión del tiempo: pasado (Perfekt, Präteritum); presente (Präsens); futuro (werden).",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Segunda Lengua Extranjera, contenidos",
+        "pagina": 118
+      },
+      "orden": 69,
+      "padre": "MAD.EP.SLE.CO.D.2"
+    },
+    {
+      "codigo": "MAD.EP.SLE.CO.D.2.8",
+      "tipo": "contenido",
+      "texto": "Expresión del aspecto: puntual (Perfekt); durativo (Präsens und Präteritum); habitual (+ Adv, z. b. immer, jeden Tag); incoativo (beginnen zu –en); terminativo (aufhören zu –en).",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Segunda Lengua Extranjera, contenidos",
+        "pagina": 119
+      },
+      "orden": 70,
+      "padre": "MAD.EP.SLE.CO.D.2"
+    },
+    {
+      "codigo": "MAD.EP.SLE.CO.D.2.9",
+      "tipo": "contenido",
+      "texto": "Expresión de la modalidad: factualidad (Aussagesätzen); capacidad (mögen); posibilidad (können); necesidad (sollen; müssen); obligación (müssen; Imperativ); permiso (können; dürfen); intención (werden -en; wollen). - Expresión de la existencia (es gibt); la entidad (Nomen und Pronomen, Artikelwörter, Demonstrativartikeln); la cualidad ((sehr+) Adj).",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Segunda Lengua Extranjera, contenidos",
+        "pagina": 119
+      },
+      "orden": 71,
+      "padre": "MAD.EP.SLE.CO.D.2"
+    },
+    {
+      "codigo": "MAD.EP.SLE.CO.D.2.10",
+      "tipo": "contenido",
+      "texto": "Expresión de la cantidad (Singular/ Plural; Kardinalzahlen bis auf vier Ziffern; Ordinalzahlen bis auf hundertster. Quantität: alle, viele, manche, einige, mancherlei, ein bißchen, mehr, ein halber, eine Flasche/ Tasse /ein Glas/Stück von. Grad: sehr, zu viel, genüg).",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Segunda Lengua Extranjera, contenidos",
+        "pagina": 119
+      },
+      "orden": 72,
+      "padre": "MAD.EP.SLE.CO.D.2"
+    },
+    {
+      "codigo": "MAD.EP.SLE.CO.D.2.11",
+      "tipo": "contenido",
+      "texto": "Expresión del espacio (Lokale Präpositionen und Adverbien Bereich, Gegenseite, Lage, Nähe, Punkt).",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Segunda Lengua Extranjera, contenidos",
+        "pagina": 119
+      },
+      "orden": 73,
+      "padre": "MAD.EP.SLE.CO.D.2"
+    },
+    {
+      "codigo": "MAD.EP.SLE.CO.D.2.12",
+      "tipo": "contenido",
+      "texto": "Expresión del tiempo (Stundenzählung (z. b. viertel vor acht); Stundenteilung und Jahrezeiten (z. b. Viertelstunde, Sommer), und Ausdruck von Zeit (z. b. nun, jetz, morgen); Dauer (z. b. während drei Jahren); Vorzeitigkeit (vor); Nachzeitigkeit (nach); Aufeinanderfolge (Vorher, Davor); Gleichzeitigkeit (zur selben Zeit); Häufigkeit (z. b. manchmal, am Sonntags).",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Segunda Lengua Extranjera, contenidos",
+        "pagina": 119
+      },
+      "orden": 74,
+      "padre": "MAD.EP.SLE.CO.D.2"
+    },
+    {
+      "codigo": "MAD.EP.SLE.CO.D.2.13",
+      "tipo": "contenido",
+      "texto": "Expresión del modo (Modaladverbien, z. b. langsam, gut).",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Segunda Lengua Extranjera, contenidos",
+        "pagina": 119
+      },
+      "orden": 75,
+      "padre": "MAD.EP.SLE.CO.D.2"
+    },
+    {
+      "codigo": "MAD.EP.SLE.CO.D.3",
+      "tipo": "bloque_contenidos",
+      "texto": "Italiano",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Segunda Lengua Extranjera, contenidos",
+        "pagina": 119
+      },
+      "orden": 76,
+      "padre": "MAD.EP.SLE.CO.D"
+    },
+    {
+      "codigo": "MAD.EP.SLE.CO.D.3.1",
+      "tipo": "contenido",
+      "texto": "Expresión de relaciones lógicas: conjunción (e); disyunción (o); oposición (ma); causa (perché); finalidad (per/a + Inf.); condición (se); comparación (più (di); come; il più grande).",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Segunda Lengua Extranjera, contenidos",
+        "pagina": 119
+      },
+      "orden": 77,
+      "padre": "MAD.EP.SLE.CO.D.3"
+    },
+    {
+      "codigo": "MAD.EP.SLE.CO.D.3.2",
+      "tipo": "contenido",
+      "texto": "Relaciones temporales (quando, prima, dopo).",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Segunda Lengua Extranjera, contenidos",
+        "pagina": 119
+      },
+      "orden": 78,
+      "padre": "MAD.EP.SLE.CO.D.3"
+    },
+    {
+      "codigo": "MAD.EP.SLE.CO.D.3.3",
+      "tipo": "contenido",
+      "texto": "Interrogación (totali; parziali introdotte da come, dove, quando, perché, quanto, chi, che, cosa, che cosa, quale).",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Segunda Lengua Extranjera, contenidos",
+        "pagina": 119
+      },
+      "orden": 79,
+      "padre": "MAD.EP.SLE.CO.D.3"
+    },
+    {
+      "codigo": "MAD.EP.SLE.CO.D.3.4",
+      "tipo": "contenido",
+      "texto": "Afirmación (proforma sì, frasi dichiarative affermative).",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Segunda Lengua Extranjera, contenidos",
+        "pagina": 119
+      },
+      "orden": 80,
+      "padre": "MAD.EP.SLE.CO.D.3"
+    },
+    {
+      "codigo": "MAD.EP.SLE.CO.D.3.5",
+      "tipo": "contenido",
+      "texto": "Negación (proforma no, frasi dichiarative negative con non, mai, niente, nessuno/a).",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Segunda Lengua Extranjera, contenidos",
+        "pagina": 119
+      },
+      "orden": 81,
+      "padre": "MAD.EP.SLE.CO.D.3"
+    },
+    {
+      "codigo": "MAD.EP.SLE.CO.D.3.6",
+      "tipo": "contenido",
+      "texto": "Exclamación ((che) + agg., p.es. Che bello!; V, p.es. Guarda!).",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Segunda Lengua Extranjera, contenidos",
+        "pagina": 119
+      },
+      "orden": 82,
+      "padre": "MAD.EP.SLE.CO.D.3"
+    },
+    {
+      "codigo": "MAD.EP.SLE.CO.D.3.7",
+      "tipo": "contenido",
+      "texto": "Expresión del tiempo: presente (presente); pasado (imperfetto e perfetto composto); futuro (presente e futuro).",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Segunda Lengua Extranjera, contenidos",
+        "pagina": 119
+      },
+      "orden": 83,
+      "padre": "MAD.EP.SLE.CO.D.3"
+    },
+    {
+      "codigo": "MAD.EP.SLE.CO.D.3.8",
+      "tipo": "contenido",
+      "texto": "Expresión del aspecto: puntual (v. puntuali, p.es. partire); durativo (presente e imperfetto; stare + gerundio; continuare a + Inf.); habitual (presente e imperfetto (+ avv. p.es. sempre); incoativo (cominciare a/iniziare a +Inf.); terminativo (finire di+Inf.; perfetto composto).",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Segunda Lengua Extranjera, contenidos",
+        "pagina": 119
+      },
+      "orden": 84,
+      "padre": "MAD.EP.SLE.CO.D.3"
+    },
+    {
+      "codigo": "MAD.EP.SLE.CO.D.3.9",
+      "tipo": "contenido",
+      "texto": "Expresión de la modalidad: factualidad (frasi dichiarative affermative e negative); capacidad ((non) potere; (non) sapere); posibilidad (presente potere; forse (+ presente e futuro)); necesidad (presente dovere; avere bisogno di + N / Inf.); obligación (presente dovere; imperativo); intención (presente e condizionale semplice di verbi volitivi + N / Inf.; futuro; pensare di +Inf.).",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Segunda Lengua Extranjera, contenidos",
+        "pagina": 119
+      },
+      "orden": 85,
+      "padre": "MAD.EP.SLE.CO.D.3"
+    },
+    {
+      "codigo": "MAD.EP.SLE.CO.D.3.10",
+      "tipo": "contenido",
+      "texto": "Expresión de la existencia (cè; ecco); la entidad (nomi, pronomi, articoli e dimostrativi); la cualidad (molto + agg.; –issimo/a).",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Segunda Lengua Extranjera, contenidos",
+        "pagina": 119
+      },
+      "orden": 86,
+      "padre": "MAD.EP.SLE.CO.D.3"
+    },
+    {
+      "codigo": "MAD.EP.SLE.CO.D.3.11",
+      "tipo": "contenido",
+      "texto": "Expresión de la cantidad (numero: singolare/plurale; numerali cardinali fino a quattro cifre e ordinali fino a due cifre. Quantità: tutto, molto, poco, troppo, tanto, un po(di), nessuno/a, alcuni/e, niente, qualcosa, qualche, più, meno, solo, una tazza/un bicchiere/ una bottiglia/un pezzo di... Grado: poco, molto, troppo).",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Segunda Lengua Extranjera, contenidos",
+        "pagina": 119
+      },
+      "orden": 87,
+      "padre": "MAD.EP.SLE.CO.D.3"
+    },
+    {
+      "codigo": "MAD.EP.SLE.CO.D.3.12",
+      "tipo": "contenido",
+      "texto": "Expresión del espacio (preposizioni, avv. ed espressioni che indicano luogo, posizione, distanza, movimento, direzione, origine e disposizione.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Segunda Lengua Extranjera, contenidos",
+        "pagina": 119
+      },
+      "orden": 88,
+      "padre": "MAD.EP.SLE.CO.D.3"
+    },
+    {
+      "codigo": "MAD.EP.SLE.CO.D.3.13",
+      "tipo": "contenido",
+      "texto": "Expresión del tiempo (lora (p. es. le tre e mezza); divisione (p. es il lunedi, a febbraio) e collocazione nel tempo (p. es. ora, ieri, domani); durata (p. es. per due giorni); anteriorità (prima); posteriorità (dopo); contemporaneità (quando, durante); sequenza (prima… poi ... dopo); intermittenza (qualche volta); frequenza (p.es. di solito, mai).",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Segunda Lengua Extranjera, contenidos",
+        "pagina": 119
+      },
+      "orden": 89,
+      "padre": "MAD.EP.SLE.CO.D.3"
+    },
+    {
+      "codigo": "MAD.EP.SLE.CO.D.3.14",
+      "tipo": "contenido",
+      "texto": "Expresión del modo (avverbi di modo, p.es. lentamente, bene).",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Segunda Lengua Extranjera, contenidos",
+        "pagina": 119
+      },
+      "orden": 90,
+      "padre": "MAD.EP.SLE.CO.D.3"
+    },
+    {
+      "codigo": "MAD.EP.SLE.CO.D.4",
+      "tipo": "bloque_contenidos",
+      "texto": "Portugués",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Segunda Lengua Extranjera, contenidos",
+        "pagina": 120
+      },
+      "orden": 91,
+      "padre": "MAD.EP.SLE.CO.D"
+    },
+    {
+      "codigo": "MAD.EP.SLE.CO.D.4.1",
+      "tipo": "contenido",
+      "texto": "Expresión de relaciones lógicas: conjunción (e); disyunción (ou); oposición (mas); causa (porque); finalidad (para + Inf.); comparación (mais/ menos (do) que; maior; grau do Adj. e do Adv.).",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Segunda Lengua Extranjera, contenidos",
+        "pagina": 120
+      },
+      "orden": 92,
+      "padre": "MAD.EP.SLE.CO.D.4"
+    },
+    {
+      "codigo": "MAD.EP.SLE.CO.D.4.2",
+      "tipo": "contenido",
+      "texto": "Relaciones temporales (quando; antes/ depois de + Inf.).",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Segunda Lengua Extranjera, contenidos",
+        "pagina": 120
+      },
+      "orden": 93,
+      "padre": "MAD.EP.SLE.CO.D.4"
+    },
+    {
+      "codigo": "MAD.EP.SLE.CO.D.4.3",
+      "tipo": "contenido",
+      "texto": "Afirmación (sentenças declarativas afirmativas; Sim + frase (p. e. Sim, tenho três.).",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Segunda Lengua Extranjera, contenidos",
+        "pagina": 120
+      },
+      "orden": 94,
+      "padre": "MAD.EP.SLE.CO.D.4"
+    },
+    {
+      "codigo": "MAD.EP.SLE.CO.D.4.4",
+      "tipo": "contenido",
+      "texto": "Interrogación (quem; (o) que; qual; onde; de quem; quanto; como; porquê).",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Segunda Lengua Extranjera, contenidos",
+        "pagina": 120
+      },
+      "orden": 95,
+      "padre": "MAD.EP.SLE.CO.D.4"
+    },
+    {
+      "codigo": "MAD.EP.SLE.CO.D.4.5",
+      "tipo": "contenido",
+      "texto": "Negación (frases declarativas negativas; Não (+ Verbo conjugado do enunciado anterior); nenhum; ninguém; nada).",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Segunda Lengua Extranjera, contenidos",
+        "pagina": 120
+      },
+      "orden": 96,
+      "padre": "MAD.EP.SLE.CO.D.4"
+    },
+    {
+      "codigo": "MAD.EP.SLE.CO.D.4.6",
+      "tipo": "contenido",
+      "texto": "Exclamación: frases exclamativas (Que gelado tão bom! Tantos carros!).",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Segunda Lengua Extranjera, contenidos",
+        "pagina": 120
+      },
+      "orden": 97,
+      "padre": "MAD.EP.SLE.CO.D.4"
+    },
+    {
+      "codigo": "MAD.EP.SLE.CO.D.4.7",
+      "tipo": "contenido",
+      "texto": "Expresión del tiempo: pasado (pretérito imperfeito e perfeito); presente (presente); futuro (ir + Inf.; futuro do presente).",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Segunda Lengua Extranjera, contenidos",
+        "pagina": 120
+      },
+      "orden": 98,
+      "padre": "MAD.EP.SLE.CO.D.4"
+    },
+    {
+      "codigo": "MAD.EP.SLE.CO.D.4.8",
+      "tipo": "contenido",
+      "texto": "Expresión del aspecto: puntual (verbos não durativos, p. e. nascer; perfeito); durativo (estar + gerúndio); habitual (presente do indicativo (+ Adv., p. e. sempre; geralmente); incoativo (començar a + Inf.); terminativo (deixar de + Inf.).",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Segunda Lengua Extranjera, contenidos",
+        "pagina": 120
+      },
+      "orden": 99,
+      "padre": "MAD.EP.SLE.CO.D.4"
+    },
+    {
+      "codigo": "MAD.EP.SLE.CO.D.4.9",
+      "tipo": "contenido",
+      "texto": "Expresión de la modalidad: factualidad (sentenças declarativas); capacidad (posso; pode; é capaz de); posibilidad (podia); necesidad (precisar (de); necessitar); obligación (ter de/que; dever + Inf.); permiso (posso; pode); intención (quero; tenho de; gostava).",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Segunda Lengua Extranjera, contenidos",
+        "pagina": 120
+      },
+      "orden": 100,
+      "padre": "MAD.EP.SLE.CO.D.4"
+    },
+    {
+      "codigo": "MAD.EP.SLE.CO.D.4.10",
+      "tipo": "contenido",
+      "texto": "Expresión de la existencia (ter/ haver); la entidad (substantivos; pronomes; artigos; demonstrativos); la cualidad ((muito +) Adj.).",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Segunda Lengua Extranjera, contenidos",
+        "pagina": 120
+      },
+      "orden": 101,
+      "padre": "MAD.EP.SLE.CO.D.4"
+    },
+    {
+      "codigo": "MAD.EP.SLE.CO.D.4.11",
+      "tipo": "contenido",
+      "texto": "Expresión de la cantidad (Singular/plural; Numerais até quatro dígitos, ordinais até dois dígitos. Quantidade: muito(s); pouco(s); tudo. Grado: muito; tão).",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Segunda Lengua Extranjera, contenidos",
+        "pagina": 120
+      },
+      "orden": 102,
+      "padre": "MAD.EP.SLE.CO.D.4"
+    },
+    {
+      "codigo": "MAD.EP.SLE.CO.D.4.12",
+      "tipo": "contenido",
+      "texto": "Expresión del espacio (expressões, preposições e locuções prepositivas de lugar e de movimento).",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Segunda Lengua Extranjera, contenidos",
+        "pagina": 120
+      },
+      "orden": 103,
+      "padre": "MAD.EP.SLE.CO.D.4"
+    },
+    {
+      "codigo": "MAD.EP.SLE.CO.D.4.13",
+      "tipo": "contenido",
+      "texto": "Expresión del tiempo (expressões, preposições e locuções de tempo (horas (p. e. dez menos um quarto), divisões (p. e. meia hora; verão) e indicações (p. e. agora; amanhâ) de tempo; duração (p. e. durante dois dias); anterioridade (antes); posterioridade (depois); seqüência (primeiro em seguida); simultaneidade (ao mesmo tempo); freqüência (p. e. às vezes; aos domingos).",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Segunda Lengua Extranjera, contenidos",
+        "pagina": 120
+      },
+      "orden": 104,
+      "padre": "MAD.EP.SLE.CO.D.4"
+    },
+    {
+      "codigo": "MAD.EP.SLE.CO.D.4.14",
+      "tipo": "contenido",
+      "texto": "Expresión del modo (expressões, preposições e locuções prepositivas de modo; bem; mal; assim).",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Segunda Lengua Extranjera, contenidos",
+        "pagina": 120
+      },
+      "orden": 105,
+      "padre": "MAD.EP.SLE.CO.D.4"
+    }
+  ]
+}

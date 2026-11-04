@@ -1,10 +1,11 @@
 """Regenera los datos del paquete desde el manifiesto del lote (``lote.toml``).
 
 Orden: las normas, los descriptores, el resto de fichas en el orden del manifiesto y, por
-último, los requisitos de la programación (los tres salen de una sola ejecución). Para en el
-primer error. Después hay que ejecutar ``comprobar``.
+último, la Primaria y los requisitos de la programación (cada uno de los dos escribe todas sus
+fichas en una sola ejecución). Para en el primer error. Después hay que ejecutar ``comprobar``.
 
-Uso: ``uv run python -m herramientas.normativa.regenerar --cache <dir> [--salida <datos>]``.
+Uso: ``uv run --group mantenimiento python -m herramientas.normativa.regenerar --cache <dir>
+[--salida <datos>]`` (el grupo trae pdfplumber, que necesita la Primaria).
 """
 
 from __future__ import annotations
@@ -29,7 +30,10 @@ EXTRACTORES: dict[str, tuple[str, str | None, bool]] = {
     "transversal": ("extraer_fp", "transversal", True),
     "optativo": ("extraer_fp", "optativo", True),
     "requisitos": ("extraer_requisitos", None, False),
+    "primaria": ("extraer_primaria", None, False),
 }
+# Extractores que escriben todas sus fichas de una vez: se ejecutan una sola vez, al final.
+_UNA_EJECUCION = {"primaria": "la Primaria", "requisitos": "los requisitos de la programación"}
 _CLAVES_LOTE = {"revisada", "cursos_academicos", "ficha"}
 _CLAVES_FICHA = {"codigo", "extractor", "argumentos"}
 
@@ -104,7 +108,7 @@ def regenerar(lote: Lote, cache: Path, salida: Path, ejecutor: Ejecutor = _en_pr
     cursos = ",".join(lote.cursos_academicos)
     comunes = ["--cache", str(cache), "--salida", str(salida)]
     orden = sorted(
-        (e for e in lote.fichas if e.extractor != "requisitos"),
+        (e for e in lote.fichas if e.extractor not in _UNA_EJECUCION),
         key=lambda e: e.extractor != "descriptores",  # estable: descriptores primero
     )
     for e in orden:
@@ -116,14 +120,21 @@ def regenerar(lote: Lote, cache: Path, salida: Path, ejecutor: Ejecutor = _en_pr
         correr(modulo, argv, e.codigo)
         if not (salida / "fichas" / f"{e.codigo}.json").is_file():
             raise ErrorRegenerar(f"{e.codigo}: el extractor no escribió esa ficha")
-    if any(e.extractor == "requisitos" for e in lote.fichas):
-        correr("extraer_requisitos", comunes, "los requisitos de la programación")
-        for e in lote.fichas:
-            if (
-                e.extractor == "requisitos"
-                and not (salida / "fichas" / f"{e.codigo}.json").is_file()
-            ):
-                raise ErrorRegenerar(f"{e.codigo}: los requisitos no escribieron esa ficha")
+    for extractor, que in _UNA_EJECUCION.items():
+        entradas = [e for e in lote.fichas if e.extractor == extractor]
+        if not entradas:
+            continue
+        argumentos = {e.argumentos for e in entradas}
+        if len(argumentos) > 1:
+            raise ErrorRegenerar(f"{que}: sus fichas deben llevar los mismos argumentos")
+        modulo = EXTRACTORES[extractor][0]
+        argv = [*argumentos.pop(), *comunes]
+        if extractor != "requisitos":  # los requisitos leen sus cursos de requisitos.toml
+            argv[-len(comunes) : -len(comunes)] = ["--cursos-academicos", cursos]
+        correr(modulo, argv, que)
+        for e in entradas:
+            if not (salida / "fichas" / f"{e.codigo}.json").is_file():
+                raise ErrorRegenerar(f"{e.codigo}: no se escribió al extraer {que}")
 
 
 def main(argv: list[str] | None = None) -> int:

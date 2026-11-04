@@ -1,0 +1,422 @@
+{
+  "codigo": "MAD.EP.DESC",
+  "nombre": "Descriptores operativos de las competencias clave, Primaria",
+  "etapa": "primaria",
+  "curso": null,
+  "cursos_academicos": [
+    "2026-27"
+  ],
+  "normas": [
+    "bocm-20220718-1"
+  ],
+  "elementos": [
+    {
+      "codigo": "MAD.EP.DESC.CCL1",
+      "tipo": "descriptor",
+      "texto": "Expresa hechos, conceptos, pensamientos, opiniones o sentimientos de forma oral, escrita, signada o multimodal, con claridad y adecuación a diferentes contextos cotidianos de su entorno personal, social y educativo, y participa con respeto en interacciones de comunicación, tanto para intercambiar información y crear conocimiento como para construir vínculos personales.",
+      "codigo_oficial": "CCL1",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo I, descriptores",
+        "pagina": 29
+      },
+      "orden": 1
+    },
+    {
+      "codigo": "MAD.EP.DESC.CCL2",
+      "tipo": "descriptor",
+      "texto": "Comprende, interpreta y valora textos orales, escritos, signados o multimodales sencillos de los ámbitos personal, social, y educativo, con acompañamiento puntual, para participar en contextos cotidianos para construir conocimiento.",
+      "codigo_oficial": "CCL2",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo I, descriptores",
+        "pagina": 29
+      },
+      "orden": 2
+    },
+    {
+      "codigo": "MAD.EP.DESC.CCL3",
+      "tipo": "descriptor",
+      "texto": "Localiza, selecciona y contrasta, con el debido acompañamiento, información sencilla procedente de dos o más fuentes, evaluando su fiabilidad y utilidad en función de los objetivos de lectura, y la integra y transforma en conocimiento para comunicarla adoptando un punto de vista creativo, crítico y personal.",
+      "codigo_oficial": "CCL3",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo I, descriptores",
+        "pagina": 29
+      },
+      "orden": 3
+    },
+    {
+      "codigo": "MAD.EP.DESC.CCL4",
+      "tipo": "descriptor",
+      "texto": "Lee obras diversas adecuadas a su desarrollo madurativo, seleccionando aquellas que mejor se ajustan a sus gustos e intereses; reconoce el patrimonio literario como fuente de disfrute y aprendizaje; y moviliza su experiencia personal y lectora para construir y compartir su interpretación de las obras y para crear textos de intención literaria a partir de modelos sencillos.",
+      "codigo_oficial": "CCL4",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo I, descriptores",
+        "pagina": 29
+      },
+      "orden": 4
+    },
+    {
+      "codigo": "MAD.EP.DESC.CCL5",
+      "tipo": "descriptor",
+      "texto": "Pone sus prácticas comunicativas al servicio de la convivencia, la gestión dialogada de los conflictos y la igualdad de derechos de todas las personas, para favorecer un uso eficaz y no discriminatorio de los diferentes sistemas de comunicación.",
+      "codigo_oficial": "CCL5",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo I, descriptores",
+        "pagina": 29
+      },
+      "orden": 5
+    },
+    {
+      "codigo": "MAD.EP.DESC.CP1",
+      "tipo": "descriptor",
+      "texto": "Usa, al menos, una lengua, además de la lengua propia, en su caso, y el español, para responder a necesidades comunicativas sencillas y predecibles, de manera adecuada tanto a su desarrollo e intereses como a situaciones y contextos cotidianos de los ámbitos personal, social y educativo.",
+      "codigo_oficial": "CP1",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo I, descriptores",
+        "pagina": 29
+      },
+      "orden": 6
+    },
+    {
+      "codigo": "MAD.EP.DESC.CP2",
+      "tipo": "descriptor",
+      "texto": "A partir de sus experiencias, reconoce las diferentes lenguas y experimenta estrategias que, de manera guiada, le permiten realizar transferencias sencillas entre distintas lenguas para comunicarse en contextos cotidianos y ampliar su repertorio del lenguaje.",
+      "codigo_oficial": "CP2",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo I, descriptores",
+        "pagina": 29
+      },
+      "orden": 7
+    },
+    {
+      "codigo": "MAD.EP.DESC.CP3",
+      "tipo": "descriptor",
+      "texto": "Conoce y respeta la variedad de las lenguas presentes en su entorno, reconociendo y comprendiendo su valor como factor de diálogo, para mejorar la convivencia.",
+      "codigo_oficial": "CP3",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo I, descriptores",
+        "pagina": 29
+      },
+      "orden": 8
+    },
+    {
+      "codigo": "MAD.EP.DESC.STEM1",
+      "tipo": "descriptor",
+      "texto": "Utiliza, de manera guiada, algunos métodos inductivos y deductivos propios del razonamiento matemático en situaciones conocidas, y selecciona y emplea algunas estrategias para resolver problemas reflexionando sobre las soluciones obtenidas.",
+      "codigo_oficial": "STEM1",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo I, descriptores",
+        "pagina": 30
+      },
+      "orden": 9
+    },
+    {
+      "codigo": "MAD.EP.DESC.STEM2",
+      "tipo": "descriptor",
+      "texto": "Utiliza el pensamiento científico para entender y explicar algunos de los fenómenos que ocurren a su alrededor, con uso de herramientas e instrumentos adecuados, planteándose preguntas y realizando experimentos sencillos de forma guiada.",
+      "codigo_oficial": "STEM2",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo I, descriptores",
+        "pagina": 30
+      },
+      "orden": 10
+    },
+    {
+      "codigo": "MAD.EP.DESC.STEM3",
+      "tipo": "descriptor",
+      "texto": "Realiza, de forma guiada, proyectos, diseñando, fabricando y evaluando diferentes prototipos o modelos, adaptándose ante la incertidumbre, para generar un producto creativo con un objetivo concreto, procurando la participación de todo el grupo.",
+      "codigo_oficial": "STEM3",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo I, descriptores",
+        "pagina": 30
+      },
+      "orden": 11
+    },
+    {
+      "codigo": "MAD.EP.DESC.STEM4",
+      "tipo": "descriptor",
+      "texto": "Interpreta y transmite los elementos más relevantes de algunos métodos y resultados científicos, matemáticos y tecnológicos de forma clara y veraz, utilizando la terminología científica apropiada, en diferentes formatos (dibujos, diagramas, gráficos, símbolos…) y aprovechando de forma crítica y responsable la cultura digital para compartir y construir nuevos conocimientos.",
+      "codigo_oficial": "STEM4",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo I, descriptores",
+        "pagina": 30
+      },
+      "orden": 12
+    },
+    {
+      "codigo": "MAD.EP.DESC.STEM5",
+      "tipo": "descriptor",
+      "texto": "Participa en acciones fundamentadas científicamente para promover la salud y preservar el medio ambiente y los seres vivos.",
+      "codigo_oficial": "STEM5",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo I, descriptores",
+        "pagina": 30
+      },
+      "orden": 13
+    },
+    {
+      "codigo": "MAD.EP.DESC.CD1",
+      "tipo": "descriptor",
+      "texto": "Realiza búsquedas guiadas en internet y hace uso de estrategias sencillas para el tratamiento digital de la información (palabras clave, selección de información relevante, organización de datos...) con una actitud crítica sobre los contenidos obtenidos.",
+      "codigo_oficial": "CD1",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo I, descriptores",
+        "pagina": 30
+      },
+      "orden": 14
+    },
+    {
+      "codigo": "MAD.EP.DESC.CD2",
+      "tipo": "descriptor",
+      "texto": "Crea, integra y reelabora contenidos digitales en distintos formatos (texto, tabla, imagen, audio, vídeo, programa informático...) mediante el uso de diferentes herramientas digitales para expresar ideas, sentimientos y conocimientos, respetando la propiedad intelectual y los derechos de autor de los contenidos que reutiliza.",
+      "codigo_oficial": "CD2",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo I, descriptores",
+        "pagina": 30
+      },
+      "orden": 15
+    },
+    {
+      "codigo": "MAD.EP.DESC.CD3",
+      "tipo": "descriptor",
+      "texto": "Participa en actividades y/o proyectos escolares mediante el uso de herramientas o plataformas virtuales que le permitan construir nuevo conocimiento, comunicarse, trabajar en grupo, y compartir datos y contenidos en entornos digitales restringidos y supervisados de manera segura y responsable ante su uso.",
+      "codigo_oficial": "CD3",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo I, descriptores",
+        "pagina": 30
+      },
+      "orden": 16
+    },
+    {
+      "codigo": "MAD.EP.DESC.CD4",
+      "tipo": "descriptor",
+      "texto": "Conoce los riesgos y adopta, con la orientación del docente, medidas preventivas al usar las tecnologías digitales para proteger los dispositivos, los datos personales, la salud y el medioambiente, y se inicia en la adopción de hábitos saludables de las mismas.",
+      "codigo_oficial": "CD4",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo I, descriptores",
+        "pagina": 30
+      },
+      "orden": 17
+    },
+    {
+      "codigo": "MAD.EP.DESC.CD5",
+      "tipo": "descriptor",
+      "texto": "Se inicia en el desarrollo de soluciones digitales sencillas y sostenibles (reutilización de materiales tecnológicos, programación informática por bloques, robótica educativa…) para resolver problemas concretos o retos propuestos de manera creativa, solicitando ayuda en caso necesario.",
+      "codigo_oficial": "CD5",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo I, descriptores",
+        "pagina": 30
+      },
+      "orden": 18
+    },
+    {
+      "codigo": "MAD.EP.DESC.CPSAA1",
+      "tipo": "descriptor",
+      "texto": "Es consciente de las propias emociones, ideas y comportamientos personales y emplea estrategias para gestionarlas en situaciones de tensión o conflicto, adaptándose a los cambios y armonizándolos para alcanzar sus propios objetivos.",
+      "codigo_oficial": "CPSAA1",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo I, descriptores",
+        "pagina": 30
+      },
+      "orden": 19
+    },
+    {
+      "codigo": "MAD.EP.DESC.CPSAA2",
+      "tipo": "descriptor",
+      "texto": "Conoce los riesgos más relevantes y los principales activos para la salud, adopta estilos de vida saludable, y detecta y busca apoyo ante situaciones negativas.",
+      "codigo_oficial": "CPSAA2",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo I, descriptores",
+        "pagina": 30
+      },
+      "orden": 20
+    },
+    {
+      "codigo": "MAD.EP.DESC.CPSAA3",
+      "tipo": "descriptor",
+      "texto": "Reconoce y respeta las emociones y experiencias de los demás, participa activamente en el trabajo en grupo, asume las responsabilidades individuales asignadas y emplea estrategias dirigidas a la consecución de objetivos compartidos.",
+      "codigo_oficial": "CPSAA3",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo I, descriptores",
+        "pagina": 30
+      },
+      "orden": 21
+    },
+    {
+      "codigo": "MAD.EP.DESC.CPSAA4",
+      "tipo": "descriptor",
+      "texto": "Reconoce el valor del esfuerzo y la dedicación personal para la mejora de su aprendizaje y adopta posturas críticas en procesos de reflexión guiados.",
+      "codigo_oficial": "CPSAA4",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo I, descriptores",
+        "pagina": 30
+      },
+      "orden": 22
+    },
+    {
+      "codigo": "MAD.EP.DESC.CPSAA5",
+      "tipo": "descriptor",
+      "texto": "Planea objetivos a corto plazo, utiliza estrategias de aprendizaje autónomo y participa en procesos de autoevaluación y evaluación conjunta, reconociendo sus limitaciones y sabiendo buscar ayuda en el proceso de construcción del conocimiento.",
+      "codigo_oficial": "CPSAA5",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo I, descriptores",
+        "pagina": 30
+      },
+      "orden": 23
+    },
+    {
+      "codigo": "MAD.EP.DESC.CC1",
+      "tipo": "descriptor",
+      "texto": "Entiende los procesos históricos y sociales más relevantes relativos a su identidad y cultura, reflexiona sobre las normas de convivencia, y las aplica de manera constructiva, dialogante e inclusiva en cualquier contexto.",
+      "codigo_oficial": "CC1",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo I, descriptores",
+        "pagina": 31
+      },
+      "orden": 24
+    },
+    {
+      "codigo": "MAD.EP.DESC.CC2",
+      "tipo": "descriptor",
+      "texto": "Participa en actividades de su entorno cercano, en la toma de decisiones y la resolución de los conflictos de forma dialogada y respetuosa con los principios y valores de la Unión Europea y la Constitución Española, los derechos humanos y de la infancia, el valor a la diversidad y de la igualdad entre hombres y mujeres, la cohesión social y los Objetivos de Desarrollo Sostenible acordados por la ONU.",
+      "codigo_oficial": "CC2",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo I, descriptores",
+        "pagina": 31
+      },
+      "orden": 25
+    },
+    {
+      "codigo": "MAD.EP.DESC.CC3",
+      "tipo": "descriptor",
+      "texto": "Reflexiona y dialoga sobre valores y problemas de la actualidad, comprendiendo la necesidad de respetar diferentes culturas y creencias, cuidar el entorno, de rechazar prejuicios, y de oponerse a cualquier forma de discriminación y violencia.",
+      "codigo_oficial": "CC3",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo I, descriptores",
+        "pagina": 31
+      },
+      "orden": 26
+    },
+    {
+      "codigo": "MAD.EP.DESC.CC4",
+      "tipo": "descriptor",
+      "texto": "Comprende las relaciones entre las acciones humanas y el entorno, y se inicia en la adopción de estilos de vida adecuados, para conservar la biodiversidad.",
+      "codigo_oficial": "CC4",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo I, descriptores",
+        "pagina": 31
+      },
+      "orden": 27
+    },
+    {
+      "codigo": "MAD.EP.DESC.CE1",
+      "tipo": "descriptor",
+      "texto": "Reconoce necesidades inherentes a los retos que debe afrontar y elabora ideas originales, utilizando destrezas creativas y tomando conciencia de las consecuencias y efectos que las ideas pudieran generar en el entono, para proponer soluciones valiosas que respondan a las necesidades detectadas.",
+      "codigo_oficial": "CE1",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo I, descriptores",
+        "pagina": 31
+      },
+      "orden": 28
+    },
+    {
+      "codigo": "MAD.EP.DESC.CE2",
+      "tipo": "descriptor",
+      "texto": "Identifica fortalezas y debilidades propias utilizando estrategias de autoconocimiento, y se inicia en el conocimiento de elementos económicos y financieros básicos, aplicándolos a situaciones y problemas de la vida cotidiana.",
+      "codigo_oficial": "CE2",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo I, descriptores",
+        "pagina": 31
+      },
+      "orden": 29
+    },
+    {
+      "codigo": "MAD.EP.DESC.CE3",
+      "tipo": "descriptor",
+      "texto": "Crea ideas planifica tareas, colabora con otros y en equipo, valora el proceso realizado y el resultado obtenido para llevar a cabo iniciativas de emprendimiento, y considera la experiencia como una oportunidad para aprender.",
+      "codigo_oficial": "CE3",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo I, descriptores",
+        "pagina": 31
+      },
+      "orden": 30
+    },
+    {
+      "codigo": "MAD.EP.DESC.CCEC1",
+      "tipo": "descriptor",
+      "texto": "Reconoce y aprecia los aspectos fundamentales del patrimonio cultural y artístico, comprendiendo las diferencias culturales y la necesidad de respetarlas.",
+      "codigo_oficial": "CCEC1",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo I, descriptores",
+        "pagina": 31
+      },
+      "orden": 31
+    },
+    {
+      "codigo": "MAD.EP.DESC.CCEC2",
+      "tipo": "descriptor",
+      "texto": "Reconoce especificidades e intencionalidades de las manifestaciones artísticas y culturales más destacadas del patrimonio, y se interesa por ellas, identificando los medios y soportes, así como los lenguajes y elementos técnicos que las caracterizan.",
+      "codigo_oficial": "CCEC2",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo I, descriptores",
+        "pagina": 31
+      },
+      "orden": 32
+    },
+    {
+      "codigo": "MAD.EP.DESC.CCEC3",
+      "tipo": "descriptor",
+      "texto": "Expresa ideas, opiniones, sentimientos y emociones de forma creativa, empleando distintos lenguajes artísticos y culturales, integrando su propio cuerpo, interactuando con el entorno y desarrollando sus capacidades afectivas.",
+      "codigo_oficial": "CCEC3",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo I, descriptores",
+        "pagina": 31
+      },
+      "orden": 33
+    },
+    {
+      "codigo": "MAD.EP.DESC.CCEC4",
+      "tipo": "descriptor",
+      "texto": "Experimenta de forma creativa con diferentes medios y soportes, y diversas técnicas plásticas, visuales, audiovisuales, sonoras o corporales, para elaborar propuestas artísticas y culturales.",
+      "codigo_oficial": "CCEC4",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo I, descriptores",
+        "pagina": 31
+      },
+      "orden": 34
+    }
+  ]
+}

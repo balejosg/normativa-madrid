@@ -1,0 +1,769 @@
+{
+  "codigo": "MAD.EP.CS.C2",
+  "nombre": "Ciencias Sociales, segundo ciclo",
+  "etapa": "primaria",
+  "ciclo": "C2",
+  "curso": null,
+  "cursos_academicos": [
+    "2026-27"
+  ],
+  "normas": [
+    "bocm-20220718-1",
+    "boe-a-2022-3296"
+  ],
+  "elementos": [
+    {
+      "codigo": "MAD.EP.CS.C2.CE.1",
+      "tipo": "competencia_especifica",
+      "texto": "Identificar las características de los diferentes elementos o sistemas del medio, analizando su organización y propiedades y estableciendo relaciones entre los mismos, para reconocer el valor del patrimonio cultural y natural, conservarlo y mejorarlo.",
+      "codigo_oficial": "1",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias Sociales, segundo ciclo, competencias específicas",
+        "pagina": 44
+      },
+      "orden": 1,
+      "relaciones": {
+        "descriptores": [
+          "MAD.EP.DESC.STEM1",
+          "MAD.EP.DESC.STEM2",
+          "MAD.EP.DESC.STEM4",
+          "MAD.EP.DESC.STEM5",
+          "MAD.EP.DESC.CD1",
+          "MAD.EP.DESC.CC4",
+          "MAD.EP.DESC.CE1",
+          "MAD.EP.DESC.CCEC1"
+        ]
+      },
+      "datos": {
+        "equivalencia_rd": "CMNSC.CE5"
+      }
+    },
+    {
+      "codigo": "MAD.EP.CS.C2.CR.1.1",
+      "tipo": "criterio",
+      "texto": "Identificar las características, la organización y las propiedades de los elementos del medio a través de la indagación y utilizando las herramientas y procesos adecuados.",
+      "codigo_oficial": "1.1",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias Sociales, segundo ciclo, criterios",
+        "pagina": 44
+      },
+      "orden": 2,
+      "padre": "MAD.EP.CS.C2.CE.1"
+    },
+    {
+      "codigo": "MAD.EP.CS.C2.CR.1.2",
+      "tipo": "criterio",
+      "texto": "Identificar conexiones sencillas entre diferentes elementos del medio mostrando comprensión de las relaciones que se establecen.",
+      "codigo_oficial": "1.2",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias Sociales, segundo ciclo, criterios",
+        "pagina": 44
+      },
+      "orden": 3,
+      "padre": "MAD.EP.CS.C2.CE.1"
+    },
+    {
+      "codigo": "MAD.EP.CS.C2.CR.1.3",
+      "tipo": "criterio",
+      "texto": "Proteger el patrimonio natural y cultural y valorarlo, adoptando conductas respetuosas para su disfrute y proponiendo acciones para su conservación y mejora.",
+      "codigo_oficial": "1.3",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias Sociales, segundo ciclo, criterios",
+        "pagina": 44
+      },
+      "orden": 4,
+      "padre": "MAD.EP.CS.C2.CE.1"
+    },
+    {
+      "codigo": "MAD.EP.CS.C2.CE.2",
+      "tipo": "competencia_especifica",
+      "texto": "Identificar las causas y consecuencias de la intervención humana en el entorno, desde los puntos de vista social, económico, cultural, tecnológico y ambiental, para mejorar la capacidad de afrontar problemas, buscar soluciones y actuar en su resolución fomentando el respeto, el cuidado y la protección de las personas y del planeta.",
+      "codigo_oficial": "2",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias Sociales, segundo ciclo, competencias específicas",
+        "pagina": 44
+      },
+      "orden": 5,
+      "relaciones": {
+        "descriptores": [
+          "MAD.EP.DESC.CCL5",
+          "MAD.EP.DESC.STEM2",
+          "MAD.EP.DESC.STEM5",
+          "MAD.EP.DESC.CPSAA4",
+          "MAD.EP.DESC.CC1",
+          "MAD.EP.DESC.CC3",
+          "MAD.EP.DESC.CC4",
+          "MAD.EP.DESC.CE1"
+        ]
+      },
+      "datos": {
+        "equivalencia_rd": "CMNSC.CE6"
+      }
+    },
+    {
+      "codigo": "MAD.EP.CS.C2.CR.2.1",
+      "tipo": "criterio",
+      "texto": "Identificar problemas sociales y medioambientales, proponer posibles soluciones y poner en práctica estilos de vida adecuados, reconociendo comportamientos respetuosos de cuidado y protección del entorno y uso adecuado de los recursos naturales, y expresando los cambios positivos y negativos causados en el medio por la acción humana.",
+      "codigo_oficial": "2.1",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias Sociales, segundo ciclo, criterios",
+        "pagina": 44
+      },
+      "orden": 6,
+      "padre": "MAD.EP.CS.C2.CE.2"
+    },
+    {
+      "codigo": "MAD.EP.CS.C2.CE.3",
+      "tipo": "competencia_especifica",
+      "texto": "Observar, comprender e interpretar continuidades y cambios del medio analizando relaciones de causalidad, simultaneidad y sucesión, para explicar y valorar las relaciones entre diferentes elementos y acontecimientos.",
+      "codigo_oficial": "3",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias Sociales, segundo ciclo, competencias específicas",
+        "pagina": 44
+      },
+      "orden": 7,
+      "relaciones": {
+        "descriptores": [
+          "MAD.EP.DESC.CCL3",
+          "MAD.EP.DESC.STEM4",
+          "MAD.EP.DESC.CPSAA4",
+          "MAD.EP.DESC.CC1",
+          "MAD.EP.DESC.CC3",
+          "MAD.EP.DESC.CE2",
+          "MAD.EP.DESC.CCEC1"
+        ]
+      },
+      "datos": {
+        "equivalencia_rd": "CMNSC.CE7"
+      }
+    },
+    {
+      "codigo": "MAD.EP.CS.C2.CR.3.1",
+      "tipo": "criterio",
+      "texto": "Identificar hechos desde la Prehistoria hasta la Edad Antigua, empleando las nociones de causalidad, simultaneidad y sucesión.",
+      "codigo_oficial": "3.1",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias Sociales, segundo ciclo, criterios",
+        "pagina": 44
+      },
+      "orden": 8,
+      "padre": "MAD.EP.CS.C2.CE.3"
+    },
+    {
+      "codigo": "MAD.EP.CS.C2.CR.3.2",
+      "tipo": "criterio",
+      "texto": "Conocer personas, grupos sociales relevantes y formas de vida de las sociedades desde la Prehistoria hasta la Edad Antigua, incorporando referentes de igualdad entre hombres y mujeres.",
+      "codigo_oficial": "3.2",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias Sociales, segundo ciclo, criterios",
+        "pagina": 44
+      },
+      "orden": 9,
+      "padre": "MAD.EP.CS.C2.CE.3"
+    },
+    {
+      "codigo": "MAD.EP.CS.C2.CE.4",
+      "tipo": "competencia_especifica",
+      "texto": "Reconocer y valorar la pluralidad mostrando empatía y respeto por otras culturas para contribuir a la mejora de una sociedad en continua transformación y al logro de los valores de integración europea.",
+      "codigo_oficial": "4",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias Sociales, segundo ciclo, competencias específicas",
+        "pagina": 44
+      },
+      "orden": 10,
+      "relaciones": {
+        "descriptores": [
+          "MAD.EP.DESC.CP3",
+          "MAD.EP.DESC.CPSAA3",
+          "MAD.EP.DESC.CC1",
+          "MAD.EP.DESC.CC2",
+          "MAD.EP.DESC.CC3",
+          "MAD.EP.DESC.CCEC1"
+        ]
+      },
+      "datos": {
+        "equivalencia_rd": "CMNSC.CE8"
+      }
+    },
+    {
+      "codigo": "MAD.EP.CS.C2.CR.4.1",
+      "tipo": "criterio",
+      "texto": "Analizar la importancia demográfica, cultural y económica de las migraciones en la actualidad, valorando con respeto y empatía la aportación de la diversidad y el mestizaje.",
+      "codigo_oficial": "4.1",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias Sociales, segundo ciclo, criterios",
+        "pagina": 44
+      },
+      "orden": 11,
+      "padre": "MAD.EP.CS.C2.CE.4"
+    },
+    {
+      "codigo": "MAD.EP.CS.C2.CR.4.2",
+      "tipo": "criterio",
+      "texto": "Valorar positivamente las acciones que fomentan la igualdad y las conductas no discriminatorias, reconociendo referentes de igualdad entre hombres y mujeres a lo largo de la historia.",
+      "codigo_oficial": "4.2",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias Sociales, segundo ciclo, criterios",
+        "pagina": 44
+      },
+      "orden": 12,
+      "padre": "MAD.EP.CS.C2.CE.4"
+    },
+    {
+      "codigo": "MAD.EP.CS.C2.CE.5",
+      "tipo": "competencia_especifica",
+      "texto": "Participar en el entorno y la vida social de forma eficaz y constructiva desde el respeto a los valores democráticos, los derechos humanos y de la infancia y los principios y valores de la Constitución española y la Unión Europea, valorando la función del Estado y sus instituciones en el mantenimiento de la paz y la seguridad ciudadana.",
+      "codigo_oficial": "5",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias Sociales, segundo ciclo, competencias específicas",
+        "pagina": 45
+      },
+      "orden": 13,
+      "relaciones": {
+        "descriptores": [
+          "MAD.EP.DESC.CCL5",
+          "MAD.EP.DESC.CPSAA1",
+          "MAD.EP.DESC.CC1",
+          "MAD.EP.DESC.CC2",
+          "MAD.EP.DESC.CC3",
+          "MAD.EP.DESC.CCEC1"
+        ]
+      },
+      "datos": {
+        "equivalencia_rd": "CMNSC.CE9"
+      }
+    },
+    {
+      "codigo": "MAD.EP.CS.C2.CR.5.1",
+      "tipo": "criterio",
+      "texto": "Realizar actividades en la comunidad escolar, asumiendo responsabilidades y estableciendo acuerdos de forma democrática.",
+      "codigo_oficial": "5.1",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias Sociales, segundo ciclo, criterios",
+        "pagina": 45
+      },
+      "orden": 14,
+      "padre": "MAD.EP.CS.C2.CE.5"
+    },
+    {
+      "codigo": "MAD.EP.CS.C2.CR.5.2",
+      "tipo": "criterio",
+      "texto": "Conocer los principales órganos de gobierno y funciones de diversas administraciones y servicios públicos, valorando la importancia de su gestión para la seguridad ciudadana y la participación democrática.",
+      "codigo_oficial": "5.2",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias Sociales, segundo ciclo, criterios",
+        "pagina": 45
+      },
+      "orden": 15,
+      "padre": "MAD.EP.CS.C2.CE.5"
+    },
+    {
+      "codigo": "MAD.EP.CS.C2.CR.5.3",
+      "tipo": "criterio",
+      "texto": "Interiorizar normas básicas para la convivencia en el uso de los espacios públicos como peatones o como usuarios de los medios de locomoción, identificando las señales de tráfico y tomando conciencia de la importancia de una movilidad segura y saludable tanto para las personas como para el planeta.",
+      "codigo_oficial": "5.3",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias Sociales, segundo ciclo, criterios",
+        "pagina": 45
+      },
+      "orden": 16,
+      "padre": "MAD.EP.CS.C2.CE.5"
+    },
+    {
+      "codigo": "MAD.EP.CS.C2.CO.A",
+      "tipo": "bloque_contenidos",
+      "texto": "Sociedades y territorios",
+      "codigo_oficial": "A",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias Sociales, segundo ciclo, contenidos",
+        "pagina": 45
+      },
+      "orden": 17
+    },
+    {
+      "codigo": "MAD.EP.CS.C2.CO.A.1",
+      "tipo": "bloque_contenidos",
+      "texto": "Retos del mundo actual",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias Sociales, segundo ciclo, contenidos",
+        "pagina": 45
+      },
+      "orden": 18,
+      "padre": "MAD.EP.CS.C2.CO.A"
+    },
+    {
+      "codigo": "MAD.EP.CS.C2.CO.A.1.1",
+      "tipo": "contenido",
+      "texto": "La Tierra y las catástrofes naturales. Elementos, movimientos, dinámicas que ocurren en el universo y su relación con fenómenos físicos que afectan a la Tierra y repercuten en la vida diaria y en el entorno.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias Sociales, segundo ciclo, contenidos",
+        "pagina": 45
+      },
+      "orden": 19,
+      "padre": "MAD.EP.CS.C2.CO.A.1"
+    },
+    {
+      "codigo": "MAD.EP.CS.C2.CO.A.1.2",
+      "tipo": "contenido",
+      "texto": "Conocimiento del espacio. Representación del espacio. Representación de la Tierra a través del globo terráqueo, los mapas y otros recursos digitales. Mapas y planos en distintas escalas. Técnicas de orientación mediante la observación de los elementos del medio físico y otros medios de localización espacial.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias Sociales, segundo ciclo, contenidos",
+        "pagina": 45
+      },
+      "orden": 20,
+      "padre": "MAD.EP.CS.C2.CO.A.1"
+    },
+    {
+      "codigo": "MAD.EP.CS.C2.CO.A.1.3",
+      "tipo": "contenido",
+      "texto": "Los límites geográficos de España. Mares y océanos que la rodean. Islas y archipiélagos. Localización en el mapa.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias Sociales, segundo ciclo, contenidos",
+        "pagina": 45
+      },
+      "orden": 21,
+      "padre": "MAD.EP.CS.C2.CO.A.1"
+    },
+    {
+      "codigo": "MAD.EP.CS.C2.CO.A.1.4",
+      "tipo": "contenido",
+      "texto": "Vertientes hidrográficas peninsulares y principales ríos. Cuencas hidrográficas peninsulares Localización en el mapa de España de los principales ríos de la Península Ibérica.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias Sociales, segundo ciclo, contenidos",
+        "pagina": 45
+      },
+      "orden": 22,
+      "padre": "MAD.EP.CS.C2.CO.A.1"
+    },
+    {
+      "codigo": "MAD.EP.CS.C2.CO.A.1.5",
+      "tipo": "contenido",
+      "texto": "Formas de relieve y accidentes geográficos. Principales unidades del relieve de España y localización en el mapa de las principales cordilleras y montañas.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias Sociales, segundo ciclo, contenidos",
+        "pagina": 45
+      },
+      "orden": 23,
+      "padre": "MAD.EP.CS.C2.CO.A.1"
+    },
+    {
+      "codigo": "MAD.EP.CS.C2.CO.A.1.6",
+      "tipo": "contenido",
+      "texto": "El clima y el paisaje. Los fenómenos atmosféricos. Toma y registro de datos meteorológicos y su representación gráfica y visual. Las Tecnologías de la Información Geográfica (TIG). Relación entre las zonas climáticas y la diversidad de paisajes. Los tipos de clima en España.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias Sociales, segundo ciclo, contenidos",
+        "pagina": 45
+      },
+      "orden": 24,
+      "padre": "MAD.EP.CS.C2.CO.A.1"
+    },
+    {
+      "codigo": "MAD.EP.CS.C2.CO.A.1.7",
+      "tipo": "contenido",
+      "texto": "Retos demográficos. Ocupación y distribución de la población en el espacio y análisis de los principales problemas y retos demográficos. Representación gráfica y cartográfica de la población. La organización del territorio en España y en Europa. Las Comunidades Autónomas: localización.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias Sociales, segundo ciclo, contenidos",
+        "pagina": 45
+      },
+      "orden": 25,
+      "padre": "MAD.EP.CS.C2.CO.A.1"
+    },
+    {
+      "codigo": "MAD.EP.CS.C2.CO.A.1.8",
+      "tipo": "contenido",
+      "texto": "Desigualdad y acceso a los recursos. Usos del espacio por el ser humano y evolución de las actividades productivas. Sectores de producción de España. El valor, el control del dinero y los medios de pago.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias Sociales, segundo ciclo, contenidos",
+        "pagina": 45
+      },
+      "orden": 26,
+      "padre": "MAD.EP.CS.C2.CO.A.1"
+    },
+    {
+      "codigo": "MAD.EP.CS.C2.CO.A.2",
+      "tipo": "bloque_contenidos",
+      "texto": "Sociedades en el tiempo",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias Sociales, segundo ciclo, contenidos",
+        "pagina": 45
+      },
+      "orden": 27,
+      "padre": "MAD.EP.CS.C2.CO.A"
+    },
+    {
+      "codigo": "MAD.EP.CS.C2.CO.A.2.1",
+      "tipo": "contenido",
+      "texto": "El tiempo histórico. Nociones temporales y cronología. Utilización de los números romanos para indicar los siglos. La datación por siglos, antes y después de Cristo. Ubicación temporal de las grandes etapas históricas (Prehistoria, Edad Antigua, Edad Media, Edad Moderna y Edad Contemporánea).",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias Sociales, segundo ciclo, contenidos",
+        "pagina": 45
+      },
+      "orden": 28,
+      "padre": "MAD.EP.CS.C2.CO.A.2"
+    },
+    {
+      "codigo": "MAD.EP.CS.C2.CO.A.2.2",
+      "tipo": "contenido",
+      "texto": "Las fuentes históricas: clasificación y utilización de las distintas fuentes (orales, escritas, patrimoniales) como vía para el análisis de los cambios y permanencias en la localidad a lo largo de la historia. La Arqueología. Las huellas de la historia en lugares, edificios, objetos, oficios o tradiciones de la localidad.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias Sociales, segundo ciclo, contenidos",
+        "pagina": 45
+      },
+      "orden": 29,
+      "padre": "MAD.EP.CS.C2.CO.A.2"
+    },
+    {
+      "codigo": "MAD.EP.CS.C2.CO.A.2.3",
+      "tipo": "contenido",
+      "texto": "Iniciación en la investigación y en los métodos de trabajo para la realización de proyectos, que analicen hechos, asuntos y temas de relevancia actual con visión histórica, contextualizándolos en la época correspondiente (Prehistoria y Edad Antigua), como la supervivencia y la alimentación, la vivienda, los intercambios comerciales (de dónde viene el dinero, los trabajos no remunerados), la explotación de bienes comunes y recursos o los avances técnicos:",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias Sociales, segundo ciclo, contenidos",
+        "pagina": 45
+      },
+      "orden": 30,
+      "padre": "MAD.EP.CS.C2.CO.A.2"
+    },
+    {
+      "codigo": "MAD.EP.CS.C2.CO.A.2.3.1",
+      "tipo": "contenido",
+      "texto": "La Península Ibérica en la Prehistoria:",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias Sociales, segundo ciclo, contenidos",
+        "pagina": 45
+      },
+      "orden": 31,
+      "padre": "MAD.EP.CS.C2.CO.A.2.3"
+    },
+    {
+      "codigo": "MAD.EP.CS.C2.CO.A.2.3.1.1",
+      "tipo": "contenido",
+      "texto": "El Paleolítico, el Neolítico y la Edad de los Metales.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias Sociales, segundo ciclo, contenidos",
+        "pagina": 46
+      },
+      "orden": 32,
+      "padre": "MAD.EP.CS.C2.CO.A.2.3.1"
+    },
+    {
+      "codigo": "MAD.EP.CS.C2.CO.A.2.3.1.2",
+      "tipo": "contenido",
+      "texto": "Culturas prerromanas autóctonas: celtas e íberos.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias Sociales, segundo ciclo, contenidos",
+        "pagina": 46
+      },
+      "orden": 33,
+      "padre": "MAD.EP.CS.C2.CO.A.2.3.1"
+    },
+    {
+      "codigo": "MAD.EP.CS.C2.CO.A.2.3.2",
+      "tipo": "contenido",
+      "texto": "La Península Ibérica en la Edad Antigua:",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias Sociales, segundo ciclo, contenidos",
+        "pagina": 46
+      },
+      "orden": 34,
+      "padre": "MAD.EP.CS.C2.CO.A.2.3"
+    },
+    {
+      "codigo": "MAD.EP.CS.C2.CO.A.2.3.2.1",
+      "tipo": "contenido",
+      "texto": "Los pueblos colonizadores del Mediterráneo (fenicios, griegos y cartagineses).",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias Sociales, segundo ciclo, contenidos",
+        "pagina": 46
+      },
+      "orden": 35,
+      "padre": "MAD.EP.CS.C2.CO.A.2.3.2"
+    },
+    {
+      "codigo": "MAD.EP.CS.C2.CO.A.2.3.2.2",
+      "tipo": "contenido",
+      "texto": "La Hispania Romana.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias Sociales, segundo ciclo, contenidos",
+        "pagina": 46
+      },
+      "orden": 36,
+      "padre": "MAD.EP.CS.C2.CO.A.2.3.2"
+    },
+    {
+      "codigo": "MAD.EP.CS.C2.CO.A.2.3.2.3",
+      "tipo": "contenido",
+      "texto": "La caída del Imperio romano: Influencia de las invasiones bárbaras.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias Sociales, segundo ciclo, contenidos",
+        "pagina": 46
+      },
+      "orden": 37,
+      "padre": "MAD.EP.CS.C2.CO.A.2.3.2"
+    },
+    {
+      "codigo": "MAD.EP.CS.C2.CO.A.2.4",
+      "tipo": "contenido",
+      "texto": "La acción de mujeres y hombres como sujetos en la historia. Interpretación del papel de los individuos y de los distintos grupos sociales: relaciones, conflictos, creencias y condicionantes en cada época histórica. Las raíces clásicas y judeocristianas de Occidente.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias Sociales, segundo ciclo, contenidos",
+        "pagina": 46
+      },
+      "orden": 38,
+      "padre": "MAD.EP.CS.C2.CO.A.2"
+    },
+    {
+      "codigo": "MAD.EP.CS.C2.CO.A.2.5",
+      "tipo": "contenido",
+      "texto": "Las expresiones artísticas y culturales prehistóricas y de la Antigüedad y su contextualización histórica con referentes de igualdad entre hombres y mujeres. La función del arte y la cultura en el mundo de la Prehistoria y la Edad Antigua. Identificar algunas expresiones artísticas de estos periodos en España.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias Sociales, segundo ciclo, contenidos",
+        "pagina": 46
+      },
+      "orden": 39,
+      "padre": "MAD.EP.CS.C2.CO.A.2"
+    },
+    {
+      "codigo": "MAD.EP.CS.C2.CO.A.2.6",
+      "tipo": "contenido",
+      "texto": "El patrimonio natural y cultural. Los espacios protegidos, culturales y naturales. Su uso, cuidado y conservación.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias Sociales, segundo ciclo, contenidos",
+        "pagina": 46
+      },
+      "orden": 40,
+      "padre": "MAD.EP.CS.C2.CO.A.2"
+    },
+    {
+      "codigo": "MAD.EP.CS.C2.CO.A.2.7",
+      "tipo": "contenido",
+      "texto": "Hitos históricos, costumbres y tradiciones de la Comunidad de Madrid.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias Sociales, segundo ciclo, contenidos",
+        "pagina": 46
+      },
+      "orden": 41,
+      "padre": "MAD.EP.CS.C2.CO.A.2"
+    },
+    {
+      "codigo": "MAD.EP.CS.C2.CO.A.3",
+      "tipo": "bloque_contenidos",
+      "texto": "Alfabetización cívica",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias Sociales, segundo ciclo, contenidos",
+        "pagina": 46
+      },
+      "orden": 42,
+      "padre": "MAD.EP.CS.C2.CO.A"
+    },
+    {
+      "codigo": "MAD.EP.CS.C2.CO.A.3.1",
+      "tipo": "contenido",
+      "texto": "Compromisos y normas para la vida en sociedad.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias Sociales, segundo ciclo, contenidos",
+        "pagina": 46
+      },
+      "orden": 43,
+      "padre": "MAD.EP.CS.C2.CO.A.3"
+    },
+    {
+      "codigo": "MAD.EP.CS.C2.CO.A.3.2",
+      "tipo": "contenido",
+      "texto": "Las costumbres, tradiciones y manifestaciones de diferentes culturas del entorno. Respeto por la diversidad. La cultura de paz y no violencia en libertad.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias Sociales, segundo ciclo, contenidos",
+        "pagina": 46
+      },
+      "orden": 44,
+      "padre": "MAD.EP.CS.C2.CO.A.3"
+    },
+    {
+      "codigo": "MAD.EP.CS.C2.CO.A.3.3",
+      "tipo": "contenido",
+      "texto": "La organización política y territorial de España.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias Sociales, segundo ciclo, contenidos",
+        "pagina": 46
+      },
+      "orden": 45,
+      "padre": "MAD.EP.CS.C2.CO.A.3"
+    },
+    {
+      "codigo": "MAD.EP.CS.C2.CO.A.3.4",
+      "tipo": "contenido",
+      "texto": "Ciudades y pueblos más importantes de España.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias Sociales, segundo ciclo, contenidos",
+        "pagina": 46
+      },
+      "orden": 46,
+      "padre": "MAD.EP.CS.C2.CO.A.3"
+    },
+    {
+      "codigo": "MAD.EP.CS.C2.CO.A.3.5",
+      "tipo": "contenido",
+      "texto": "Organización y funcionamiento de la sociedad. Las principales instituciones y entidades del entorno local, regional y nacional y los servicios públicos que prestan. Estructura administrativa de España.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias Sociales, segundo ciclo, contenidos",
+        "pagina": 46
+      },
+      "orden": 47,
+      "padre": "MAD.EP.CS.C2.CO.A.3"
+    },
+    {
+      "codigo": "MAD.EP.CS.C2.CO.A.3.6",
+      "tipo": "contenido",
+      "texto": "Seguridad vial. La ciudad como espacio de convivencia. Normas de circulación, señales y marcas viales. Movilidad segura y saludable como peatones o como usuarios de los medios de locomoción. Significado de las señales de tráfico.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias Sociales, segundo ciclo, contenidos",
+        "pagina": 46
+      },
+      "orden": 48,
+      "padre": "MAD.EP.CS.C2.CO.A.3"
+    },
+    {
+      "codigo": "MAD.EP.CS.C2.CO.A.4",
+      "tipo": "bloque_contenidos",
+      "texto": "Conciencia social y medioambiental",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias Sociales, segundo ciclo, contenidos",
+        "pagina": 46
+      },
+      "orden": 49,
+      "padre": "MAD.EP.CS.C2.CO.A"
+    },
+    {
+      "codigo": "MAD.EP.CS.C2.CO.A.4.1",
+      "tipo": "contenido",
+      "texto": "El cambio climático. Introducción a las causas y consecuencias del cambio climático, y su impacto en los paisajes de la Tierra. Medidas de mitigación y de adaptación.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias Sociales, segundo ciclo, contenidos",
+        "pagina": 46
+      },
+      "orden": 50,
+      "padre": "MAD.EP.CS.C2.CO.A.4"
+    },
+    {
+      "codigo": "MAD.EP.CS.C2.CO.A.4.2",
+      "tipo": "contenido",
+      "texto": "Responsabilidad social y medioambiental. Relación entre seres vivos y ecosistemas y entre personas, sociedades y medio natural.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias Sociales, segundo ciclo, contenidos",
+        "pagina": 46
+      },
+      "orden": 51,
+      "padre": "MAD.EP.CS.C2.CO.A.4"
+    },
+    {
+      "codigo": "MAD.EP.CS.C2.CO.A.4.3",
+      "tipo": "contenido",
+      "texto": "La transformación y la degradación de los ecosistemas naturales por la acción humana. Conservación y protección de la naturaleza. El maltrato animal y su prevención.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias Sociales, segundo ciclo, contenidos",
+        "pagina": 46
+      },
+      "orden": 52,
+      "padre": "MAD.EP.CS.C2.CO.A.4"
+    },
+    {
+      "codigo": "MAD.EP.CS.C2.CO.A.4.4",
+      "tipo": "contenido",
+      "texto": "Estilos de vida adecuados. El consumo y la producción responsable, la alimentación equilibrada, el uso eficiente del agua y la energía, la movilidad segura y saludable y la prevención y la gestión de los residuos.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Ciencias Sociales, segundo ciclo, contenidos",
+        "pagina": 46
+      },
+      "orden": 53,
+      "padre": "MAD.EP.CS.C2.CO.A.4"
+    }
+  ]
+}

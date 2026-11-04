@@ -12,15 +12,17 @@ cada corrección o modificación, de dónde sale el texto cuando el PDF no sirve
 
 ## Orden de trabajo: descargar, extraer, comprobar
 
-**Regenerar todo el lote**: `lote.toml` es el manifiesto de las 45 fichas del paquete (extractor y
+**Regenerar todo el lote**: `lote.toml` es el manifiesto de las 70 fichas del paquete (extractor y
 parámetros exactos de cada una, más la fecha de revisión y los cursos académicos). Orden:
 
 1. `descargar --cache <dir>` (caché fuera del repositorio).
-2. `uv run python -m herramientas.normativa.regenerar --cache <dir> [--salida <datos>]`: escribe las
-   normas, los descriptores, el resto de fichas y los requisitos, en ese orden, y para en el primer
-   error. Para preparar un curso nuevo se cambian en `lote.toml` (y `fuentes.toml`) las normas, los
-   cursos y la fecha.
-3. **`comprobar --cache <dir>`**, siempre después de regenerar, y a 0 antes de commitear datos.
+2. `uv run --group mantenimiento python -m herramientas.normativa.regenerar --cache <dir>
+   [--salida <datos>]`: escribe las normas, los descriptores, el resto de fichas, la Primaria y los
+   requisitos, en ese orden, y para en el primer error. Para preparar un curso nuevo se cambian en
+   `lote.toml` (y `fuentes.toml`) las normas, los cursos y la fecha. El grupo `mantenimiento`
+   trae pdfplumber, que necesitan la Primaria y su comprobación.
+3. **`comprobar --cache <dir>`** (también con `--group mantenimiento`), siempre después de
+   regenerar, y a 0 antes de commitear datos.
 
 Los pasos de abajo son lo que `regenerar` hace por dentro, para extraer una sola ficha.
 
@@ -108,6 +110,24 @@ Los pasos de abajo son lo que `regenerar` hace por dentro, para extraer una sola
      son los apartados de cada norma que entran en cada ficha. Un texto sin cabeceras de
      boletín (las instrucciones de la web de la Comunidad) numera sus páginas por los saltos de
      página y no cuenta el número del pie.
+   - `extraer_primaria --norma bocm-20220718-1 --rd boe-a-2022-3296 --cursos-academicos … --cache
+     <dir>` (las 25 fichas de Primaria en una sola ejecución, como los requisitos; necesita el
+     grupo `mantenimiento`: `uv run --group mantenimiento python -m …`). El anexo II del Decreto
+     61/2022 son tablas (competencias | criterios; bloque | sub-bloque | contenidos) que
+     `pdftotext` mezcla, así que se leen con pdfplumber: una ficha por área y ciclo,
+     `MAD.EP.<ÁREA>.<C1|C2|C3>`; VCE (solo 5.º) es `MAD.EP.VCE` con curso 5, y SLE y TYR, de toda
+     la etapa, no llevan ciclo. Cada ficha de ciclo trae todas las competencias del área en la
+     redacción de ese ciclo (el decreto las repite y a veces cambia una coma o una palabra), con
+     los descriptores que les conecta el RD 157/2022 (`--rd`; SLE y TYR los dicen en el propio
+     decreto) y, en Ciencias de la Naturaleza y Sociales, `datos.equivalencia_rd` (la
+     competencia de Conocimiento del Medio del RD). Los contenidos son
+     `CO.<bloque>[.<n sub-bloque>].<n>`: el bloque con su letra (en Educación Artística, el
+     «BLOQUE I/II» con su número romano y sus sub-bloques «A.», «B.»…), las viñetas «•» bajo la
+     «-» anterior y las «–» bajo la «•»; sin numeración oficial. `MAD.EP.DESC` son los
+     descriptores del anexo I. Una fila que no encaja (dos celdas en una columna, un criterio
+     fuera de orden, un contenido sin viñeta ni anterior, un nivel saltado) es un error con el
+     área y la página. Las páginas son las impresas («Pág. N»). `codigo_nuevo` traduce los
+     códigos del JSON anterior de Primaria (`MAT.1.1.C2`, `MAT.CE1`) a los de las fichas.
 
 ## La Orden 3537/2025 sale cifrada: `cifrado.py`
 
@@ -146,6 +166,13 @@ certificar el boletín. Sus límites:
   a final de línea tiene dos lecturas posibles y `comprobar` acepta las dos (con y sin guion).
   Consecuencia: un guion real de palabra compuesta que `unir` perdiera al juntar líneas **no
   lo detectaría**, porque la lectura sin guion también vale.
+- **Una norma con `lector = "pdfplumber"`** (el Decreto 61/2022 de Primaria) no se compara
+  con `pdftotext`, que mezcla sus columnas, sino con el texto de pdfplumber de la página por
+  columnas (`<id>.columnas.json` en la caché; bórralo si cambia `columnas_de_pdf`): el texto tiene que estar en una columna y solo
+  puede seguir en una columna de la página siguiente. El extractor y `comprobar` leen ese PDF con
+  la misma biblioteca, así que un carácter mal leído saldría igual en los dos.
+- **La raya corta (–) a final de línea entre dos letras** une un compuesto sin espacio
+  («Mecánica–» «Ingeniería»), en las dos lecturas: no es una partición de palabra.
 - **Las `sustituciones` de `fuentes.toml`** son correcciones de errores oficiales declaradas
   («Phyton» por «Python»): el texto guardado difiere a propósito de la página y `comprobar`
   aplica el par a la página antes de comparar. Lo que no está declarado ahí no se perdona.

@@ -1,0 +1,822 @@
+{
+  "codigo": "MAD.EP.TYR",
+  "nombre": "Tecnología y Robótica",
+  "etapa": "primaria",
+  "curso": null,
+  "cursos_academicos": [
+    "2026-27"
+  ],
+  "normas": [
+    "bocm-20220718-1"
+  ],
+  "elementos": [
+    {
+      "codigo": "MAD.EP.TYR.CE.1",
+      "tipo": "competencia_especifica",
+      "texto": "Utilizar el pensamiento computacional para la resolución de problemas, generando un producto creativo y original que responda a cada uno de los retos planteados o generados a través de la observación del entorno.",
+      "codigo_oficial": "1",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Tecnología y Robótica, competencias específicas",
+        "pagina": 123
+      },
+      "orden": 1,
+      "relaciones": {
+        "descriptores": [
+          "MAD.EP.DESC.CCL1",
+          "MAD.EP.DESC.CP1",
+          "MAD.EP.DESC.STEM1",
+          "MAD.EP.DESC.STEM2",
+          "MAD.EP.DESC.STEM3",
+          "MAD.EP.DESC.STEM4",
+          "MAD.EP.DESC.STEM5",
+          "MAD.EP.DESC.CD1",
+          "MAD.EP.DESC.CD2",
+          "MAD.EP.DESC.CD3",
+          "MAD.EP.DESC.CD4",
+          "MAD.EP.DESC.CD5",
+          "MAD.EP.DESC.CPSAA3",
+          "MAD.EP.DESC.CPSAA4",
+          "MAD.EP.DESC.CPSAA5",
+          "MAD.EP.DESC.CC3",
+          "MAD.EP.DESC.CE1",
+          "MAD.EP.DESC.CE3"
+        ]
+      }
+    },
+    {
+      "codigo": "MAD.EP.TYR.CR.1.1",
+      "tipo": "criterio",
+      "texto": "Conocer los fundamentos básicos de la programación por bloques.",
+      "codigo_oficial": "1.1",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Tecnología y Robótica, criterios",
+        "pagina": 123
+      },
+      "orden": 2,
+      "padre": "MAD.EP.TYR.CE.1"
+    },
+    {
+      "codigo": "MAD.EP.TYR.CR.1.2",
+      "tipo": "criterio",
+      "texto": "Realizar un conjunto de operaciones sistemáticas o algoritmos que cumplan un patrón previamente fijado para el funcionamiento correcto del programa.",
+      "codigo_oficial": "1.2",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Tecnología y Robótica, criterios",
+        "pagina": 123
+      },
+      "orden": 3,
+      "padre": "MAD.EP.TYR.CE.1"
+    },
+    {
+      "codigo": "MAD.EP.TYR.CR.1.3",
+      "tipo": "criterio",
+      "texto": "Recabar información del entorno que nos permita obtener datos necesarios para generar un producto que dé una solución tecnológica sobre una situación concreta.",
+      "codigo_oficial": "1.3",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Tecnología y Robótica, criterios",
+        "pagina": 123
+      },
+      "orden": 4,
+      "padre": "MAD.EP.TYR.CE.1"
+    },
+    {
+      "codigo": "MAD.EP.TYR.CE.2",
+      "tipo": "competencia_especifica",
+      "texto": "Resolver problemas planteados aplicando los conocimientos de mecánica, electricidad, diseño y programación, desarrollando soluciones automatizadas, diseñando o construyendo sistemas de control programables y/o robóticos adecuados a su nivel.",
+      "codigo_oficial": "2",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Tecnología y Robótica, competencias específicas",
+        "pagina": 123
+      },
+      "orden": 5,
+      "relaciones": {
+        "descriptores": [
+          "MAD.EP.DESC.CCL1",
+          "MAD.EP.DESC.STEM1",
+          "MAD.EP.DESC.STEM2",
+          "MAD.EP.DESC.STEM3",
+          "MAD.EP.DESC.STEM4",
+          "MAD.EP.DESC.STEM5",
+          "MAD.EP.DESC.CD1",
+          "MAD.EP.DESC.CD2",
+          "MAD.EP.DESC.CD3",
+          "MAD.EP.DESC.CD4",
+          "MAD.EP.DESC.CD5",
+          "MAD.EP.DESC.CPSAA2",
+          "MAD.EP.DESC.CPSAA4",
+          "MAD.EP.DESC.CPSAA5",
+          "MAD.EP.DESC.CE1",
+          "MAD.EP.DESC.CE3"
+        ]
+      }
+    },
+    {
+      "codigo": "MAD.EP.TYR.CR.2.1",
+      "tipo": "criterio",
+      "texto": "Aplicar los conocimientos elementales de electricidad y mecánica para el montaje de artefactos.",
+      "codigo_oficial": "2.1",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Tecnología y Robótica, criterios",
+        "pagina": 123
+      },
+      "orden": 6,
+      "padre": "MAD.EP.TYR.CE.2"
+    },
+    {
+      "codigo": "MAD.EP.TYR.CR.2.2",
+      "tipo": "criterio",
+      "texto": "Realizar, de forma guiada, un producto final sencillo que dé solución a un problema de diseño, probando en equipo, diferentes prototipos y utilizando de forma segura los materiales de mecánica, electricidad o programación.",
+      "codigo_oficial": "2.2",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Tecnología y Robótica, criterios",
+        "pagina": 123
+      },
+      "orden": 7,
+      "padre": "MAD.EP.TYR.CE.2"
+    },
+    {
+      "codigo": "MAD.EP.TYR.CR.2.3",
+      "tipo": "criterio",
+      "texto": "Mostrar de forma oral o gráfica el producto final de los proyectos de diseño, explicando los pasos seguidos y la finalidad del proyecto.",
+      "codigo_oficial": "2.3",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Tecnología y Robótica, criterios",
+        "pagina": 123
+      },
+      "orden": 8,
+      "padre": "MAD.EP.TYR.CE.2"
+    },
+    {
+      "codigo": "MAD.EP.TYR.CR.2.4",
+      "tipo": "criterio",
+      "texto": "Desarrollar diseños en 2D o en 3D utilizando técnicas de prototipado o distintas aplicaciones informáticas para construir un objeto determinado.",
+      "codigo_oficial": "2.4",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Tecnología y Robótica, criterios",
+        "pagina": 123
+      },
+      "orden": 9,
+      "padre": "MAD.EP.TYR.CE.2"
+    },
+    {
+      "codigo": "MAD.EP.TYR.CE.3",
+      "tipo": "competencia_especifica",
+      "texto": "Observar, comprender e interpretar las distintas situaciones del entorno para identificar problemas y buscar soluciones, actuando de manera individual y en grupo en su resolución, poniendo en práctica la interconexión digital de dispositivos con internet.",
+      "codigo_oficial": "3",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Tecnología y Robótica, competencias específicas",
+        "pagina": 123
+      },
+      "orden": 10,
+      "relaciones": {
+        "descriptores": [
+          "MAD.EP.DESC.STEM1",
+          "MAD.EP.DESC.STEM2",
+          "MAD.EP.DESC.STEM3",
+          "MAD.EP.DESC.STEM4",
+          "MAD.EP.DESC.STEM5",
+          "MAD.EP.DESC.CD1",
+          "MAD.EP.DESC.CD2",
+          "MAD.EP.DESC.CD3",
+          "MAD.EP.DESC.CD4",
+          "MAD.EP.DESC.CD5",
+          "MAD.EP.DESC.CPSAA4",
+          "MAD.EP.DESC.CPSAA5",
+          "MAD.EP.DESC.CC3",
+          "MAD.EP.DESC.CE1",
+          "MAD.EP.DESC.CE3"
+        ]
+      }
+    },
+    {
+      "codigo": "MAD.EP.TYR.CR.3.1",
+      "tipo": "criterio",
+      "texto": "Conocer los procesos que permiten conectar elementos físicos a internet.",
+      "codigo_oficial": "3.1",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Tecnología y Robótica, criterios",
+        "pagina": 123
+      },
+      "orden": 11,
+      "padre": "MAD.EP.TYR.CE.3"
+    },
+    {
+      "codigo": "MAD.EP.TYR.CR.3.2",
+      "tipo": "criterio",
+      "texto": "Utilizar el volumen de datos que generan los dispositivos conectados para realizar un análisis de estos y utilizar esta información.",
+      "codigo_oficial": "3.2",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Tecnología y Robótica, criterios",
+        "pagina": 123
+      },
+      "orden": 12,
+      "padre": "MAD.EP.TYR.CE.3"
+    },
+    {
+      "codigo": "MAD.EP.TYR.CE.4",
+      "tipo": "competencia_especifica",
+      "texto": "Conocer y valorar las posibilidades que tiene la inteligencia artificial para actuar con las máquinas o sistemas de manera que faciliten el trabajo y lo mejoren gradualmente.",
+      "codigo_oficial": "4",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Tecnología y Robótica, competencias específicas",
+        "pagina": 123
+      },
+      "orden": 13,
+      "relaciones": {
+        "descriptores": [
+          "MAD.EP.DESC.CP1",
+          "MAD.EP.DESC.STEM1",
+          "MAD.EP.DESC.STEM2",
+          "MAD.EP.DESC.STEM3",
+          "MAD.EP.DESC.STEM4",
+          "MAD.EP.DESC.STEM5",
+          "MAD.EP.DESC.CD1",
+          "MAD.EP.DESC.CD2",
+          "MAD.EP.DESC.CD3",
+          "MAD.EP.DESC.CD4",
+          "MAD.EP.DESC.CD5",
+          "MAD.EP.DESC.CPSAA4",
+          "MAD.EP.DESC.CPSAA5",
+          "MAD.EP.DESC.CC3",
+          "MAD.EP.DESC.CE1",
+          "MAD.EP.DESC.CE3"
+        ]
+      }
+    },
+    {
+      "codigo": "MAD.EP.TYR.CR.4.1",
+      "tipo": "criterio",
+      "texto": "Conocer aplicaciones informáticas o tecnológicas digitales emergentes sobre la inteligencia artificial.",
+      "codigo_oficial": "4.1",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Tecnología y Robótica, criterios",
+        "pagina": 123
+      },
+      "orden": 14,
+      "padre": "MAD.EP.TYR.CE.4"
+    },
+    {
+      "codigo": "MAD.EP.TYR.CR.4.2",
+      "tipo": "criterio",
+      "texto": "Integrar programaciones en las máquinas o sistemas que permitan su autonomía de forma responsable.",
+      "codigo_oficial": "4.2",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Tecnología y Robótica, criterios",
+        "pagina": 123
+      },
+      "orden": 15,
+      "padre": "MAD.EP.TYR.CE.4"
+    },
+    {
+      "codigo": "MAD.EP.TYR.CE.5",
+      "tipo": "competencia_especifica",
+      "texto": "Manejar los dispositivos y herramientas de forma segura y responsable para trabajar de forma individual o conjunta de acuerdo a las necesidades del contexto educativo.",
+      "codigo_oficial": "5",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Tecnología y Robótica, competencias específicas",
+        "pagina": 124
+      },
+      "orden": 16,
+      "relaciones": {
+        "descriptores": [
+          "MAD.EP.DESC.CCL1",
+          "MAD.EP.DESC.CCL2",
+          "MAD.EP.DESC.CCL3",
+          "MAD.EP.DESC.STEM4",
+          "MAD.EP.DESC.CPSAA2",
+          "MAD.EP.DESC.CPSAA5",
+          "MAD.EP.DESC.CD1",
+          "MAD.EP.DESC.CD2",
+          "MAD.EP.DESC.CD3",
+          "MAD.EP.DESC.CD4",
+          "MAD.EP.DESC.CD5",
+          "MAD.EP.DESC.CE3"
+        ]
+      }
+    },
+    {
+      "codigo": "MAD.EP.TYR.CR.5.1",
+      "tipo": "criterio",
+      "texto": "Utilizar los dispositivos y las herramientas de forma segura de acuerdo con las necesidades del contexto educativo.",
+      "codigo_oficial": "5.1",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Tecnología y Robótica, criterios",
+        "pagina": 124
+      },
+      "orden": 17,
+      "padre": "MAD.EP.TYR.CE.5"
+    },
+    {
+      "codigo": "MAD.EP.TYR.CR.5.2",
+      "tipo": "criterio",
+      "texto": "Buscar de forma segura y eficiente información para crear contenidos digitales, trabajando de manera individual y conjunta.",
+      "codigo_oficial": "5.2",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Tecnología y Robótica, criterios",
+        "pagina": 124
+      },
+      "orden": 18,
+      "padre": "MAD.EP.TYR.CE.5"
+    },
+    {
+      "codigo": "MAD.EP.TYR.CE.6",
+      "tipo": "competencia_especifica",
+      "texto": "Conocer y utilizar los distintos sistemas y aplicaciones de realidad virtual o aumentada para explorar el entorno y disfrutar de un aprendizaje interactivo y enriquecedor.",
+      "codigo_oficial": "6",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Tecnología y Robótica, competencias específicas",
+        "pagina": 124
+      },
+      "orden": 19,
+      "relaciones": {
+        "descriptores": [
+          "MAD.EP.DESC.CCL2",
+          "MAD.EP.DESC.STEM1",
+          "MAD.EP.DESC.STEM2",
+          "MAD.EP.DESC.STEM3",
+          "MAD.EP.DESC.STEM4",
+          "MAD.EP.DESC.STEM5",
+          "MAD.EP.DESC.CD1",
+          "MAD.EP.DESC.CD2",
+          "MAD.EP.DESC.CD3",
+          "MAD.EP.DESC.CD4",
+          "MAD.EP.DESC.CD5",
+          "MAD.EP.DESC.CPSAA3",
+          "MAD.EP.DESC.CPSAA4",
+          "MAD.EP.DESC.CPSAA5",
+          "MAD.EP.DESC.CC3",
+          "MAD.EP.DESC.CE1",
+          "MAD.EP.DESC.CE3"
+        ]
+      }
+    },
+    {
+      "codigo": "MAD.EP.TYR.CR.6.1",
+      "tipo": "criterio",
+      "texto": "Utilizar los distintos sistemas de realidad virtual o aumentada para facilitar los procesos de aprendizaje.",
+      "codigo_oficial": "6.1",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Tecnología y Robótica, criterios",
+        "pagina": 124
+      },
+      "orden": 20,
+      "padre": "MAD.EP.TYR.CE.6"
+    },
+    {
+      "codigo": "MAD.EP.TYR.CR.6.2",
+      "tipo": "criterio",
+      "texto": "Crear proyectos en los que incluyan la realidad virtual o aumentada como recurso.",
+      "codigo_oficial": "6.2",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Tecnología y Robótica, criterios",
+        "pagina": 124
+      },
+      "orden": 21,
+      "padre": "MAD.EP.TYR.CE.6"
+    },
+    {
+      "codigo": "MAD.EP.TYR.CO.A",
+      "tipo": "bloque_contenidos",
+      "texto": "Pensamiento computacional",
+      "codigo_oficial": "A",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Tecnología y Robótica, contenidos",
+        "pagina": 124
+      },
+      "orden": 22
+    },
+    {
+      "codigo": "MAD.EP.TYR.CO.A.1",
+      "tipo": "contenido",
+      "texto": "Iniciación a la programación a través de recursos analógicos (actividades desenchufadas) y de recursos digitales (plataformas digitales de programación por bloques) adaptados al nivel lector del alumnado.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Tecnología y Robótica, contenidos",
+        "pagina": 124
+      },
+      "orden": 23,
+      "padre": "MAD.EP.TYR.CO.A"
+    },
+    {
+      "codigo": "MAD.EP.TYR.CO.A.2",
+      "tipo": "contenido",
+      "texto": "Interpretación y ejecución de algoritmos sencillos (rutinas, instrucciones con pasos ordenados, reglas de juegos, instrucciones, secuencias, patrones repetitivos, programación por bloques).",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Tecnología y Robótica, contenidos",
+        "pagina": 124
+      },
+      "orden": 24,
+      "padre": "MAD.EP.TYR.CO.A"
+    },
+    {
+      "codigo": "MAD.EP.TYR.CO.A.3",
+      "tipo": "contenido",
+      "texto": "Fundamentos de la programación: bucles, condicionales, operadores, mensajes, variables, funciones, eventos, depuración (debugging).",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Tecnología y Robótica, contenidos",
+        "pagina": 124
+      },
+      "orden": 25,
+      "padre": "MAD.EP.TYR.CO.A"
+    },
+    {
+      "codigo": "MAD.EP.TYR.CO.A.4",
+      "tipo": "contenido",
+      "texto": "Extensiones de programación por bloques y aplicación a la robótica educativa (música, dibujo, sensor de vídeo, texto a voz, traductor…).",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Tecnología y Robótica, contenidos",
+        "pagina": 124
+      },
+      "orden": 26,
+      "padre": "MAD.EP.TYR.CO.A"
+    },
+    {
+      "codigo": "MAD.EP.TYR.CO.A.5",
+      "tipo": "contenido",
+      "texto": "Fases del pensamiento computacional: Descomposición de una tarea en partes más sencillas, reconocimiento de patrones y creación de algoritmos sencillos para la resolución del problema.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Tecnología y Robótica, contenidos",
+        "pagina": 124
+      },
+      "orden": 27,
+      "padre": "MAD.EP.TYR.CO.A"
+    },
+    {
+      "codigo": "MAD.EP.TYR.CO.A.6",
+      "tipo": "contenido",
+      "texto": "Proceso de modelización de forma guiada (dibujos, esquemas, diagramas, objetos manipulables, dramatizaciones...) en la comprensión y resolución de problemas de la vida cotidiana.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Tecnología y Robótica, contenidos",
+        "pagina": 124
+      },
+      "orden": 28,
+      "padre": "MAD.EP.TYR.CO.A"
+    },
+    {
+      "codigo": "MAD.EP.TYR.CO.A.7",
+      "tipo": "contenido",
+      "texto": "Mostrar interés por el pensamiento computacional participando en la resolución de problemas de programación.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Tecnología y Robótica, contenidos",
+        "pagina": 124
+      },
+      "orden": 29,
+      "padre": "MAD.EP.TYR.CO.A"
+    },
+    {
+      "codigo": "MAD.EP.TYR.CO.A.8",
+      "tipo": "contenido",
+      "texto": "Estrategias básicas de trabajo en equipo.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Tecnología y Robótica, contenidos",
+        "pagina": 124
+      },
+      "orden": 30,
+      "padre": "MAD.EP.TYR.CO.A"
+    },
+    {
+      "codigo": "MAD.EP.TYR.CO.B",
+      "tipo": "bloque_contenidos",
+      "texto": "Mecánica–Ingeniería (Diseño)",
+      "codigo_oficial": "B",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Tecnología y Robótica, contenidos",
+        "pagina": 124
+      },
+      "orden": 31
+    },
+    {
+      "codigo": "MAD.EP.TYR.CO.B.1",
+      "tipo": "contenido",
+      "texto": "Herramientas y útiles necesarios para la fabricación y montaje de artefactos. Funcionamiento de engranajes y poleas.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Tecnología y Robótica, contenidos",
+        "pagina": 124
+      },
+      "orden": 32,
+      "padre": "MAD.EP.TYR.CO.B"
+    },
+    {
+      "codigo": "MAD.EP.TYR.CO.B.2",
+      "tipo": "contenido",
+      "texto": "Técnicas de diseño y fabricación manual y mecánica.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Tecnología y Robótica, contenidos",
+        "pagina": 124
+      },
+      "orden": 33,
+      "padre": "MAD.EP.TYR.CO.B"
+    },
+    {
+      "codigo": "MAD.EP.TYR.CO.B.3",
+      "tipo": "contenido",
+      "texto": "Técnicas de diseño y fabricación digital. Impresión 3D y corte.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Tecnología y Robótica, contenidos",
+        "pagina": 124
+      },
+      "orden": 34,
+      "padre": "MAD.EP.TYR.CO.B"
+    },
+    {
+      "codigo": "MAD.EP.TYR.CO.B.4",
+      "tipo": "contenido",
+      "texto": "Herramientas de diseño asistido por dispositivo tecnológico, para la representación en 2D y 3D y/o fabricación de piezas aplicadas a proyectos.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Tecnología y Robótica, contenidos",
+        "pagina": 124
+      },
+      "orden": 35,
+      "padre": "MAD.EP.TYR.CO.B"
+    },
+    {
+      "codigo": "MAD.EP.TYR.CO.B.5",
+      "tipo": "contenido",
+      "texto": "Diseño y construcción de robots sencillos.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Tecnología y Robótica, contenidos",
+        "pagina": 124
+      },
+      "orden": 36,
+      "padre": "MAD.EP.TYR.CO.B"
+    },
+    {
+      "codigo": "MAD.EP.TYR.CO.B.6",
+      "tipo": "contenido",
+      "texto": "Técnicas sencillas para el trabajo en equipo y estrategias para la gestión de conflictos. Respeto de las normas y cuidado en el uso de las herramientas.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Tecnología y Robótica, contenidos",
+        "pagina": 124
+      },
+      "orden": 37,
+      "padre": "MAD.EP.TYR.CO.B"
+    },
+    {
+      "codigo": "MAD.EP.TYR.CO.C",
+      "tipo": "bloque_contenidos",
+      "texto": "Electricidad",
+      "codigo_oficial": "C",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Tecnología y Robótica, contenidos",
+        "pagina": 124
+      },
+      "orden": 38
+    },
+    {
+      "codigo": "MAD.EP.TYR.CO.C.1",
+      "tipo": "contenido",
+      "texto": "Electricidad y electrónica básica: cables y conectores, actuadores, circuitos, sensores, motores, baterías (fuentes de energía).",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Tecnología y Robótica, contenidos",
+        "pagina": 124
+      },
+      "orden": 39,
+      "padre": "MAD.EP.TYR.CO.C"
+    },
+    {
+      "codigo": "MAD.EP.TYR.CO.C.2",
+      "tipo": "contenido",
+      "texto": "Energía y movimiento. Energías renovables y su influencia en la contribución al desarrollo de la sociedad.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Tecnología y Robótica, contenidos",
+        "pagina": 124
+      },
+      "orden": 40,
+      "padre": "MAD.EP.TYR.CO.C"
+    },
+    {
+      "codigo": "MAD.EP.TYR.CO.C.3",
+      "tipo": "contenido",
+      "texto": "Primeros diseños y aplicación en proyectos.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Tecnología y Robótica, contenidos",
+        "pagina": 124
+      },
+      "orden": 41,
+      "padre": "MAD.EP.TYR.CO.C"
+    },
+    {
+      "codigo": "MAD.EP.TYR.CO.C.4",
+      "tipo": "contenido",
+      "texto": "Fomento de la curiosidad, interés, motivación e iniciativa en el desarrollo y la realización de las actividades.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Tecnología y Robótica, contenidos",
+        "pagina": 124
+      },
+      "orden": 42,
+      "padre": "MAD.EP.TYR.CO.C"
+    },
+    {
+      "codigo": "MAD.EP.TYR.CO.D",
+      "tipo": "bloque_contenidos",
+      "texto": "Inteligencia artificial (IA)",
+      "codigo_oficial": "D",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Tecnología y Robótica, contenidos",
+        "pagina": 125
+      },
+      "orden": 43
+    },
+    {
+      "codigo": "MAD.EP.TYR.CO.D.1",
+      "tipo": "contenido",
+      "texto": "La inteligencia artificial como respuesta del aprendizaje a través de la obtención de datos y creación de patrones. Principios para la utilización de la IA.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Tecnología y Robótica, contenidos",
+        "pagina": 125
+      },
+      "orden": 44,
+      "padre": "MAD.EP.TYR.CO.D"
+    },
+    {
+      "codigo": "MAD.EP.TYR.CO.D.2",
+      "tipo": "contenido",
+      "texto": "Estrategias para el aprendizaje automático o aprendizaje de las máquinas.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Tecnología y Robótica, contenidos",
+        "pagina": 125
+      },
+      "orden": 45,
+      "padre": "MAD.EP.TYR.CO.D"
+    },
+    {
+      "codigo": "MAD.EP.TYR.CO.D.3",
+      "tipo": "contenido",
+      "texto": "Uso de aplicaciones informáticas sencillas para ordenador y dispositivos móviles e introducción a la inteligencia artificial.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Tecnología y Robótica, contenidos",
+        "pagina": 125
+      },
+      "orden": 46,
+      "padre": "MAD.EP.TYR.CO.D"
+    },
+    {
+      "codigo": "MAD.EP.TYR.CO.E",
+      "tipo": "bloque_contenidos",
+      "texto": "Internet de las cosas (IoT)",
+      "codigo_oficial": "E",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Tecnología y Robótica, contenidos",
+        "pagina": 125
+      },
+      "orden": 47
+    },
+    {
+      "codigo": "MAD.EP.TYR.CO.E.1",
+      "tipo": "contenido",
+      "texto": "Funcionamiento de la red. Reglas básicas para la utilización de los recursos de forma segura y eficiente trabajando de forma individual, en equipo y en red y estrategias para resolver problemas en la comunicación digital.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Tecnología y Robótica, contenidos",
+        "pagina": 125
+      },
+      "orden": 48,
+      "padre": "MAD.EP.TYR.CO.E"
+    },
+    {
+      "codigo": "MAD.EP.TYR.CO.E.2",
+      "tipo": "contenido",
+      "texto": "Dispositivos conectables. Pautas para la instalación de dispositivos que puedan conectarse entre sí y controlarse de forma centralizada desde un ordenador, tablet o móvil.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Tecnología y Robótica, contenidos",
+        "pagina": 125
+      },
+      "orden": 49,
+      "padre": "MAD.EP.TYR.CO.E"
+    },
+    {
+      "codigo": "MAD.EP.TYR.CO.E.3",
+      "tipo": "contenido",
+      "texto": "Sistemas de control programado y uso de simuladores y dispositivos.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Tecnología y Robótica, contenidos",
+        "pagina": 125
+      },
+      "orden": 50,
+      "padre": "MAD.EP.TYR.CO.E"
+    },
+    {
+      "codigo": "MAD.EP.TYR.CO.F",
+      "tipo": "bloque_contenidos",
+      "texto": "Realidad virtual o aumentada",
+      "codigo_oficial": "F",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Tecnología y Robótica, contenidos",
+        "pagina": 125
+      },
+      "orden": 51
+    },
+    {
+      "codigo": "MAD.EP.TYR.CO.F.1",
+      "tipo": "contenido",
+      "texto": "Uso de aplicaciones y software específico que permita recrear la realidad y dar vida a los objetos para su estudio.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Tecnología y Robótica, contenidos",
+        "pagina": 125
+      },
+      "orden": 52,
+      "padre": "MAD.EP.TYR.CO.F"
+    },
+    {
+      "codigo": "MAD.EP.TYR.CO.F.2",
+      "tipo": "contenido",
+      "texto": "Iniciación a la edición y creación de códigos QR o contenidos con realidad aumentada.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Tecnología y Robótica, contenidos",
+        "pagina": 125
+      },
+      "orden": 53,
+      "padre": "MAD.EP.TYR.CO.F"
+    },
+    {
+      "codigo": "MAD.EP.TYR.CO.F.3",
+      "tipo": "contenido",
+      "texto": "Desarrollo de marcadores para aplicaciones de realidad virtual, aumentada y mixta.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Tecnología y Robótica, contenidos",
+        "pagina": 125
+      },
+      "orden": 54,
+      "padre": "MAD.EP.TYR.CO.F"
+    }
+  ]
+}

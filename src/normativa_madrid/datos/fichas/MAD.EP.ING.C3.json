@@ -1,0 +1,908 @@
+{
+  "codigo": "MAD.EP.ING.C3",
+  "nombre": "Lengua Extranjera: Inglés, tercer ciclo",
+  "etapa": "primaria",
+  "ciclo": "C3",
+  "curso": null,
+  "cursos_academicos": [
+    "2026-27"
+  ],
+  "normas": [
+    "bocm-20220718-1",
+    "boe-a-2022-3296"
+  ],
+  "elementos": [
+    {
+      "codigo": "MAD.EP.ING.C3.CE.1",
+      "tipo": "competencia_especifica",
+      "texto": "Comprender el sentido general e información específica y predecible de textos breves y sencillos, expresados de forma clara y en la lengua estándar, haciendo uso de diversas estrategias y recurriendo, cuando sea necesario, al uso de distintos tipos de apoyo, para desarrollar el repertorio del lenguaje y para responder a necesidades comunicativas cotidianas.",
+      "codigo_oficial": "1",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Extranjera: Inglés, tercer ciclo, competencias específicas",
+        "pagina": 91
+      },
+      "orden": 1,
+      "relaciones": {
+        "descriptores": [
+          "MAD.EP.DESC.CCL2",
+          "MAD.EP.DESC.CCL3",
+          "MAD.EP.DESC.CP1",
+          "MAD.EP.DESC.CP2",
+          "MAD.EP.DESC.STEM1",
+          "MAD.EP.DESC.CD1",
+          "MAD.EP.DESC.CPSAA5",
+          "MAD.EP.DESC.CCEC2"
+        ]
+      }
+    },
+    {
+      "codigo": "MAD.EP.ING.C3.CR.1.1",
+      "tipo": "criterio",
+      "texto": "Reconocer, interpretar y analizar el sentido global, así como palabras y frases específicas de textos orales, escritos y multimodales breves y sencillos sobre temas frecuentes y cotidianos de relevancia personal y ámbitos próximos a su experiencia, así como de textos literarios adecuados al nivel de desarrollo del alumnado, expresados de forma comprensible, clara y en lengua estándar a través de distintos soportes.",
+      "codigo_oficial": "1.1",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Extranjera: Inglés, tercer ciclo, criterios",
+        "pagina": 91
+      },
+      "orden": 2,
+      "padre": "MAD.EP.ING.C3.CE.1"
+    },
+    {
+      "codigo": "MAD.EP.ING.C3.CR.1.2",
+      "tipo": "criterio",
+      "texto": "Seleccionar, organizar y aplicar, de forma guiada, estrategias y conocimientos adecuados en situaciones comunicativas cotidianas y de relevancia para el alumnado para captar el sentido global y procesar informaciones explícitas en textos diversos en lengua inglesa.",
+      "codigo_oficial": "1.2",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Extranjera: Inglés, tercer ciclo, criterios",
+        "pagina": 91
+      },
+      "orden": 3,
+      "padre": "MAD.EP.ING.C3.CE.1"
+    },
+    {
+      "codigo": "MAD.EP.ING.C3.CE.2",
+      "tipo": "competencia_especifica",
+      "texto": "Producir textos sencillos de manera comprensible y estructurada, mediante el empleo de estrategias como la planificación o la compensación, para expresar mensajes breves relacionados con necesidades inmediatas y responder a propósitos comunicativos cotidianos.",
+      "codigo_oficial": "2",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Extranjera: Inglés, tercer ciclo, competencias específicas",
+        "pagina": 92
+      },
+      "orden": 4,
+      "relaciones": {
+        "descriptores": [
+          "MAD.EP.DESC.CCL1",
+          "MAD.EP.DESC.CP1",
+          "MAD.EP.DESC.CP2",
+          "MAD.EP.DESC.STEM1",
+          "MAD.EP.DESC.CD2",
+          "MAD.EP.DESC.CPSAA5",
+          "MAD.EP.DESC.CE1",
+          "MAD.EP.DESC.CCEC4"
+        ]
+      }
+    },
+    {
+      "codigo": "MAD.EP.ING.C3.CR.2.1",
+      "tipo": "criterio",
+      "texto": "Expresar oralmente textos breves y sencillos, previamente preparados, sobre asuntos cotidianos y de relevancia para el alumnado, utilizando, de forma guiada, recursos verbales y no verbales, y usando formas y estructuras básicas y de uso frecuente propias de la lengua extranjera.",
+      "codigo_oficial": "2.1",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Extranjera: Inglés, tercer ciclo, criterios",
+        "pagina": 92
+      },
+      "orden": 5,
+      "padre": "MAD.EP.ING.C3.CE.2"
+    },
+    {
+      "codigo": "MAD.EP.ING.C3.CR.2.2",
+      "tipo": "criterio",
+      "texto": "Organizar y redactar textos breves y sencillos, previamente preparados, con adecuación a la situación comunicativa propuesta, a través de herramientas analógicas y digitales, y usando estructuras y léxico básico de uso común sobre asuntos cotidianos y frecuentes, de relevancia personal para el alumnado y próximos a su experiencia en lengua inglesa.",
+      "codigo_oficial": "2.2",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Extranjera: Inglés, tercer ciclo, criterios",
+        "pagina": 92
+      },
+      "orden": 6,
+      "padre": "MAD.EP.ING.C3.CE.2"
+    },
+    {
+      "codigo": "MAD.EP.ING.C3.CR.2.3",
+      "tipo": "criterio",
+      "texto": "Seleccionar, organizar y aplicar, de forma guiada, conocimientos y estrategias para preparar y producir textos en inglés, adecuados a las intenciones comunicativas, las características contextuales y la tipología textual, usando, con ayuda, recursos físicos o digitales en función de la tarea y las necesidades de cada momento.",
+      "codigo_oficial": "2.3",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Extranjera: Inglés, tercer ciclo, criterios",
+        "pagina": 92
+      },
+      "orden": 7,
+      "padre": "MAD.EP.ING.C3.CE.2"
+    },
+    {
+      "codigo": "MAD.EP.ING.C3.CE.3",
+      "tipo": "competencia_especifica",
+      "texto": "Interactuar con otras personas usando expresiones cotidianas, recurriendo a estrategias de colaboración y empleando recursos analógicos y digitales, para responder a necesidades inmediatas de su interés en intercambios comunicativos respetuosos con las normas de cortesía.",
+      "codigo_oficial": "3",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Extranjera: Inglés, tercer ciclo, competencias específicas",
+        "pagina": 92
+      },
+      "orden": 8,
+      "relaciones": {
+        "descriptores": [
+          "MAD.EP.DESC.CCL5",
+          "MAD.EP.DESC.CP1",
+          "MAD.EP.DESC.CP2",
+          "MAD.EP.DESC.STEM1",
+          "MAD.EP.DESC.CPSAA3",
+          "MAD.EP.DESC.CC3",
+          "MAD.EP.DESC.CE1",
+          "MAD.EP.DESC.CE3"
+        ]
+      }
+    },
+    {
+      "codigo": "MAD.EP.ING.C3.CR.3.1",
+      "tipo": "criterio",
+      "texto": "Planificar y participar en situaciones interactivas breves y sencillas sobre temas cotidianos, de relevancia personal y próximos a su experiencia, a través de diversos soportes, apoyándose en recursos tales como la repetición, el ritmo pausado o el lenguaje no verbal, y mostrando respeto por la cortesía del lenguaje y la etiqueta digital, así como por las diferentes necesidades, ideas y motivaciones de los interlocutores e interlocutoras.",
+      "codigo_oficial": "3.1",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Extranjera: Inglés, tercer ciclo, criterios",
+        "pagina": 92
+      },
+      "orden": 9,
+      "padre": "MAD.EP.ING.C3.CE.3"
+    },
+    {
+      "codigo": "MAD.EP.ING.C3.CR.3.2",
+      "tipo": "criterio",
+      "texto": "Seleccionar, organizar y utilizar, de forma guiada y en situaciones cotidianas, estrategias elementales para saludar, despedirse y presentarse; formular y contestar preguntas sencillas; expresar mensajes, e iniciar y terminar la comunicación en lengua inglesa.",
+      "codigo_oficial": "3.2",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Extranjera: Inglés, tercer ciclo, criterios",
+        "pagina": 92
+      },
+      "orden": 10,
+      "padre": "MAD.EP.ING.C3.CE.3"
+    },
+    {
+      "codigo": "MAD.EP.ING.C3.CE.4",
+      "tipo": "competencia_especifica",
+      "texto": "Participar en situaciones predecibles, usando estrategias y conocimientos para procesar y transmitir información básica y sencilla, con el fin de facilitar la comunicación.",
+      "codigo_oficial": "4",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Extranjera: Inglés, tercer ciclo, competencias específicas",
+        "pagina": 92
+      },
+      "orden": 11,
+      "relaciones": {
+        "descriptores": [
+          "MAD.EP.DESC.CCL5",
+          "MAD.EP.DESC.CP1",
+          "MAD.EP.DESC.CP2",
+          "MAD.EP.DESC.CP3",
+          "MAD.EP.DESC.STEM1",
+          "MAD.EP.DESC.CPSAA1",
+          "MAD.EP.DESC.CPSAA3",
+          "MAD.EP.DESC.CCEC1"
+        ]
+      }
+    },
+    {
+      "codigo": "MAD.EP.ING.C3.CR.4.1",
+      "tipo": "criterio",
+      "texto": "Inferir y explicar textos, conceptos y comunicaciones breves y sencillas, de forma guiada, en situaciones en las que atender a la diversidad, mostrando respeto por los interlocutores e interlocutoras y por las lenguas empleadas, e interés por participar en la solución de problemas de comprensión y de entendimiento en su entorno próximo, apoyándose en diversos recursos y soportes.",
+      "codigo_oficial": "4.1",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Extranjera: Inglés, tercer ciclo, criterios",
+        "pagina": 92
+      },
+      "orden": 12,
+      "padre": "MAD.EP.ING.C3.CE.4"
+    },
+    {
+      "codigo": "MAD.EP.ING.C3.CR.4.2",
+      "tipo": "criterio",
+      "texto": "Seleccionar y aplicar, de forma guiada, estrategias básicas que ayuden a crear puentes, faciliten la comprensión, la producción de información y la comunicación, adecuadas a las intenciones comunicativas, usando, con ayuda, recursos y apoyos físicos o digitales en función de las necesidades de cada momento.",
+      "codigo_oficial": "4.2",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Extranjera: Inglés, tercer ciclo, criterios",
+        "pagina": 92
+      },
+      "orden": 13,
+      "padre": "MAD.EP.ING.C3.CE.4"
+    },
+    {
+      "codigo": "MAD.EP.ING.C3.CE.5",
+      "tipo": "competencia_especifica",
+      "texto": "Reconocer y usar los repertorios lingüísticos personales entre distintas lenguas, reflexionando sobre su funcionamiento e identificando las estrategias y conocimientos propios, para mejorar la respuesta a necesidades comunicativas concretas en situaciones conocidas.",
+      "codigo_oficial": "5",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Extranjera: Inglés, tercer ciclo, competencias específicas",
+        "pagina": 92
+      },
+      "orden": 14,
+      "relaciones": {
+        "descriptores": [
+          "MAD.EP.DESC.CP2",
+          "MAD.EP.DESC.STEM1",
+          "MAD.EP.DESC.CD2",
+          "MAD.EP.DESC.CPSAA1",
+          "MAD.EP.DESC.CPSAA4",
+          "MAD.EP.DESC.CPSAA5",
+          "MAD.EP.DESC.CE3"
+        ]
+      }
+    },
+    {
+      "codigo": "MAD.EP.ING.C3.CR.5.1",
+      "tipo": "criterio",
+      "texto": "Comparar y contrastar las similitudes y diferencias entre distintas lenguas reflexionando de manera progresivamente autónoma sobre aspectos básicos de su funcionamiento.",
+      "codigo_oficial": "5.1",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Extranjera: Inglés, tercer ciclo, criterios",
+        "pagina": 92
+      },
+      "orden": 15,
+      "padre": "MAD.EP.ING.C3.CE.5"
+    },
+    {
+      "codigo": "MAD.EP.ING.C3.CR.5.2",
+      "tipo": "criterio",
+      "texto": "Utilizar y diferenciar de forma autónoma los conocimientos y estrategias de mejora de su capacidad de comunicar y de aprender la lengua extranjera, con apoyo de otros participantes y de soportes analógicos y digitales.",
+      "codigo_oficial": "5.2",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Extranjera: Inglés, tercer ciclo, criterios",
+        "pagina": 92
+      },
+      "orden": 16,
+      "padre": "MAD.EP.ING.C3.CE.5"
+    },
+    {
+      "codigo": "MAD.EP.ING.C3.CR.5.3",
+      "tipo": "criterio",
+      "texto": "Registrar y utilizar, de manera guiada, los avances y dificultades en el proceso de aprendizaje de la lengua extranjera, reconociendo los aspectos que ayudan a mejorar y realizando actividades de autoevaluación y coevaluación, como las propuestas en el Portfolio Europeo de las Lenguas (PEL) o en un diario de aprendizaje.",
+      "codigo_oficial": "5.3",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Extranjera: Inglés, tercer ciclo, criterios",
+        "pagina": 92
+      },
+      "orden": 17,
+      "padre": "MAD.EP.ING.C3.CE.5"
+    },
+    {
+      "codigo": "MAD.EP.ING.C3.CE.6",
+      "tipo": "competencia_especifica",
+      "texto": "Apreciar y respetar la diversidad de otros contextos a partir de la lengua extranjera identificando y valorando las diferencias y semejanzas entre lenguas y culturas, para aprender a gestionar situaciones entre diferentes culturas.",
+      "codigo_oficial": "6",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Extranjera: Inglés, tercer ciclo, competencias específicas",
+        "pagina": 93
+      },
+      "orden": 18,
+      "relaciones": {
+        "descriptores": [
+          "MAD.EP.DESC.CCL5",
+          "MAD.EP.DESC.CP3",
+          "MAD.EP.DESC.CPSAA1",
+          "MAD.EP.DESC.CPSAA3",
+          "MAD.EP.DESC.CC2",
+          "MAD.EP.DESC.CC3",
+          "MAD.EP.DESC.CCEC1"
+        ]
+      }
+    },
+    {
+      "codigo": "MAD.EP.ING.C3.CR.6.1",
+      "tipo": "criterio",
+      "texto": "Actuar con aprecio y respeto en situaciones entre diferentes culturas, construyendo vínculos entre las diversas lenguas y culturas, y mostrando rechazo ante cualquier tipo de discriminación y prejuicio en contextos comunicativos cotidianos y habituales.",
+      "codigo_oficial": "6.1",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Extranjera: Inglés, tercer ciclo, criterios",
+        "pagina": 93
+      },
+      "orden": 19,
+      "padre": "MAD.EP.ING.C3.CE.6"
+    },
+    {
+      "codigo": "MAD.EP.ING.C3.CR.6.2",
+      "tipo": "criterio",
+      "texto": "Aceptar y respetar la diversidad de otros países donde se habla la lengua extranjera como fuente de enriquecimiento personal, mostrando interés por comprender elementos de su lengua y su cultura, que fomenten el respeto por los recursos naturales y la democracia.",
+      "codigo_oficial": "6.2",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Extranjera: Inglés, tercer ciclo, criterios",
+        "pagina": 93
+      },
+      "orden": 20,
+      "padre": "MAD.EP.ING.C3.CE.6"
+    },
+    {
+      "codigo": "MAD.EP.ING.C3.CR.6.3",
+      "tipo": "criterio",
+      "texto": "Seleccionar y aplicar, de forma guiada, estrategias básicas para entender y apreciar la diversidad de la lengua, la cultura y el arte.",
+      "codigo_oficial": "6.3",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Extranjera: Inglés, tercer ciclo, criterios",
+        "pagina": 93
+      },
+      "orden": 21,
+      "padre": "MAD.EP.ING.C3.CE.6"
+    },
+    {
+      "codigo": "MAD.EP.ING.C3.CO.A",
+      "tipo": "bloque_contenidos",
+      "texto": "Comunicación",
+      "codigo_oficial": "A",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Extranjera: Inglés, tercer ciclo, contenidos",
+        "pagina": 93
+      },
+      "orden": 22
+    },
+    {
+      "codigo": "MAD.EP.ING.C3.CO.A.1",
+      "tipo": "contenido",
+      "texto": "Autoconfianza. El error como instrumento de mejora como parte del proceso de aprendizaje.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Extranjera: Inglés, tercer ciclo, contenidos",
+        "pagina": 93
+      },
+      "orden": 23,
+      "padre": "MAD.EP.ING.C3.CO.A"
+    },
+    {
+      "codigo": "MAD.EP.ING.C3.CO.A.2",
+      "tipo": "contenido",
+      "texto": "Estrategias básicas para la comprensión, la planificación y la producción (vuelve a leer el texto, usa su conocimiento previo, lee entre líneas, piensa en voz alta, resume, ubica las palabras clave, hace predicciones, visualiza, analiza imágenes y fotos, identifica la información general y los detalles específicos, inferencia el significado de palabras y frases nuevas según el contexto, imita, repite…) de textos orales (instrucciones, explicaciones, conversaciones…) escritos y multimodales breves, sencillos y contextualizados en lengua inglesa.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Extranjera: Inglés, tercer ciclo, contenidos",
+        "pagina": 93
+      },
+      "orden": 24,
+      "padre": "MAD.EP.ING.C3.CO.A"
+    },
+    {
+      "codigo": "MAD.EP.ING.C3.CO.A.3",
+      "tipo": "contenido",
+      "texto": "Conocimientos, destrezas y actitudes que permiten iniciarse en actividades de participación en situaciones cotidianas básicas en las que se utilicen estrategias comunicativas que ayuden a resolver conflictos, mejorar la comunicación o servir de enlace entre varios interlocutores en la misma o en diferentes lenguas, crear relaciones, llegar a acuerdos, salvar las diferencias culturales…fomentando actitudes de respeto y colaboración mutua.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Extranjera: Inglés, tercer ciclo, contenidos",
+        "pagina": 93
+      },
+      "orden": 25,
+      "padre": "MAD.EP.ING.C3.CO.A"
+    },
+    {
+      "codigo": "MAD.EP.ING.C3.CO.A.4",
+      "tipo": "contenido",
+      "texto": "Funciones comunicativas básicas adecuadas al ámbito y al contexto: saludar, despedirse, disculparse, agradecer, pedir u ofrecer ayuda, presentar y presentarse, expresar los gustos y las preferencias, el acuerdo o desacuerdo, el sentimiento, la intención; describir personas, actividades; situar eventos en el tiempo, situar objetos, personas y lugares en el espacio; pedir e intercambiar información sobre cuestiones cotidianas; describir rutinas; dar indicaciones e instrucciones; expresar la pertenencia y la cantidad en lengua inglesa.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Extranjera: Inglés, tercer ciclo, contenidos",
+        "pagina": 93
+      },
+      "orden": 26,
+      "padre": "MAD.EP.ING.C3.CO.A"
+    },
+    {
+      "codigo": "MAD.EP.ING.C3.CO.A.5",
+      "tipo": "contenido",
+      "texto": "Expresiones cotidianas de uso frecuente en conversaciones dirigidas y espontáneas de temática variada con fluidez, utilizando frases más largas y conectores simples. Estrategias para formular y contestar a preguntas. Normas de cortesía básica.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Extranjera: Inglés, tercer ciclo, contenidos",
+        "pagina": 93
+      },
+      "orden": 27,
+      "padre": "MAD.EP.ING.C3.CO.A"
+    },
+    {
+      "codigo": "MAD.EP.ING.C3.CO.A.6",
+      "tipo": "contenido",
+      "texto": "Modelos contextuales y géneros discursivos básicos en la comprensión, producción y coproducción (con relativa corrección fonética, utilizando conectores sencillos, cuidando y revisando su presentación) de textos orales, escritos y multimodales, breves y sencillos, literarios (cuentos, fábulas, leyendas, canciones, poemas, obras de teatro, rimas…) y no literarios (noticias, biografías, recetas, normas, avisos publicitarios, comics, cartas, emails….) en inglés: características y reconocimiento del contexto, organización y estructuración según la estructura interna.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Extranjera: Inglés, tercer ciclo, contenidos",
+        "pagina": 93
+      },
+      "orden": 28,
+      "padre": "MAD.EP.ING.C3.CO.A"
+    },
+    {
+      "codigo": "MAD.EP.ING.C3.CO.A.7",
+      "tipo": "contenido",
+      "texto": "Unidades del lenguaje básicos y significados asociados a dichas unidades, tales como expresión de la entidad y sus propiedades, cantidad y número, el espacio y las relaciones espaciales, el tiempo, la afirmación, la negación, la interrogación y la exclamación, relaciones lógicas elementales propias de la lengua inglesa.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Extranjera: Inglés, tercer ciclo, contenidos",
+        "pagina": 93
+      },
+      "orden": 29,
+      "padre": "MAD.EP.ING.C3.CO.A"
+    },
+    {
+      "codigo": "MAD.EP.ING.C3.CO.A.8",
+      "tipo": "contenido",
+      "texto": "Léxico básico y de interés para el alumnado, relativo a identificación personal, relaciones interpersonales próximas, (familiares, amistad, escolares…) lugares y entornos cercanos, ocio y tiempo libre, vida cotidiana. Emisión de palabras clave, oraciones, mensajes, expresiones cotidianas de uso frecuente con una pronunciación, acentuación, entonación y ritmo correctos utilizando conectores simples en lengua inglesa.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Extranjera: Inglés, tercer ciclo, contenidos",
+        "pagina": 93
+      },
+      "orden": 30,
+      "padre": "MAD.EP.ING.C3.CO.A"
+    },
+    {
+      "codigo": "MAD.EP.ING.C3.CO.A.9",
+      "tipo": "contenido",
+      "texto": "Patrones sonoros, acentuales, rítmicos y de entonación básicos, y funciones comunicativas generales asociadas a dichos patrones. Aspectos fonológicos: sonidos, ritmo, entonación y acentuación de palabras en frases de uso frecuente en el aula, a través de canciones, rimas, trabalenguas, chistes, adivinanzas, poesías, quintillas cómicas (Limerick)… acompañados de gestos faciales, corporales y mímica. Lectura, deletreo, reconocimiento y emisión de palabras que comparten un patrón común, palabras que rimen y fonemas finales. Comprensión de mensajes producidos con distintos acentos de la lengua inglesa.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Extranjera: Inglés, tercer ciclo, contenidos",
+        "pagina": 93
+      },
+      "orden": 31,
+      "padre": "MAD.EP.ING.C3.CO.A"
+    },
+    {
+      "codigo": "MAD.EP.ING.C3.CO.A.10",
+      "tipo": "contenido",
+      "texto": "Convenciones ortográficas básicas de la lengua inglesa y significados asociados a los formatos y elementos gráficos. Uso correcto de la puntuación y los apóstrofes.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Extranjera: Inglés, tercer ciclo, contenidos",
+        "pagina": 94
+      },
+      "orden": 32,
+      "padre": "MAD.EP.ING.C3.CO.A"
+    },
+    {
+      "codigo": "MAD.EP.ING.C3.CO.A.11",
+      "tipo": "contenido",
+      "texto": "Convenciones y estrategias conversacionales básicas verbales o no verbales (gestos, contacto físico, expresiones faciales, posturas corporales...) de uso común, en formato síncrono (cara a cara, por teléfono, video llamada, videoconferencia…) o asíncrono o en las que se establece contacto social (plataformas, apps, redes sociales), para iniciar, mantener y terminar la comunicación, tomar y ceder la palabra, pedir y dar aclaraciones y explicaciones, comparar y contrastar, colaborar, etc.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Extranjera: Inglés, tercer ciclo, contenidos",
+        "pagina": 94
+      },
+      "orden": 33,
+      "padre": "MAD.EP.ING.C3.CO.A"
+    },
+    {
+      "codigo": "MAD.EP.ING.C3.CO.A.12",
+      "tipo": "contenido",
+      "texto": "Recursos para el aprendizaje y estrategias para la búsqueda guiada de información en medios analógicos y digitales. (Contexto, conocimiento previo, identificación de información básica, filtrar resultados, elegir los términos precisos, utilizar la búsqueda avanzada, completar y contrastar los datos, valorar y seleccionar la información...).",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Extranjera: Inglés, tercer ciclo, contenidos",
+        "pagina": 94
+      },
+      "orden": 34,
+      "padre": "MAD.EP.ING.C3.CO.A"
+    },
+    {
+      "codigo": "MAD.EP.ING.C3.CO.A.13",
+      "tipo": "contenido",
+      "texto": "Propiedad intelectual de las fuentes consultadas y contenidos utilizados.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Extranjera: Inglés, tercer ciclo, contenidos",
+        "pagina": 94
+      },
+      "orden": 35,
+      "padre": "MAD.EP.ING.C3.CO.A"
+    },
+    {
+      "codigo": "MAD.EP.ING.C3.CO.A.14",
+      "tipo": "contenido",
+      "texto": "Herramientas analógicas y digitales básicas para la comprensión, producción y coproducción oral, escrita y multimodal, y plataformas virtuales de interacción y colaboración educativa (aulas virtuales, videoconferencias, herramientas digitales colaborativas...) para el aprendizaje, la comunicación y el desarrollo de proyectos con hablantes o estudiantes de la lengua extranjera. Uso guiado, limitado y responsable de las herramientas digitales.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Extranjera: Inglés, tercer ciclo, contenidos",
+        "pagina": 94
+      },
+      "orden": 36,
+      "padre": "MAD.EP.ING.C3.CO.A"
+    },
+    {
+      "codigo": "MAD.EP.ING.C3.CO.B",
+      "tipo": "bloque_contenidos",
+      "texto": "Plurilingüismo",
+      "codigo_oficial": "B",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Extranjera: Inglés, tercer ciclo, contenidos",
+        "pagina": 94
+      },
+      "orden": 37
+    },
+    {
+      "codigo": "MAD.EP.ING.C3.CO.B.1",
+      "tipo": "contenido",
+      "texto": "Estrategias y técnicas de compensación de las carencias comunicativas (petición de repetición, aclaración, búsqueda de recursos para entender el discurso, descripciones, comunicación no verbal...) para responder eficazmente a una necesidad concreta, a pesar de las limitaciones derivadas del nivel de competencia en la lengua extranjera y en las demás lenguas. Interés y curiosidad por las lenguas, conocimiento de su funcionamiento desde el respeto, la tolerancia y la empatía.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Extranjera: Inglés, tercer ciclo, contenidos",
+        "pagina": 94
+      },
+      "orden": 38,
+      "padre": "MAD.EP.ING.C3.CO.B"
+    },
+    {
+      "codigo": "MAD.EP.ING.C3.CO.B.2",
+      "tipo": "contenido",
+      "texto": "Estrategias básicas para identificar, organizar, retener, recuperar y utilizar unidades del lenguaje (léxico, morfosintaxis, patrones sonoros, etc.) uso de imágenes, diagramas, pósteres, fichas de vocabulario, diccionarios personales de imágenes, mapas mentales, canciones…a partir de la comparación de las lenguas como por ejemplo mediante la transferencia y aplicación de estrategias de la lengua castellana y variedades que conforman el repertorio del lenguaje personal.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Extranjera: Inglés, tercer ciclo, contenidos",
+        "pagina": 94
+      },
+      "orden": 39,
+      "padre": "MAD.EP.ING.C3.CO.B"
+    },
+    {
+      "codigo": "MAD.EP.ING.C3.CO.B.3",
+      "tipo": "contenido",
+      "texto": "Estrategias y herramientas básicas de evaluación de uno mismo y de los demás, analógicas y digitales, individuales y grupales. Rúbricas, diarios de clase, porfolios, escalas de estimación, bloc de autoevaluación, listas de cotejo…",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Extranjera: Inglés, tercer ciclo, contenidos",
+        "pagina": 94
+      },
+      "orden": 40,
+      "padre": "MAD.EP.ING.C3.CO.B"
+    },
+    {
+      "codigo": "MAD.EP.ING.C3.CO.B.4",
+      "tipo": "contenido",
+      "texto": "Léxico y expresiones básicos de uso común para comprender enunciados sobre la comunicación, la lengua, el aprendizaje y las herramientas de comunicación y aprendizaje (metalenguaje). Estrategias metalingüísticas de inferencia a partir de las pistas contextuales, tales como el tema general; otras palabras del discurso (redundancias, anáforas, paralelismos); la estructura gramatical; la morfología (análisis de los prefijos, sufijos, composición, etc.); la entonación (habla) y la puntuación (escritura).",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Extranjera: Inglés, tercer ciclo, contenidos",
+        "pagina": 94
+      },
+      "orden": 41,
+      "padre": "MAD.EP.ING.C3.CO.B"
+    },
+    {
+      "codigo": "MAD.EP.ING.C3.CO.B.5",
+      "tipo": "contenido",
+      "texto": "Comparación elemental entre lenguas a partir de elementos de la lengua extranjera y otras lenguas: origen y parentescos. Interés y curiosidad por las lenguas, conocimiento de su funcionamiento desde el respeto y la tolerancia.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Extranjera: Inglés, tercer ciclo, contenidos",
+        "pagina": 94
+      },
+      "orden": 42,
+      "padre": "MAD.EP.ING.C3.CO.B"
+    },
+    {
+      "codigo": "MAD.EP.ING.C3.CO.C",
+      "tipo": "bloque_contenidos",
+      "texto": "Interculturalidad",
+      "codigo_oficial": "C",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Extranjera: Inglés, tercer ciclo, contenidos",
+        "pagina": 95
+      },
+      "orden": 43
+    },
+    {
+      "codigo": "MAD.EP.ING.C3.CO.C.1",
+      "tipo": "contenido",
+      "texto": "La lengua extranjera como medio de comunicación y relación con personas de otros países, como forma de acceder a nueva información y como medio para conocer culturas y modos de vida diferentes. La curiosidad por el conocimiento de otras realidades sociales y culturales, de otras lenguas, partiendo de posiciones de respeto y tolerancia por el interlocutor, sus costumbres, tradiciones, convenciones sociales, normas de cortesía, valores y su cultura.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Extranjera: Inglés, tercer ciclo, contenidos",
+        "pagina": 95
+      },
+      "orden": 44,
+      "padre": "MAD.EP.ING.C3.CO.C"
+    },
+    {
+      "codigo": "MAD.EP.ING.C3.CO.C.2",
+      "tipo": "contenido",
+      "texto": "Valoración positiva e interés por establecer contactos y comunicarse a través de diferentes medios (soporte papel o digital: cartas, e-mails, video llamadas, videoconferencias, presentaciones, co-presentaciones…) con hablantes o estudiantes de la lengua extranjera. Valoración del enriquecimiento personal que supone la relación con personas pertenecientes a otras culturas.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Extranjera: Inglés, tercer ciclo, contenidos",
+        "pagina": 95
+      },
+      "orden": 45,
+      "padre": "MAD.EP.ING.C3.CO.C"
+    },
+    {
+      "codigo": "MAD.EP.ING.C3.CO.C.3",
+      "tipo": "contenido",
+      "texto": "Aspectos de la lengua, la cultura y la sociedad relativos a las costumbres, la vida cotidiana y las relaciones personales, las convenciones sociales básicas de uso común, el lenguaje no verbal, la cortesía del lenguaje y la etiqueta digital propias de países donde se habla la lengua extranjera. La música y la literatura inglesas como símbolos de identidad cultural y vehículo motivador de transmisión de culturas y conocimientos.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Extranjera: Inglés, tercer ciclo, contenidos",
+        "pagina": 95
+      },
+      "orden": 46,
+      "padre": "MAD.EP.ING.C3.CO.C"
+    },
+    {
+      "codigo": "MAD.EP.ING.C3.CO.C.4",
+      "tipo": "contenido",
+      "texto": "Estrategias básicas para entender y apreciar las diversas lenguas, artes y culturas, a partir de valores sociales y medioambientales y democráticos. La realidad de las lenguas del aula como fuente de riqueza cultural.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Extranjera: Inglés, tercer ciclo, contenidos",
+        "pagina": 95
+      },
+      "orden": 47,
+      "padre": "MAD.EP.ING.C3.CO.C"
+    },
+    {
+      "codigo": "MAD.EP.ING.C3.CO.C.5",
+      "tipo": "contenido",
+      "texto": "Estrategias de detección de usos discriminatorios del lenguaje verbal y no verbal.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Extranjera: Inglés, tercer ciclo, contenidos",
+        "pagina": 95
+      },
+      "orden": 48,
+      "padre": "MAD.EP.ING.C3.CO.C"
+    },
+    {
+      "codigo": "MAD.EP.ING.C3.CO.D",
+      "tipo": "bloque_contenidos",
+      "texto": "Contenidos sintáctico-discursivos",
+      "codigo_oficial": "D",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Extranjera: Inglés, tercer ciclo, contenidos",
+        "pagina": 95
+      },
+      "orden": 49
+    },
+    {
+      "codigo": "MAD.EP.ING.C3.CO.D.1",
+      "tipo": "contenido",
+      "texto": "Expresión de relaciones lógicas: Conjunción (and); disyunción (or); oposición (but); causa (because); finalidad (to-infinitive, eg. I did it to help her); relaciones temporales (when; before; after).",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Extranjera: Inglés, tercer ciclo, contenidos",
+        "pagina": 95
+      },
+      "orden": 50,
+      "padre": "MAD.EP.ING.C3.CO.D"
+    },
+    {
+      "codigo": "MAD.EP.ING.C3.CO.D.2",
+      "tipo": "contenido",
+      "texto": "Afirmación: affirmative sentences; Yes (+tag).",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Extranjera: Inglés, tercer ciclo, contenidos",
+        "pagina": 95
+      },
+      "orden": 51,
+      "padre": "MAD.EP.ING.C3.CO.D"
+    },
+    {
+      "codigo": "MAD.EP.ING.C3.CO.D.3",
+      "tipo": "contenido",
+      "texto": "Exclamación: What + noun, e.g. What a view! How + Adjective, e.g. How lovely! Exclamatory sentences, e.g. I love olives!",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Extranjera: Inglés, tercer ciclo, contenidos",
+        "pagina": 95
+      },
+      "orden": 52,
+      "padre": "MAD.EP.ING.C3.CO.D"
+    },
+    {
+      "codigo": "MAD.EP.ING.C3.CO.D.4",
+      "tipo": "contenido",
+      "texto": "Negación: negative sentences with not, never, no (Adj.) nobody, nothing; No (+ negative tag).",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Extranjera: Inglés, tercer ciclo, contenidos",
+        "pagina": 95
+      },
+      "orden": 53,
+      "padre": "MAD.EP.ING.C3.CO.D"
+    },
+    {
+      "codigo": "MAD.EP.ING.C3.CO.D.5",
+      "tipo": "contenido",
+      "texto": "Interrogación: Wh- questions; Auxiliary verbs in questions: to do, to be, to have, will.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Extranjera: Inglés, tercer ciclo, contenidos",
+        "pagina": 95
+      },
+      "orden": 54,
+      "padre": "MAD.EP.ING.C3.CO.D"
+    },
+    {
+      "codigo": "MAD.EP.ING.C3.CO.D.6",
+      "tipo": "contenido",
+      "texto": "Expresión del tiempo: presente (simple present; present continuous); pasado (simple past); futuro (going to, will).",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Extranjera: Inglés, tercer ciclo, contenidos",
+        "pagina": 95
+      },
+      "orden": 55,
+      "padre": "MAD.EP.ING.C3.CO.D"
+    },
+    {
+      "codigo": "MAD.EP.ING.C3.CO.D.7",
+      "tipo": "contenido",
+      "texto": "Expresión del aspecto: puntual (simple tenses); durativo (present continuous); habitual (simple tenses [+Adverb eg. always, everyday]); incoativo (start-ing); terminativo (finish-ing).",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Extranjera: Inglés, tercer ciclo, contenidos",
+        "pagina": 95
+      },
+      "orden": 56,
+      "padre": "MAD.EP.ING.C3.CO.D"
+    },
+    {
+      "codigo": "MAD.EP.ING.C3.CO.D.8",
+      "tipo": "contenido",
+      "texto": "Expresión de la modalidad: factualidad (declarative sentences); capacidad (can); obligación (have (got) to; imperative); permiso (can); intención (going to).",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Extranjera: Inglés, tercer ciclo, contenidos",
+        "pagina": 95
+      },
+      "orden": 57,
+      "padre": "MAD.EP.ING.C3.CO.D"
+    },
+    {
+      "codigo": "MAD.EP.ING.C3.CO.D.9",
+      "tipo": "contenido",
+      "texto": "Expresión de la existencia (to be; there is/there are); la entidad (nouns, pronouns, articles, demonstratives); la cualidad (very + Adj.); la comparación (comparatives and superlatives: as Adj. as; bigger (than); the smallest).",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Extranjera: Inglés, tercer ciclo, contenidos",
+        "pagina": 95
+      },
+      "orden": 58,
+      "padre": "MAD.EP.ING.C3.CO.D"
+    },
+    {
+      "codigo": "MAD.EP.ING.C3.CO.D.10",
+      "tipo": "contenido",
+      "texto": "Expresión de la cantidad: singular/plural; cardinal numbers up to four digits; ordinal numbers up to two digits. Quantity: all, (too) many, a lot, (a) little, more, (too) much, half, a bottle/cup/glass/piece of. Degree: very, too, enough.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Extranjera: Inglés, tercer ciclo, contenidos",
+        "pagina": 95
+      },
+      "orden": 59,
+      "padre": "MAD.EP.ING.C3.CO.D"
+    },
+    {
+      "codigo": "MAD.EP.ING.C3.CO.D.11",
+      "tipo": "contenido",
+      "texto": "Expresión del espacio: prepositions, prepositional phrases and adverbs of location, position, distance, motion, direction and origin and arrangement.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Extranjera: Inglés, tercer ciclo, contenidos",
+        "pagina": 95
+      },
+      "orden": 60,
+      "padre": "MAD.EP.ING.C3.CO.D"
+    },
+    {
+      "codigo": "MAD.EP.ING.C3.CO.D.12",
+      "tipo": "contenido",
+      "texto": "Expresiones temporales: points (e.g. quarter past five); divisions (e.g. half an hour, summer), and indications of time (e.g. now, tomorrow (morning); duration (e.g. for two days); anteriority (before); posteriority (after); sequence (first, then...) simultaneously (at the same time); frequency (e.g. sometimes, on Sundays); prepositions, prepositional phrases and adverbs of time.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Extranjera: Inglés, tercer ciclo, contenidos",
+        "pagina": 95
+      },
+      "orden": 61,
+      "padre": "MAD.EP.ING.C3.CO.D"
+    },
+    {
+      "codigo": "MAD.EP.ING.C3.CO.D.13",
+      "tipo": "contenido",
+      "texto": "Expresión del modo: Adv. of manner, (e.g. slowly, well, quickly, carefully).",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Extranjera: Inglés, tercer ciclo, contenidos",
+        "pagina": 95
+      },
+      "orden": 62,
+      "padre": "MAD.EP.ING.C3.CO.D"
+    },
+    {
+      "codigo": "MAD.EP.ING.C3.CO.D.14",
+      "tipo": "contenido",
+      "texto": "Expresión de la posesión: I have got (I’ve got); preposición of; genitivo sajón (‘s); possessives.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Extranjera: Inglés, tercer ciclo, contenidos",
+        "pagina": 95
+      },
+      "orden": 63,
+      "padre": "MAD.EP.ING.C3.CO.D"
+    },
+    {
+      "codigo": "MAD.EP.ING.C3.CO.D.15",
+      "tipo": "contenido",
+      "texto": "Expresión de gustos y preferencias: I like/I don’t like; I like verb- ing; I love/I hate.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Lengua Extranjera: Inglés, tercer ciclo, contenidos",
+        "pagina": 95
+      },
+      "orden": 64,
+      "padre": "MAD.EP.ING.C3.CO.D"
+    }
+  ]
+}

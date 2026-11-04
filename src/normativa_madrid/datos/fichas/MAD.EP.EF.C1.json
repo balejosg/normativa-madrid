@@ -1,0 +1,739 @@
+{
+  "codigo": "MAD.EP.EF.C1",
+  "nombre": "Educación Física, primer ciclo",
+  "etapa": "primaria",
+  "ciclo": "C1",
+  "curso": null,
+  "cursos_academicos": [
+    "2026-27"
+  ],
+  "normas": [
+    "bocm-20220718-1",
+    "boe-a-2022-3296"
+  ],
+  "elementos": [
+    {
+      "codigo": "MAD.EP.EF.C1.CE.1",
+      "tipo": "competencia_especifica",
+      "texto": "Adoptar un estilo de vida activo y adecuado, practicando regularmente actividades físicas, lúdicas y deportivas, adoptando comportamientos que potencien la salud, así como medidas de responsabilidad durante la práctica motriz.",
+      "codigo_oficial": "1",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, primer ciclo, competencias específicas",
+        "pagina": 60
+      },
+      "orden": 1,
+      "relaciones": {
+        "descriptores": [
+          "MAD.EP.DESC.STEM2",
+          "MAD.EP.DESC.STEM5",
+          "MAD.EP.DESC.CPSAA2",
+          "MAD.EP.DESC.CPSAA5",
+          "MAD.EP.DESC.CE3"
+        ]
+      }
+    },
+    {
+      "codigo": "MAD.EP.EF.C1.CR.1.1",
+      "tipo": "criterio",
+      "texto": "Identificar los desplazamientos activos como práctica saludable, conociendo sus beneficios físicos y sociales para el establecimiento de un estilo de vida activo.",
+      "codigo_oficial": "1.1",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, primer ciclo, criterios",
+        "pagina": 60
+      },
+      "orden": 2,
+      "padre": "MAD.EP.EF.C1.CE.1"
+    },
+    {
+      "codigo": "MAD.EP.EF.C1.CR.1.2",
+      "tipo": "criterio",
+      "texto": "Explorar las posibilidades de la propia motricidad y de la de los demás a través del juego, aplicando en distintas situaciones cotidianas medidas básicas de cuidado de la salud personal a través de la higiene corporal, el descanso, la educación postural y la alimentación.",
+      "codigo_oficial": "1.2",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, primer ciclo, criterios",
+        "pagina": 60
+      },
+      "orden": 3,
+      "padre": "MAD.EP.EF.C1.CE.1"
+    },
+    {
+      "codigo": "MAD.EP.EF.C1.CR.1.3",
+      "tipo": "criterio",
+      "texto": "Participar en juegos de activación y vuelta a la calma, reconociendo su utilidad para adaptar el cuerpo a la actividad física y evitar lesiones, así como recuperar el equilibrio psicosomático después del esfuerzo manteniendo la calma y sabiendo cómo actuar en caso de que se produzca algún accidente en contextos de práctica motriz. Tomando medidas de seguridad previas a la práctica motriz y utilizando los diferentes materiales de forma correcta.",
+      "codigo_oficial": "1.3",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, primer ciclo, criterios",
+        "pagina": 60
+      },
+      "orden": 4,
+      "padre": "MAD.EP.EF.C1.CE.1"
+    },
+    {
+      "codigo": "MAD.EP.EF.C1.CR.1.4",
+      "tipo": "criterio",
+      "texto": "Conocer los valores positivos que fomenta la práctica motriz, realizada ya sea de manera individual como compartida, reconociendo, vivenciando y disfrutando sus beneficios en contextos variados, y respetando a todos los participantes con independencia de sus diferencias.",
+      "codigo_oficial": "1.4",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, primer ciclo, criterios",
+        "pagina": 60
+      },
+      "orden": 5,
+      "padre": "MAD.EP.EF.C1.CE.1"
+    },
+    {
+      "codigo": "MAD.EP.EF.C1.CE.2",
+      "tipo": "competencia_especifica",
+      "texto": "Adaptar los elementos propios del esquema corporal, las capacidades físicas, perceptivo-motrices y coordinativas, así como las habilidades y destrezas motrices, aplicando procesos de percepción, decisión y ejecución, para dar respuesta a las demandas de proyectos motores y de prácticas motrices con distintas finalidades en contextos de la vida diaria.",
+      "codigo_oficial": "2",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, primer ciclo, competencias específicas",
+        "pagina": 61
+      },
+      "orden": 6,
+      "relaciones": {
+        "descriptores": [
+          "MAD.EP.DESC.STEM1",
+          "MAD.EP.DESC.CPSAA4",
+          "MAD.EP.DESC.CPSAA5"
+        ]
+      }
+    },
+    {
+      "codigo": "MAD.EP.EF.C1.CR.2.1",
+      "tipo": "criterio",
+      "texto": "Reconocer la importancia de establecer metas y objetivos claros, conocer los recursos materiales, los roles de los participantes y las reglas básicas a la hora de desarrollar proyectos motores de carácter individual o grupal, valorando su consecución a partir de un análisis de los resultados obtenidos, ya sean de proceso o finales.",
+      "codigo_oficial": "2.1",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, primer ciclo, criterios",
+        "pagina": 61
+      },
+      "orden": 7,
+      "padre": "MAD.EP.EF.C1.CE.2"
+    },
+    {
+      "codigo": "MAD.EP.EF.C1.CR.2.2",
+      "tipo": "criterio",
+      "texto": "Adoptar decisiones en contextos de práctica motriz de manera ajustada según las circunstancias personales, materiales y ambientales.",
+      "codigo_oficial": "2.2",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, primer ciclo, criterios",
+        "pagina": 61
+      },
+      "orden": 8,
+      "padre": "MAD.EP.EF.C1.CE.2"
+    },
+    {
+      "codigo": "MAD.EP.EF.C1.CR.2.3",
+      "tipo": "criterio",
+      "texto": "Descubrir, reconocer y emplear los componentes cualitativos y cuantitativos de la motricidad de manera lúdica responsable e integrada en diferentes situaciones y contextos, mejorando progresivamente su control y su dominio corporal.",
+      "codigo_oficial": "2.3",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, primer ciclo, criterios",
+        "pagina": 61
+      },
+      "orden": 9,
+      "padre": "MAD.EP.EF.C1.CE.2"
+    },
+    {
+      "codigo": "MAD.EP.EF.C1.CE.3",
+      "tipo": "competencia_especifica",
+      "texto": "Desarrollar procesos de regulación e interacción en el marco de la práctica motriz, haciendo uso de habilidades sociales y actitudes de respeto, trabajo en equipo y deportividad, con independencia de las diferencias y de las habilidades de los participantes, para contribuir a la convivencia.",
+      "codigo_oficial": "3",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, primer ciclo, competencias específicas",
+        "pagina": 61
+      },
+      "orden": 10,
+      "relaciones": {
+        "descriptores": [
+          "MAD.EP.DESC.CCL1",
+          "MAD.EP.DESC.CCL5",
+          "MAD.EP.DESC.CPSAA1",
+          "MAD.EP.DESC.CPSAA3",
+          "MAD.EP.DESC.CPSAA5",
+          "MAD.EP.DESC.CC2",
+          "MAD.EP.DESC.CC3"
+        ]
+      }
+    },
+    {
+      "codigo": "MAD.EP.EF.C1.CR.3.1",
+      "tipo": "criterio",
+      "texto": "Identificar y reconocer las emociones que se producen durante el juego, intentando gestionarlas, disfrutando de la actividad física.",
+      "codigo_oficial": "3.1",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, primer ciclo, criterios",
+        "pagina": 61
+      },
+      "orden": 11,
+      "padre": "MAD.EP.EF.C1.CE.3"
+    },
+    {
+      "codigo": "MAD.EP.EF.C1.CR.3.2",
+      "tipo": "criterio",
+      "texto": "Respetar las normas consensuadas, así como las reglas de juego, y actuar desde los parámetros de la deportividad y el juego limpio, gestionando la tolerancia a la frustración y aceptando las características y niveles de los participantes, así como los roles de juego asignado.",
+      "codigo_oficial": "3.2",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, primer ciclo, criterios",
+        "pagina": 61
+      },
+      "orden": 12,
+      "padre": "MAD.EP.EF.C1.CE.3"
+    },
+    {
+      "codigo": "MAD.EP.EF.C1.CR.3.3",
+      "tipo": "criterio",
+      "texto": "Participar en las prácticas motrices cotidianas, comenzando a desarrollar habilidades sociales de acogida, ayuda y colaboración, iniciándose en la resolución de conflictos personales fomentando el dialogo y la mejora de la convivencia.",
+      "codigo_oficial": "3.3",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, primer ciclo, criterios",
+        "pagina": 61
+      },
+      "orden": 13,
+      "padre": "MAD.EP.EF.C1.CE.3"
+    },
+    {
+      "codigo": "MAD.EP.EF.C1.CE.4",
+      "tipo": "competencia_especifica",
+      "texto": "Reconocer y practicar diferentes manifestaciones lúdicas, físico-deportivas y artístico-expresivas propias de la cultura motriz, valorando su influencia y sus aportaciones a la cultura para integrarlas en las situaciones motrices que se utilizan regularmente en la vida cotidiana.",
+      "codigo_oficial": "4",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, primer ciclo, competencias específicas",
+        "pagina": 61
+      },
+      "orden": 14,
+      "relaciones": {
+        "descriptores": [
+          "MAD.EP.DESC.CC3",
+          "MAD.EP.DESC.CCEC1",
+          "MAD.EP.DESC.CCEC2",
+          "MAD.EP.DESC.CCEC3",
+          "MAD.EP.DESC.CCEC4"
+        ]
+      }
+    },
+    {
+      "codigo": "MAD.EP.EF.C1.CR.4.1",
+      "tipo": "criterio",
+      "texto": "Participar activamente en la reproducción de juegos y otras manifestaciones artístico-expresivas de carácter cultural del entorno, valorando su componente lúdico-festivo y disfrutando de su puesta en práctica.",
+      "codigo_oficial": "4.1",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, primer ciclo, criterios",
+        "pagina": 61
+      },
+      "orden": 15,
+      "padre": "MAD.EP.EF.C1.CE.4"
+    },
+    {
+      "codigo": "MAD.EP.EF.C1.CR.4.2",
+      "tipo": "criterio",
+      "texto": "Conocer y valorar los logros de personas y distintos colectivos referentes del deporte de ambos géneros, reconociendo el esfuerzo, la dedicación su actitud ante la derrota y los sacrificios requeridos para alcanzar dichos éxitos.",
+      "codigo_oficial": "4.2",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, primer ciclo, criterios",
+        "pagina": 61
+      },
+      "orden": 16,
+      "padre": "MAD.EP.EF.C1.CE.4"
+    },
+    {
+      "codigo": "MAD.EP.EF.C1.CR.4.3",
+      "tipo": "criterio",
+      "texto": "Adecuar los distintos usos comunicativos de la corporalidad (gestos, muecas, representación de personajes) y sus manifestaciones a diferentes ritmos y contextos expresivos.",
+      "codigo_oficial": "4.3",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, primer ciclo, criterios",
+        "pagina": 61
+      },
+      "orden": 17,
+      "padre": "MAD.EP.EF.C1.CE.4"
+    },
+    {
+      "codigo": "MAD.EP.EF.C1.CE.5",
+      "tipo": "competencia_especifica",
+      "texto": "Valorar diferentes medios naturales y urbanos como contextos de práctica motriz, interactuando con ellos y comprendiendo la importancia de su conservación, adoptando medidas de responsabilidad durante la práctica de juegos y actividades físico-deportivas, para realizar una práctica eficiente y respetuosa con el entorno y participar en su cuidado y mejora.",
+      "codigo_oficial": "5",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, primer ciclo, competencias específicas",
+        "pagina": 61
+      },
+      "orden": 18,
+      "relaciones": {
+        "descriptores": [
+          "MAD.EP.DESC.STEM5",
+          "MAD.EP.DESC.CC2",
+          "MAD.EP.DESC.CC4",
+          "MAD.EP.DESC.CE1",
+          "MAD.EP.DESC.CE3"
+        ]
+      }
+    },
+    {
+      "codigo": "MAD.EP.EF.C1.CR.5.1",
+      "tipo": "criterio",
+      "texto": "Participar en actividades lúdico-recreativas de forma segura en los entornos natural y urbano y en contextos terrestres o acuáticos, conociendo otros usos desde la motricidad y adoptando actitudes de cuidado y conservación de dichos entornos.",
+      "codigo_oficial": "5.1",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, primer ciclo, criterios",
+        "pagina": 61
+      },
+      "orden": 19,
+      "padre": "MAD.EP.EF.C1.CE.5"
+    },
+    {
+      "codigo": "MAD.EP.EF.C1.CO.A",
+      "tipo": "bloque_contenidos",
+      "texto": "Vida activa y saludable",
+      "codigo_oficial": "A",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, primer ciclo, contenidos",
+        "pagina": 62
+      },
+      "orden": 20
+    },
+    {
+      "codigo": "MAD.EP.EF.C1.CO.A.1",
+      "tipo": "contenido",
+      "texto": "Salud física: efectos físicos beneficiosos de un estilo de vida activo. Alimentación saludable e hidratación. Educación postural en situaciones cotidianas. Cuidado del cuerpo: higiene personal y el descanso tras la actividad física.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, primer ciclo, contenidos",
+        "pagina": 62
+      },
+      "orden": 21,
+      "padre": "MAD.EP.EF.C1.CO.A"
+    },
+    {
+      "codigo": "MAD.EP.EF.C1.CO.A.2",
+      "tipo": "contenido",
+      "texto": "Salud mental: bienestar personal y en el entorno a través de la motricidad. Conocimiento de uno mismo e identificación de fortalezas y debilidades en todos los ámbitos (social, físico y mental). La actividad motriz como ayuda para la regulación de las emociones, la autoestima y para combatir el estrés.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, primer ciclo, contenidos",
+        "pagina": 62
+      },
+      "orden": 22,
+      "padre": "MAD.EP.EF.C1.CO.A"
+    },
+    {
+      "codigo": "MAD.EP.EF.C1.CO.A.3",
+      "tipo": "contenido",
+      "texto": "Salud social: la actividad física como práctica social saludable. Derechos de los niños en el deporte escolar. Respeto hacia todas las personas con independencia de sus características personales. La actividad física como medio para la resolución de conflictos y para fomentar valores.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, primer ciclo, contenidos",
+        "pagina": 62
+      },
+      "orden": 23,
+      "padre": "MAD.EP.EF.C1.CO.A"
+    },
+    {
+      "codigo": "MAD.EP.EF.C1.CO.B",
+      "tipo": "bloque_contenidos",
+      "texto": "Organización y gestión de la actividad física",
+      "codigo_oficial": "B",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, primer ciclo, contenidos",
+        "pagina": 62
+      },
+      "orden": 24
+    },
+    {
+      "codigo": "MAD.EP.EF.C1.CO.B.1",
+      "tipo": "contenido",
+      "texto": "Elección de la práctica física: vivencia de diversas experiencias corporales en distintos contextos, de forma individual y en grupo.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, primer ciclo, contenidos",
+        "pagina": 62
+      },
+      "orden": 25,
+      "padre": "MAD.EP.EF.C1.CO.B"
+    },
+    {
+      "codigo": "MAD.EP.EF.C1.CO.B.2",
+      "tipo": "contenido",
+      "texto": "Cuidado del material utilizado en la actividad a desarrollar.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, primer ciclo, contenidos",
+        "pagina": 62
+      },
+      "orden": 26,
+      "padre": "MAD.EP.EF.C1.CO.B"
+    },
+    {
+      "codigo": "MAD.EP.EF.C1.CO.B.3",
+      "tipo": "contenido",
+      "texto": "Preparación de la práctica motriz: vestimenta deportiva adecuada y hábitos generales de higiene corporal.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, primer ciclo, contenidos",
+        "pagina": 62
+      },
+      "orden": 27,
+      "padre": "MAD.EP.EF.C1.CO.B"
+    },
+    {
+      "codigo": "MAD.EP.EF.C1.CO.B.4",
+      "tipo": "contenido",
+      "texto": "Planificación y regulación guiada de proyectos motores sencillos: objetivos o metas, conocimientos previos, recursos materiales y ambientales, participantes y sus roles, reglas y aspectos didácticos básicos.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, primer ciclo, contenidos",
+        "pagina": 62
+      },
+      "orden": 28,
+      "padre": "MAD.EP.EF.C1.CO.B"
+    },
+    {
+      "codigo": "MAD.EP.EF.C1.CO.B.5",
+      "tipo": "contenido",
+      "texto": "Prevención de accidentes en las prácticas motrices: juegos de activación, calentamiento y vuelta a la calma. Medidas de seguridad previas a la práctica motriz. Correcta utilización de los diferentes materiales a utilizar.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, primer ciclo, contenidos",
+        "pagina": 62
+      },
+      "orden": 29,
+      "padre": "MAD.EP.EF.C1.CO.B"
+    },
+    {
+      "codigo": "MAD.EP.EF.C1.CO.C",
+      "tipo": "bloque_contenidos",
+      "texto": "Resolución de problemas en situaciones motrices",
+      "codigo_oficial": "C",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, primer ciclo, contenidos",
+        "pagina": 62
+      },
+      "orden": 30
+    },
+    {
+      "codigo": "MAD.EP.EF.C1.CO.C.1",
+      "tipo": "contenido",
+      "texto": "Toma de decisiones: adecuación de las acciones a las capacidades y las limitaciones personales en situaciones motrices individuales. Coordinación de acciones con compañeros en situaciones conjuntas. Adecuación de la acción a la ubicación del adversario en situaciones motrices de persecución y de interacción con un móvil. Selección de la posición corporal o la distancia adecuadas en situaciones de oposición de contacto. Selección de acciones para mantener la posesión, recuperar el móvil o evitar que el atacante progrese en situaciones motrices de colaboración-oposición de persecución y de interacción con un móvil.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, primer ciclo, contenidos",
+        "pagina": 62
+      },
+      "orden": 31,
+      "padre": "MAD.EP.EF.C1.CO.C"
+    },
+    {
+      "codigo": "MAD.EP.EF.C1.CO.C.2",
+      "tipo": "contenido",
+      "texto": "Capacidades perceptivo-motrices en contextos de práctica: integración del esquema corporal; conciencia corporal, lateralidad (utilización de los segmentos dominantes) y su proyección en el espacio; coordinación óculo-pédica y óculo-manual; equilibrio estático y dinámico.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, primer ciclo, contenidos",
+        "pagina": 62
+      },
+      "orden": 32,
+      "padre": "MAD.EP.EF.C1.CO.C"
+    },
+    {
+      "codigo": "MAD.EP.EF.C1.CO.C.3",
+      "tipo": "contenido",
+      "texto": "Capacidades físicas desde el ámbito lúdico y el juego.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, primer ciclo, contenidos",
+        "pagina": 62
+      },
+      "orden": 33,
+      "padre": "MAD.EP.EF.C1.CO.C"
+    },
+    {
+      "codigo": "MAD.EP.EF.C1.CO.C.4",
+      "tipo": "contenido",
+      "texto": "Habilidades y destrezas motrices básicas genéricas: locomotrices, (correr, trepar, rodar) no locomotrices (girar, saltar, balancearse, colgarse) y manipulativas (lanzar, recepcionar, golpear, botar).",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, primer ciclo, contenidos",
+        "pagina": 62
+      },
+      "orden": 34,
+      "padre": "MAD.EP.EF.C1.CO.C"
+    },
+    {
+      "codigo": "MAD.EP.EF.C1.CO.C.5",
+      "tipo": "contenido",
+      "texto": "Creatividad motriz: variación y adecuación de la acción motriz ante estímulos internos (sistema interoceptivo) y estímulos externos (sistema exteroceptivo).",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, primer ciclo, contenidos",
+        "pagina": 62
+      },
+      "orden": 35,
+      "padre": "MAD.EP.EF.C1.CO.C"
+    },
+    {
+      "codigo": "MAD.EP.EF.C1.CO.D",
+      "tipo": "bloque_contenidos",
+      "texto": "Regulación emocional e interacción social en situaciones motrices",
+      "codigo_oficial": "D",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, primer ciclo, contenidos",
+        "pagina": 62
+      },
+      "orden": 36
+    },
+    {
+      "codigo": "MAD.EP.EF.C1.CO.D.1",
+      "tipo": "contenido",
+      "texto": "Gestión emocional: estrategias de identificación, experimentación, regulación y manifestación de emociones, pensamientos y sentimientos con una conducta asertiva a partir de experiencias motrices.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, primer ciclo, contenidos",
+        "pagina": 62
+      },
+      "orden": 37,
+      "padre": "MAD.EP.EF.C1.CO.D"
+    },
+    {
+      "codigo": "MAD.EP.EF.C1.CO.D.2",
+      "tipo": "contenido",
+      "texto": "Habilidades sociales: verbalización de emociones derivadas de la interacción en contextos motrices. Asertividad y autonomía emocional.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, primer ciclo, contenidos",
+        "pagina": 62
+      },
+      "orden": 38,
+      "padre": "MAD.EP.EF.C1.CO.D"
+    },
+    {
+      "codigo": "MAD.EP.EF.C1.CO.D.3",
+      "tipo": "contenido",
+      "texto": "Respeto de las reglas de juego, a las normas y a los compañeros. Tolerancia a la frustración.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, primer ciclo, contenidos",
+        "pagina": 62
+      },
+      "orden": 39,
+      "padre": "MAD.EP.EF.C1.CO.D"
+    },
+    {
+      "codigo": "MAD.EP.EF.C1.CO.D.4",
+      "tipo": "contenido",
+      "texto": "Conductas que favorezcan la convivencia y la igualdad y de respeto a los demás, en situaciones motrices: cooperación, toma de decisiones, capacidad de relación, estrategias de identificación de conductas discriminatorias. Adaptación a las diferentes capacidades.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, primer ciclo, contenidos",
+        "pagina": 62
+      },
+      "orden": 40,
+      "padre": "MAD.EP.EF.C1.CO.D"
+    },
+    {
+      "codigo": "MAD.EP.EF.C1.CO.D.5",
+      "tipo": "contenido",
+      "texto": "Gestión del conflicto: iniciarse en el conocimiento de estrategias para solucionar situaciones conflictivas establecimiento de medidas guiadas para solucionar la situación problemática y acuerdos para adoptarlas.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, primer ciclo, contenidos",
+        "pagina": 62
+      },
+      "orden": 41,
+      "padre": "MAD.EP.EF.C1.CO.D"
+    },
+    {
+      "codigo": "MAD.EP.EF.C1.CO.E",
+      "tipo": "bloque_contenidos",
+      "texto": "Manifestaciones de la cultura motriz",
+      "codigo_oficial": "E",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, primer ciclo, contenidos",
+        "pagina": 63
+      },
+      "orden": 42
+    },
+    {
+      "codigo": "MAD.EP.EF.C1.CO.E.1",
+      "tipo": "contenido",
+      "texto": "Aportaciones de la cultura motriz a la herencia cultural. Los juegos y las danzas como manifestación de la propia cultura. Juegos populares de Madrid: el aro, las chapas, el clavo, canicas, tabas, pídola, rana …",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, primer ciclo, contenidos",
+        "pagina": 63
+      },
+      "orden": 43,
+      "padre": "MAD.EP.EF.C1.CO.E"
+    },
+    {
+      "codigo": "MAD.EP.EF.C1.CO.E.2",
+      "tipo": "contenido",
+      "texto": "Usos comunicativos de la corporalidad: gestos, muecas, posturas y otros. Representación de personajes y animales.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, primer ciclo, contenidos",
+        "pagina": 63
+      },
+      "orden": 44,
+      "padre": "MAD.EP.EF.C1.CO.E"
+    },
+    {
+      "codigo": "MAD.EP.EF.C1.CO.E.3",
+      "tipo": "contenido",
+      "texto": "Práctica de actividades rítmico-musicales con carácter artístico-expresivo. Representar movimiento a partir de estímulos rítmicos o musicales. Bailes sencillos.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, primer ciclo, contenidos",
+        "pagina": 63
+      },
+      "orden": 45,
+      "padre": "MAD.EP.EF.C1.CO.E"
+    },
+    {
+      "codigo": "MAD.EP.EF.C1.CO.E.4",
+      "tipo": "contenido",
+      "texto": "Deporte e igualdad: referentes en el deporte de distintos sexos.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, primer ciclo, contenidos",
+        "pagina": 63
+      },
+      "orden": 46,
+      "padre": "MAD.EP.EF.C1.CO.E"
+    },
+    {
+      "codigo": "MAD.EP.EF.C1.CO.F",
+      "tipo": "bloque_contenidos",
+      "texto": "Interacción eficiente y cuidadosa con el entorno",
+      "codigo_oficial": "F",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, primer ciclo, contenidos",
+        "pagina": 63
+      },
+      "orden": 47
+    },
+    {
+      "codigo": "MAD.EP.EF.C1.CO.F.1",
+      "tipo": "contenido",
+      "texto": "Normas de uso: educación vial para peatones. Movilidad segura y saludable. Normas básicas de comportamiento para una movilidad segura, atendiendo al medio que se utilice (bicicleta, patinete, transporte público).",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, primer ciclo, contenidos",
+        "pagina": 63
+      },
+      "orden": 48,
+      "padre": "MAD.EP.EF.C1.CO.F"
+    },
+    {
+      "codigo": "MAD.EP.EF.C1.CO.F.2",
+      "tipo": "contenido",
+      "texto": "Posibilidades motrices de los espacios de juego y esparcimiento infantil. Experimentar todas las posibilidades del medio para la práctica motriz.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, primer ciclo, contenidos",
+        "pagina": 63
+      },
+      "orden": 49,
+      "padre": "MAD.EP.EF.C1.CO.F"
+    },
+    {
+      "codigo": "MAD.EP.EF.C1.CO.F.3",
+      "tipo": "contenido",
+      "texto": "El material y sus posibilidades de uso para el desarrollo de la motricidad. Conocimiento, práctica y experimentación de diferentes materiales en función del objetivo motriz.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, primer ciclo, contenidos",
+        "pagina": 63
+      },
+      "orden": 50,
+      "padre": "MAD.EP.EF.C1.CO.F"
+    },
+    {
+      "codigo": "MAD.EP.EF.C1.CO.F.4",
+      "tipo": "contenido",
+      "texto": "Realización de actividades físicas seguras en el medio natural y urbano.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, primer ciclo, contenidos",
+        "pagina": 63
+      },
+      "orden": 51,
+      "padre": "MAD.EP.EF.C1.CO.F"
+    },
+    {
+      "codigo": "MAD.EP.EF.C1.CO.F.5",
+      "tipo": "contenido",
+      "texto": "Cuidado del entorno próximo y de los animales y plantas que en él viven, como servicio a la comunidad, durante la práctica segura de actividades físicas en el medio natural y urbano. Normas básicas del cuidado y respeto al medio natural.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, primer ciclo, contenidos",
+        "pagina": 63
+      },
+      "orden": 52,
+      "padre": "MAD.EP.EF.C1.CO.F"
+    },
+    {
+      "codigo": "MAD.EP.EF.C1.CO.F.6",
+      "tipo": "contenido",
+      "texto": "Uso eficiente y respetuoso de las instalaciones deportivas del entorno.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, primer ciclo, contenidos",
+        "pagina": 63
+      },
+      "orden": 53,
+      "padre": "MAD.EP.EF.C1.CO.F"
+    }
+  ]
+}

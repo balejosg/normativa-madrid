@@ -1,0 +1,765 @@
+{
+  "codigo": "MAD.EP.EF.C2",
+  "nombre": "Educación Física, segundo ciclo",
+  "etapa": "primaria",
+  "ciclo": "C2",
+  "curso": null,
+  "cursos_academicos": [
+    "2026-27"
+  ],
+  "normas": [
+    "bocm-20220718-1",
+    "boe-a-2022-3296"
+  ],
+  "elementos": [
+    {
+      "codigo": "MAD.EP.EF.C2.CE.1",
+      "tipo": "competencia_especifica",
+      "texto": "Adoptar un estilo de vida activo y adecuado, practicando regularmente actividades físicas, lúdicas y deportivas, adoptando comportamientos que potencien la salud, así como medidas que fomenten la responsabilidad durante la práctica motriz.",
+      "codigo_oficial": "1",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, segundo ciclo, competencias específicas",
+        "pagina": 63
+      },
+      "orden": 1,
+      "relaciones": {
+        "descriptores": [
+          "MAD.EP.DESC.STEM2",
+          "MAD.EP.DESC.STEM5",
+          "MAD.EP.DESC.CPSAA2",
+          "MAD.EP.DESC.CPSAA5",
+          "MAD.EP.DESC.CE3"
+        ]
+      }
+    },
+    {
+      "codigo": "MAD.EP.EF.C2.CR.1.1",
+      "tipo": "criterio",
+      "texto": "Reconocer la actividad física como alternativa de ocio saludable, identificando desplazamientos activos y conociendo los efectos beneficiosos a nivel físico, social y mental que posee adoptar un estilo de vida activo.",
+      "codigo_oficial": "1.1",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, segundo ciclo, criterios",
+        "pagina": 63
+      },
+      "orden": 2,
+      "padre": "MAD.EP.EF.C2.CE.1"
+    },
+    {
+      "codigo": "MAD.EP.EF.C2.CR.1.2",
+      "tipo": "criterio",
+      "texto": "Aplicar medidas de educación postural, alimentación saludable, higiene corporal y preparación de la práctica motriz, asumiendo responsabilidades y generando hábitos y rutinas en situaciones cotidianas.",
+      "codigo_oficial": "1.2",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, segundo ciclo, criterios",
+        "pagina": 63
+      },
+      "orden": 3,
+      "padre": "MAD.EP.EF.C2.CE.1"
+    },
+    {
+      "codigo": "MAD.EP.EF.C2.CR.1.3",
+      "tipo": "criterio",
+      "texto": "Tomar medidas de precaución, previa y durante la práctica motriz y prevención de lesiones en relación con la conservación y al mantenimiento del material en el marco de distintas prácticas físico-deportivas, conociendo protocolos básicos de actuación ante accidentes que se puedan producir en este contexto.",
+      "codigo_oficial": "1.3",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, segundo ciclo, criterios",
+        "pagina": 63
+      },
+      "orden": 4,
+      "padre": "MAD.EP.EF.C2.CE.1"
+    },
+    {
+      "codigo": "MAD.EP.EF.C2.CR.1.4",
+      "tipo": "criterio",
+      "texto": "Reconocer la propia imagen corporal y la de los demás, identificar las propias fortalezas y debilidades ante mensajes nocivos, aceptando y respetando las diferencias individuales que puedan existir, superando y rechazando las conductas discriminatorias que se puedan producir en contextos de práctica motriz.",
+      "codigo_oficial": "1.4",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, segundo ciclo, criterios",
+        "pagina": 63
+      },
+      "orden": 5,
+      "padre": "MAD.EP.EF.C2.CE.1"
+    },
+    {
+      "codigo": "MAD.EP.EF.C2.CE.2",
+      "tipo": "competencia_especifica",
+      "texto": "Adaptar los elementos propios del esquema corporal, las capacidades físicas, perceptivo-motrices y coordinativas, así como las habilidades y destrezas motrices, aplicando procesos de percepción, decisión y ejecución, para dar respuesta a las demandas de proyectos motores y de prácticas motrices con distintas finalidades en contextos de la vida diaria.",
+      "codigo_oficial": "2",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, segundo ciclo, competencias específicas",
+        "pagina": 64
+      },
+      "orden": 6,
+      "relaciones": {
+        "descriptores": [
+          "MAD.EP.DESC.STEM1",
+          "MAD.EP.DESC.CPSAA4",
+          "MAD.EP.DESC.CPSAA5"
+        ]
+      }
+    },
+    {
+      "codigo": "MAD.EP.EF.C2.CR.2.1",
+      "tipo": "criterio",
+      "texto": "Llevar a cabo proyectos motores de carácter individual o grupal, empleando estrategias de monitorización y seguimiento que permitan analizar los resultados obtenidos.",
+      "codigo_oficial": "2.1",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, segundo ciclo, criterios",
+        "pagina": 64
+      },
+      "orden": 7,
+      "padre": "MAD.EP.EF.C2.CE.2"
+    },
+    {
+      "codigo": "MAD.EP.EF.C2.CR.2.2",
+      "tipo": "criterio",
+      "texto": "Adoptar decisiones en situaciones lúdicas, juegos y actividades deportivas, ajustándose a las demandas derivadas de los objetivos motores, de las características del grupo y de la lógica interna de situaciones individuales o grupales de oposición y de colaboración-oposición, en contextos simulados de actuación.",
+      "codigo_oficial": "2.2",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, segundo ciclo, criterios",
+        "pagina": 64
+      },
+      "orden": 8,
+      "padre": "MAD.EP.EF.C2.CE.2"
+    },
+    {
+      "codigo": "MAD.EP.EF.C2.CR.2.3",
+      "tipo": "criterio",
+      "texto": "Emplear los componentes cualitativos y cuantitativos de la motricidad de manera eficiente y creativa en distintos contextos y situaciones motrices, adquiriendo un control y dominio corporal sobre ellos.",
+      "codigo_oficial": "2.3",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, segundo ciclo, criterios",
+        "pagina": 64
+      },
+      "orden": 9,
+      "padre": "MAD.EP.EF.C2.CE.2"
+    },
+    {
+      "codigo": "MAD.EP.EF.C2.CE.3",
+      "tipo": "competencia_especifica",
+      "texto": "Desarrollar procesos de regulación e interacción en el marco de la práctica motriz, haciendo uso de habilidades sociales y actitudes de respeto, trabajo en equipo y deportividad, con independencia de las diferencias de los participantes, para contribuir a la convivencia.",
+      "codigo_oficial": "3",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, segundo ciclo, competencias específicas",
+        "pagina": 64
+      },
+      "orden": 10,
+      "relaciones": {
+        "descriptores": [
+          "MAD.EP.DESC.CCL1",
+          "MAD.EP.DESC.CCL5",
+          "MAD.EP.DESC.CPSAA1",
+          "MAD.EP.DESC.CPSAA3",
+          "MAD.EP.DESC.CPSAA5",
+          "MAD.EP.DESC.CC2",
+          "MAD.EP.DESC.CC3"
+        ]
+      }
+    },
+    {
+      "codigo": "MAD.EP.EF.C2.CR.3.1",
+      "tipo": "criterio",
+      "texto": "Mostrar una disposición positiva hacia la práctica física y hacia el esfuerzo, controlando la impulsividad y las emociones que surjan en contextos de actividad motriz. Establecer estrategias para una adecuada regulación de las emociones.",
+      "codigo_oficial": "3.1",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, segundo ciclo, criterios",
+        "pagina": 64
+      },
+      "orden": 11,
+      "padre": "MAD.EP.EF.C2.CE.3"
+    },
+    {
+      "codigo": "MAD.EP.EF.C2.CR.3.2",
+      "tipo": "criterio",
+      "texto": "Respetar las normas consensuadas en clase, así como las reglas de juego, a los adversarios, compañeros, árbitros, espectadores y profesores y actuar desde los parámetros de la deportividad y el juego limpio, valorando la aportación de los participantes.",
+      "codigo_oficial": "3.2",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, segundo ciclo, criterios",
+        "pagina": 64
+      },
+      "orden": 12,
+      "padre": "MAD.EP.EF.C2.CE.3"
+    },
+    {
+      "codigo": "MAD.EP.EF.C2.CR.3.3",
+      "tipo": "criterio",
+      "texto": "Desarrollar habilidades sociales de acogida, ayuda y colaboración al participar en prácticas motrices variadas, resolviendo los conflictos, mostrando un compromiso frente a las actuaciones discriminatorias y cualquier tipo de violencia.",
+      "codigo_oficial": "3.3",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, segundo ciclo, criterios",
+        "pagina": 64
+      },
+      "orden": 13,
+      "padre": "MAD.EP.EF.C2.CE.3"
+    },
+    {
+      "codigo": "MAD.EP.EF.C2.CE.4",
+      "tipo": "competencia_especifica",
+      "texto": "Reconocer y practicar diferentes manifestaciones lúdicas, físico-deportivas y artístico-expresivas propias de la cultura motriz, valorando su influencia y sus aportaciones a la cultura, para integrarlas en las situaciones motrices que se utilizan regularmente en la vida cotidiana.",
+      "codigo_oficial": "4",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, segundo ciclo, competencias específicas",
+        "pagina": 64
+      },
+      "orden": 14,
+      "relaciones": {
+        "descriptores": [
+          "MAD.EP.DESC.CC3",
+          "MAD.EP.DESC.CCEC1",
+          "MAD.EP.DESC.CCEC2",
+          "MAD.EP.DESC.CCEC3",
+          "MAD.EP.DESC.CCEC4"
+        ]
+      }
+    },
+    {
+      "codigo": "MAD.EP.EF.C2.CR.4.1",
+      "tipo": "criterio",
+      "texto": "Participar activamente en juegos motores y otras manifestaciones artístico-expresivas con arraigo en la cultura tradicional o actual, así como otros procedentes de diversas culturas, contextualizando su origen, su aparición y su transmisión a lo largo del tiempo y valorando su importancia, repercusión e influencia en las sociedades pasadas y presentes.",
+      "codigo_oficial": "4.1",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, segundo ciclo, criterios",
+        "pagina": 64
+      },
+      "orden": 15,
+      "padre": "MAD.EP.EF.C2.CE.4"
+    },
+    {
+      "codigo": "MAD.EP.EF.C2.CR.4.2",
+      "tipo": "criterio",
+      "texto": "Apreciar los logros de personas y colectivos referentes del deporte, reconociendo el esfuerzo, la dedicación y los sacrificios requeridos para alcanzar el éxito y su actitud ante la derrota o los objetivos no conseguidos.",
+      "codigo_oficial": "4.2",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, segundo ciclo, criterios",
+        "pagina": 64
+      },
+      "orden": 16,
+      "padre": "MAD.EP.EF.C2.CE.4"
+    },
+    {
+      "codigo": "MAD.EP.EF.C2.CR.4.3",
+      "tipo": "criterio",
+      "texto": "Estimar el esfuerzo como valor para conseguir un objetivo.",
+      "codigo_oficial": "4.3",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, segundo ciclo, criterios",
+        "pagina": 64
+      },
+      "orden": 17,
+      "padre": "MAD.EP.EF.C2.CE.4"
+    },
+    {
+      "codigo": "MAD.EP.EF.C2.CR.4.4",
+      "tipo": "criterio",
+      "texto": "Asumir una visión abierta del deporte a partir del conocimiento de distintas ligas, acercándose al deporte federado e identificando comportamientos contrarios a la convivencia independientemente del contexto en el que tengan lugar.",
+      "codigo_oficial": "4.4",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, segundo ciclo, criterios",
+        "pagina": 64
+      },
+      "orden": 18,
+      "padre": "MAD.EP.EF.C2.CE.4"
+    },
+    {
+      "codigo": "MAD.EP.EF.C2.CR.4.5",
+      "tipo": "criterio",
+      "texto": "Reproducir distintas combinaciones de movimientos o coreografías individuales y grupales que incorporen prácticas comunicativas que transmitan sentimientos, emociones o ideas a través del cuerpo, empleando los distintos recursos expresivos y rítmicos de la corporalidad.",
+      "codigo_oficial": "4.5",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, segundo ciclo, criterios",
+        "pagina": 64
+      },
+      "orden": 19,
+      "padre": "MAD.EP.EF.C2.CE.4"
+    },
+    {
+      "codigo": "MAD.EP.EF.C2.CE.5",
+      "tipo": "competencia_especifica",
+      "texto": "Valorar diferentes medios naturales y urbanos como contextos de práctica motriz, interactuando con ellos y comprendiendo la importancia de su conservación, adoptando medidas de responsabilidad durante la práctica de juegos y actividades físico-deportivas, para realizar una práctica eficiente y respetuosa con el entorno y participar en su cuidado y mejora.",
+      "codigo_oficial": "5",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, segundo ciclo, competencias específicas",
+        "pagina": 64
+      },
+      "orden": 20,
+      "relaciones": {
+        "descriptores": [
+          "MAD.EP.DESC.STEM5",
+          "MAD.EP.DESC.CC2",
+          "MAD.EP.DESC.CC4",
+          "MAD.EP.DESC.CE1",
+          "MAD.EP.DESC.CE3"
+        ]
+      }
+    },
+    {
+      "codigo": "MAD.EP.EF.C2.CR.5.1",
+      "tipo": "criterio",
+      "texto": "Desarrollar y explorar de forma consciente, respetuosa y controlada por el docente una práctica motriz segura en contextos naturales y urbanos de carácter terrestre o acuático, adecuando las acciones al análisis de cada situación y aplicando medidas de conservación ambiental.",
+      "codigo_oficial": "5.1",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, segundo ciclo, criterios",
+        "pagina": 64
+      },
+      "orden": 21,
+      "padre": "MAD.EP.EF.C2.CE.5"
+    },
+    {
+      "codigo": "MAD.EP.EF.C2.CO.A",
+      "tipo": "bloque_contenidos",
+      "texto": "Vida activa y saludable",
+      "codigo_oficial": "A",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, segundo ciclo, contenidos",
+        "pagina": 65
+      },
+      "orden": 22
+    },
+    {
+      "codigo": "MAD.EP.EF.C2.CO.A.1",
+      "tipo": "contenido",
+      "texto": "Salud física: efectos físicos y psicológicos beneficiosos de un estilo de vida activo. Características de alimentos naturales, procesados y ultra procesados. Educación e higiene postural en acciones motrices habituales. Factores básicos que inciden en el cuidado del cuerpo (alimentación adecuada, actividad física diaria, descanso, uso excesivo de las pantallas, mantenimiento de la salud, equilibrio emocional).",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, segundo ciclo, contenidos",
+        "pagina": 65
+      },
+      "orden": 23,
+      "padre": "MAD.EP.EF.C2.CO.A"
+    },
+    {
+      "codigo": "MAD.EP.EF.C2.CO.A.2",
+      "tipo": "contenido",
+      "texto": "Salud mental: respeto y aceptación del propio cuerpo. Autoconocimiento e identificación de las propias fortalezas y debilidades ante mensajes nocivos para el mantenimiento de un concepto saludable sobre el cuerpo, posibilidades y limitaciones en todos los ámbitos, tanto reales como virtuales para el mantenimiento o la mejora de un equilibrio (social, físico y mental).",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, segundo ciclo, contenidos",
+        "pagina": 65
+      },
+      "orden": 24,
+      "padre": "MAD.EP.EF.C2.CO.A"
+    },
+    {
+      "codigo": "MAD.EP.EF.C2.CO.A.3",
+      "tipo": "contenido",
+      "texto": "Salud social: la actividad física como hábito y alternativa de salud frente a formas de ocio nocivas. Límites para evitar una competitividad desmedida. Aceptación de distintas tipologías corporales, para practicar, en igualdad, diversidad de actividades físico-deportivas.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, segundo ciclo, contenidos",
+        "pagina": 65
+      },
+      "orden": 25,
+      "padre": "MAD.EP.EF.C2.CO.A"
+    },
+    {
+      "codigo": "MAD.EP.EF.C2.CO.B",
+      "tipo": "bloque_contenidos",
+      "texto": "Organización y gestión de la actividad física",
+      "codigo_oficial": "B",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, segundo ciclo, contenidos",
+        "pagina": 65
+      },
+      "orden": 26
+    },
+    {
+      "codigo": "MAD.EP.EF.C2.CO.B.1",
+      "tipo": "contenido",
+      "texto": "Elección de la práctica física: usos y finalidades catárticos lúdico-recreativos y cooperativos. Respeto a las elecciones de los demás.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, segundo ciclo, contenidos",
+        "pagina": 65
+      },
+      "orden": 27,
+      "padre": "MAD.EP.EF.C2.CO.B"
+    },
+    {
+      "codigo": "MAD.EP.EF.C2.CO.B.2",
+      "tipo": "contenido",
+      "texto": "Cuidado y preparación del material según la actividad a desarrollar.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, segundo ciclo, contenidos",
+        "pagina": 65
+      },
+      "orden": 28,
+      "padre": "MAD.EP.EF.C2.CO.B"
+    },
+    {
+      "codigo": "MAD.EP.EF.C2.CO.B.3",
+      "tipo": "contenido",
+      "texto": "Pautas de higiene personal relacionadas con la actividad física.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, segundo ciclo, contenidos",
+        "pagina": 65
+      },
+      "orden": 29,
+      "padre": "MAD.EP.EF.C2.CO.B"
+    },
+    {
+      "codigo": "MAD.EP.EF.C2.CO.B.4",
+      "tipo": "contenido",
+      "texto": "Planificación y regulación de proyectos motores: mecanismos básicos para ejecutar lo planificado.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, segundo ciclo, contenidos",
+        "pagina": 65
+      },
+      "orden": 30,
+      "padre": "MAD.EP.EF.C2.CO.B"
+    },
+    {
+      "codigo": "MAD.EP.EF.C2.CO.B.5",
+      "tipo": "contenido",
+      "texto": "Prevención de accidentes en las prácticas motrices: mecanismos de prevención y control corporal para la prevención de lesiones. Medidas de seguridad, previas y durante la práctica motriz, normas básicas de actuación ante posibles lesiones. Correcta utilización de los diferentes materiales a utilizar.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, segundo ciclo, contenidos",
+        "pagina": 65
+      },
+      "orden": 31,
+      "padre": "MAD.EP.EF.C2.CO.B"
+    },
+    {
+      "codigo": "MAD.EP.EF.C2.CO.C",
+      "tipo": "bloque_contenidos",
+      "texto": "Resolución de problemas en situaciones motrices",
+      "codigo_oficial": "C",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, segundo ciclo, contenidos",
+        "pagina": 65
+      },
+      "orden": 32
+    },
+    {
+      "codigo": "MAD.EP.EF.C2.CO.C.1",
+      "tipo": "contenido",
+      "texto": "Toma de decisiones: distribución racional del esfuerzo en situaciones motrices individuales. Ubicación en el espacio en situaciones grupales. Ubicación en el espacio y reubicación tras cada acción en situaciones motrices de persecución y de interacción con un móvil. Anticipación a las decisiones ofensivas del adversario en situaciones de oposición de contacto. Pase a compañeros desmarcados o en situación ventajosa en situaciones motrices de colaboración-oposición de persecución y de interacción con un móvil.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, segundo ciclo, contenidos",
+        "pagina": 65
+      },
+      "orden": 33,
+      "padre": "MAD.EP.EF.C2.CO.C"
+    },
+    {
+      "codigo": "MAD.EP.EF.C2.CO.C.2",
+      "tipo": "contenido",
+      "texto": "Capacidades perceptivo-motrices en contexto de práctica: integración del esquema corporal, control tónico-postural e independencia segmentaria en situaciones motrices. Definición de la lateralidad. Coordinación dinámica general y segmentaria, automatización de movimientos.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, segundo ciclo, contenidos",
+        "pagina": 65
+      },
+      "orden": 34,
+      "padre": "MAD.EP.EF.C2.CO.C"
+    },
+    {
+      "codigo": "MAD.EP.EF.C2.CO.C.3",
+      "tipo": "contenido",
+      "texto": "Capacidades condicionales: capacidades físicas básicas (fuerza, resistencia, velocidad, flexibilidad).",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, segundo ciclo, contenidos",
+        "pagina": 65
+      },
+      "orden": 35,
+      "padre": "MAD.EP.EF.C2.CO.C"
+    },
+    {
+      "codigo": "MAD.EP.EF.C2.CO.C.4",
+      "tipo": "contenido",
+      "texto": "Habilidades y destrezas motrices básicas genéricas: locomotrices, no locomotrices y manipulativas. Combinación de habilidades.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, segundo ciclo, contenidos",
+        "pagina": 65
+      },
+      "orden": 36,
+      "padre": "MAD.EP.EF.C2.CO.C"
+    },
+    {
+      "codigo": "MAD.EP.EF.C2.CO.C.5",
+      "tipo": "contenido",
+      "texto": "Creatividad motriz: variación y adecuación de la acción motriz ante estímulos internos y externos (cambios de posición, movimientos de sus compañeros, percepción de móviles y sus trayectorias, situaciones de colaboración y oposición).",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, segundo ciclo, contenidos",
+        "pagina": 65
+      },
+      "orden": 37,
+      "padre": "MAD.EP.EF.C2.CO.C"
+    },
+    {
+      "codigo": "MAD.EP.EF.C2.CO.D",
+      "tipo": "bloque_contenidos",
+      "texto": "Regulación emocional e interacción social en situaciones motrices",
+      "codigo_oficial": "D",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, segundo ciclo, contenidos",
+        "pagina": 65
+      },
+      "orden": 38
+    },
+    {
+      "codigo": "MAD.EP.EF.C2.CO.D.1",
+      "tipo": "contenido",
+      "texto": "Gestión emocional: reconocimiento de emociones, pensamientos y sentimientos y establecimiento de estrategias para una adecuada regulación de las emociones a partir de experiencias motrices.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, segundo ciclo, contenidos",
+        "pagina": 65
+      },
+      "orden": 39,
+      "padre": "MAD.EP.EF.C2.CO.D"
+    },
+    {
+      "codigo": "MAD.EP.EF.C2.CO.D.2",
+      "tipo": "contenido",
+      "texto": "Habilidades sociales: escucha activa, diálogo y estrategias de negociación mediada y de acuerdo para la resolución de conflictos en contextos motrices, desarrollo de conductas asertivas y de confianza en uno mismo.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, segundo ciclo, contenidos",
+        "pagina": 65
+      },
+      "orden": 40,
+      "padre": "MAD.EP.EF.C2.CO.D"
+    },
+    {
+      "codigo": "MAD.EP.EF.C2.CO.D.3",
+      "tipo": "contenido",
+      "texto": "Concepto de deportividad, aceptación de las normas del juego, respeto al adversario, a los compañeros, a los árbitros, espectadores y profesores.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, segundo ciclo, contenidos",
+        "pagina": 65
+      },
+      "orden": 41,
+      "padre": "MAD.EP.EF.C2.CO.D"
+    },
+    {
+      "codigo": "MAD.EP.EF.C2.CO.D.4",
+      "tipo": "contenido",
+      "texto": "Conductas contrarias a la convivencia, en situaciones motrices (discriminación por cuestiones de competencia motriz, etnia, género u otras): efectos negativos y estrategias de identificación, abordaje y evitación (tratamiento y solución para afrontar las consecuencias perjudiciales).",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, segundo ciclo, contenidos",
+        "pagina": 65
+      },
+      "orden": 42,
+      "padre": "MAD.EP.EF.C2.CO.D"
+    },
+    {
+      "codigo": "MAD.EP.EF.C2.CO.E",
+      "tipo": "bloque_contenidos",
+      "texto": "Manifestaciones de la cultura motriz",
+      "codigo_oficial": "E",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, segundo ciclo, contenidos",
+        "pagina": 66
+      },
+      "orden": 43
+    },
+    {
+      "codigo": "MAD.EP.EF.C2.CO.E.1",
+      "tipo": "contenido",
+      "texto": "Aportaciones de la cultura motriz a la herencia cultural. Los juegos y las danzas como manifestación de la interculturalidad. Juegos populares de España: bolos, chito… danzas populares: chotis, jotas, sevillanas, sardanas…",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, segundo ciclo, contenidos",
+        "pagina": 66
+      },
+      "orden": 44,
+      "padre": "MAD.EP.EF.C2.CO.E"
+    },
+    {
+      "codigo": "MAD.EP.EF.C2.CO.E.2",
+      "tipo": "contenido",
+      "texto": "Usos comunicativos de la corporalidad: comunicación de sensaciones, sentimientos, emociones e ideas simples. Representación de escenas cotidianas.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, segundo ciclo, contenidos",
+        "pagina": 66
+      },
+      "orden": 45,
+      "padre": "MAD.EP.EF.C2.CO.E"
+    },
+    {
+      "codigo": "MAD.EP.EF.C2.CO.E.3",
+      "tipo": "contenido",
+      "texto": "Práctica de actividades rítmico-musicales con carácter expresivo. Representar movimientos a partir de estímulos rítmicos o musicales. Coreografías sencillas (Promoroaca, Minoesika).",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, segundo ciclo, contenidos",
+        "pagina": 66
+      },
+      "orden": 46,
+      "padre": "MAD.EP.EF.C2.CO.E"
+    },
+    {
+      "codigo": "MAD.EP.EF.C2.CO.E.4",
+      "tipo": "contenido",
+      "texto": "Deporte e igualdad ligas masculinas, femeninas y mixtas de distintos deportes. Referentes en el deporte de distintos géneros. Personajes relevantes, en el deporte; identificación con las diferentes disciplinas que practican.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, segundo ciclo, contenidos",
+        "pagina": 66
+      },
+      "orden": 47,
+      "padre": "MAD.EP.EF.C2.CO.E"
+    },
+    {
+      "codigo": "MAD.EP.EF.C2.CO.E.5",
+      "tipo": "contenido",
+      "texto": "La cultura del esfuerzo para conseguir un objetivo.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, segundo ciclo, contenidos",
+        "pagina": 66
+      },
+      "orden": 48,
+      "padre": "MAD.EP.EF.C2.CO.E"
+    },
+    {
+      "codigo": "MAD.EP.EF.C2.CO.F",
+      "tipo": "bloque_contenidos",
+      "texto": "Interacción eficiente y cuidadosa con el entorno",
+      "codigo_oficial": "F",
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, segundo ciclo, contenidos",
+        "pagina": 66
+      },
+      "orden": 49
+    },
+    {
+      "codigo": "MAD.EP.EF.C2.CO.F.1",
+      "tipo": "contenido",
+      "texto": "Normas de uso: educación vial para bicicletas, patines y patinetes. Movilidad segura y saludable. Uso de los elementos de seguridad (casco, luces, guantes, chalecos). Normas básicas de circulación, (circular por la derecha, en fila, señales básicas).",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, segundo ciclo, contenidos",
+        "pagina": 66
+      },
+      "orden": 50,
+      "padre": "MAD.EP.EF.C2.CO.F"
+    },
+    {
+      "codigo": "MAD.EP.EF.C2.CO.F.2",
+      "tipo": "contenido",
+      "texto": "Espacios naturales en el contexto urbano: uso, disfrute seguro y mantenimiento. Conceptos básicos del uso responsable de los elementos lúdicos urbanos (cuidado de los materiales).",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, segundo ciclo, contenidos",
+        "pagina": 66
+      },
+      "orden": 51,
+      "padre": "MAD.EP.EF.C2.CO.F"
+    },
+    {
+      "codigo": "MAD.EP.EF.C2.CO.F.3",
+      "tipo": "contenido",
+      "texto": "Estado del material para actividades en el medio natural y urbano: valoración previa y actuación ante desperfectos. Mantenimiento, limpieza y reparación de los materiales.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, segundo ciclo, contenidos",
+        "pagina": 66
+      },
+      "orden": 52,
+      "padre": "MAD.EP.EF.C2.CO.F"
+    },
+    {
+      "codigo": "MAD.EP.EF.C2.CO.F.4",
+      "tipo": "contenido",
+      "texto": "Prevención y sensibilización sobre la generación de residuos y su correcta gestión. Diferencias entre tipos de residuos y conocimiento de su gestión. Normas básicas de reciclaje y cuidado del medio.",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, segundo ciclo, contenidos",
+        "pagina": 66
+      },
+      "orden": 53,
+      "padre": "MAD.EP.EF.C2.CO.F"
+    },
+    {
+      "codigo": "MAD.EP.EF.C2.CO.F.5",
+      "tipo": "contenido",
+      "texto": "Realización de actividades físicas seguras en el medio natural y urbano. Diferentes posibilidades de actividad física que nos proporciona el medio natural (senderismo, kayak, escalada…).",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, segundo ciclo, contenidos",
+        "pagina": 66
+      },
+      "orden": 54,
+      "padre": "MAD.EP.EF.C2.CO.F"
+    },
+    {
+      "codigo": "MAD.EP.EF.C2.CO.F.6",
+      "tipo": "contenido",
+      "texto": "Cuidado del entorno próximo y de los animales y plantas que en él conviven, durante la práctica de actividades físicas en el medio natural y urbano. Prácticas esenciales de cuidado del medio natural (recogida de material y desperdicios utilizados en la práctica motriz).",
+      "codigo_oficial": null,
+      "procedencia": {
+        "norma": "bocm-20220718-1",
+        "ubicacion": "anexo II, Educación Física, segundo ciclo, contenidos",
+        "pagina": 66
+      },
+      "orden": 55,
+      "padre": "MAD.EP.EF.C2.CO.F"
+    }
+  ]
+}

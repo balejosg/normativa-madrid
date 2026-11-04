@@ -414,6 +414,38 @@ def test_literal_normaliza_solo_espacios_y_particion():
     assert not comprobar.aparece("pascalmeca otro", "la rueda de pascal otro")
 
 
+def test_la_raya_de_un_compuesto_a_final_de_linea_se_une_sin_espacio():
+    comprobar = herramienta("comprobar")
+    pagina = "B. Mecánica–\nIngeniería (Diseño)\nC. Electricidad"
+    assert comprobar.aparece("Mecánica–Ingeniería (Diseño)", pagina, completo=True)
+    assert not comprobar.aparece("MecánicaIngeniería (Diseño)", pagina, completo=True)
+    # la raya suelta entre espacios sigue siendo un separador
+    assert comprobar.aparece("uno – dos", "uno –\ndos")
+
+
+def test_por_columnas_un_texto_sigue_en_la_misma_columna_de_la_pagina_siguiente():
+    """Una norma leída con pdfplumber se comprueba columna a columna, no por líneas."""
+    comprobar = herramienta("comprobar")
+    columnas = {
+        33: ["1. Utilizar recursos\ndigitales.", "1.1. Buscar información de forma\nguiada"],
+        34: ["2. Plantear preguntas.", "y contrastarla.\n2.1. Mostrar curiosidad."],
+    }
+    documento = comprobar.Documento(
+        paginas={n: "\n".join(c) for n, c in columnas.items()}, columnas=columnas
+    )
+    documentos = {"bocm-20220718-1": documento}
+
+    def informe(texto, pagina):
+        e = elemento(texto, pagina, norma="bocm-20220718-1")
+        return [d.tipo for d in comprobar.comprobar_elemento(e, documentos, {})]
+
+    assert informe("Buscar información de forma guiada y contrastarla.", 33) == []
+    assert informe("Utilizar recursos digitales.", 33) == []
+    # en la página 34 no empieza; y la competencia no sigue en la columna de los criterios
+    assert informe("Mostrar curiosidad.", 33) == ["TEXTO"]
+    assert informe("Utilizar recursos digitales. 1.1. Buscar información", 33) == ["TEXTO"]
+
+
 def elemento(texto: str, pagina: int | None = 1, norma: str = "boe-a-2022-1") -> Elemento:
     return Elemento(
         codigo="EST.BACH.DESC.CD1",

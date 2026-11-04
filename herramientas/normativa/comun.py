@@ -62,7 +62,17 @@ _OPCIONALES_LISTA = (
     "derogaciones_parciales",
     "citas",
 )
-SOLO_MANTENEDOR = ("recuentos", "sustituciones", "cifrado", "correccion_en", "consolidado")
+SOLO_MANTENEDOR = (
+    "recuentos",
+    "sustituciones",
+    "cifrado",
+    "correccion_en",
+    "consolidado",
+    "lector",
+)
+# Con qué se lee el PDF de una norma para comprobarlo: por defecto `pdftotext -layout`;
+# «pdfplumber», las tablas por columnas (el anexo II del Decreto 61/2022, ver fuentes.toml).
+LECTORES = ("pdfplumber",)
 
 # Los recuentos se nombran como se habla del anexo; cualquier tipo de elemento vale tal cual.
 RECUENTOS = {
@@ -324,6 +334,10 @@ def _leer_registro(id_: str, entrada: Any) -> dict[str, Any]:
     if cifrado is not None and cifrado not in CIFRADOS:
         raise ValueError(f"{id_}: cifrado desconocido «{cifrado}»")
     registro["cifrado"] = cifrado
+    lector = entrada.get("lector")
+    if lector is not None and lector not in LECTORES:
+        raise ValueError(f"{id_}: lector desconocido «{lector}»")
+    registro["lector"] = lector
     registro["recuentos"] = _leer_recuentos(id_, entrada.get("recuentos", {}))
     registro["sustituciones"] = _leer_sustituciones(id_, entrada.get("sustituciones", []))
     registro["correccion_en"] = _leer_correccion_en(id_, entrada, registro)
