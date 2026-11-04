@@ -87,3 +87,10 @@ def test_el_parser_de_contenidos_de_madrid_reconoce_el_signo_menos():
     a = fp.analizar_contenidos_madrid(comun.lineas_limpias(texto), "0373")
     b = fp.analizar_contenidos_madrid(comun.lineas_limpias(con_menos), "0373")
     assert a == b
+
+
+@pytest.mark.parametrize("signo", [*"-–—−", "‒", "x", "•"])
+def test_bloque_con_cualquier_vineta_es_sospechoso(signo):
+    comun = herramienta("comun")
+    texto = f"Números {signo} Conteo y {signo} Operaciones"
+    assert comun.troceado_sospechoso("bloque_contenidos", texto) is not None

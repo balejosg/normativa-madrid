@@ -110,8 +110,10 @@ TIPOS_ACOTADOS = frozenset(
     }
 )
 LONGITUD_MAXIMA = 1200
-# Una viñeta («‒», «–», «-», «x» o «•») tras un espacio y antes de una mayúscula.
-_VINETA_EN_TEXTO = re.compile(r"\s(?:[‒–\-x]\s+|•\s*)[A-ZÁÉÍÓÚ]")
+# Una viñeta (un guion de GUIONES_DE_VINETA, «‒», «x» o «•») tras un espacio y antes de una mayúscula.
+_VINETA_EN_TEXTO = re.compile(
+    rf"\s(?:[‒x{re.escape(GUIONES_DE_VINETA)}]\s+|•\s*)[A-ZÁÉÍÓÚ]"
+)
 # Un sub-bloque numerado («1. Conteo.») después de la primera frase.
 _SUBBLOQUE_EN_TEXTO = re.compile(r"\b\d+\.\s+[A-ZÁÉÍÓÚ]")
 
